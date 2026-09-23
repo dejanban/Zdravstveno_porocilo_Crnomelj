@@ -1,0 +1,38 @@
+---
+url: "https://www.radio-odeon.com/novice/otvoritev-centra-za-krepitev-zdravja-bela-krajina/"
+naslov: "Otvoritev Centra za krepitev zdravja Bela krajina"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2020-09-08T14:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Otvoritev Centra za krepitev zdravja Bela krajina
+
+## Zajeto besedilo
+
+Otvoritev Centra za krepitev zdravja Bela krajina
+tor., 08.09.2020 ob 14:00
+Danes dopoldne je v Zdravstvenem domu (oz. zunaj) potekalo odprtje Centra za krepitev zdravja Bela krajina.
+Za kulturni program sta poskrbela Katja Pezdirec (tamburica) in Tone Grahek (spremljava na klaviaturah) iz Glasbene šole Črnomelj, program pa je povezoval Jaka Birkelbach.
+Eva Čemas, direktorica Zdravstvenega doma Črnomelj
+POGLEJ
+.
+Občina Črnomelj je s strani Ministrstva za zdravje pridobila nepovratna sredstva v višini 200.000 € za izvedbo aktivnosti 2. sklopa iz javnega razpisa »Nadgradnja in razvoj preventivnih programov ter njihovo izvajanje v primarnem zdravstvenem varstvu in lokalnih skupnostih. Na 1. sklop razpisa se je prijavil Zdravstveni dom Črnomelj ter pridobil sredstva v višini 438.746 €.
+Tatjana Gregorič, vodja CKZ Bela krajina
+POGLEJ
+.
+Naročnik Občina Črnomelj je 7. junija lani na portalu javnih naročil objavila javno naročilo »Izgradnja Centra za krepitev zdravja – dozidava Zdravstvenega doma Črnomelj«. V fazi oddaje končne ponudbe je najnižjo ceno ponudilo podjetje Trgovsko gradbena hiša, d.o.o. Investicija je zajemala izgradnjo t.i. južnega prizidka k Zdravstvenemu domu Črnomelj, kjer se v zgornjih prostorih stavbe sedaj že nahajajo prostori za potrebe Centra za krepitev zdravja, v kletnih prostorih pa potrebni servisni prostori.
+Črnomaljski župan Andrej Kavšek
+POGLEJ
+.
+V januarju 2020 je Občina Črnomelj zaradi smiselnosti in kasnejše nezmožnosti izvedbe, kot se je to izkazalo tekom same izvedbe, pri projektantu naročila dodatno širitev parkirišč z zunanjo ureditvijo v sklopu zadevne investicije, za katero je bilo potrebno narediti potrebno projektno dokumentacijo. Vrednost dodatne ureditve okolice s širitvijo parkirišča, potrebnih kanalizacijskih premikih in postavitvijo javne razsvetljave parkirišča je znašala dobrih 90.785 € z DDV. Ugotavljamo, da je bila dodatna ureditev okolice tekom izvedbe dobra in pametna naložba, saj je Zdravstveni dom Črnomelj v svoji neposredni bližini pridobil 43 novih parkirišč, s čimer se bodo sprostila parkirišča direktno ob vhodu v zdravstveni dom.
+Investicijo so poleg Občina Črnomelj, Ministrstva za zdravje in EU, financirala še Zdravstveni dom Črnomelj in Občina Semič.
+Polona Kambič, semiška županja
+POGLEJ
+.
+V galeriji si lahko ogledate fotografije z današnjega odprtja. V finančni tabeli čisto spodaj ni zajet nakup potrebne opreme po posameznih prostorih. Le-to je zagotovil Zdravstveni dom Črnomelj v celoti.
+
+## Strojni datumi
+{"time": ["2020-09-08T14:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Otvoritev Centra za krepitev zdravja Bela krajina\",\"datePublished\":\"2020-09-08T14:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/01-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/02-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/03-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/04-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/05-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/06-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/07-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/08-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/09-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/10-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/11-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/12-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/13-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/14-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/15-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/16-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/17-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/18-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/19-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/20-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/21-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/22-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/23-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/24-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/25-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/26-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/27-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/28-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/29-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/30-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/31-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/32-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/33-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/34-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/35-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/36-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/37-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/38-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/39-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/40-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/41-ckz08092020.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/43533\\/42-ckz08092020.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

@@ -1,0 +1,21 @@
+---
+url: "https://www.radio-odeon.com/novice/vcerajsnji-dan-v-hsd-metlika/"
+naslov: "Včerajšnji dan v HSD Metlika"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2023-07-06T15:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Včerajšnji dan v HSD Metlika
+
+## Zajeto besedilo
+
+Včerajšnji dan v HSD Metlika
+čet., 06.07.2023 ob 15:00
+Po jutranjem ritualu zbiranja v Hiši Sadeži družbe Metlika, vpisovanja, počasnega prebujanja in zajtrkovanja smo dočakali obisk iz Centra za krepitev zdravja. Prišel je psiholog Sandi Verščaj, ki je otroke takoj pritegnil v igro metanja obročev. Igra razvija koordinacijo rok in oči, ocenjevanje razdalje, natančnost pri ciljanju. Da pa bi bila naloga še težja, so obroči iz vrvice in ne ubogajo ravno otroških rok, da bi se lepo ujeli na stojalo.
+Ker je na taboru veliko otrok, smo urili tudi vztrajnost, potrpežljivost in disciplino, ker smo se vseskozi držali na začetku določenih pravil. Nato smo risali družino ter nadaljevali z družabnimi igrami. Za fante, ki so prekipevali od energije pa je poskrbel prostovoljec Galis z igrami z žogo. Ko je po trebuščkih že glasno krulilo, je prostovoljka Darka na mizo postavila veliko posodo makaronovega mesa (beri "makaronflajša") in zelene solate.
+
+## Strojni datumi
+{"time": ["2023-07-06T15:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"V\\u010deraj\\u0161nji dan v HSD Metlika\",\"datePublished\":\"2023-07-06T15:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/01-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/02-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/03-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/04-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/05-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/06-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/07-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/08-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/09-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/10-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/11-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/12-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/13-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/14-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/15-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/16-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/17-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/18-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/19-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/20-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/21-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/22-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/23-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/24-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/25-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/26-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/27-hsdmetlika06072023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/76905\\/28-hsdmetlika06072023.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

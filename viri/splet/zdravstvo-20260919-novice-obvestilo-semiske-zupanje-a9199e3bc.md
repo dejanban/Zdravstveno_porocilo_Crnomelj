@@ -1,0 +1,34 @@
+---
+url: "https://www.radio-odeon.com/novice/obvestilo-semiske-zupanje/"
+naslov: "Obvestilo semiške županje"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2020-02-27T15:30:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Obvestilo semiške županje
+
+## Zajeto besedilo
+
+Obvestilo semiške županje
+čet., 27.02.2020 ob 15:30
+15. februarja 2020 je proračun Občine Semič postal veljaven, s čimer je bilo prekinjeno obdobje začasnega financiranja. Tudi formalno smo dobili potrditev, da lahko začnemo delati na nalogah, ki smo si jih zadali za leto 2020. Odlok o proračunu je objavljen v Uradnem listu RS, št. 9/2020. Za vse, ki ga želite podrobno spoznati, je dosegljiv na spletni strani občine
+TUKAJ
+.
+Naj omenim glavne investicijske postavke:
+obnova vodovodne linije v ulici K Tajčbirtu in manjših odcepov, v vrednosti 220.000 €
+prenova kuhinje v vrtcu Sonček v Semiču, v ocenjeni vrednosti 208.886 €
+rekonstrukcija mrliške vežice v Semiču – 1. faza (ureditev prostorov za pokojnika in svojce, preureditev sanitarij, kuhinje, prostora za orodje, ureditev nadstrešnice pri kuhinji in sanitarijah ter nadstrešnice za potrebe pogrebne slovesnosti; na novo se uredijo elektro in strojne inštalacije, greznica in odvodnjavanje meteornih vod, zamenjava kritine na obstoječi strehi, nova fasada), v ocenjeni vrednosti 140.185 €
+izvedba projekta »Zdravo in aktivno življenje na podeželju« za prenovo objekta skupnega pomena na Cerovcu, v ocenjeni vrednosti 118.146 € (projekt sofinanciran s strani EU v višini 78.912 €)
+ureditev komunalne infrastrukture v vzhodnem delu PSC Vrtača (proti Vrtači) – 1. faza (cesta v makadamski izvedbi v dolžini 48 m, komunalni vodi), v ocenjeni vrednosti 105.104 €
+preplastitev cest: Gornje Laze 470 m in Sv. Duh – Coklovca 250 m, v ocenjeni vrednosti 94.140 €
+izgradnja gozdne ceste Krvavčji Vrh - Dobravice v ocenjeni vrednosti 84.563 € (projekt prijavljen na sredstva EU, predvideno sofinanciranje je v višini 50%)
+izgradnja nadstrešnice nad baliniščem (vrednost z nadzori 73.073 €; v letu 2019 smo izvedli postopek izbire izvajalca del, dela se izvajajo v letu 2020)
+sofinanciranje dozidave ZD Črnomelj za potrebe Centra za krepitev zdravja v višini 65.537 € (celotna vrednost je 819.445 €, ostali sofinancerji: Ministrstva za zdravje 200.000 €, ZD Črnomelj 130.000 €, Občina Črnomelj 423.908 €).
+sofinanciranje začetka izgradnje objekta za mehansko in biološko obdelavo odpadkov, MBO – CeRO DBK, za potrebe občin Dolenjske in Bele krajine, v vrednosti 60.000 €.
+Prosimo za vaše razumevanje v času izvedbe gradenj in obnov.
+
+## Strojni datumi
+{"time": ["2020-02-27T15:30:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Obvestilo semi\\u0161ke \\u017eupanje\",\"datePublished\":\"2020-02-27T15:30:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/37750\\/semic19032019.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Polona Kambi\\u010d, foto: Uro\\u0161 Novina\"}}"]}

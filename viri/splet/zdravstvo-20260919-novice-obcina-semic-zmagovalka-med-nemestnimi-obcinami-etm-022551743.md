@@ -1,0 +1,24 @@
+---
+url: "https://www.radio-odeon.com/novice/obcina-semic-zmagovalka-med-nemestnimi-obcinami-etm/"
+naslov: "Občina Semič zmagovalka med nemestnimi občinami ETM"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2021-10-21T08:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Občina Semič zmagovalka med nemestnimi občinami ETM
+
+## Zajeto besedilo
+
+Občina Semič zmagovalka med nemestnimi občinami ETM
+čet., 21.10.2021 ob 08:00
+Na torkovem zaključnem dogodku Evropskega tedna mobilnosti v Novi Gorici nam je Ministrstvo za infrastrukturo RS podelilo priznanje za najaktivnejšo občino v kategoriji nemestnih občin.
+Evropski teden mobilnosti, ki poteka že dvajseto leto zapored, je bil letos posvečen promociji aktivnih oblik mobilnosti, s sloganom »Živi zdravo. Potuj trajnostno«. V kar 84 sodelujočih občinah smo med 16. in 22. septembrom posameznike spodbujali k uporabi alternativ avtomobilskemu prometu. Dve od nas, Mestno občino Celje in Občino Semič, so na včerajšnjem srečanju koordinatorjev nagradili za posebej aktiven in pester program, ki trajnostno mobilnost spodbuja dolgoročno.
+Polona Demšar Mitrovič, nacionalna koordinatorka, je ob podelitvi nagrade izpostavila, da je Občina Semič s številnimi aktivnostmi za vse generacije, na primer Parkirni dan, Kokoška Rozi, raznovrstnimi pohodi in kolesarskimi izleti, preizkusi telesne pripravljenosti ter promocijo uporabe vlaka in električnih koles občane povabila k uporabi alternativ avtomobilskemu prevozu, ob tem pa se je povezala z vrsto lokalnih organizacij.
+Na Občini Semič smo skupaj s Kulturnim centrom Semič in ostalimi partnerji: Društvo upokojencev Semič, OŠ Belokranjskega odreda Semič, Vrtec Sonček Semič, Špica servis koles, Rok Simčič s.p., Center za krepitev zdravja ZD Črnomelj in drugimi pripravili številne tedenske in dnevne aktivnosti za vse generacije. Izvajali smo jih v septembru in oktobru 2021.
+Veseli in ponosni smo na prejeto priznanje, ki je priznanje vsem sodelujočim, tako organizatorjem, izvajalcem kot tudi udeležencem. Priznanje potrjuje, da smo delali dobro in nas hkrati zavezuje, da bomo tudi v prihodnje na različne načine spodbujali trajnostno mobilnost, zdrav način življenja in manjšo uporabo avtomobila v vsakdanu.
+
+## Strojni datumi
+{"time": ["2021-10-21T08:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Ob\\u010dina Semi\\u010d zmagovalka med nemestnimi ob\\u010dinami ETM\",\"datePublished\":\"2021-10-21T08:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/55999\\/01-etm21102021.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/55999\\/02-etm21102021.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/55999\\/03-etm21102021.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/55999\\/04-etm21102021.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

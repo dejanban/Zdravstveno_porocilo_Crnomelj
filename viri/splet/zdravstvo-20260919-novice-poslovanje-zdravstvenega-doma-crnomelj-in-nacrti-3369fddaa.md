@@ -1,0 +1,53 @@
+---
+url: "https://www.radio-odeon.com/novice/poslovanje-zdravstvenega-doma-crnomelj-in-nacrti/"
+naslov: "Poslovanje Zdravstvenega doma Črnomelj in načrti"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2019-05-13T15:45:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Poslovanje Zdravstvenega doma Črnomelj in načrti
+
+## Zajeto besedilo
+
+Poslovanje Zdravstvenega doma Črnomelj in načrti
+pon., 13.05.2019 ob 15:45
+V okviru Projektnega tedna Centra za krepitev zdravja je danes v Zdravstvenem domu Črnomelj potekalo srečanje z novinarji, ki ga je sklicala direktorica Eva Čemas. Direktorica nam je predstavila najaktualnejše teme v zvezi z delovanjem in poslovanjem zavoda.
+Zdravstveni dom Črnomelj je v letu 2018 posloval v skladu z zastavljenim finančnim načrtom. Načrtovani obseg dela so izpolnili. To je tudi osnovni predpogoj, ki vodi k pozitivnemu poslovanju zavoda, saj plačilo s strani ZZZS dobijo ob izpolnitvi pogodbenih obveznosti.
+ZD Črnomelj je leto zaključil z 22.641 € presežkov prihodkov nad odhodki. Zavod je likviden in tekoče poravnava svoje obveznosti. Presežki bodo v skladu z zakonodajo namenjeni za razvoj zdravstvene dejavnosti v Zdravstvenem domu Črnomelj. Finančni kazalniki gospodarnosti in učinkovitosti poslovanja so iz leta v leto boljši. Zavod je finančno konsolidiran, pridobiva nove programe in zagotavlja stabilnost zdravstvene oskrbe.
+O poslovanju je direktorica Eva Čemas na kratko povedala tole:
+POGLEJ
+.
+V letu 2018 je ZD Črnomelj pridobil širitev:
+tim zobozdravstva za odrasle,
+novo referenčno ambulanto,
+farmacevtsko svetovanje – program, ki ga izvajajo tudi za zdravnike koncesionarje in za zdravnike ZD Metlika,
+dodatni programi na področju preventive – projekt Krepitev zdravja za vse.
+S tem so uporabnikom povečali dostop do teh storitev in zmanjšali čakalne dobe. Nenazadnje pa to pomeni tudi nova delovna mesta.
+Trenutno v zavodu tečejo tri evropski projekti.
+Najnovejši in tudi vrednostno ter vsebinsko najbogatejši je projekt Krepitev zdravja za vse. Poleg pridobljenih sredstev v višini 438.746,00€ za izvajanje vsebin ter zaposlitve mladih strokovnjakov, ki te vsebine izvajajo, je projekt izredno pomemben za lokalno skupnost.
+Nadaljujejo tudi z izvedbo projekta »Razvoj kadrov v športu 2016-2022 – sklop D – kineziolog specialist vadbe v zdravstvu«, kjer so konzorcijski partner Olimpijskega komiteja Slovenije. S tem projektom zagotavljajo dodatno dejavnost, ki bo doprinesla k razvoju zavedanja posameznika o pomembnosti telesne vadbe in možnost vzpostavitve primera dobre prakse vključitve novega poklica v zdravstveni sistem in s tem možnost, da se poklic kineziologa po koncu projekta sistemsko vključi v zdravstveno dejavnost. S finančnimi sredstvi projekta financirajo zaposlitev kineziologa.
+S Splošno bolnišnico Novo mesto pa sodelujejo v projektu Cross Health, ki se izvaja v sklopu programa Interreg V-A Slovenija – Hrvaška. Projekt obravnava dva izziva, ki sta na področju občin evidentna in sicer nezadostna oskrba v manjših in slabo dostopnih mestih in vaseh ter obstoječe razlike v kakovosti zdravstvenih in socialnovarstvenih storitev na čezmejnem območju.
+Ena od kadrovskih težav v ZD Črnomelj je tudi ortodont:
+POGLEJ
+V letu 2018 je Zdravstveni dom Črnomelj izvedel investicije v vrednosti 346.256 €. Podrobnosti najdete v priponki spodaj.
+V zdravstvenem domu Črnomelj imajo Strateški načrt ZD Črnomelj za obdobje 2019-2023 v katerem so opredeljeni strateški cilji in usmeritve zavoda. Temeljno izhodišče načrta je, da ZD Črnomelj ostane osrednji nosilec zagotavljanja primarnega zdravstvenega varstva, nujne medicinske pomoči, reševalnih prevozov in specialističnih ambulantnih dejavnost na strokovnem in organizacijskem nivoju, kar omogoča kar največjo možno korist posamezniku in skupnosti na območju občin Črnomelj in Semič.
+V ZD Črnomelj se zavedajo, da je parkiranje zaposlenih in obiskovalcev ZD ena večjih težav:
+POGLEJ
+.
+Strateški cilji ZD Črnomelj so:
+zagotoviti dostopnost čim širšega nabora zdravstvenih storitev vsem prebivalcem občine Črnomelj in Semič;
+kakovost na vseh področjih dela zavoda;
+zagotavljati in podpirati strokovni, kadrovski in organizacijski razvoj zavoda;
+doseganje čim boljšega poslovnega rezultata in doseganje dogovorjenih programov zdravstvenih storitev;
+pridobivanje finančnih sredstev iz državnih razpisov, razpisov EU in s strani ustanovitelja;
+ustvarjanje pogojev za izvajanje potrebnih investicij in nabavo potrebne opreme;
+aktivno sodelovanje z lokalnim okoljem.
+Medtem pa so na stojnicah v ZD Črnomelj v okviru Projektnega tedna CKZ Bela predstavljali svoje delo:
+POGLEJ
+.
+
+## Strojni datumi
+{"time": ["2019-05-13T15:45:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Poslovanje Zdravstvenega doma \\u010crnomelj in na\\u010drti\",\"datePublished\":\"2019-05-13T15:45:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/01-zdcrnomelj13052019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/02-zdcrnomelj13052019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/03-zdcrnomelj13052019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/04-zdcrnomelj13052019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/05-zdcrnomelj13052019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/06-zdcrnomelj13052019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/07-zdcrnomelj13052019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/30352\\/08-zdcrnomelj13052019.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

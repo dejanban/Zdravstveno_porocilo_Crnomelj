@@ -1,0 +1,29 @@
+---
+url: "https://www.radio-odeon.com/novice/zlato-priznanje-za-razvoj-trajnostnega-turizma-v-beli-krajini-1/"
+naslov: "Zlato priznanje za razvoj trajnostnega turizma v Beli krajini"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2019-11-20T14:30:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Zlato priznanje za razvoj trajnostnega turizma v Beli krajini
+
+## Zajeto besedilo
+
+Zlato priznanje za razvoj trajnostnega turizma v Beli krajini
+sre., 20.11.2019 ob 14:30
+Po tem, ko je bila Bela krajina oktobra 2019 uvrščena na seznam »Global TOP 100 Sustainable Destinations«, na katerem se nahajajo destinacije iz le 29 držav (od tega 13 evropskih) in kar 31 slovenskih destinacij, in je postala ena izmed stotih najboljših trajnostnih destinacij na svetu ter s tem v sklopu dogodka
+Global Green Destinations Days 2019
+na otoku Mali Lošinj prejela priznanje kot ena izmed najboljših praks svetovnega zelenega in trajnostnega turizma, je destinacija Bela krajina prejela novo potrditev za večletno delo in pravo smer belokranjskega turističnega razvoja.
+Slovenska turistična organizacija je namreč 19. novembra 2019 sporočila, da v sklopu procesa obnovitve znaka Beli krajini kot turistični destinaciji na podlagi prejete ocene v okviru Zelene sheme slovenskega turizma podeljuje znak »Slovenia Green Destination GOLD«!
+Znak oz. priznanje, ki bo sicer uradno podeljeno na dogodku Zeleni dan slovenskega turizma v maju 2020, je rezultat dolgotrajnega procesa ponotranjenja trajnostnega razvoja v turizmu kot usmeritve prihodnosti.
+Ob tokratni presoji, za katero je vlogo pripravil in izvajal postopke zeleni koordinator RIC Bela krajina v sodelovanju z zeleno ekipo (v sestavi TIC Črnomelj, TIC Metlika, TIC Semič, metliška in črnomaljska komunala, 2 predstavnici Občine Črnomelj), se je največji napredek v Beli krajini pokazal na področju destinacijskega managementa, izjemno visoko ocenjeni sta tudi področji narave in kulture. Največ rezerv je na področju okolja, na katerega ima destinacija manj vpliva, in na področju poslovanja turističnih podjetij. Destinacija se je na to temo že lotila usposabljanj in izobraževanj, ki jih bo v prihodnje še okrepila. Dodatne možnosti za napredek se še v podpisu etičnega kodeksa med turističnimi deležniki, sprejetju lokalnega kodeksa za turistične vodnike, javni objavi načrtov zaščite in reševanja, intenzivnejšemu spremljanju vpliva podnebnih sprememb na turizem, monitoringu ekonomskih učinkov turizma in ogljičnega odtisa obiskovalcev.
+Destinacija je v skladu s pravilnikom dosegla povprečno oceno nad 8,1 v treh kategorijah ter presegla oceno 8,1 v kategoriji destinacijski management in ima 1 certificiranega ponudnika. S tem je izpolnila pogoje za znak Slovenia Green Destination Gold.
+Na izračun končne ocene so vplivali tako rezultati iz standarda (izpolnjevanje meril) kot numerični kazalniki. Kazalniki, ki jih je potrebno izboljšati in so negativno vplivali na končno oceno, so: nižji delež odplak iz destinacije, ki se očistijo vsaj do sekundarne stopnje, nižji delež trdnih odpadkov, ki so zbrani ločeno za predelavo na destinaciji, nizko število muzejev in postajališč za izposojo koles na 10.000 prebivalcev, nizko število agencij in nastanitev z zelenim znakom (le 1 od 62), kakovost in pogostost javnega prevoza ter sezonskost (80 % obiskovalcev v 4 mesecih).
+Destinacija, deležniki v turizmu in navsezadnje Belokranjci, ki krojijo zeleno zgodbo turističnega uspeha Bele krajine so lahko ponosni na doseženo, pa vendar bo za še nadaljnje napredovanje potrebno ponotranjiti razvoj na vseh področjih, se povezovati in zavezati k trajnostnemu razvoju turizma, ki je odgovoren do okolja in družbe.
+Korak k temu je bil storjen že 13. novembra 2019 v sklopu dnevov slovenskega turizma, ki je osrednji strokovni dogodek v turizmu, ko je RIC Bela krajina v imenu destinacije Bela krajina podpisal dogovor o nadaljevanju sodelovanja med STO in vodilnimi destinacijami. Cilj partnerskega dogovora je krepitev sinergij med krovno in destinacijsko ravnjo pri razvoju in promociji slovenskega turizma. Namen je na enem mestu zbrati možnosti sodelovanja z vsemi potrebami in praktičnimi informacijami ter smernicami, ki bodo destinaciji Bela krajina v pomoč pri delu v prihodnje.
+
+## Strojni datumi
+{"time": ["2019-11-20T14:30:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Zlato priznanje za razvoj trajnostnega turizma v Beli krajini\",\"datePublished\":\"2019-11-20T14:30:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/34737\\/01-zlatopriznanje20112019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/34737\\/02-zlatopriznanje20112019.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/34737\\/03-zlatopriznanje20112019.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

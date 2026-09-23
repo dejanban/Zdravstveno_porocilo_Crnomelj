@@ -1,0 +1,241 @@
+---
+url: https://zkdks.si/kontakt/
+naslov: "Kontakt – ZKDKS"
+izdajatelj: Zveza koronarnih društev in klubov Slovenije
+dostopano: 2026-09-20
+metoda zajema: WebFetch (javni spletni vir; PDF tudi lokalno)
+---
+
+Kontakt – ZKDKS
+Skip to content
+Novice
+Projekt demenca
+Nasveti bolnikom
+Vadba za srčno žilne bolnike
+Srčne poti v Sloveniji
+Glasilo Zveze »Skupaj za naša srca«
+Kontakt
+You are here:
+Domov
+Kontakt
+Naslov
+Zveza koronarnih društev in klubov Slovenije
+Gledališki trg 7
+3000 Celje
+Matična številka: 1202901000
+Davčna številka: SI36310760
+Davčni zavezanec: Ne
+Transakcijski račun:  SI56 6100 0002 8716 518  (Delavska hranilnica  d.d.)
+Pravnoorganizacijska oblika: Društvo, zveza društev
+Datum vpisa subjekta v sodni register: 15.10.1997
+Vpisna številka:
+Šifra dejavnosti: Q88.991 – Dejavnost humanitarnih in dobrodelnih organizacij
+Zastopnik: prim. Janez Poles, dr. med., predsednik
+Društvo
+Odločba o statusu društva, ki deluje v javnem interesu
+št. 08-5/98, izdana 26. 11. 1998
+Odločba o priznanju statusa humanitarnih organizacij
+. Štev. 5005-23/2004-4, šifra HO-KO-OOO1/05, datum 14.01.2005
+Kontaktna oseba: Alenka Kosec, univ. dipl. sociologinja
+podpredsednica
+041 602 216, podpredsednica@zkdks.si
+E-mail in telefonska številka
+info@zkdks.si
+041 602 216
+Kontaktni podatki društev in klubov
+Koronarni klub Ljubljana
+Štepanjsko nabrežje 38, 1000 Ljubljana
+info@koronarni-klub-lj.si
+059 962 711
+www.koronarni-klub-lj.si
+Predsednik: Petra Alenka Simpson Grom
+Vodja strokovnega sveta: Dr. Tjaša Vižintin Cuderman, dr.med.
+Vodja vaditeljev: Tina Magdalenič
+Kraji, kjer poteka vadba: Ljubljana, Domžale, Log pri Brezovici, Litija, Kamnik, Logatec
+Koronarni klub Celje
+Gledališki trg 7, 3000 Celje
+lucfranjo@gmail.com
+03 548 41 85
+www.koronarni-klub-celje.com
+Predsednik: Franjo Luc
+Vodja strokovnega sveta: Prim. Janez Tasič, dr. med.
+Vodja vaditeljev: Sonja Urbancl, viš.m.s.
+Kraji, kjer poteka vadba: Celje, Laško, Vojnik, Žreče, Šentjur
+Koronarno društvo Slovenske Istre
+Vrtna ulica 6, 6000 Koper
+pisarna@kdsi.si
+051 628 931
+www.kdsi.si
+Predsednik: Jelena Dudine
+Vodja strokovnega sveta: Simon Korošec, dr. med.
+Vodja vaditeljev: Romana Čuk, dipl.m.s.
+Kraji, kjer poteka vadba: Koper, Semedela,  Izola, Portorož, Lucija, Prade, Škofije, Gradišče, Hrpelje-Kozina, Sežana
+Koronarno društvo Gorenjske
+Jezerska cesta 41 , 4000 Kranj
+info@koronarno-drustvo.si
+031 357 077
+www.koronarno-drustvo.si
+Predsednik: Miroslav Klevišar
+Vodja strokovnega sveta: Metod Prašnikar, dr. med.
+Vodja vaditeljev: Andreja Magdalenič
+Kraji, kjer poteka vadba: Kranj, Radovljica, Jesenice, Tržič
+Koronarno društvo Postojna
+Prečna ulica 2 , 6230 Postojna
+koronarnodrustvopostojna@siol.net
+050 998 684
+www.koronarno-postojna.si
+Predsednik: mag. Lidija Zadel
+Vodja strokovnega sveta: Ajda Urbas dr.med.
+Vodja vaditeljev: Monika Doles
+Kraji, kjer poteka vadba: Postojna, Pivka, Prestranek
+Koronarni klub Sevnica
+Trg svobode 14, 8290 Sevnica
+kksevnica@gmail.com
+041 527 095
+www.zd-sevnica.si/koronarni-klub-sevnica
+Predsednik: Vladimira Tomšič
+Vodja strokovnega sveta: Jurij Pesjak, dr. med.
+Vodja vaditeljev: Darja Golob
+Kraji, kjer poteka vadba: Sevnica, Krmelj, Tržišče, Trnovec
+Koronarno društvo Radenci
+Zdraviliško naselje 12, 9252 Radenci
+peter.cvetkovic1@telemach.net
+051 666 881
+Predsednik: Ciril Triller, dr.med.
+Vodja strokovnega sveta: Vidovič-Rauter Sonja dr.med.spec.
+Vodja vaditeljev: Špela Fekonja, dipl.fth.
+Kraji, kjer poteka vadba: Radenci, Gornja Radgona
+Koronarni klub Savinjska dolina
+Hmeljarska 3, 3310 Žalec
+koronarni.klub.zalec@gmail.com
+031 622 454
+www.koronarni-zalec.si
+Predsednik: Slavko Ivezič
+Vodja strokovnega sveta: Prim. Ivan Žuran, dr.med.
+Vodja vaditeljev: Aleš Brišnik, prof.šp.vzg.
+Kraji, kjer poteka vadba: Žalec, Prebold, Tabor, Vransko, Polzela, Braslovče
+Koronarno društvo Zgornje savinjske doline
+Rečica 51 A, 3332 Rečica ob Savinji
+kd.zg.savinjskadolina@gmail.com
+Vodja vaditeljev:
+Maša Naraločnik
+, dipl.fth
+Predsednik: Jože Skončnik
+Vodja strokovnega sveta: prim. Janez Poles, dr. med.
+Kraji, kjer poteka vadba:
+Rečica ob Savinji
+Koronarni klub Mežiške doline
+Ob Suhi 11, 2390 Ravne na Koroškem
+alojz.ovnic@t-1.si
+040 799 690
+www.srce-si.si
+Predsednik: Alojz Ovnič
+Vodja strokovnega sveta: prim. Cirila Slemenik Pušnik, dr. med.
+Vodja vaditeljev: Peter Kordež
+Kraji, kjer poteka vadba: Ravne, Čečovje, Kotlje, Strojnska reka,
+Črna, Mežica, Prevalje, Črneče in Dravograd
+Koronarni klub Maribor
+Partizanska cesta 24, 2000 Maribor
+koronarni.klub.maribor@siol.net
+051 440 551
+www.koronarni-klub-maribor.si
+Predsednica: Majda Mihoček
+Vodja strokovnega sveta: prim. Mirko Bombek dr. med
+Vodja vaditeljev: Aleksandra Buček Ekart, dipl.fiziot.
+Kraji, kjer poteka vadba: Maribor, Ruše, Fram, Šentilj v Slov.goricah, Slivnica, Hoče, Slovenska Bistrica, Miklavž na Dravskem polju,Poljčane, Rače
+Koronarni klub Brežice
+Černelčeva cesta 15, 8250 Brežice
+koronarni.klub.brezice@gmail.com
+031 306 654
+www.koronarni-klub-brezice.si
+Predsednik: Robert Vahčič
+Vodja strokovnega sveta: Mojca Savnik Iskra dr.med.
+Vodja vaditeljev: Marenka Petelinc
+Kraji, kjer poteka vadba: Brežice, Dobova, Leskovec pri Krškem, Senovo, Bistrica ob Sotli, Kostanjevica na Krki, Veliki Podlog
+Koronarni klub Mislinjske doline
+Ulica dr. Ljube Prenner 7, 2380 Slovenj Gradec
+kklub.mdoline1@gmail.com
+www.kk-mislinjskedoline.com
+Predsednik: Adrijan Plevnik
+Tajnica: Irena Pušnik Tel. 041 919 703
+Gmail:
+kklub.mdoline1@gmail.com
+ali
+irena.pusnik30@gmail.com
+Vodja strokovnega sveta: Maja Pušnik Vrčkovnik, dr. med.
+Vodja vaditeljev: Andreja Šavc, dipl. m. s., mag.z.v.
+Kraji, kjer poteka vadba: Slovenj Gradec,Šmartno, Mislinja, Dolič
+Šaleški koronarni klub Velenje
+Vodnikova c. 1,  3320 Velenje
+info@koronarni-klub-velenje.si
+031 284 698   070 745 835
+www.koronarni-klub-velenje.si
+Predsednik: Olga Umbreht
+Vodja strokovnega sveta: Diana Ramšak, dr.med.
+Vodja vaditeljev:Lilijana Žerdoner, mag.zdr.nege
+Kraji, kjer poteka vadba: Velenje, Vinska Gora, Šmartno ob Paki, Pesje
+Koronarno društvo  Ilirska Bistrica
+Jurčičeva 1, 6250 Ilirska Bistrica
+koronarnodrustvo.ib@gmail.com
+040 364 133, 040 45 99 55
+www.koronarno-ilbistrica.si
+Predsednik: Jože Valenčič
+Vodja strokovnega sveta; Andreja Vinšek Grilj,  dr.med.
+Vodja vaditeljev: Magda Valenčič
+Kraji, kjer poteka vadba: Ilirska Bistrica, Podgrad, Jelšane, Kuteževo, Jasen, Knežak, Pregarje
+Koronarni klub  Dravske doline
+Mariborska cesta 37,  2360 Radlje ob Dravi
+drustvo.src.bol.dd@gmail.com
+031 331 662
+www.zd-radlje.si
+Predsednik: Marjan Ternik
+Vodja strokovnega sveta: Andrej Horvat , dr.med.
+Vodja vaditeljev: Mitja Čeh
+Kraji, kjer poteka vadba: Radlje ob Dravi, Vuzenica, Podvelka, Lehen
+Društvo koronarnih bolnikov Dolenjske in Bele krajine
+Šmihel 20, 8000 Novo Mesto
+info@koronarnodrustvo-dbk.si
+www.koronarnodrustvo-dbk.si
+Predsednica: Alenka Kosec
+Vodja strokovnega sveta: asist.mag. sdabina Jakše Hren, dr.med.
+Vodja vaditeljev: Tatjana Gregorič, DMS
+Kraji, kjer poteka vadba:  Novo mesto, Šmarješke Toplice,Metlika, Črnomelj, Trebnje, Šentjernej
+Društvo koronarnih bolnikov Pomurja
+Cvetkova ulica 64, Rakičan, 9000 Murska Sobota
+dkbpomurje@gmail.com
+Predsednik: Anton Stropnik (031 312 164)
+Vodja strokovnega sveta: prof. dr. Mitja Lainščak,  dr. med
+Kraji, kjer poteka vadba: Murska Sobota
+Društvo koronarnih bolnikov Ptuj Ormož
+Dornava 128, 2252 Dornava
+roman4petrovic@gmail.com
+Predsednik: Roman Petrovič (041 711 205)
+Vodja strokovnega sveta: Alenka Simonič,  dr. med
+Kraji, kjer poteka vadba: Ptuj
+Naslov
+Zveza koronarnih društev in klubov Slovenije
+Gledališki trg 7,
+3000 Celje
+Matična številka: 1202901000
+Davčna številka: SI36310760
+Davčni zavezanec: Ne
+Transakcijski račun: SI56 1914 0500 0010 049 (Deželna banka Slovenije, d.d.)
+Pravnoorganizacijska oblika: Društvo, zveza društev
+Datum vpisa subjekta v sodni register: 15.10.1997
+Šifra dejavnosti: Q88.991 – Dejavnost humanitarnih in dobrodelnih organizacij
+Zastopnik: Prim. Janez Poles, dr.med., predsednik
+Odločba o statusu društva, ki deluje v javnem interesu št. 08-5/98, izdana 26. 11. 1998
+Odločba o priznanju statusa humanitarnih organizacij. Štev. 5005-23/2004-4, šifra HO-KO-OOO1/05, datum 14.01.2005
+Kontaktna oseba: podpredsednica Alenka Babič, univ. dipl. sociologinja
+041 602 216 |
+podpredsednica@zkdks.si
+Telefonska številka
+041 602 216
+E-mail
+info@zkdks.si
+Kontakt
+Vaše ime (obvezno)
+E-mail naslov (obvezno)
+Telefonska številka
+Vaše sporočilo
+Go to Top

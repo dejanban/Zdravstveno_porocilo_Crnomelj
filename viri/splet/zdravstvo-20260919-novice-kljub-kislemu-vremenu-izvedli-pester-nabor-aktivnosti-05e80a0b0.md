@@ -1,0 +1,24 @@
+---
+url: "https://www.radio-odeon.com/novice/kljub-kislemu-vremenu-izvedli-pester-nabor-aktivnosti/"
+naslov: "Kljub kislemu vremenu izvedli pester nabor aktivnosti"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2024-09-18T13:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Kljub kislemu vremenu izvedli pester nabor aktivnosti
+
+## Zajeto besedilo
+
+Kljub kislemu vremenu izvedli pester nabor aktivnosti
+sre., 18.09.2024 ob 13:00
+Kljub dežju so v Metliki uspešno izvedli tudi torkov sklop dogodkov v okviru evropskega tedna mobilnosti (ETM). Center za krepitev zdravja Metlika je v dopoldanskih urah v domu starejših občanov izvajal
+meritve krvnega tlaka, sladkorja in maščob v krvi. Starejše so spomnili na vpliv prehrane na telo ter na pomembnost pitja zadostne količine tekočine, z njimi prijetno poklepetali in ob tem preverili, koliko lahko še opravijo sami.
+Načrtovan potep z vozički po mestnem jedru, kateremu bi se tokrat pridružili stanovalci iz dislocirane enote Doma starejših občanov Metlika, je zaradi dežja odpadel, so pa "udoben javni prostor za vse", kot se glasi geslo letošnjega ETM, prenesli v njihove prostore. Pridružili so se prvošolci OŠ Metlika, skupaj so prisluhnili pravljici o prometu, nato pa so stanovalci skupaj s prostovoljci in predstavniki sodelujočih društev tudi zapeli in zaplesali. Zbrane je nagovorila metliška podžupanja Anica Kopinič, stanovalcem pa sta zapeli tudi redarki.
+Kislo vreme ni zmotilo niti pravljične urice, ki so jih za metliške prvošolčke pripravili zaposleni v Ljudski knjižnici Metlika. Zavetje sta ponudila Hiša dobrot Bele krajine in Dom starejših občanov Metlika. Otroci so prisluhnili prometni pravljici, se naučili marsikaj novega ter na delavnicah ustvarili čisto pravi semafor.
+Nekoliko bolj prijazno popoldansko vreme pa so na igrišču za metliško osnovno šolo izkoristili za preizkus hoje na dva kilometra, na katerem so udeleženci pod okriljem Centra za krepitev zdravja Metlika, lahko testirali svojo telesno pripravljenost.
+
+## Strojni datumi
+{"time": ["2024-09-18T13:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Kljub kislemu vremenu izvedli pester nabor aktivnosti\",\"datePublished\":\"2024-09-18T13:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/059573875_565270272831130_2074187507785397762_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/460199642_565070649517759_957738398322865158_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/460536567_565070619517762_5490504811067510772_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459646024_565070666184424_7289602286689954609_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459576815_565078962850261_141420520957693986_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459962960_565086942849463_2819240956672553872_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459526671_565086916182799_6195539231097333685_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459975037_565087039516120_8670569758307424864_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459958632_565087056182785_989689140311995985_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459977788_565087062849451_5259670569898517802_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/460090487_565087059516118_2441200541649645813_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459960452_565086972849460_5465988633993497351_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/460213170_565087069516117_8849975978066400751_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/460323926_565078972850260_3916180585143747206_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/460128296_565078979516926_7039531367048050973_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459973832_565078976183593_5699419270178831307_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459936565_565270216164469_7579529806701310859_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459960449_565270246164466_7448691879658122189_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/460224782_565270239497800_5617867206281155019_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/92410\\/459588856_565270262831131_5890824288858460173_n.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"M.N., foto: Ob\\u010dina Metlika\"}}"]}

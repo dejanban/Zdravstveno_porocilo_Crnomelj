@@ -1,0 +1,49 @@
+---
+url: "https://www.radio-odeon.com/novice/varnost-kmetov-ni-vec-samoumevna-prihaja-skupni-nacrt-ukrepanja/"
+naslov: "Varnost kmetov ni več samoumevna – prihaja skupni načrt ukrepanja"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2025-07-18T16:05:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Varnost kmetov ni več samoumevna – prihaja skupni načrt ukrepanja
+
+## Zajeto besedilo
+
+Varnost kmetov ni več samoumevna – prihaja skupni načrt ukrepanja
+pet., 18.07.2025 ob 16:05
+Policija in Kmetijsko gozdarska zbornica Slovenije (KGZS) bosta pristopili k pripravi skupnega akcijskega načrta za večjo zaščito kmetov, njihovih pridelkov, živine in zemlje, so se dogovorili na današnjem srečanju notranjega ministra
+Boštjana Poklukarja
+in v. d. generalnega direktorja policije
+Damjana Petriča
+s predstavniki zbornice.
+Z notranjega ministrstva so sporočili, da sta se Poklukar in Petrič danes srečala s predstavniki zbornice, med njimi tudi s predsednikom KGZS
+Jožetom Podgorškom
+. Govorili so o varnosti slovenskih kmetov in rešitvah za izboljšanje varnostnih razmer na kmetijskih območjih.
+Kot so zapisali, so se sogovorniki ugotovili, "da se kazniva dejanja, s katerimi se soočajo slovenski kmetje, v zadnjih letih stopnjujejo: od kraj pridelkov na njivah in živine v preteklosti do današnjih tudi fizičnih napadov, kar pri kmetih upravičeno vzbuja strah in nelagodje". Ob tem pa so se na sestanku strinjali tudi, da ta problematika ni vezana zgolj na romsko populacijo, ampak je širša.
+Napovedali so, da bo dogovoru o pripravi skupnega akcijskega načrta sledil sestanek na operativni ravni, s katerim bodo konkretizirali ukrepe in aktivnosti ter možnosti medsebojnega sodelovanja. Pri tem so poudarili pomen skupnega preventivnega delovanja policije, zbornice in njenih članov.
+V KGZS so po nedavnem napadu na starejšega kmeta v ljubljanskih Klečah opozorili, da se pridelovalci hrane vse pogosteje soočajo tako z manjšimi krajami kot z velikimi organiziranimi krajami celotnega pridelka ob koncu rastne dobe, pa tudi s krajo rejnih živali, orodja in mehanizacije.
+Pozvali so k večji prisotnosti policijskih patrulj na kmetijskih območjih, še posebej v času zrelosti pridelkov, ter vzpostavitvi sistema za hitro prijavo in obravnavo incidentov. Želijo tudi ukrepe za krepitev medsebojnega spoštovanja in razumevanja pomena kmetijske pridelave med prebivalci.
+Zaščito slovenskih kmetov so zahtevali tudi zbrani na protestu, ki je v sredo potekal v Ljubljani. Zbrane je nagovoril tudi Podgoršek.
+V romski skupnosti pozivajo k prenehanju razpihovanja nestrpnosti
+V Zvezi romske skupnosti Slovenije Umbrella-Dežnik in Evropski romski organizaciji ERO so v odprtem pismu pozvali k prenehanju s političnim razpihovanjem nestrpnosti do romske skupnosti. Kaznivih dejanj ne povzroča romska skupnost, temveč posamezniki, opozarja tudi predsednik Zveze Romov Slovenije
+Jožek Horvat Muc
+.
+"Kot pripadnike romske skupnosti nas globoko žalosti in zaskrbljuje, da mora zaradi nedavnih dejanj posameznih Romov, katera močno, močno obsojamo in se od njih distanciramo, trpeti celotna romska skupnost. Nedopustno je, da se incidenti posameznikov izkoriščajo kot izgovor za širjenje kolektivne krivde in stigmatizacije. Kriminal nima narodnosti, pa tudi ne sme imeti izgovora,"
+so v Zvezi romske skupnosti Slovenije Umbrella-Dežnik in Evropski romski organizaciji ERO zapisali v odprtem pismu.
+Dodali so, da je nesprejemljivo in protiustavno, da se na podlagi dejanj posameznikov stigmatizira, diskriminira in kolektivno kaznuje celotno skupnost. Prepričani so, da sejanje sovraštva in stigmatizacija ne bo rešilo težav, temveč jih bo le poglobilo in ustvarilo še večjo ločitev ter potencial za nadaljnje konflikte. Vse poslance in župane so pozvali, da se vzdržijo neprimernih komentarjev in dejanj.
+"Vaše besede so meč, ki lahko deli ali združuje. Trenutno ga uporabljate za poniževanje in omalovaževanje celotne romske skupnosti, kar spodbuja nasilje in izključevanje že tako izključene skupnosti. To je kaznivo, nehumano in neposredno v nasprotju z načelom enakosti pred zakonom in ustavno zavezo varovanja človekovih pravic,"
+so prepričani.
+Od predstavnikov oblasti med drugim zahtevajo, da zagotovijo ustrezne bivalne pogoje, zaposlitev in dostojne pogoje za vse, ne le za večino. Zahtevajo tudi uvedbo revizije porabe sredstev, namenjenih za uresničevanje pravic pripadnikov romske skupnosti in zagotavljanje njihove integracije. Od tem so kritični tudi od Sveta romske skupnosti in Zveze Romov Slovenije.
+Predsednik Zveze Romov Slovenije Jožek Horvat Muc je za STA medtem pojasnil, da pogreša predvsem sistemske rešitve v jugovzhodnem delu Slovenije. Dejal je, da dobro sodelujejo z ministri in državnimi sekretarji, pogreša pa večjo sodelovanje med posameznimi ministrstvi in predstavniki lokalnih oblasti. Opozoril je, da so ukrepi na papirju eno, nekaj drugega pa je njihova implementacija v praksi, do katere pogosto ne pride.
+V pisnem odzivu na nedavne proteste je poudaril, da se v zadnjih letih kot odziv na odklonilna dejanja nekaterih posameznikov iz romske skupnosti pogosto uporabljajo protesti, shodi in medijski nastopi.
+"Zavedam se, da so težave velike in dolgotrajne; niso nastale včeraj, temveč so prisotne že več desetletij. Ker se bližajo parlamentarne volitve, je pričakovati, da se bo število tovrstnih aktivnosti še povečalo,"
+je zapisal.
+Obsodil je vsakršno obliko nasilja. Pri tem je poudaril, da kaznivih dejanj ne povzroča romska skupnost kot celota, temveč posamezniki iz te skupnosti.
+"Zaradi tega so vsakršni javni, medijski ali politični pozivi, ki širijo nestrpnost, neprimerni in škodljivi,"
+je opozoril Horvat Muc.
+
+## Strojni datumi
+{"time": ["2025-07-18T16:05:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Varnost kmetov ni ve\\u010d samoumevna \\u2013 prihaja skupni na\\u010drt ukrepanja\",\"datePublished\":\"2025-07-18T16:05:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/104623\\/policija-poljscine_pu_nm.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

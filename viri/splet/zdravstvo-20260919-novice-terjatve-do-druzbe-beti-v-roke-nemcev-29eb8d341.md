@@ -1,0 +1,32 @@
+---
+url: "https://www.radio-odeon.com/novice/terjatve-do-druzbe-beti-v-roke-nemcev/"
+naslov: "Terjatve do družbe Beti v roke Nemcev"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2023-01-12T11:00:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Terjatve do družbe Beti v roke Nemcev
+
+## Zajeto besedilo
+
+Terjatve do družbe Beti v roke Nemcev
+čet., 12.01.2023 ob 11:00
+Terjatve do metliške Beti, ene vodilnih evropskih proizvajalk barvane poliamidne preje, v višini 3,9 milijona evrov je po neuradnih podatkih Dnevnika od Družbe za upravljanje terjatev bank (DUTB) odkupilo nemško podjetje. Družbi v lasti
+Viktorja Kozjana
+naj bi se obetale tudi lastniške spremembe, dodaja časnik.
+Po navedbah virov časnika naj bi jih odkupil vlagatelj, ki naj bi bil povezan z nemškim podjetjem Medi&Co. Medi je eden od vodilnih svetovnih proizvajalcev medicinske opreme na podlagi kompresijske tehnologije, poleg tega pa se ukvarja z izdelavo športnih in modnih izdelkov pod blagovnima znamkama ITEM m6 in CEP.
+Usoda metliškega podjetja Beti je več let visela na nitki. Po potrjeni prislini poravnavi leta 2013 se je poslovanje stabiliziralo, vendar pa Beti ni bila sposobna zagotoviti sredstev za rast in razvoj ter odplačilo finančnih obveznosti DUTB, ki je bila konec leta 2022 pripojena k Slovenskemu državnemu holdingu (SDH).
+Po večkratnih spodletelih poskusih prodaje terjatev se je proti koncu lanskega leta našel kupec terjatev do Beti v višini okoli štiri milijone evrov, so neuradno izvedeli pri Dnevniku. Kdo je odkupil terjatve in za koliko so bile prodane v SDH niso želeli razkriti. Povedali so le, da gre za strateškega kupca, ki izhaja iz tekstilne panoge.
+Poleg spremembe lastništva terjatev naj bi se Nemci zavzemali še za nakup lastniškega deleža Beti, so neuradno izvedeli pri časniku.
+Po zakonodaji Beti ni izpolnjevala pogojev za podjetja v težavah, zato v preteklosti ni mogla prejeti državne pomoči, delni odpis dolga pa je bil v nasprotju s smernicami delovanja DUTB in zakonom o ukrepih za krepitev stabilnosti bank, so pred časom poudarili v DUTB. Pojasnili so še, da lastnik ni zmožen zagotoviti dodatnega denarja za razvoj podjetja, DUTB pa zaradi prezadolženosti te možnosti nima. Na podlagi v letu 2015 sklenjenega dogovora med Beti in DUTB so vse obveznosti do DUTB, ki so bile zavarovane z nepremičninami in opremo, v plačilo zapadle konec lanskega leta, pri čemer je moralo podjetje vsako leto odplačati okoli 200 tisočakov in vso kupnino od prodaje poslovno nepotrebnega premoženja, navaja Dnevnik.
+Po prislini poravnavi so se v Beti, ki zaposluje okoli 150 delavcev, tudi proizvodno prestrukturirali: namesto proizvodnje perila so se lotili izključno izdelave preje. Danadanes se metliško podjetje s kakovostno prejo uvršča v svetovno špico, eden od njegovih pomembnih kupcev pa je multinacionalka Nike.
+Beti je po navedbah glavne izvršne direktorice
+Maje Čibej
+lani ustvarila okoli 11 milijonov evrov prihodkov od prodaje. Čisti dobiček je bil po ocenah dosežen okoli pozitivne ničle.
+Ker je proizvodnja v Beti energetsko intenzivna je podjetje izrazito občutljivo za povečanje cen energentov. Kljub poslovnim kapicam Čibejevo pri poslovanju v letošnjem letu skrbijo cene energentov, prav tako tudi drugih surovin, ki jih uporabljajo. Zaskrbljena je tudi zaradi ohlajanja trga. Pri globalnih kupcih, kot je Nike, tako po njenih besedah že zaznavajo upad naročil. Proizvodna podjetja bo prizadel tudi napovedan dvig minimalnih plač, ki bi lahko povzročil bistveno povečanje stroškov dela, je še dodala za Dnevnik.
+
+## Strojni datumi
+{"time": ["2023-01-12T11:00:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Terjatve do dru\\u017ebe Beti v roke Nemcev\",\"datePublished\":\"2023-01-12T11:00:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/69748\\/maja_cibej2.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

@@ -1,0 +1,51 @@
+---
+url: "https://www.radio-odeon.com/novice/v-oranzno-odeta-belokranjska-vinica/"
+naslov: "V oranžno odeta belokranjska Vinica"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2023-09-04T07:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# V oranžno odeta belokranjska Vinica
+
+## Zajeto besedilo
+
+V oranžno odeta belokranjska Vinica
+pon., 04.09.2023 ob 07:00
+Začetek novega šolskega leta so v svojem stilu obeležili tudi člani Društva Šola zdravja. S prepoznavno oranžno barvo so okrasili Vinico v prelepi Beli krajini, saj so v soboto pri Žagi Benetič v Vinici imeli vseslovensko srečanje skupin Šole zdravja. Udeležilo se ga je okrog 1700 članov tega društva, večina pa se je pripeljala s 34 avtobusi z različnih koncev Slovenije. Po treh letih je društvo ponovno obudilo vseslovensko srečanje svojih članov, saj so vmes zaradi epidemije covida-19 imeli kar triletni premor.
+Pričakali so jih prostovoljci, gasilci in sošolci iz belokranjskih skupin Šole zdravja, jim zaželeli dobrodošlico z belokranjsko pogačo, ter jih usmerili do info točke in ostalih stojnic, kjer so lahko preizkusili svojo zmogljivost, se sprehodili po Svitovem črevu, izmerili krvni tlak. Na ogled so imeli bogato ponudbo petnajstih stojničarjev, rokodelcev s certifikatom blagovna znamka Belokranjsko, kjer so si člani lahko kupili spomin na Belo krajino.
+Zbrane sta z nagovorom pozdravili nova predsednica društva
+Zdenka Kavčič
+, župan občine Črnomelj
+Andrej Kavšek
+in direktorica direktorata za javno zdravje pri Ministrstvu za zdravje
+Vesna Marinko
+. Župan je članice in člane zelo pohvalil in povedal, da včasih tudi on telovadi s skupino v Črnomlju ter poudaril, da so vaje zelo dobre, ker se na koncu vaj počuti zelo razgibano. Predstavnica ministrstva Vesna Marinko pa je v svojem nagovoru poudarila, da tovrstna skupnostna srečanja zagotovo krepijo medčloveške odnose, kar je odločilno za dolgo in kakovostno življenje. V nadaljevanju pa je dodala:
+"Prav vaša skrb za redno rekreacijo je inspiracija tudi za nas na Ministrstvu za zdravje in potrjuje pravilno odločitev ministrstva, da vas podpiramo že 15 let.
+"
+Sledila je jutranja vadba na travniku pod Gradom Vinica, vaje pa so vodili strokovni sodelavci društva: profesor športne vzgoje
+Andraž Purger
+, mag. kineziologije
+Eva Jeza
+in mladi kineziolog s štajerskega konca
+Simon Jurmić
+, ki je obenem napovedoval vaje in jih začinil z duhovitimi komentarji. Zanimivo je bilo slišati njegov komentar kot predstavnika mlade generacije kako je doživel to srečanje:
+"Veličastno je bilo stati pred enotno množico, ki je s sinhronimi kretnjami telesa ustvarjala iluzije, ki so me popeljale od jat ptic do morja. Z ramo ob rami stati s sodelavci in pred seboj zreti v množico oranžnih sorodnikov, ki svojo radost do življenja delijo in s tem poveličujejo sleherni trenutek. Velik izziv je stopiti v velike čevlje, ki jih je za zanamce pustil dr. Grishin in z njimi korakati naprej s skupnimi močmi. Navdahnjen sem z gibčnostjo, vitalnostjo in voljo naših dedkov in babic, ki ostalim vlivajo upanje v srečno, stanovitno in krepostno starost. Kako veličastno!
+"
+Lepo je bilo videti toliko nasmejanih obrazov v enakomernem izvajanju vaj 1000 gibov, s katerimi že več kot 5.100 članov in članic v 260 skupinah v 95 občinah prične svoj dan.
+Po vodeni telovadbi je prireditev popestril nastop folklorne skupine KUD Vinica z belokranjsko belo nošo. Po zaključku uradnega dela prireditve so se udeleženci srečanja podali na Viniški grad, pohod ob Kolpi, voden pohod po romarski poti na Žeželj, ogled Spominske hiše Otona Župančiča, katero si je vodeno ogledalo čez 300 članov. Nekatere skupine so si organizirale popoldansko aktivnost in se z avtobusom odpeljale v Krajinski park Lahinja, nekateri so si ogledali Muzejsko hišo v Semiču, večina pa je ostala ob reki Kolpi, se družila s sošolci in uživala v prekrasnem vseslovenskem dnevu Šole zdravja. Kar nekaj članov se je udeležilo različnih praktičnih delavnic, ki so jih izvajali Center za krepitev zdravja Črnomelj, NIJZ, Fakulteta za šport, Gasilska zveza Črnomelj, diagnostika telesa na osnovi bioenergije, KUD Vinica ali pa so se z vodjo projekta Dihamo z naravo Andražem Purgerjem, odpravili do čudovite jase ob Kolpi in se v senci dreves seznanili z vadbo Dihamo z naravo. Oranžna barva se je kaj kmalu razlila okoli naokoli po Vinici.
+Za pustolovščino, ki je bila nepopisna, bi se radi zahvalili mnogim, tudi družinskim prostovoljcem
+Mojce Šikonja
+in
+Zdenke Kavčič
+, ki so pripomogli pri hitri delitvi bonov in vseh napotitvah na pohode, delavnice in ostalih informacijah na info točki. Še posebej se zahvaljujejo velikim gasilcem, ki vedno priskočijo na pomoč. Gasilci PGD Vinica so pomagali pri organizaciji in pospravljanju prireditvenega prostora in so kombijem vozili člane, ki težko hodijo do avtobusov.
+Družabno-telovadni dan v idilični Vinici so udeleženci srečanja zaključili prijetno, polni novih vtisov, saj so po vsakem takem srečanju bogatejši za nekaj novih prijateljstev in prijetnih spominov. Čeprav večinoma v tretjem življenjskem obdobju, so ti veselo razpoloženi ljudje s svojo karizmo in dobro voljo pustili opazno oranžno sled v tej zeleni dolini, ki jo objema reka Kolpa.
+Srečanje v Vinici so omogočile vse tri belokranjske občine: Črnomelj, Metlika in Semič. Sicer pa Društvo Šola zdravja poleg Ministrstva za zdravje finančno podpirajo tudi Fundacija za šport, Športna unija Slovenije, Zavod za invalidsko in pokojninsko zavarovanje Slovenije, Fundacija za financiranje invalidskih in humanitarnih organizacij v republiki Sloveniji, saj gre za prostovoljno in nevladno organizacijo, ki deluje v javnem interesu na področju športa in imajo status humanitarne organizacije na področju zdravja.
+Moderator srečanja je bil
+Jaka Birkelbach
+.
+
+## Strojni datumi
+{"time": ["2023-09-04T07:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"V oran\\u017eno odeta belokranjska Vinica\",\"datePublished\":\"2023-09-04T07:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/01-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/02-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_03_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/03-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/04-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/05-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/06-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/07-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/08-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/09-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/10-solazdravjavinica02092023.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_01_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_02_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_03_m-1.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_04_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_05_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_07_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_08_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_10_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_11_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_12_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_17_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_20_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/received_261148356805370.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_13_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_14_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_15_m.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/78616\\/sz_vinica_16_m.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Neda Galija\\u0161, foto: Jani Pavlin\"}}"]}

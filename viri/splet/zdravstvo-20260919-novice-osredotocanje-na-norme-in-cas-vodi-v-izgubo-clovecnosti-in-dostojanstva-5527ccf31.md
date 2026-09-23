@@ -1,0 +1,40 @@
+---
+url: "https://www.radio-odeon.com/novice/osredotocanje-na-norme-in-cas-vodi-v-izgubo-clovecnosti-in-dostojanstva/"
+naslov: "\"Osredotočanje na norme in čas vodi v izgubo človečnosti in dostojanstva\""
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2026-01-15T17:00:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# "Osredotočanje na norme in čas vodi v izgubo človečnosti in dostojanstva"
+
+## Zajeto besedilo
+
+"Osredotočanje na norme in čas vodi v izgubo človečnosti in dostojanstva"
+čet., 15.01.2026 ob 17:00
+V skupnosti socialnih zavodov med izzivi pri izvajanju zakona o dolgotrajni oskrbi, v okviru katerega sta se 1. decembra kot zadnji pravici začeli izvajati dolgotrajna oskrba v instituciji in denarni prejemek, izpostavljajo kadrovsko krizo. Vlado in sindikate zato pozivajo, da nemudoma uredijo ustrezen plačni sistem za dolgotrajno oskrbo.
+Plačni sistem za dolgotrajno oskrbo mora biti ločen, pregleden in pravičen, je na današnji novinarski konferenci Skupnosti socialnih zavodov Slovenije poudaril predsednik Združenja direktorjev domov za starejše in posebnih socialnovarstvenih zavodov v okviru skupnosti Andrej Štesl. Hkrati naj vlada in sindikati po njegovem pozivu zagotovijo najmanj 20 odstotkov višje osnovne plače za vse zaposlene v dejavnosti.
+"Poklici v dolgotrajni oskrbi danes niso privlačni,"
+je opozoril. Če so pred leti na razpis za delovno mesto dobili več prijav, danes pogosto ne prispe niti ena. Začetne bruto osnovne plače strežnic, oskrbovalk, bolničarjev in kuharjev po njegovih besedah znašajo med 1290 in 1500 evri bruto, kar pomeni od 870 do 1000 evrov neto. Ob tem zaposleni delajo 24 ur na dan, vse dni v letu, pogosto šest dni v tednu, z obremenjujočimi vikendi in prazniki, je naštel.
+Zaposleni opravili posebej požrtvovalno delo
+Predsednica skupščine Socialnih zavodov Slovenija
+Valerija Lekić Poljšak
+je ob tem opomnila, da dolgotrajna oskrba, brez izjemnega truda zaposlenih ne bi zaživela.
+"
+Razmere v domovih za starejše so bile v zadnjih treh mesecih zelo zahtevne. Delo, ki so ga opravili naši sodelavci, ni bilo lahko, saj so morali najprej pridobiti soglasja za prevedbo v sistem dolgotrajne oskrbe, nato pa za približno 19.000 stanovalcev pripraviti osebne načrte ter jih njim in njihovim svojcem individualno predstaviti. Posebej naporno je bilo delo v decembru, saj so posamezni domovi potrebne podatke dobili šele po 20. decembru in so se osebni načrti pripravljali praktično do zadnjega dneva v letu. Kljub časovni stiski so delo opravili v predvidenem roku in strokovno. Vsi stanovalci, ki so se želeli vključiti v nov sistem, so zaradi zavzetosti naših zaposlenih lahko to tudi storili. Na tem mestu se jim zato še enkrat zahvaljujem za opravljeno delo,"
+je pojasnila predsednica.
+Ob tem je dodala, da je bilo decembru zelo intenzivno tudi sodelovanje z ministrstvom za solidarno prihodnost in drugimi deležniki. "
+Uspelo nam je zapreti kar nekaj odprtih vprašanj, povezanih z oprostitvami plačil namestitve in prehrane pri socialno ogroženih posameznikih, izmenjavo podatkov med izvajalci in ZZZS-jem, poplačilom zimskega regresa za koncesionarje v javni mreži, pravicami uporabnikov dnevnih centrov in začasnim znižanjem zahtevane stopnje znanja jezika za tuje delavce,"
+je pojasnila in poudarila, da izzivi pred njimi terjajo "nekatere nujne spremembe oziroma izboljšave sistema dolgotrajne oskrbe, ki ga je treba debirokratizirati s poenostavitvijo postopkov ocenjevanja upravičenosti in izdajanja odločb ter kadrovsko okrepiti z ustreznim nagrajevanjem zaposlenih".
+Najprej pa se je zavzela za odpravo anomalije, po kateri so storitve v okviru dodeljene pravice v sklenjenem osebnem načrtu razdrobljene na minute. Osredotočanje na norme in čas po njenem prepričanju vodi v izgubo človečnosti in dostojanstva.
+Brez dodatnih kadrov oskrbe na domu ne bo mogoče izvajati
+Direktor Zavoda Pristan Martin Kopatin je predstavil izvajanje dolgotrajne oskrbe na domu. Zakon je pravico predvidel s 1. julijem lani. Po njegovem pojasnilu je zakon prinesel pomembno širitev z več urami storitev, z zdravstveno nego in storitvami za krepitev in ohranjanje samostojnosti. A brez dodatnih kadrov pravica v praksi ne bo mogla zaživeti, je bil nezadovoljen.
+Pravico do dolgotrajne oskrbe na domu je primerjal s pomočjo na domu, ki jo je konec leta 2024 uporabljalo nekaj več kot 9000 uporabnikov, storitve pa je izvajalo približno 1200 zaposlenih. Že takrat je bilo na čakalnih seznamih več kot 1400 ljudi, na uporabnika pa je statistično v povprečju prišlo 19,4 obiska na mesec, pri čemer je en obisk trajal 46,3 minute. Zakon o dolgotrajni oskrbi medtem uporabnikom prinaša od 20 do 110 ur storitev mesečno, kar vidi kot velik preskok.
+"A realnost je, da lahko danes na terenu zagotovimo približno toliko ur, kot smo jih zagotavljali že prej, ponekod le nekoliko več,"
+je bil kritičen. To po njegovih besedah pomeni, da se sistem že v izhodišču sooča z razkorakom med zakonsko opredeljenimi pravicami in dejanskimi zmogljivostmi pri izvajanju. Za odpravo tega strukturnega primanjkljaja bi bilo treba po njegovem mnenju sprejeti ciljno usmerjene kadrovske, organizacijske in finančne ukrepe.
+Brez pravočasne krepitve terenskih skupin, brez boljših pogojev dela in dolgoročnega načrtovanja pri zaposlovanju se bo lahko zgodilo, da uporabniki v praksi ne bodo mogli prejemati storitev v zakonsko določenem obsegu in kakovosti, je posvaril. To sistemsko vprašanje po njegovih navedbah neposredno vpliva na raven zaupanja ljudi v dolgotrajno oskrbo. Če naj bi dolgotrajna oskrba na domu postala resnična alternativa institucionalnemu varstvu, je treba zagotoviti dovolj zaposlenih na terenu, je bil odločen.
+
+## Strojni datumi
+{"time": ["2026-01-15T17:00:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"&quot;Osredoto\\u010danje na norme in \\u010das vodi v izgubo \\u010dlove\\u010dnosti in dostojanstva&quot;\",\"datePublished\":\"2026-01-15T17:00:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/111036\\/13a9376b-c4a0-4121-876c-5aad119f7756.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

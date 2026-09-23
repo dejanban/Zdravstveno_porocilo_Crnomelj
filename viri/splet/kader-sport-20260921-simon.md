@@ -1,0 +1,155 @@
+---
+url: https://rcsimon.si/
+naslov: "Rekreativni center Simon"
+izdajatelj: RC Simon
+dostopano: 2026-09-21
+metoda zajema: WebFetch (requests; izvirno besedilo)
+---
+
+Rekreativni center Simon | Sprememba za življenje
+Skip to content
+Si pripravljen/a narediti
+spremembo  za življenje?
+Končno reči
+STOP
+nevzdržnim omejevalnim dietam in neučinkovitim vadbenim procesom.
+POVEJ MI VEČ
+ŽELIM PREOBLIKOVATI SVOJE TELO!
+ŽELIM SE DOBRO POČUTITI!
+ŽELIM ŽIVLJENJE BREZ BOLEČIN!
+ŽELIM NAREDITI SPREMEMBO!
+POTEM SI NA
+PRAVEM MESTU!
+Pusti staro za seboj in končno vzljubi svoje novo oblikovano telo
+V Rekreativnem centru Simon boš našel/a izvrstno
+spodbudo za začetek,
+nepopustljivo
+motivacijo za vztrajanje
+in l
+jubezen do rednega gibanja.
+Dovoli, da ti pomagamo narediti
+spremembo za življenje!
+HUJŠANJE IN IZGUBA MAŠČOBE
+Začetni 9-tedenski in nadaljevalni 4-tedenski programi hujšanja in preoblikovanja telesa.
+Brez odrekanj v prehrani in neskončnih ur v fitnesu.
+VEČ
+SKUPINSKE VODENE VADBE
+PILATES za sprostitev in HIIT EFFECT za energijo!
+Za začetnike, izkušene športnike in starejše generacije.
+VEČ
+FITNES
+Klimatiziran in sodobno opremljen fitnes brez gneče. Prostor kjer se lahko popolnoma posvetiš sebi in svojim ciljem.
+VEČ
+PREHRANSKO SVETOVANJE
+Prehransko svetovanje je dober način, da se spoznate z uravnoteženo prehrano in dobite zanesljive informacije za izboljšavo svojih navad.
+VEČ
+OSEBNO TRENERSTVO
+Osebno trenerstvo je način vadbe, kjer dosežete rezultate v najkrajšem času, saj je trening v celoti prilagojen vašim potrebam in ciljem.
+VEČ
+OSTALE STORITVE
+FMS - funkcionalna diagnostika, analiza telesne sestave s telesnim analizatorjem, izdelava jedilnika, izdelava osebnega fitnes vadbenega programa,...
+VEČ
+ANTICELULITNI PROGRAM
+4-tedenski program uravnotežene prehrane in vadbe zgrajene po protokolu za zmanjšanje trdovratne maščobe na predelu stegen in zadnjice ter tako odstranitvi celulita.
+VEČ
+21 DNEVNI SPLETNI IZZIV
+21-dnevni izziv, ki je zasnovan tako, da postane vadba in uravnotežena prehrana tvoj življenjski stil. Brez praznih obljub ter brez stresnih treningov.
+VEČ
+COACHING ZA ŠPORTNIKE
+Ne glede na to, ali si že profesionalni športnik, rekreativec ali pa šele začenjaš svojo športno pot, sem tu, da te popeljem do tvojih ciljev.
+VEČ
+NE VEŠ KATERI PROGRAM
+JE PRIMEREN ZATE?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+Želiš izgubiti do
+8 kg v 9. tednih?
+Želiš izgubiti odvečne kilograme in popolnoma preoblikovati svoje telo brez omejevalnih diet in prenaporne vadbe?
+POVEJ MI VEČ!
+Želiš shujšati od doma?
+Z našim novim
+spletnim 21 dnevni FIT MAKEOVER izziv
+, s katerim te naučim vse pomembne trike glede prehrane in ti dam dostop do hitre in učinkovite vadbe za noro hitro izgubo maščobe!
+POVEJ MI VEČ!
+Želiš hitro vadbo za preoblikovanje telesa?
+Samo 30 minut vadbe 2x tedensko je dovol za kurjenje maščobe za sanjsko telo!
+POVEJ MI VEČ!
+REKREATIVNI CENTER SIMON
+VADBA
+ZA VSAKOGAR
+Naš rekreativni center ponuja široko paleto vadbenih možnosti, ki zadovoljujejo različne okuse in potrebe. Ne glede na to, ali imaš rad/a intenzivne treninge v fitnesu, sproščujoče dejavnosti, ko je pilates, ali druge skupinske vadbe, boš zagotovo našel/a nekaj, kar ti ustreza.
+Za začetnike.
+Za rekreativce.
+Za profesionalne športnike.
+Za starejše.
+PREBERI VEČ O NAS
+VSI NAŠI PROGRAMI
+BREZPLAČNO
+NAKUPOVALNI
+SEZNAM ŽIVIL, KI
+TI POMAGAJO PRI
+HUJŠANJU
+Izpolni obrazec in prejel/a boš kratek e-vodič z našimi priporočili za tvoj naslednji nakup v trgovini.
+Strinjam se s
+Splošnimi pogoji uporabe.
+Varnostno vprašanje:
+Katero število je večje, 2 ali 8?
+LET IZKUŠENJ
+0
++
+MESEČNIH OBISKOVALCEV VADB
+0
++
+PREOBRAZB
+0
++
+MNENJA
+KAJ PRAVIJO
+NAŠE STRANKE
+V ŽIVO IN ONLINE
+SPREMLJAJ
+NAS PREKO
+VSEH NAPRAV
+Vsi imamo drugačne prioritete, drugačne delovnike. Vsi drugačno raven energije čez dan. Mogoče ti en dan paše vadba takoj ko se zbudiš, spet drug dan ti bolj paše zvečer.
+Zato so vse naše vadbe na voljo
+v živo
+in tudi
+ONLINE
+.
+URNIK
+UGODNOSTI ZA
+ZAPOSLENE
+Sodelujemo s podjetji, ki svojim zaposlenim omogočajo ugodnosti pri naših vadbah.
+Za koriščenje ugodnosti se obrni na naše kontaktne informacije.
+Tvoje
+telo
+je kot vrt,
+vadba
+je orodje za oblikovanje,
+uravnotežena prehrana
+pa je hranilo za rast in cvetenje.
+<br
+Shopping Cart
+Scroll to Top
+VEČ INFO
+
+## Povezave iz vira
+
+- Skip to content: https://rcsimon.si/#content
+- POVEJ MI VEČ: https://rcsimon.si/#storitve
+- VEČ: https://rcsimon.si/fit-boot-kamp-programi/
+- VEČ: https://rcsimon.si/skupinske-vadbe/
+- VEČ: https://rcsimon.si/fitnes/
+- VEČ: https://rcsimon.si/prehransko-svetovanje/
+- VEČ: https://rcsimon.si/osebno-trenerstvo/
+- VEČ: https://rcsimon.si/ostale-storitve/
+- VEČ: https://rcsimon.si/step/anticelulitni-program/
+- VEČ: https://rcsimon.si/fit-makeover-2/
+- VEČ: https://rcsimon.si/coaching
+- POVEJ MI VEČ!: http://fit%20boot%20kamp%201
+- POVEJ MI VEČ!: http://fit%20boot%20kamp%201
+- POVEJ MI VEČ!: http://fit%20boot%20kamp%201
+- PREBERI VEČ O NAS: https://rcsimon.si/nase-poslanstvo/
+- VSI NAŠI PROGRAMI: https://rcsimon.si/storitve-3/
+- Splošnimi pogoji uporabe.: https://rcsimon.si/politika-zasebnosti/
+- URNIK: https://rcsimon.si/urnik/
+- VEČ INFO: https://rcsimon.si/fit-boot-kamp-1

@@ -1,0 +1,70 @@
+---
+url: "https://www.radio-odeon.com/nasveti/princip/princip-13-zakaj-ne-bi-za-marketing-skrbel-kar-sam/"
+naslov: "Princip 13: Zakaj ne bi za marketing skrbel kar sam?"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2024-06-20T09:30:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Princip 13: Zakaj ne bi za marketing skrbel kar sam?
+
+## Zajeto besedilo
+
+Princip 13: Zakaj ne bi za marketing skrbel kar sam?
+čet., 20.06.2024 ob 09:30
+Zakaj bi marketing delal kar sam?
+Simon je čisto na začetku pripomnil: “Moja zgodba, mislim, da ni aplikativna za vse …”, in tukaj sva se takoj na začetku dotaknila pomembnega opomnika: treba je razmisliti, koliko časa si lahko privoščimo za zadeve, kot je marketing. Torej za stvari, ki nam direktno, neposredno, ne prinašajo denarja, so pa sestavni del posla.
+In super je bilo, ko je Simon omenil, da se zelo dobro zaveda, kaj je njegov ‘core business’ oziroma po slovensko osnovna dejavnost. A hkrati ve, da mora vzporedno početi tudi druge aktivnosti, ki pomagajo osnovni dejavnosti.
+Pomembno je pa tudi poudariti, da je Simon že pred tem dve leti počel podobne stvari za področje marketinga in je torej že imel določene izkušnje s pripravo in objavljanjem vsebin. “Zato sem vedel, kaj me čaka in kaj bom za to potreboval”, in dodaja, da pozabljamo na to, da bo poleg časa samostojno vodenje marketinga terjalo tudi veliko razmišljanja in kreativne energije.
+Osebna blagovna znamka
+Osnovni koncept svoje marketinške aktivnosti je usmeril v grajenje osebne blagovne znamke. Zato lahko večino Simonovih aktivnosti opazite na spletnih socialnih kanalih v obliki videoposnetkov, na katerih obravnava specifično strokovno temo in jo opiše na kar se da enostaven in razumljiv način.
+Video vsebino Simon kreira na način, da krepi osebno blagovno znamko, krepi zaupanje in omogoča, da ga ljudje spoznajo. Zato je zelo pomembno, da pokaže svoj obraz, da potencialne stranke slišijo njegov glas in preko strokovne vsebine pridobijo zaupanje. Pravi, da z videom predstavlja izkušnjo nepremičninske storitve na osebnem nivoju in želi, da ga ljudje vidijo in spoznajo z namenom, da se lažje odločijo za sodelovanje.
+Oglaševanje preko spleta: NE. Vložek lastnega časa: DA.
+Je eden izmed redkih podjetnikov iz belokranjskega bazena, ki se je dejansko pripravljen izpostaviti na tak način. A ker, kot že rečeno, razume, zakaj svoje marketing aktivnosti realizira na tak način, ve, da je to pametna odločitev.
+Je pa tudi res, kot je že Simon že sam čisto na začetku omenil, da ta način ni primeren za vsakega. Tudi zaradi tega ne, ker gre za tek na dolge proge. In on si lahko to privošči, saj je vrednost posameznega kupca dovolj visoka.
+Ta način definitivno ne pije vode za minljive sezonske produkte ali za produkte nižjih dodanih vrednosti – vložek v pripravo vsebine in odzivni čas sta predloga. Če pa moraš prodati ovitek za telefon, ki ga čez pol leta nihče več niti “povohal ne bo”, tega časa pač nimaš. V primeru, ko potrebujemo hiter odziv trga, raje investiramo v oglaševanje na spletu. Več o oglaševanju na spletu lahko preberete v tem zapisu z naslovom:
+Princip 11: Spletno oglaševanje – kdaj, kako, zakaj?
+V prihodnje ima namen tudi oglaševati, a se je odločil za zanimivo strategijo: najprej bo zgradil bazo vsebine. In ko bo baza dovolj velika in verodostojna, bo začel z oglaševanjem. Želi si namreč, da bi oglas potencialno stranko pripeljal na vsebinsko bogato pristajalno stran – grajenje zaupanja preko vsebine.
+Dve muhi na en mah
+Zdi se mi, da je Simonu uspelo zadeti dve muhi na en mah, saj je s tem, ko ustvarja kakovostno video vsebino, naredil dvoje:
+ustvaril je kakovostno gradivo za vsebinski marketing,
+dobil je vsebino za izobraževanje naročnikov na spletni strani.
+Sam sicer poudarja, da je vsebina sredstvo za krepitev osebne blagovne znamke, ki jo enakomerno, enkrat tedensko distribuira na kanalih, kjer boste našli veliko uporabnih nasvetov s področja nepremičnin:
+LinkedIn
+,
+Instagram
+.
+V načrtih ima tudi oglaševanje in nagiba se k oglaševanju na LinkedIn-u. Pravi, da že sedaj opaža boljši odziv in predvsem manj razpršeno ciljno publiko. Velja tudi, da je tam starejša populacija, ki ima višjo kupno moč.
+Različni kanali, različna vsebina
+Dotaknila sva se tudi prilagajanja vsebine različnim kanalom, kjer je pomembno predvsem razumevanje, da se na Instagramu (zaenkrat) ne nahajajo isti ljudje kot na LinkedIn-u. Strinjala sva se, da bi bilo v njegovem primeru smiselno tudi ločevanje vsebine glede na platformo. A zaradi časovne stiske si Simon tega trenutno ne more privoščiti. Zaveda se tudi, da je v naši mikro lokaciji Facebook zelo pomemben kanal, ker se tukaj skriva največ populacije, ki je v poziciji, da svojo nepremičnino proda. Drugače rečeno, tukaj so starejše generacije, ki imajo ponavadi v lasti največ nepremičnin.
+Kaj pa, če je to, da marketing vodiš sam, edini način?
+Skozi pogovor sva prišla tudi do tega, da bi lahko za določen del dejavnosti angažiral zunanjega izvajalca. A realnost, s katero se srečujem tudi sam, ko delam za naročnike, je ta, da glede na to, da je prvoosebni video v porastu, je za vsebino na socialnih medijih ključna ravno vsebina, kjer lastnik podjetja, prodajalec ali ustvarjalec vabi, razlaga in opisuje, kar ponuja.
+Časi, ko je bilo dovolj, da si naredil super produkcijski predstavitveni video z najetimi igralci in bil opažen na Facebooku ali Instagramu so minili. Vse je veliko bolj gverilsko in na osebni ravni. In to je jedro Simonovega koncepta vsebinskega marketinga preko video vsebine.
+Simon je med pogovorom poudaril zelo pomembno stvar - fokus na eno stvar in to delati dobro. Načinov in sredstev je veliko, a ker časa ni neomejeno, je pametno izbrati eno stvar, biti v tem konsistenten in kar se da kakovosten.
+Cca. 1.500 evrov v opremo za snemanje in 8 ur na teden
+Poleg svojega časa je Simon vložil že dobrih 1.500 evrov v nakup opreme za snemanje. S tem dosega ustrezno kakovost vsebine, a hkrati poudarja, da se zaveda, da je še veliko prostora za napredek v smislu produkcijske kompleksnosti.
+V pripravo vsebine vloži tudi sorazmerno veliko svojega časa.
+Ocenjuje, da okvirno 8 ur na teden
+, torej en cel delovni dan. Da bi delal čisto vse, kar si želi, pa pravi, da bi potreboval še dodatnih 8 ur.
+Strinjala sva se, da s tem, ko trenutno produkcijo izvaja samostojno, pridobiva izkušnje, ki mu bodo kasneje, ko bo za marketing najemal zunanje izvajalce, bistveno lažje. Lažje bo razumel, koliko časa je potrebnega za produkcijo in lažje bo delegiral delo in postavil nivo izdelka – jasna navodila in pričakovanja.
+Sam opažam, da je ravno zavedanje naročnika, koliko časa je dejansko potrebnega za nek izdelek, ključno za razumevanje potrebnega finančnega vložka. Druga stvar pa je, vsem kreativcem znan: “Tega nočem, ne vem pa, kaj bi rad.”
+Na napakah se učimo!
+Kar se učenja na napakah tiče, je Simon omenil kratke video posnetke (Shorts), ki jih čisto na začetku ni delal. Sklepa, da bi imel večji doseg že s prvimi objavami, če bi se jih lotil že čisto na začetku. Sicer pa pravi, da je namen dosežen, saj opaža, da so ga ljudje dokaj hitro spoznali. In v prihodnje se bo verjetno posluževal tudi produkcije kratkih videov, saj opaža, da se je krivulja rasti sledilcev umirila.
+Še vedno raziskuje, katera vsebina mu omogoča največji doseg, oziroma je najbolj sprejeta.
+Pravi, da se je naučil predvsem to, da ne moreš vsega sam: “Lahko pa sam začneš”. Zaveda se, da je še veliko stvari, ki jih ne počne, a glavno je, da je dobro osnovo že postavil. In ko mu bosta čas ter finance dopuščala, bo na teh temeljih gradil svoje marketinške aktivnosti.
+Učenje in pridobivanje informacij
+S Simonom sva se dogovorila, da mi pošlje nekaj koristnih povezav, kjer sam pridobiva znanje ter koristne informacije iz področja marketinga. Ravno pridobivanje relevantnih virov informacij je najtežje. In pogosto mine nekaj ur, da se preklikamo do ustrezne informacije, ki jo lahko uporabimo za reševanje svojega izziva.
+Tukaj je nekaj Simonovih povezav:
+https://www.youtube.com/@benjohnsoncreative/featured
+https://www.youtube.com/@MrPaulXavier
+Prosil sem ga tudi, če lahko deli
+nekaj orodij, s katerimi ustvarja vsebine.
+Tukaj je nekaj aplikacij, ki mu omogočajo samostojno kreiranje vsebin:
+Affinity designer
+CapCut
+OpenAI
+
+## Strojni datumi
+{"time": ["2024-06-20T09:30:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Article\",\"headline\":\"Princip 13: Zakaj ne bi za marketing skrbel kar sam?\",\"datePublished\":\"2024-06-20T09:30:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/89573\\/1princip013-marketing-kar-sam.png\"],\"author\":{\"@type\":\"Person\",\"name\":\"Toma\\u017e Aupi\\u010d\"}}"]}

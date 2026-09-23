@@ -1,0 +1,21 @@
+---
+url: "https://www.radio-odeon.com/novice/pester-pocitniski-teden-v-semicu/"
+naslov: "Pester počitniški teden v Semiču"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2022-08-12T12:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Pester počitniški teden v Semiču
+
+## Zajeto besedilo
+
+Pester počitniški teden v Semiču
+pet., 12.08.2022 ob 12:00
+V Hiši Sadeži družbe Črnomelj so pripravili še en ustvarjalni teden brezplačnih počitniških delavnic v Semiču. V torek so otroci s Tejo izdelovali lovilce sanj. V sredo so se preselili v telovadnico Partizan in z Zdenko izvajali igrivo jogo, v četrtek pa ponovno v Muzejsko hišo, kjer so izdelovali stojala za svinčnike v obliki čebelice.
+Počitnikarje čaka še en teden druženja v Semiču. Lepo vabljeni, da se jim pridružite ter z njimi ustvarjate prihodnji torek in četrtek. V sredo pa lahko pod budnim očesom Centra za krepitev zdravja ZD Črnomelj rolate v telovadnici Partizan. Svojo prisotnost potrdite na tel. št. 040 625 148.
+
+## Strojni datumi
+{"time": ["2022-08-12T12:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Pester po\\u010ditni\\u0161ki teden v Semi\\u010du\",\"datePublished\":\"2022-08-12T12:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/0298879941_3177019029213332_3981661309950054154_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298779525_3177017009213534_5660446584453267632_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/299077438_3177022322546336_3446868152943529642_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/297434582_3177021612546407_3553609456270568535_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298882218_3177021375879764_3647046913458553612_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298740023_3177020792546489_927480230094170211_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298989024_3177018195880082_2775841484382584225_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298954876_3177017842546784_8175242934761860953_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298755994_3177019512546617_2815994927790291914_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298762075_3177019942546574_7637643619384323022_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298802623_3177019712546597_3759685424300771425_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298936062_3177020372546531_142100858303610899_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298775202_3177018612546707_1661428367124248483_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298796064_3177021142546454_5204364145681147039_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/64170\\/298985052_3177021982546370_8321515179929413842_n.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

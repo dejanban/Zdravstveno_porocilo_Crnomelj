@@ -1,0 +1,26 @@
+---
+url: "https://www.radio-odeon.com/novice/od-srcnega-sprehoda-do-casa-ko-je-svet-nosil-cloveka/"
+naslov: "Od srčnega sprehoda do časa, ko je svet nosil človeka"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2026-09-18T17:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Od srčnega sprehoda do časa, ko je svet nosil človeka
+
+## Zajeto besedilo
+
+Od srčnega sprehoda do časa, ko je svet nosil človeka
+pet., 18.09.2026 ob 17:00
+V okviru Evropskega tedna mobilnosti (ETM) so se danes na sprehod po Metliki odpravili tudi s stanovalci tamkajšnjega doma starejših občanov. S skupnim sprehodom so želeli poudariti eno osrednjih sporočil letošnjega ETM – mobilnost mora biti dostopna vsem, ne glede na starost ali način premikanja.
+Stanovalcem na invalidskih vozičkih so se na poti pridružili spremljevalci in prostovoljci ter jim omogočili, da so bili tudi sami del skupnega dogajanja. Nova obzorja je ob tem s svojim znanjem širila predana prostovoljka Marjetka Vukšinič, ob postanku pri rojstni hiši Ivana Navratila pa sta zbrane v preteklost popeljala Marija Koležnik in Milan Travnikar, ki sta na zanimiv način približala delček lokalne zgodovine.
+Pomemben del ETM so tudi otroci in njihov vrvež je znova napolnil Mestni trg. Otroci so se družili, gibali in skozi različne aktivnosti spoznavali vsebine, povezane z mobilnostjo. Za dodatno popestritev je poskrbelo Kolo sreče, ki je med najmlajšimi obiskovalci pritegnilo veliko zanimanja.
+O tem, kako so se premikali nekoč, ko avtomobil ni bil samoumeven in je imela hoja drugačen pomen v vsakdanjem življenju, so se pogovarjali na delavnici Koraki časa – ko je svet nosil človeka. Ta je udeležence popeljala v preteklost in spodbudila k razmišljanja o tem, kako se je skozi čas spreminjal način našega premikanja.
+Ker ETM nagovarja vse generacije, so del aktivnosti namenili tudi prometni varnosti starejših. Na predavanju Varno v prometu so udeleženci osvežili znanje o varnem in odgovornem vključevanju v promet ter se pogovarjali o izzivih, s katerimi se starejši srečujejo na svojih vsakodnevnih poteh.
+Promet, prometna pravila in prometne navade se spreminjajo, zato so tovrstna srečanja pomembna priložnost za obnovitev znanja, izmenjavo izkušenj in predvsem za krepitev varnosti vseh udeležencev v prometu. Mobilnost za vse mora biti tudi varna mobilnost za vse.
+Evropski teden mobilnosti se v Metliki nadaljuje tudi ta konec tedna, ko ne bo manjkalo brezplačnih aktivnosti za vso družino.
+
+## Strojni datumi
+{"time": ["2026-09-18T17:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Od sr\\u010dnega sprehoda do \\u010dasa, ko je svet nosil \\u010dloveka\",\"datePublished\":\"2026-09-18T17:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/00_1614820093771726_5980181111400367195_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_90347920260918_100701.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/815367664_1614821093771626_4149325063097500527_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_1382397_1.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_90348220260918_101707.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_90347820260918_100607.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/813837271_1614820760438326_8421984636731517257_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/814800537_1614821363771599_5328284833733902222_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/795662196_2109539089647897_4675424756903525786_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/808564713_2109539069647899_5941233290226635727_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_1382400_1.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_903497img-dafa92e0291fef7bc7dbbb4d38800b1b-v.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_90348920260918_102949.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_903491img_5610.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_903495img-ba5c6684016a10d86008c8b57f6d817e-v.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_90349820260918_102727.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/813976051_2109538466314626_8180307949068212598_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/816615009_2109539386314534_6055165581915894920_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_903499img_5600.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_903501img_5602.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_903504img-086edf934e70719f14bf75c4d865cc10-v.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/120081\\/l_90350920260918_110330.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

@@ -1,0 +1,36 @@
+---
+url: "https://www.radio-odeon.com/novice/nalozba-ki-bi-lahko-prerodila-belo-krajino/"
+naslov: "Naložba, ki bi lahko prerodila Belo krajino"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2022-02-19T13:00:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Naložba, ki bi lahko prerodila Belo krajino
+
+## Zajeto besedilo
+
+Naložba, ki bi lahko prerodila Belo krajino
+sob., 19.02.2022 ob 13:00
+Članek iz Dela s podnaslovom "Zaživela je pobuda, ki bi pokrajini ob Kolpi zagotovila varne kolesarske povezave. S tem bi spodbudili razvoj turizma in alternativne načine mobilnosti".
+Bela krajina je dobro izkoristila obdobje turističnih bonov, kljub temu pa turistični delavci v tekočo sezono vstopajo z negotovostjo. Pokrajina ob Kolpi se promovira kot avanturistična, zelena in butična destinacija, a ne more še ponuditi prave kolesarske izkušnje. Sodobnih kolesarskih poti je malo, ceste so poleti prometne in nevarne za kolesarje. Zaradi tega je v občini Črnomelj nov zagon dobila pobuda za vzpostavitev kolesarske povezave na trasi neuresničenega projekta železniške proge Črnomelj–Vinica. Bela krajina bi se pridružila preostalim delom Slovenije, ki vlagajo v kolesarske steze.
+Pred dobrimi sto leti, ko je Slovenija zaradi rapalske pogodbe ostala brez dostopa do morja, so to želeli doseči z železniško progo, ki bi Belo krajino povezala s hrvaškim Vrbovskim. Od tam naprej bi bila na voljo trasa do hrvaškega morja. Železniški promet naj bi po slovenskem delu proge stekel leta 1942, vendar je gradbena dela ustavila druga svetovna vojna in proga je ostala nedokončana.
+»Šlo je za predvojno gradnjo železniške proge, ki bi Sloveniji odprla pot na morje. Sekcija za trasiranje državnih železniških prog za povezavo Slovenije z morjem je bila ustanovljena 18. februarja 1923. Šele leta 1936 je vlada sprejela realen program za gradnjo železniških prog, ki je predvideval tudi gradnjo proge Črnomelj–Vrbovsko.« Tako v knjigi
+Belokranjska železniška proga
+piše Karel Rustja, poznavalec dogodkov, ki so povezani z železnico. Po takratnih načrtih je bilo po Sloveniji zamišljenih 22 kilometrov železnice, celotna trasa do Vrbskega bi bila dolga 42 kilometrov. Ob zaustavitvi del je bila zgrajena skoraj polovica proge, po večini so bili utrjeni nasipi in useki. Rustja v knjigi spomni še, da je bila večji izziv gradnja na hrvaški strani, kjer bi morali premagati 200 metrov višinske razlike. Na nekdanji trasi so vidni ostanki gradnje, useki, nasipi, premostitveni objekti in podobno. Med domačini se še vedno uporablja ime »štreka«.
+Trasa čaka na prebujenje
+V Beli krajini je že več let prisotna ideja, da se nedokončana železniška proga preoblikuje v kolesarsko stezo, ki jih tam kronično primanjkuje. Ideja je tokrat zaživela v obliki pobude civilne družbe, da se občina Črnomelj aktivno vključi v projekt kolesarske povezave po poteh neuresničenega projekta železniške proge Črnomelj–Vinica.
+Pobuda je dobila zagon ravno v času, ko na ministrstvu za infrastrukturo vodijo skoraj 300 milijonov evrov vreden projekt gradnje regionalnih kolesarskih povezav. Ta sicer vključuje tudi del omenjene železniške trase pri Kanižarici, kjer bo vzpostavljenih 4,3 kilometra povezav, od tega bo na novo zgrajenih 0,7 kilometra. Vredno je omeniti, da osrednji cilj projekta ministrstva ni krepitev turistične ponudbe, temveč povezovanje mestnih središč z zaledjem in spodbujanje alternativnih oblik prevoza. Projekt je v tem smislu podprt še z evropskimi sredstvi, saj sovpada s trajnostnimi smernicami mobilnosti.
+Prvopodpisana pod pobudo podjetnica
+Bernarda Kump
+pravi, da je nedokončana trasa železniške proge še vedno opazna v naravi. Čeprav tračnice niso položene, so sledovi proge še vidni, zastavljena je bila tudi lokacija železniške postaje, razlaga. »Pobudo smo predstavili, da se začne o tej ideji resno razmišljati. Možnosti, da bi gradnjo financirala občina Črnomelj, so majhne, saj gre za majhno občino. Ideja je atraktivna, Bela krajina pa potrebuje nekaj, kar bi jo utrdilo kot butično, zeleno in avanturistično destinacijo.«
+Občina Črnomelj pravkar gradi nov vrtec in šolo, pri čemer pobudniki zatrjujejo, da so to prioritetni projekti, ki se ne smejo ustaviti. Tako je razumljivo, da občina ne razpolaga s presežkom denarja, ki bi ga lahko usmerila v obsežno gradnjo kolesarske povezave, zato se obračajo v smeri oblikovanja projektne dokumentacije ter pridobivanja državnih in evropskih sredstev prek razpisov.
+Malo varnih turističnih kolesarskih povezav
+Vredno je omeniti, da Bela krajina, kljub uspehu v sezonah turističnih bonov, še naprej ostaja brez varnih kolesarskih povezav. Občina Črnomelj sicer gradi kolesarsko stezo skozi kraj Kanižarica, a to ni turistični projekt. Bolj bo namenjen mobilnosti med obema industrijskima conama v Črnomlju. Okolico Vinice poleti zaznamujejo kolone avtomobilov zaradi navala na tamkajšnji mejni prehod, tudi preostali deli pa ostajajo brez pločnikov, ki bi jih lahko uporabljali tako domači kolesarji kot turisti. »Če kolesarji pridejo z električnimi kolesi, najprej vprašajo, kje se lahko peljejo in kje bi lahko napolnili baterije. Zdaj se vozijo po cestah, saj nimamo modernih prog, čeprav si jih prebivalci želijo,« poudarja Kumpova. Dodajmo, da bi se turisti do Črnomlja lahko pripeljali z vlakom, naprej do meje pa s kolesom.
+»Prednost naše pobude je tudi ta, da je lastnica večine zemljišč, čez katera bi potekala kolesarska proga, še vedno država, kar zelo olajša postopek gradnje. Izjema je le okolica Dragatuša, kjer bi kolesarsko povezavo lahko uredili ob regionalni cesti,« še pravi Kumpova. Pobuda zanjo je že dobila soglasje odbora za turizem občine Črnomelj, v prihodnjem tednu bodo idejo obravnavali še na občinskem svetu.
+V Beli krajini je ne nazadnje aktualen tudi program Interreg, ki zastopa sodelovanje Slovenije in Hrvaške. Kot poudarjajo pobudniki kolesarske proge, se trasa ne konča v Sloveniji, temveč teče naprej še do Vrbovskega na Hrvaškem, s tem pa predstavlja tudi potencial za čezmejno sodelovanje.
+
+## Strojni datumi
+{"time": ["2022-02-19T13:00:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Nalo\\u017eba, ki bi lahko prerodila Belo krajino\",\"datePublished\":\"2022-02-19T13:00:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/59197\\/01-kolesarskatrasa19022022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/59197\\/02-kolesarskatrasa19022022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/59197\\/03-kolesarskatrasa19022022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/59197\\/04-kolesarskatrasa19022022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/59197\\/05-kolesarskatrasa19022022.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aljo\\u0161a \\u010crnko, foto: Uro\\u0161 Ho\\u010devar, Jure Er\\u017een\\/Delo\"}}"]}

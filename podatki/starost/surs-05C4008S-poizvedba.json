@@ -1,0 +1,70 @@
+{
+  "query": [
+    {
+      "code": "OBČINE",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "0",
+          "017"
+        ]
+      }
+    },
+    {
+      "code": "POLLETJE",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "2008H1",
+          "2009H1",
+          "2010H1",
+          "2011H1",
+          "2012H1",
+          "2013H1",
+          "2014H1",
+          "2015H1",
+          "2016H1",
+          "2017H1",
+          "2018H1",
+          "2019H1",
+          "2020H1",
+          "2021H1",
+          "2022H1",
+          "2023H1",
+          "2024H1",
+          "2025H1",
+          "2026H1"
+        ]
+      }
+    },
+    {
+      "code": "SPOL",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "0"
+        ]
+      }
+    },
+    {
+      "code": "KAZALNIK",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      }
+    }
+  ],
+  "response": {
+    "format": "json"
+  }
+}

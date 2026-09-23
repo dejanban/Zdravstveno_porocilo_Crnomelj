@@ -1,0 +1,61 @@
+---
+url: "https://www.radio-odeon.com/novice/sovinek-v-srediscu-skrbi-od-zanemarjanja-otrok-do-unicevanja-infrastrukture/"
+naslov: "Sovinek v središču skrbi: od zanemarjanja otrok do uničevanja infrastrukture"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2025-12-03T20:00:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Sovinek v središču skrbi: od zanemarjanja otrok do uničevanja infrastrukture
+
+## Zajeto besedilo
+
+Sovinek v središču skrbi: od zanemarjanja otrok do uničevanja infrastrukture
+sre., 03.12.2025 ob 20:00
+V Semiču je pretekli teden na pobudo županje
+Polone Kambič
+potekal sestanek na temo spremljanja in izboljševanja položaja stalno naseljene romske skupnosti v občini, kjer so sicer evidentirana štiri romska naselja. V primeru Vrčic, Blatnika in Srednje vasi gre za mešana naselja, kjer Romi sobivajo z večinskim prebivalstvom. V teh naseljih občina zaznava dobro sodelovanje z Romi, saj otroci redno obiskujejo šolo, nekateri starši so zaposleni, infrastruktura pa ostaja nepoškodovana in ustrezno vzdrževana.
+Povsem drugačne pa so razmere v romskem naselju Sovinek, kjer kljub urejeni osnovni komunalni infrastrukturi, želenih učinkov ni. Otroci vrtca in šole ne obiskujejo redno, tisti, ki šolo obiskujejo, pa pogosto prihajajo zanemarjeni. V naselju se pojavljajo izbruhi nalezljivih bolezni, zlasti garij, hkrati pa na občini pogosto opažajo uničeno infrastrukturo, kot so električne napeljave in vodovodni priključki. Vsi prebivalci Sovinka so še vedno prejemniki denarne socialne pomoči in dolgotrajno brezposelne osebe, je opozorila
+Tatjana Zorc
+s semiške občinske uprave.
+Občina kot ključno za izboljšanje položaja romske skupnosti izpostavlja redno vključevanje otrok v vzgojno-izobraževalni sistem. Nujno je, da se otroci čim prej vključijo v predšolsko vzgojo in vrtec redno obiskujejo, saj jim to omogoča lažji prehod v osnovno šolo.
+Izpostavljajo tudi problem razseljevanja romskih družin iz obstoječih naselij zaradi medsebojnih sporov. Zaradi tega pogosto kupujejo starejše hiše ali zidanice, ki so neprimerne za bivanje in brez dostopa do osnovne komunalne infrastrukture, kar dodatno otežuje zagotavljanje ustreznih bivalnih razmer, predvsem za romske otroke.
+Porast odvisnosti od drog
+Vodja črnomaljske enote Centra za socialno delo (CSD) Dolenjska in Bela krajina
+Ines Ružič Vardjan
+, je povedala, da na terenu zaznavajo povečan pojav odvisnosti od prepovedanih substanc, predvsem v naselju Sovinek, kar neposredno vpliva na socialno funkcioniranje družin in porabo socialnih transferjev. Velik del sredstev tako ne doseže svojega namena, kar dodatno poglablja socialno stisko, zlasti med romskimi ženskami in otroki, kjer prihaja do zanemarjenja. Znotraj posameznih romskih skupnosti pogosto prihaja do medsebojnega izkoriščanja, kar vodi v spore in razseljevanja. CSD ugotavlja, da je napredek v takšnih primerih minimalen oziroma, da vsaj ni poslabšanja, kadar je center stalno prisoten v naselju ali pri posameznih družinah.
+Izpostavila je tudi primer semiškega romskega otroka, ki so ga morali izpisati iz vrtca, ker ni imel urejenih osnovnih zdravstvenih pregledov in ni bil naročen k pediatru. Do takšnih primerov po njenih besedah ne bi smelo prihajati, saj je zgodnja vključitev v vzgojno-varstvene zavode ključna, če želimo doseči dolgoročne spremembe.
+Otroci pogosto priče družinskega nasilja
+Po besedah načelnika Policijske postaje Črnomelj
+Jožeta Vrščaja
+, so letos na območju semiške in črnomaljske občine v primerjavi z letom prej obravnavali manjše število kaznivih dejanj. Manj je kršitev javnega reda in miru, zaznavajo pa večje število alkoholiziranih voznikov in posledično večje število prometnih nesreč, za katere je vzrok alkohol.
+"Takoj, ko je določen del populacije v zaporu, se opazi zmanjšano število kaznivih dejanj,"
+pravi Vrščaj, ki poudarja, da je potrebno posebno pozornost posvetiti kaznivim dejanjem zanemarjanja otrok, ugotavljanju in preprečevanju nasilja v družini in spolnih zlorab, pri čemer je ključno dobro sodelovanje s CSD, osnovno šolo in ostalimi deležniki.
+Vodja semiškega vrtca Sonček
+Vanesa Požek
+je povedala, da imajo letos v vrtcu vpisanih 16 romskih otrok, kar je največ v zadnjih 20 letih. V vrtcu sta zaposleni romski pomočnici, ki sta nepogrešljivi pri delu z romskimi otroki. Ocenjuje, da je trenutno stanje dobro in se je v odnosu na prejšnja leta precej izboljšalo. Otroci vrtec redno obiskujejo, starši z vrtcem komunicirajo, otroci so cepljeni in zdravstveno pregledani. Skupaj s CSD opažajo, da romski starši svoje otroke raje vključujejo v mešane vrtčevske skupine, manj v romske oddelke.
+Prav tako zaznavajo, da imajo otroci, ki vstopajo v vrtčevsko varstvo šele v predšolskem obdobju, velike težave s prilagajanjem, ko gre za jezik, socializacijo, obnašanje, sledenje navodilom, ipd. Zato je po njenih besedah ključno, da se otroci vključijo v vrtec čim prej in ga tudi redno obiskujejo.
+Semiško osnovno šolo v tem šolskem letu obiskuje 38 romskih učencev, večina redno. Po besedah svetovalne delavke
+Mojce Kambič
+, med romskimi učenci trenutno ne zaznavajo večjih vedenjskih težav, se pa pojavljajo težave pri posameznih otrocih iz družin, ki prihajajo iz naselja Sovinek. Tamkajšnji otroci prihajajo v šolo neurejeni, brez osnovnih pripomočkov, nenaspani in v stiski. Pogosto so priče družinskega nasilja, kar tudi sami povedo. Šola zagotavlja šolske pripomočke, obleke in druge potrebščine, ki jih romska pomočnica otrokom deli po potrebi. Tudi Kambičeva ugotavlja, da je pomoč najbolj učinkovita v tistih družinah, kjer je stalna prisotnost centra za socialno delo.
+Noseče mladoletnice in nenujni obiski urgence
+Vodja Centra za krepitev zdravja Zdravstvenega doma Črnomelj
+Tatjana Gregorič
+izpostavlja nizko zdravstveno pismenost in dejstvo, da Romi težko sledijo navodilom, predvsem v smislu doslednosti pri zdravljenju. Poleg neurejenih bivalnih razmerah in nezdravih prehranskih navad, zaznavajo zgodnje nosečnosti pri mladoletnicah, pri čemer osveščajo starše in obveščajo pristojne ustanove. Redno izvajajo tudi materinsko šolo za romske starše, ki pa se je ti ne udeležujejo. Bolj kot na preventivo, se po njenih besedah Romi zanašajo na kurativo in pričakujejo, da jim bo zdravnik predpisal tablete, ki bodo rešile njihove zdravstvene težave. Iz urgence še vedno poročajo o obiskovanju Romov za bolezenska stanja, ki niso nujna.
+Gorazd Babič
+, vodja oddelka aktivne politike zaposlovanja pri novomeški enoti Zavoda za zaposlovanje je pojasnil, da je na območju semiške občine sicer bilo nekaj zaposlitev Romov, predvsem preko javnih del. A čeprav so ravno javna dela namenjena ponovnemu vključevanju dolgotrajno brezposelnih oseb na trg dela opažajo, da zaposlovanje po tem ukrepu stagnira oz. upada. Pogosto se zatakne že pri pridobitvi zdravniškega potrdila, ko pa dejansko pride do zaposlitve, pa delodajalci velikokrat obupajo zaradi pogostih odsotnostih zaposlenega.
+Izpostavil je tudi razkorak med višino plačila pri javnih delih in socialnimi prejemki. Ker gre pri vključevanju Romov za večinoma nižje izobražene osebe je tudi plača temu primerna oz. minimalna, kar pa ne predstavlja velike razlike v primerjavi s socialnimi prejemki. Zaposlovanje bi moralo biti zato po njegovem za tiste Rome, ki želijo delati, precej bolj motivacijsko naravnano.
+Nekdo brez delavnih navad, ne bo kar čez noč postal vzoren delavec
+Darko Bubnjič
+, ki je v Skupni občinski upravi Dolenjske in Bele krajine zadolžen za področje dela z romsko populacijo, pove, da mu Romi na terenu zagotavljajo, da bi si želeli delati, a ko se s konkretnimi delodajalci, ki so pripravljeni Rome zaposliti, zmenijo za termin razgovora, se Romi teh dogovorov ne držijo.
+Glede na dolgoletne izkušnje pri delu z Romi ugotavlja, da bi bilo socialno podjetništvo edini način, na katerega bi aktivirali romsko populacijo. Zmotno je po njegovem pričakovati, da bo nekdo, ki nima nobenih delovnih navad in strukture, čez noč postal vzoren delavec. Opaža tudi, da Romi ne razumejo osnovnih postopkov, kot je denimo oddaja vlog, zato stvari ne izpeljejo do konca in čakajo, da se bo nekaj zgodilo kar samo od sebe. In ko se ne zgodi, je za to kriv nekdo drug.
+Strah pred odvzemom avtomobila
+Od sprejema Šutarjevega zakona, Bubnjič sicer opaža, da se Romi zavedajo sprememb. Večina jih je kar naenkrat dobro seznanjena z višino svojega dolga pri Finančni upravi RS (Furs) in že naslavljajo prošnje za obročna odplačila dolga, da jim ne bi odvzeli avtomobilov. Podobno opaža tudi direktorica Zavoda za izobraževanje in kulturo Črnomelj
+Maja Mihelič
+, ki pove, da se je kar nekaj Romov že obrnilo na njih po pomoč pri pisanju prošenj za obročno odplačilo dolgov.
+Udeleženci sestanka so se sicer strinjali, da je medsebojno povezovanje in oblikovanje okvirnih načrtov dela ključno za učinkovito spremljanje in izboljševanje položaja romske skupnosti v občini, saj omogoča hitrejše reševanje izzivov in usklajeno delovanje vseh vpletenih deležnikov.
+
+## Strojni datumi
+{"time": ["2025-12-03T20:00:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Sovinek v sredi\\u0161\\u010du skrbi: od zanemarjanja otrok do uni\\u010devanja infrastrukture\",\"datePublished\":\"2025-12-03T20:00:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/109556\\/sovinek0.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"M.N.\"}}"]}

@@ -1,0 +1,27 @@
+---
+url: "https://www.radio-odeon.com/novice/leta-2050-bomo-srecni-in-zaceli-graditi-drugi-tir-do-metlike/"
+naslov: "Leta 2050 bomo srečni in začeli graditi drugi tir do Metlike"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2021-11-03T16:00:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Leta 2050 bomo srečni in začeli graditi drugi tir do Metlike
+
+## Zajeto besedilo
+
+Leta 2050 bomo srečni in začeli graditi drugi tir do Metlike
+sre., 03.11.2021 ob 16:00
+Država namerava do leta 2030 zgraditi drugi tir od Ljubljane do Ivančne Gorice, med letoma 2030 in 2035 pa začeti gradnjo drugega tira do Novega mesta. Da se drugi dolenjski tir začne graditi šele v prihodnjem desetletju, za občine ob tej progi ni sprejemljivo. Župani se ne strinjajo niti s časovnico gradnje drugega tira od Novega mesta do Metlike, ki je predvidena šele po letu 2050, piše novinar Bojan Rajšek v Delu. Z nadgradnjo dolenjske proge se bodo sicer bistveno izboljšali potovalni časi, saj bodo vlaki med Ljubljano in Grosupljem vozili 15 minut, do Ivančne Gorice pa 25 minut, kar bo privabilo večje število potnikov, so za časnik sporočili z direkcije za infrastrukturo (DRSI).
+Nezadovoljni s časovnico
+Drugi tir naj bi v Belo krajino država pripeljala skladno z Vizijo razvoja Slovenije 2050, torej v drugi polovici tega stoletja. Da bodo Slovenci leta 2050 srečni, je med drugim zapisano v tej viziji, kako kaže pa so trenutno manj srečni župani od Ljubljane in Novega mesta pa vse do Bele krajine. Ti so
+v pismu, naslovljenem na Družbo za razvoj infrastrukture (DRI)
+med drugim zapisali, da se prenova proge ne sme končati v Novem mestu, ampak je projekt treba nadaljevati do Metlike oziroma državne meje. Časovnica, da se drugo fazo prenove proge med Ivančno Gorico in Novim mestom izvede šele med letoma 2030 in 2035, za občine ni sprejemljiva, prav tako tudi ni sprejemljivo, da odsek od Novega mesta do Metlike in državne meje s sosednjo Hrvaško sploh ni obdelan. Na tem odseku so namreč infrastrukturni ukrepi postavljeni šele v obdobje po letu 2050, kar bi po prepričanju županov pomenilo dodatna desetletja stagnacije regionalnega železniškega prometa.
+Na direkciji za infrastrukturo odgovarjajo, da so bile za belokranjski odsek proge preučene potrebe ter izdelane osnovne strokovne podlage in predštudije upravičenosti za nadgradnjo regionalnih železniških prog v Sloveniji ter železniškega območja na območju Ljubljanske urbane regije (november 2020), vendar v njih ni bil izkazan potencial potnikov in tovora, ki bi narekoval potrebe po gradnji dodatnega tira, še piše Delo.
+Ustanovili Evropsko združenje za teritorialno sodelovanje
+Med župani občin Črnomelj, Metlika, Semič, Škofljica, Mirna Peč, Ivančna Gorica, Novo mesto, Grosuplje, Trebnje in županom Karlovške županije, ob prisotnosti takratnega ministra za infrastrukturo, je bil v maju 2018 podpisan dogovor o sodelovanju pri revitalizaciji čezmejne železniške infrastrukture Ljubljana – Grosuplje – Trebnje – Novo mesto – Metlika – Karlovec – Zagreb. Podpisniki dogovora se med drugim zavzemajo za modernizacijo železniške proge, višjo potovalno hitrost, okrepitev nosilnosti proge, ureditev postajališč in odpravo nivojskih prehodov. Ocenili so, da bi navedene cilje najbolje in najhitreje dosegli z ustanovitvijo nove pravne osebe – Evropskega združenja za teritorialno sodelovanje (EZTS). Sklep o pristopu k EZTS, v sklopu katerega bodo občine lažje dosegale čezmejno, transnacionalno ali medregijsko sodelovanje, so potrdili tudi vsi trije belokranjski občinski sveti. S tem so novoustanovljeno združenje pozvali k izvajanju vseh potrebnih aktivnosti na celotni trasi proge za izvedbo elektrifikacije in dvotirne železniške povezave.
+
+## Strojni datumi
+{"time": ["2021-11-03T16:00:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Leta 2050 bomo sre\\u010dni in za\\u010deli graditi drugi tir do Metlike\",\"datePublished\":\"2021-11-03T16:00:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/56410\\/metlika-train_station.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

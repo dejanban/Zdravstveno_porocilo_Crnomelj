@@ -1,0 +1,83 @@
+[
+  {
+    "zdravnik": "MILENKOVIĆ  SUZANA ",
+    "izvajalec": "MEDICINA MS, ZUNAJBOLNIŠNIČNA DEJAVNOST, D.O.O.",
+    "dejavnost": "Splošna ambulanta - dodatno 0,5 DMS     ",
+    "timi": 1.0,
+    "opredeljeni": 1706.0,
+    "GK_na_tim": 1838.44,
+    "sprejema": "DA"
+  },
+  {
+    "zdravnik": "VUKOVIĆ  MIRO ",
+    "izvajalec": "ORDINACIJA SPLOŠNE MEDICINE MIRO VUKOVIĆ, DR. MED. SPEC. DRUŽ. MED.",
+    "dejavnost": "Splošna dejavnost - splošna ambulanta   ",
+    "timi": 0.45,
+    "opredeljeni": 772.0,
+    "GK_na_tim": 1675.51,
+    "sprejema": "NE"
+  },
+  {
+    "zdravnik": "ŠIMEC  VALERIJA ",
+    "izvajalec": "ZDRAVSTVENI DOM ČRNOMELJ",
+    "dejavnost": "Splošna dejavnost - splošna ambulanta   ",
+    "timi": 1.0,
+    "opredeljeni": 1436.0,
+    "GK_na_tim": 1521.74,
+    "sprejema": "NE"
+  },
+  {
+    "zdravnik": "ŠPEC  LJILJANA ",
+    "izvajalec": "ZDRAVSTVENI DOM ČRNOMELJ",
+    "dejavnost": "Splošna dejavnost - splošna ambulanta   ",
+    "timi": 1.0,
+    "opredeljeni": 1198.0,
+    "GK_na_tim": 1469.04,
+    "sprejema": "NE"
+  },
+  {
+    "zdravnik": "CIMERMAN JAKŠA EVA ",
+    "izvajalec": "ZDRAVSTVENI DOM ČRNOMELJ",
+    "dejavnost": "Splošna dej.-otroški in šolski dispanzer",
+    "timi": 0.75,
+    "opredeljeni": 1188.0,
+    "GK_na_tim": 1362.97,
+    "sprejema": "NE"
+  },
+  {
+    "zdravnik": "FORTUN TOMAŽIČ JOŽICA ",
+    "izvajalec": "ZDRAVSTVENI DOM ČRNOMELJ",
+    "dejavnost": "Splošna dejavnost - splošna ambulanta   ",
+    "timi": 1.0,
+    "opredeljeni": 1503.0,
+    "GK_na_tim": 1872.86,
+    "sprejema": "NE"
+  },
+  {
+    "zdravnik": "MIĆIĆ-DESPOTOVIĆ MIRELA ",
+    "izvajalec": "ZDRAVSTVENI DOM ČRNOMELJ",
+    "dejavnost": "Splošna dejavnost - splošna ambulanta   ",
+    "timi": 1.02,
+    "opredeljeni": 1830.0,
+    "GK_na_tim": 1938.48,
+    "sprejema": "NE"
+  },
+  {
+    "zdravnik": "PLUT  GABRIJELA ",
+    "izvajalec": "ZDRAVSTVENI DOM ČRNOMELJ",
+    "dejavnost": "Splošna dejavnost - splošna ambulanta   ",
+    "timi": 1.03,
+    "opredeljeni": 1832.0,
+    "GK_na_tim": 1878.43,
+    "sprejema": "NE"
+  },
+  {
+    "zdravnik": "PREDALIČ  MATEJA ",
+    "izvajalec": "ZDRAVSTVENI DOM ČRNOMELJ",
+    "dejavnost": "Splošna dej.-otroški in šolski dispanzer",
+    "timi": 0.75,
+    "opredeljeni": 1527.0,
+    "GK_na_tim": 1489.45,
+    "sprejema": "NE"
+  }
+]

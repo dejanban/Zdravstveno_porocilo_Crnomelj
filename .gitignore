@@ -1,0 +1,29 @@
+# Lokalno okolje Python in predpomnilniki
+/.python-deps/
+/.venv/
+/venv/
+/env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Lokalne skrivnosti (vzorci nastavitev ostanejo vključeni)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Začasne datoteke operacijskega sistema in urejevalnikov
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.swp
+*.swo
+
+# Viri, podatki, wiki, arhiv, preverjanje in zgrajena poročila
+# namenoma ostanejo vključeni zaradi sledljivosti in rabe brez omrežja.

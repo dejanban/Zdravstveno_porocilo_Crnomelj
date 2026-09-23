@@ -1,0 +1,18774 @@
+---
+url: https://health.ec.europa.eu/document/download/1e23af78-d146-4c84-be77-690fc6044655_en?filename=2024_healthatglance_rep_en.pdf&prefLang=es
+naslov: "Health at a Glance: Europe 2024"
+izdajatelj: Evropska komisija in OECD
+dostopano: 2026-09-21
+metoda zajema: WebFetch (requests; izvirno besedilo)
+---
+
+## Stran PDF 1
+
+Health at a Glance: 
+Europe 2024
+STATE OF HEALTH IN THE EU CYCLE
+
+
+## Stran PDF 2
+
+
+
+## Stran PDF 3
+
+Health at a Glance: Europe
+2024
+STATE OF HEALTH IN THE EU CYCLE
+
+
+## Stran PDF 4
+
+This work is published under the responsibility of the Secretary-General of the OECD and the President of the European Commission.
+The opinions expressed and arguments employed herein do not necessarily reflect the official views of the Member countries of the
+OECD or of the European Union.
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over any territory, to
+the delimitation of international frontiers and boundaries and to the name of any territory, city or area.
+The names of countries and territories and maps used in this joint publication follow the practice of the OECD.
+Specific territorial disclaimers applicable to the OECD:
+Note by the Republic of Türkiye
+The information in this document with reference to “Cyprus” relates to the southern part of the Island. There is no single authority
+representing both Turkish and Greek Cypriot people on the Island. Türkiye recognises the Turkish Republic of Northern Cyprus
+(TRNC). Until a lasting and equitable solution is found within the context of the United Nations, Türkiye shall preserve its position
+concerning the “Cyprus issue”.
+Note by all the European Union Member States of the OECD and the European Union
+The Republic of Cyprus is recognised by all members of the United Nations with the exception of Türkiye. The information in this
+document relates to the area under the effective control of the Government of the Republic of Cyprus.
+Please cite this publication as:
+OECD/European Commission (2024), Health at a Glance: Europe 2024: State of Health in the EU Cycle, OECD Publishing, Paris, 
+https://doi.org/10.1787/b3704e14-en.
+ISBN 978-92-64-80445-6 (print)
+ISBN 978-92-64-58300-9 (PDF)
+ISBN 978-92-64-82463-8 (HTML)
+ISBN 978-92-64-55040-7 (epub)
+Health at a Glance: Europe
+ISSN 2305-607X (print)
+ISSN 2305-6088 (online)
+European Union
+ISBN 978-92-68-21383-4 (print)
+ISBN 978-92-68-21382-7 (PDF)
+Catalogue number: EW-01-24-003-EN-C (print)
+Catalogue number: EW-01-24-003-EN-N (PDF)
+Revised version, November 2024
+Details of revisions available at: https://www.oecd.org/en/publications/support/corrigenda.html
+Photo credits: Cover © fizkes/Shutterstock.com.
+Corrigenda to OECD publications may be found at: https://www.oecd.org/en/publications/support/corrigenda.html.
+© OECD/European Union 2024. In the event of any discrepancy between the original work and any translated versions of this work, only the text of original
+work should be considered valid.
+   Attribution 4.0 International (CC BY 4.0)
+This work is made available under the Creative Commons Attribution 4.0 International licence. By using this work, you accept to be bound by the terms of this licence 
+(https://creativecommons.org/licenses/by/4.0/).
+Attribution – you must cite the work.
+Translations – you must cite the original work, identify changes to the original and add the following text: In the event of any discrepancy between the original work and the 
+translation, only the text of original work should be considered valid.
+Adaptations – you must cite the original work and add the following text: This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in 
+this adaptation should not be reported as representing the official views of the OECD or of its Member countries.
+Third-party material – the licence does not apply to third-party material in the work. If using such material, you are responsible for obtaining permission from the third party and for 
+any claims of infringement.
+You must not use the OECD and/or European Commission logo, visual identity or cover image without express permission or suggest the OECD and/or European Commission 
+endorses your use of the work.
+Any dispute arising under this licence shall be settled by arbitration in accordance with the Permanent Court of Arbitration (PCA) Arbitration Rules 2012. The seat of arbitration shall 
+be Paris (France). The number of arbitrators shall be one.
+
+
+## Stran PDF 5
+
+   3 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Foreword 
+Europe finds itself at a pivotal moment in the evolution of health systems across the continent. The health landscape is changing 
+rapidly, requiring governments, healthcare providers and society at large to address new and complex health challenges while 
+building on the successes of the past. 
+Several megatrends are bound to profoundly influence the future of healthcare. Demographic shifts, driven by increasing life 
+expectancy and declining birth rates, are placing growing demands on health and long-term care services, while reducing the 
+working-age population needed to both finance – through taxation or social security contributions – and deliver these services. At 
+the same time, rapid advances in medical technology – from enhanced diagnostics to the digital transformation of health systems 
+and the integration of artificial intelligence tools – offer potential to improve efficiency and expand access to care, but also raise 
+questions about equity and necessary safeguards against misuse. Moreover, the growing health impacts of climate change, such 
+as the increasing frequency and severity of heatwaves resulting in more heat-related illnesses and fatalities, underscore the need 
+for both more resilient health systems and a sustainable, green transition also within health systems. We need forward-looking 
+policy solutions that fully harness the potential of new technologies while upholding the core principles of universal access to high-
+quality care – a hallmark of healthcare in the EU. 
+This 2024 edition of Health at a Glance: Europe comes at a critical juncture, providing valuable analysis and insights to support 
+decision-making across European countries. This year’s thematic section examines two interconnected priorities: (a) promoting 
+healthy longevity, and (b) addressing health workforce shortages. These challenges are fundamental to managing the shifting 
+balance between demand and supply capacity in European health systems. 
+Promoting healthy longevity 
+Healthy longevity can be defined as living a long life in good physical and mental health, without overlooking the social aspects of 
+well-being. Demographic shifts across the EU are profound, with the proportion of the population aged 65 and above having 
+increased from 16% in 2000 to over 21% in 2023, with projections indicating a further rise to nearly 30% by 2050. Despite overall 
+gains in life expectancy, the quality of these additional years remains a critical concern, as evidenced by more than 40% of EU 
+citizens aged 65 and above living with at least two chronic conditions. Promoting healthy longevity requires a change in the health 
+systems paradigm, moving from reactive to proactive, comprehensive prevention actions implemented across the life course. 
+Strengthening the health workforce to build more resilient health systems 
+The EU faces a health workforce deficit, with an estimated shortage of 1.2 million doctors, nurses and midwives as of 2022. This 
+shortage stems from multiple factors: demographic ageing affecting both patients and the health workforce itself, combined with 
+difficult working conditions that contribute to staff burnout and retention difficulties – challenges that were further intensified by the 
+COVID-19 pandemic. Bold policy interventions are required across three key areas: expanding professional training capacity, 
+improving workplace conditions to attract and retain talent, and leveraging innovations to increase productivity. OECD estimates 
+indicate that strengthening the health workforce to build more resilient health systems would require additional investment 
+equivalent to about 0.6% of GDP on average across EU countries compared to pre-pandemic levels. While this investment is 
+substantial, it is dwarfed by the economic and social costs of fragile and understaffed health systems. Addressing skills shortages, 
+as underscored by the European Commission’s Skills Agenda, and optimising the use of skills within new models of care will be 
+crucial for meeting rising demands with limited resources, while also supporting the digital and green transitions. 
+
+
+## Stran PDF 6
+
+4    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD EUROPEAN UNION 2024 
+  
+Health system transformation at the heart of the European Health Union 
+Digital transformation offers significant potential for health system efficiency, with evidence indicating that digital tools can reduce 
+administrative workload for health professionals by up to 30%. The European Health Data Space provides a crucial framework 
+for facilitating health data exchange and accessibility while upholding robust data protection standards. Success in this digital 
+transition requires strengthening health data infrastructure, incorporating comprehensive cybersecurity measures and targeted 
+training for both health workers and patients. Against this backdrop, the OECD continues to support countries’ progress in 
+implementing the 2017 OECD Council Recommendation on Health Data Governance, including activities focused on digital 
+security in health and the responsible use of AI in healthcare. 
+Non-communicable diseases (NCDs) – such as cardiovascular diseases, cancer, diabetes, neurodegenerative disorders and 
+autism – pose a significant burden on health systems in the EU. Implementing Europe’s Beating Cancer Plan and the Healthier 
+Together Initiative, promoting preventive care, reducing lifestyle risk factors and transitioning towards more integrated models of 
+care will be essential. The OECD provides indispensable support for these efforts through rigorous cost-benefit analyses of policy 
+interventions and identification of best practices in health promotion, disease prevention and chronic care management. 
+Furthermore, the forthcoming OECD Patient-Reported Indicator Surveys (PaRIS) results, scheduled for release in early 2025, will 
+integrate patient perspectives into health system performance assessment, marking a significant advancement in measuring what 
+matters to patients. 
+Mental health is a public health priority, especially due to the COVID-19 pandemic’s significant and persistent impact on young 
+people. Expanding access to timely and quality mental health services, using digital solutions where appropriate, and promoting 
+mental health literacy throughout the life course, including in the education system, will be vital. The European Commission’s 
+Comprehensive Approach to Mental Health provides a robust framework for action. In partnership with the European Commission, 
+the OECD is working to identify best practices in mental health, including school-based programmes that foster social and 
+emotional skills, measures to improve timely access to mental health services for those with mild to moderate issues and suicide 
+prevention initiatives. 
+Combatting antimicrobial resistance (AMR) and the achievement of the 2030 targets outlined in the Council Recommendation on 
+stepping up EU actions to combat AMR in a One Health approach is paramount. OECD economic analysis quantifies the annual 
+cost of AMR to the EU/EEA economies at EUR 11.7 billion a year, with slightly more than half of this amount related to extra 
+health expenditure incurred from treating resistant infections and the remainder consisting in economic losses due to reduced 
+workforce participation and productivity. The EU’s strategic response to this pivotal challenge encompasses multiple integrated 
+initiatives: the Serious Cross-border Threats to Health Regulation and the Pharmaceutical Strategy for Europe provide support to 
+bolster crisis preparedness and response, strengthen supply chains for critical materials and drive innovation. Building on this 
+foundation, the OECD is advancing its support for member countries in addressing medical supply chain vulnerabilities. As a 
+crucial first step, the OECD will update its landscape analysis of recent initiatives aimed at securing medical supply chains, with 
+a particular focus on international efforts. 
+A collaborative path forward 
+The structural challenges facing European health systems demand exceptional levels of collaboration – not only between health 
+and finance ministries, but also across sectors and among countries – to build sustainable, high-performing and people-centred 
+health systems. It will be essential to foster competitiveness and innovation within the health sector, positioning it as a driver of 
+economic growth and societal resilience. However, this pursuit of innovation must be balanced by a strong commitment to ensuring 
+that all citizens can benefit from these advancements. The Commission’s priorities for an Economy that Works for People and the 
+European Pillar of Social Rights offer a valuable framework to guide efforts at both the national and EU levels, aligning with the 
+OECD’s 2025-26 programme of work promoting strong, sustainable, inclusive and resilient economic growth. 
+This report offers a comprehensive review of population health status and the performance of health systems across Europe, 
+encompassing successes and setbacks and delivering valuable insights for shaping forward-looking health policies tailored to 
+diverse national contexts. The European Commission and the OECD remain committed to supporting EU countries in this crucial 
+endeavour, underscoring a shared dedication to health equity and the recognition that robust, accessible health systems are vital 
+for societal well-being and economic prosperity. 
+Through a continued focus on evidence-based policy making, European countries can develop resilient health systems that deliver 
+the high-quality, accessible care that all European citizens – regardless of socio-economic status or geographic location – expect 
+and deserve. This report marks an important step in that journey, providing a reflection and a solid evidence base for the crucial 
+work that lies ahead. 
+
+
+## Stran PDF 7
+
+   5 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Finally, as we look at the potential enlargement of the EU, it is crucial to support candidate countries in aligning with EU health 
+priorities and closing gaps in health outcomes. Ensuring these nations are fully prepared will foster greater health equity across 
+Europe and strengthen our collective ability to respond to shared challenges. This report serves as both a roadmap of progress 
+made and a compass for future action. By addressing the pressing health challenges of today, we can shape a healthier, more 
+resilient Europe for tomorrow. 
+ 
+Stefano Scarpetta, 
+Director for Employment, Labour and Social Affairs, 
+OECD 
+ 
+Sandra Gallina, 
+Director-General for Health and Food Safety, 
+European Commission 
+
+
+## Stran PDF 8
+
+6    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD EUROPEAN UNION 2024 
+  
+Acknowledgements 
+Health at a Glance: Europe 2024 marks the start of the fifth State of Health in the EU cycle – an initiative launched by the European 
+Commission, in co-operation with the OECD and the European Observatory on Health Systems and Policies, to assist EU Member 
+States in improving the health of their citizens and the performance of their health systems. While the preparation of this publication 
+was led by the OECD, the European Commission provided guidance and substantive inputs throughout the process, as well as 
+financial support via the EU4Health Programme. 
+This publication would not have been possible without the efforts of national data correspondents from the 40 countries covered 
+in this report who have provided most of the data and metadata. We are also grateful to all the national officials who have provided 
+helpful comments on a draft of this report. 
+This report was prepared by a team from the OECD Health Division under the overall co-ordination of Gaétan Lafortune. Chapter 1 
+on health workforce challenges was prepared by Federico Pratellesi, Jose Ramalho and Gaétan Lafortune. Chapter 2 on ageing 
+and health was prepared by Eileen Rocard and Gaétan Lafortune. Chapter 3 on the health status of populations was prepared by 
+Gaétan Lafortune, Liora Bowers, Abbey Horner, Emily Hewlett and Anna Perez-Lopez. Chapter 4 on risk factors was prepared by 
+Federico Pratellesi, Eileen Rocard and Elina Suzuki, with input from Joao Matias and Maria Ana Santos from the European Union 
+Drugs Agency (EUDA) for the indicator on illicit drug consumption among adults. Caroline Penn, Michael Mueller and Jose Manuel 
+Jerez Pombo prepared Chapter 5 on health expenditure and financing. Chapter 6 on effectiveness and quality of care was 
+prepared by Rie Fujisawa, Kadri-Ann Kallas, Kate de Bienassis, Candan Kendir, Riho Isaji, Eliana Barrenho, Nicolas Larrain and 
+Ricarda Milstein. Chapter 7 on accessibility was prepared by Lucie Bryndova, Gaétan Lafortune, Michael Mueller, Ekin Dagistan, 
+Abbey Horner, Pauline Fron, Christine Le Thi and Marie-Clémence Canaud, with input from Sarah Thomson and Marcos Gallardo 
+Martínez on behalf of the WHO Barcelona Office for Health Systems Strengthening for the indicator on the financial hardship of 
+out-of-pocket spending. Chapter 8 on resilience was prepared by Federico Pratellesi, David Morgan, Jose Manuel Jerez Pombo 
+and Katarina Vujovic. This publication benefited from useful comments from Francesca Colombo, Head of the OECD Health 
+Division. 
+Many useful comments were also received from Maya Matthews, Dirk Van den Steen, Katarzyna Ptak-Bufkens and Corina 
+Vasilescu from the European Commission’s Health and Food Safety Directorate General, from Ebba Barany, Estefanía Alaminos-
+Aguilera and Lucian Agafitei from Eurostat, and from many other colleagues who commented on parts of the publication. 
+Editorial assistance was provided by Lucy Hulett and Alastair Wood from the OECD ELS Communications Team. 
+
+
+## Stran PDF 9
+
+   7 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Table of contents 
+Foreword 
+3 
+Acknowledgements 
+6 
+Readers’ guide 
+11 
+Executive summary 
+13 
+Part I Thematic chapters 
+17 
+1 Addressing health workforce challenges in the EU: Training, retaining, innovating 
+19 
+1.1. Introduction 
+20 
+1.2. Unpacking the key drivers of health worker supply and demand 
+20 
+1.3. Past trends and current challenges in health workforce in the EU 
+21 
+1.4. Improving health workforce planning to guide policy decision-making 
+31 
+1.5. Increasing the education and training of new doctors and nurses 
+33 
+1.6. Improving job quality to increase retention 
+38 
+1.7. Innovating to optimise the use of skills and new technologies 
+48 
+1.8. Conclusions 
+52 
+References 
+53 
+Notes 
+56 
+2 Living longer, living healthier? Promoting healthy longevity in Europe 
+57 
+2.1. Introduction 
+58 
+2.2. People are living longer in the EU 
+58 
+2.3. Are people living healthier in the EU? 
+61 
+2.4. The burden of diseases and injuries among older people in the EU 
+68 
+2.5. Risk factors to health among older people in the EU 
+74 
+2.6. Promoting healthy longevity 
+78 
+2.7. Conclusions 
+85 
+References 
+86 
+Annex 2.A. Gains in life expectancy and HALE at age 60, based on WHO data 
+88 
+Notes 
+89 
+
+
+## Stran PDF 10
+
+8    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD EUROPEAN UNION 2024 
+  
+Part II Overview of health indicators 
+91 
+3 Health status 
+93 
+Trends in life expectancy 
+94 
+Healthy life expectancy at birth and at age 65 
+96 
+Main causes of mortality 
+98 
+Mortality from circulatory diseases 
+100 
+Cancer mortality 
+102 
+Cancer incidence and prevalence 
+104 
+Self-rated health among adults 
+106 
+Chronic conditions and disabilities among adults 
+108 
+Adolescent health 
+110 
+Adult mental health 
+112 
+4 Risk factors 
+115 
+Tobacco and cannabis smoking among adolescents 
+116 
+Smoking and vaping among adults 
+118 
+Alcohol consumption among adolescents 
+120 
+Alcohol consumption among adults 
+122 
+Use of illicit drugs among adults 
+124 
+Nutrition among adolescents 
+126 
+Nutrition among adults 
+128 
+Physical activity among children and adolescents 
+130 
+Physical activity among adults 
+132 
+Overweight and obesity among children and adolescents 
+134 
+Overweight and obesity among adults 
+136 
+Impact of environmental factors on health 
+138 
+5 Health expenditure and financing 
+141 
+Health expenditure per capita 
+142 
+Health expenditure in relation to GDP 
+144 
+Financing of health expenditure 
+146 
+Health expenditure by type of service 
+148 
+Expenditure on primary healthcare 
+150 
+Health expenditure by provider 
+152 
+Pharmaceutical expenditure 
+154 
+6 Effectiveness: Quality of care and patient experience 
+157 
+Avoidable mortality (preventable and treatable) 
+158 
+Routine vaccinations 
+160 
+Cancer screening 
+162 
+Avoidable hospital admissions 
+164 
+Integrated care 
+166 
+Mortality following acute myocardial infarction (AMI) 
+168 
+Mortality following stroke 
+170 
+Hip and knee surgery: Outcomes and emergency responsiveness 
+172 
+Healthcare-associated infections 
+174 
+Safe acute care: Workplace culture and patient experiences 
+176 
+
+
+## Stran PDF 11
+
+   9 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+7 Accessibility: Affordability, availability and use of services 
+179 
+Unmet healthcare needs 
+180 
+Population coverage for healthcare 
+182 
+Extent of healthcare coverage 
+184 
+Financial hardship and out-of-pocket expenditure 
+186 
+Availability of doctors 
+188 
+Remuneration of doctors (general practitioners and specialists) 
+190 
+Availability of dentists and consultations with dentists 
+192 
+Availability of nurses 
+194 
+Remuneration of nurses 
+196 
+Use of diagnostic technologies 
+198 
+Hospital beds and discharges 
+200 
+Volumes of hip and knee replacements 
+202 
+Waiting times for elective surgery 
+204 
+8 Resilience: Crisis preparedness, response capacity and fiscal sustainability 
+207 
+Crisis preparedness and public trust in institutions 
+208 
+Public health laboratory and critical care capacities 
+210 
+Antimicrobial resistance and safe antibiotic prescribing 
+212 
+Public health measures: Vaccination to protect older people 
+214 
+Use of teleconsultations 
+216 
+Digital health readiness 
+218 
+Medical and nursing graduates 
+220 
+Capital expenditure in the health sector 
+222 
+Public expenditure projections for health and long-term care 
+224 
+Annex A. Statistical annex 
+227 
+ 
+
+
+## Stran PDF 12
+
+
+
+## Stran PDF 13
+
+   11 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Readers’ guide 
+Health at a Glance: Europe is the first step in the State of Health in the EU cycle of knowledge brokering. It is designed to provide 
+a cross-country assessment of national health systems’ performance in the European Union. It also provides more in-depth 
+analysis on two important topics in the thematic chapters upfront. 
+The publication is divided in two parts. Part I contains the two thematic chapters. In this edition, Chapter 1 reviews recent 
+developments in health workforce supply and demand across EU countries, the available evidence about current shortages, and 
+policy actions to increase the supply of health workers and alleviate the expected increase in demand for certain categories of 
+workers due to population ageing, notably through innovative task-sharing approaches and the growing use of new technologies. 
+Chapter 2 reviews the most recent trends in life expectancy, healthy life expectancy, morbidity and disability among people aged 
+over 65 in EU countries to assess to what extent people live not only longer lives but also healthier lives, and reviews policies to 
+promote healthy longevity and reduce the burden of diseases and disabilities among older people in the EU. 
+Part II includes six chapters that provide an overview of key indicators of health and health systems across EU Member States, 
+candidate countries, European Free Trade Association countries and the United Kingdom. Chapters 3 and 4 describe the health 
+status of the population and some of the main risk factors to health. Chapter 5 reviews the most recent trends in health spending, 
+including the temporary impact of the pandemic on health expenditure per capita and as a share of GDP, as well as the mix in 
+public and private financing. The last three chapters are structured around the three objectives set out in the 2014 European 
+Commission Communication on effective, accessible and resilient health systems (https://eur-lex.europa.eu/legal-
+content/EN/TXT/PDF/?uri=CELEX:52014DC0215). 
+The data presented in this publication come mainly from official national statistics and have been collected in many cases through 
+the administration of joint questionnaires by the OECD and Eurostat. The data have been validated by the two organisations to 
+ensure that they meet high standards of data quality and comparability. Some data also come from European surveys co-ordinated 
+by Eurostat, notably the European Union Statistics on Income and Living Conditions (EU-SILC) survey, as well as from the 
+European Centre for Disease Prevention and Control (ECDC), the World Health Organization (WHO), the Health Behaviour in 
+School-Aged Children (HBSC) study and other sources. 
+Presentation of indicators and calculation of EU averages 
+With the exception of the first two thematic chapters, all indicators in the rest of the publication are presented in the following way. 
+The text provides a brief commentary highlighting the key findings conveyed by the data, defines the indicator and signals any 
+significant data comparability limitation. This is accompanied by a set of figures that typically show current levels of the indicator 
+and, where possible, trends over time. 
+The EU averages include only EU Member States and are calculated either as population-weighted averages (to be consistent 
+with the averages that are calculated by Eurostat) or as unweighted averages (when these averages are calculated by the OECD 
+or other organisations). The calculation method is generally mentioned in a footnote under each figure. By definition, a weighted 
+average gives more weight to the most populated countries and can be interpreted as a comparison with the EU as a whole. An 
+unweighted average gives equal weight to all countries regardless of their population size and can be interpreted as a measure 
+of comparison with other countries. 
+Population data 
+The population data used to calculate rates per capita and population-weighted averages come from the Eurostat demographics 
+database. The data relate to mid-year estimates (calculated as the average between the beginning and the end of the year). 
+Population estimates are subject to revision, so they may differ from the latest population figures released by Eurostat or national 
+statistical offices. 
+
+
+## Stran PDF 14
+
+12    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Data limitations 
+Limitations in data comparability are indicated both in the text (in the box related to “Definition and comparability”) as well as in 
+footnotes underneath the figures. 
+Data sources 
+Readers interested in using the data presented in this publication for further analysis and research are encouraged to consult the 
+full documentation of definitions, sources and methods contained in OECD Health Statistics for all OECD member and accession 
+countries, including 25 EU Member States and five additional countries (Iceland, Norway, Switzerland, Türkiye and the 
+United Kingdom). This information is available on OECD Data Explorer (https://data-explorer.oecd.org/). For the other countries, 
+readers 
+are 
+invited 
+to 
+consult 
+the 
+Eurostat 
+database 
+for 
+more 
+information 
+on 
+sources 
+and 
+methods 
+(http://ec.europa.eu/eurostat/data/database) or the data sources mentioned underneath the figures. 
+European country ISO codes 
+Albania 
+AL 
+Lithuania 
+LT 
+Austria 
+AT 
+Luxembourg 
+LU 
+Belgium 
+BE 
+Malta 
+MT 
+Bosnia and Herzegovina 
+BA 
+Moldova 
+MD 
+Bulgaria 
+BG 
+Montenegro 
+ME 
+Croatia 
+HR 
+Netherlands 
+NL 
+Cyprus 
+CY 
+North Macedonia  
+MK 
+Czechia 
+CZ 
+Norway 
+NO 
+Denmark 
+DK 
+Poland 
+PL 
+Estonia 
+EE 
+Portugal 
+PT 
+Finland 
+FI 
+Romania 
+RO 
+France 
+FR 
+Serbia 
+RS 
+Georgia 
+GE 
+Slovak Republic 
+SK 
+Germany 
+DE 
+Slovenia 
+SI 
+Greece 
+EL 
+Spain 
+ES 
+Hungary 
+HU 
+Sweden 
+SE 
+Iceland 
+IS 
+Switzerland 
+CH 
+Ireland 
+IE 
+Türkiye 
+TR 
+Italy 
+IT 
+Ukraine 
+UA 
+Latvia 
+LV 
+United Kingdom 
+UK 
+ 
+
+
+## Stran PDF 15
+
+   13 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Executive summary 
+The 2024 edition of Health at a Glance: Europe presents the state of European health systems as they continue their recovery 
+from the COVID-19 pandemic and respond to the challenges and opportunities brought about by digitalisation, climate change 
+and demographic changes. This year’s report focuses on two linked pivotal themes: addressing health workforce shortages and 
+promoting healthy longevity. 
+Urgent action is needed to address health workforce shortages in Europe 
+• 
+The European health workforce faces a severe crisis. Twenty EU countries reported a shortage of doctors in 2022 and 
+2023, while 15 countries reported a shortage of nurses. Based on minimum staffing thresholds for universal health 
+coverage (UHC), EU countries had an estimated shortage of approximately 1.2 million doctors, nurses and midwives in 
+2022. The dual demographic challenges of an ageing population, which augments the demand for health services, and 
+an ageing health workforce, which increases the need to replace current health workers as they retire, are key drivers of 
+this shortfall. Over one-third of doctors and a quarter of nurses in the EU are aged over 55 and expected to retire in the 
+coming years. Concurrently, interest in health careers among young people is declining, with interest in nursing falling in 
+over half of EU countries between 2018 and 2022. Health workforce planning is essential to guide policy making and 
+ensure that the health workforce is sufficiently staffed and skilled. 
+• 
+To address acute domestic workforce shortages, European countries have increasingly relied on recruiting foreign-trained 
+health professionals. Following a temporary reduction during the first two years of the pandemic, the inflow of foreign-
+trained doctors in European countries increased by 17% in 2022 compared to 2019, while the inflow of foreign-trained 
+nurses surged by 72%. In 2023, over 40% of doctors in Norway, Ireland and Switzerland, and over 50% of nurses in 
+Ireland were foreign-trained. While providing a quick solution to pressing needs, an overreliance on foreign-trained health 
+workers risks exacerbating workforce shortages and overall fragility in source countries, often lower-income nations 
+already grappling with acute health workforce constraints. 
+• 
+Addressing the health workforce crisis requires a multi-pronged approach. In the short-term, improving working conditions 
+and remuneration are critical to increasing the attractiveness of the profession and retaining current health workers. 
+Increasing education and training opportunities for new doctors and nurses is also vital to boost supply, although its 
+impact will only be felt in the medium to longer-term. Given the slow average growth rate of only 0.5% per year in the 
+number of new nursing graduates in the EU between 2012 and 2022, attracting enough young people to meet the rising 
+demand presents a significant challenge. Optimising the skill-mix through for example greater use of advanced practice 
+nurses, as well as harnessing digital technologies and AI, will be essential to augment health worker productivity and 
+enable them to focus more on patient care. 
+Promoting healthy longevity can reduce the burden on health and long-term care systems 
+• 
+Europe is facing a profound demographic shift, with the proportion of people over age 65 in the EU projected to rise from 
+21% in 2023 to 29% by 2050. Life expectancy at age 65 now exceeds 20 years, but more than half of these years are 
+impaired by chronic illnesses and disabilities. This is particularly the case for women who live several years longer than 
+men, but most of these years are lived with health issues, so there is almost no gender gap in healthy life expectancy. A 
+substantial portion of the disease burden in old age among both women and men can be prevented by addressing key 
+risk factors throughout the life course. For example, up to 45% of dementia cases could be avoided by addressing 14 
+modifiable risk factors, according to the 2024 Lancet Commission on dementia prevention. Insufficient physical activity 
+contributes greatly to the development of cardiovascular diseases, depression and many other diseases in old age. Only 
+22% of people aged over 65 engage in sufficient physical activity. Obesity rates – a risk factor for numerous chronic 
+conditions – also tend to rise with age, peaking at around 20% among those aged 65 to 74 years across the EU in 2022. 
+
+
+## Stran PDF 16
+
+14    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+• 
+Effective policy action is imperative to promote healthy longevity by prioritising disease prevention, including by means 
+of vaccination, supporting mental health at all ages and empowering individuals to manage their own health. The costs 
+of inaction – both in terms of reduced healthy life years and economic burden – are too high to bear. Projection models 
+indicate that a concerted “healthy ageing” scenario could slow the growth of health spending as a share of GDP in the 
+coming decades and help contain long-term care costs, while reducing the demand for health and long-term care workers. 
+Significant life expectancy gaps persist across countries and the health of young people is an 
+enduring concern 
+• 
+Life expectancy at birth in the EU reached 81.5 years in 2023, exceeding pre-pandemic levels by 0.2 years. However, 
+significant disparities persist between EU Member States, with an eight-year gap between countries with the highest and 
+lowest life expectancies. Spain, Italy and Malta recorded life expectancies more than two years above the EU average, 
+while Latvia and Bulgaria were more than five and a half years below it. Cardiovascular diseases and cancers remained 
+the leading causes of mortality in 2021, accounting for 54% of all deaths, followed by COVID-19 at 11%. Notably, mortality 
+rates from cardiovascular diseases were up to seven times higher in some Central and Eastern European countries 
+compared to Western Europe. 
+• 
+Physical and mental health is a critical determinant of people’s well-being, significantly influencing educational outcomes 
+in children and adolescents as well as employment outcomes in adults. Recent evidence points to a deterioration in the 
+physical and mental health of adolescents. The proportion of 15-year-olds reporting multiple health complaints – related 
+to both physical issues and psychological distress – rose from 42% in 2017-18 to 52% in 2021-22 on average across 
+EU countries. Various factors explain the rising trend in psychological distress among adolescents during that period, 
+including the impact of the COVID-19 lockdowns, higher rates of problematic internet and social media use and increased 
+exposure to cyberbullying. The impact of social media and excessive screen time on the mental health of individuals, 
+particularly among youth, warrants close monitoring. 
+Progress in addressing lifestyle risk factors has stalled, with persistent socio-economic 
+disparities 
+• 
+Lifestyle risk factors such as the use of tobacco and related products, harmful alcohol consumption, poor nutrition, lack 
+of physical activity and obesity account for a substantial share of the total burden of morbidity and mortality in 
+EU countries. In 2021, approximately 1.1 million deaths in the EU, equivalent to nearly 21% of all deaths, were attributable 
+to the combined impact of smoking, excessive alcohol use and high body-mass index. 
+• 
+Despite ongoing efforts to curb unhealthy behaviours, risk factors remain prevalent across the EU. In 2022, 18% of adults 
+were daily smokers. One in five adults reported heavy alcohol consumption on a monthly basis. Moreover, over half of 
+adolescents consumed inadequate quantities of fruit and vegetables, while only 15% met the WHO-recommended levels 
+of physical activity. 
+• 
+Poor nutrition and physical inactivity have contributed to the rising prevalence of overweight and obesity among 
+adolescents and adults in the EU. In 2022, over 20% of 15-year-olds were overweight or obese, with rates exceeding 
+25% in Malta, Greece and Romania. Socio-economic inequalities play a significant role, with adolescent obesity rates 
+over 60% higher among those from low-affluence families compared to their high-affluence peers. Among adults, over 
+half were overweight or obese in 2022, with a 14 percentage point difference between those with low and high levels of 
+education. 
+• 
+Environmental risk factors, such as air pollution and climate change, pose growing threats to public health in the EU. In 
+2021, fine particulate matter (PM2.5) exposure alone caused over 253 000 deaths, with the highest mortality in Central 
+and Eastern Europe. The EU has set ambitious targets to reduce air pollution and greenhouse gas emissions, aiming for 
+a 55% reduction in premature deaths due to PM2.5 by 2030 compared to 2005. Based on current progress, the EU is on 
+track to achieve this goal. 
+EU countries have made gradual improvements in health crisis preparedness, but significant 
+challenges remain in building public trust and combatting AMR 
+• 
+Health crisis preparedness levels appear to have improved slightly since the pandemic began, with average self-reported 
+adherence rates to WHO International Health Regulations among EU countries increasing from 75% in 2020 to 78% in 
+2023. Disease surveillance, laboratory capacity and human resources showed the highest scores, while gaps remain in 
+risk communication and preparedness to radiation emergencies and chemical events. 
+
+
+## Stran PDF 17
+
+   15 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+• 
+Public trust in government institutions plays a pivotal role in ensuring effective crisis response. In 2023, more than half of 
+the population in 19 EU countries expressed confidence in their government’s emergency preparedness capabilities. 
+However, trust levels varied significantly. Finland, the Netherlands and Denmark recorded the highest score, with 
+two-thirds or more of their citizens expressing confidence in their government’s ability to handle crises. In contrast, only 
+about one-third of the population reported confidence in Latvia, Portugal and Greece. 
+• 
+Antimicrobial resistance (AMR) remains a major public threat, with antibiotic-resistant infections occurring in the EU 
+resulting in approximately 35 000 deaths every year and direct costs estimated at EUR 6.6 billion. In 2022-23, 32% of 
+tested bacterial isolates were resistant to key antibiotics, a rate which exceeded 50% in Romania, Greece, Cyprus and 
+Bulgaria. Antibiotic consumption in the community – a key driver of AMR – varies almost fourfold across EU countries, 
+highlighting the need for improvements in antimicrobial stewardship to optimise antibiotic use. 
+• 
+Vaccination remains crucial for protecting populations, particularly older people, against infectious diseases. By late 2021, 
+nearly 90% of people aged 60+ in the EU completed their COVID-19 primary vaccination course, with most countries 
+exceeding 75% coverage. However, subsequent uptake of the first booster dose in early 2022 varied sevenfold across 
+countries, and the second booster dose saw even greater disparity, ranging from over 75% in Ireland and Denmark to 
+less than 5% in Bulgaria, Romania, the Slovak Republic and Lithuania. Influenza vaccination rates initially rose during 
+the pandemic’s first year, but fell in 2021-22, albeit remaining above pre-pandemic levels. Vaccine hesitancy and access 
+issues remain major barriers, with public perceptions of vaccine safety varying from 94% to 60% across EU countries. 
+The European Commission initiated the State of Health in the EU cycle in 2016 to support EU Member States in enhancing 
+citizen health and health system performance. The biennial Health at a Glance: Europe report, the cycle’s first output, provides 
+comprehensive data and comparative analyses to identify health and health system strengths and improvement opportunities. 
+The Country Health Profiles, developed in collaboration with the European Observatory on Health Systems and Policies, form 
+the cycle’s second step. The next edition, due in 2025, will highlight each EU country’s unique health system characteristics 
+and challenges. For further information, please consult: https://health.ec.europa.eu/state-health-eu_en. 
+ 
+
+
+## Stran PDF 18
+
+16    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Infographic 1. Key facts and figures 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Italy
+Estonia
+Belgium
+EU
+Ireland
+Finland
+Romania
+EU
+70
+74
+78
+82
+86
+2017
+2019
+2021
+2023
+Life expectancy at birth, in years
+Life expectancy by gender in the EU, in years
+In 2023, EU life expectancy was 81.5 years, but an 8-year
+gap remains between the highest and lowest countries.
+Over a third of doctors are at least 55 years old and therefore
+can be expected to retire in the coming decade.
+EU’s health workforce struggling to keep
+up with ageing population
+An ageing medical workforce requires
+additional training and longer working lives
+Life expectancy has rebounded post
+pandemic, but large gaps persist
+Women live longer than men, but
+extra years may come with health issues
+Source: Eurostat (2022)
+Overweight and obesity rate among adults in the EU, by age
+Reducing excess weight is important
+for healthy ageing
+Source: EU-SILC (2022)
+0%
+20%
+40%
+60%
+16-24
+25-34
+35-49
+50-64
+65-74
+75+
+Source: Eurostat
+Source: Eurostat and OECD
+Source: OECD Health Statistics
+Spain
+EU
+Romania
+Bulgaria
+% of doctors aged 55 years and over
+Healthy life
+years
+Years lived
+with disability
+62.4 years
+(80%)
+62.8 years
+(75%)
+15.5 years
+(20%)
+20.5 years
+(25%)
+0
+20
+40
+60
+80
+Men
+Women
+More children are overweight and obese
+while physical activity remains flat
+% of 15 year-olds, EU average
+Source: HBSC
+Overweight or obese
+77.9 years
+83.3 years
+% of population 65+
+Moderate daily physical activity
+Projections
+Health & social care
+(% of total employment)
+y p y
+y
+86
+82
+78
+74
+70
+2017
+2019
+2021
+2023
+Linear
+extrapolation
+2022
+2005
+
+
+## Stran PDF 19
+
+   17 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Part I Thematic chapters 
+
+
+## Stran PDF 20
+
+
+
+## Stran PDF 21
+
+   19 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Addressing health workforce issues is one of the main challenges that EU health systems 
+will have to face over the next decade. The COVID-19 pandemic highlighted that the most 
+important factor of a good-functioning health system is a robust, well-trained, and dedicated 
+health workforce, but shortages and rigidities hampered responses to the pandemic. During 
+the pandemic and in its aftermath, most EU countries have reported shortages of different 
+categories of health workers. Based on proposed minimum thresholds of health worker 
+densities to achieve universal health coverage, in 2022 EU countries faced a shortage of 
+1.2 million doctors, nurses and midwives. Looking forward, population ageing will continue 
+to exert pressure on the demand for healthcare, while the ageing of the health workforce 
+itself will increase the need to replace them with newly-trained workers. Several countries 
+are looking at recruiting health workers from abroad to respond to current shortages, but 
+this risks exacerbating shortages in countries of origin and may not be sustainable in the 
+long run, as these countries strengthen their health systems and require more health 
+workers domestically. EU countries can use three broad strategies to address health 
+workforce shortages in the short and longer-term: 1) train more health workers (although 
+this will take several years to yield results); 2) retain more health workers longer in the 
+profession by improving working conditions; 3) support innovations in health service delivery 
+to make a more effective use of the health workforce and new technologies. 
+1 Addressing health workforce 
+challenges in the EU: Training, 
+retaining, innovating 
+
+
+## Stran PDF 22
+
+20    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+1.1. Introduction 
+The COVID-19 pandemic has exposed the vulnerabilities of health systems across the European Union (EU), with one of the most 
+pressing issues being the shortage of health workers. The stark reality witnessed during the first two years of the pandemic, where 
+countries with more health and social care workers experienced fewer excess deaths (defined as deaths in excess of the historical 
+baseline) compared to those with fewer workers, has underscored the critical importance of investing in securing an adequate, 
+properly skilled workforce to nurture the resilience capacity of our health systems. The pandemic has not only exacerbated existing 
+labour shortages, but also highlighted the growing challenges in attracting and retaining workers in the health sector, making it 
+arguably the biggest challenge facing EU health systems today. 
+Concerns about the shortage of health workers in Europe are not new. This challenge has been primarily driven by the “double 
+demographic” phenomenon of an ageing population coupled with an ageing health workforce. As noted in Chapter 2, the 
+proportion of people aged 65 and over in the EU has risen from 16% in 2000 to 21% in 2023, and is projected to reach nearly 
+30% by 2050 due to rising life expectancy and declining fertility rates. This demographic shift is expected to greatly increase the 
+demand for health and long-term care. At the same time, the health workforce itself is ageing, with large numbers of doctors and 
+nurses retiring or due to retire in the coming years and needing to be replaced by younger professionals. 
+While promoting healthy ageing through effective public health and prevention policies can help mitigate some of the increased 
+demand stemming from population ageing, addressing health workforce shortages remains paramount. The urgency of the 
+challenge is compounded by the potential vicious circle observed in several EU countries in the aftermath of the acute phase of 
+the pandemic: understaffing creates stressful working conditions, leading to increased resignations and declining interest in health 
+professions. This risks creating a downward spiral where shortages beget further shortages over time. Decisive action is therefore 
+needed to avoid this cycle and ensure the long-term sustainability of Europe’s health systems. 
+Against this background, this thematic chapter examines the complex issue of the shortage of health workers in the EU, offering 
+a comprehensive overview of recent developments, current challenges and potential solutions. The chapter begins by examining 
+the main drivers of supply and demand for health workers, followed by a detailed examination of past trends and current health 
+workforce challenges across EU countries. It then investigates the root causes of these shortages and presents key policy 
+components that should be incorporated into effective remedial strategies. These include enhancing health workforce planning to 
+inform policy decisions, increasing the education and training of new doctors and nurses, improving working conditions to boost 
+retention rates, and leveraging innovations to augment the productivity of health workers and optimise the use of their skills. While 
+many countries are currently aiming to address their health workforce shortages by drawing at least partly on recruitment from 
+other countries, this raises ethical issues when such recruitment occurs in lower-income countries that face even more acute 
+shortages. It is also not a sustainable approach in the long run as the countries of origin develop their economies and health 
+systems and will have greater demand and ability to retain more health workers. 
+1.2. Unpacking the key drivers of health worker supply and demand 
+Health workforce shortages have been a longstanding concern in most European countries, and in the aftermath of the COVID-19 
+pandemic they have emerged as a mounting challenge that risks threatening the accessibility, quality and resilience of health 
+services in several European health systems (OECD, 2023[1]). By definition, a shortage of health workers means that there is 
+some imbalance between the demand and supply of workers. Many factors shape the demand and supply of different categories 
+of health workers and may be influenced by policy actions to address such imbalances. Figure 1.1 presents a basic framework 
+that illustrates the main factors affecting the supply and demand for health workers. On the supply side, it is based on a classic 
+“stock and flow” model, where changes over time in the stock (or supply) of health workers are influenced by inflows and outflows. 
+The inflows depend primarily on the entry of new graduates into the workforce and the immigration of foreign-trained workers 
+(which can play an important role in some countries). The outflows include workers leaving the health workforce due to retirement, 
+emigration or decisions to seek job opportunities in other sectors. The current supply of health workers is influenced by both the 
+number of workers and the working hours (which can be measured through full-time equivalents). If for example the supply of 
+health workers increases by 10% over a ten-year period but the average working time of workers decreases by 10% as workers 
+want to achieve a better work-life balance, then the supply of health workers in full-time equivalents remain unchanged. A range 
+of policies can impact the supply of health workers, including education policies (such as subsidising medical/nursing education 
+and setting more or less strict quotas on student admissions), policies affecting working conditions, working hours and pay, 
+migration and retirement policies. 
+The demand for health workers is a derived demand for health services, which is driven by a complex interplay of demographic 
+shifts, morbidity patterns, medical technology advances, GDP growth and budgets for health services (which, in turn, affect the 
+capacity to recruit different categories of health workers and their pay rate). The demand for different categories of health workers 
+
+
+## Stran PDF 23
+
+   21 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+also depends on the skill-mix and task sharing modalities in the delivery of health services – for example, the demand for 
+physicians is partly determined by the availability of nurses and other professionals who can complement physician activity. 
+Advances in medical technology are also a key determinant of the demand for health workers: for example, the development of 
+new diagnostic tools, such as AI-powered imaging analysis, may reduce the demand for radiologists. Similarly, the growing 
+adoption of telemedicine and remote monitoring technologies may alter the skill mix required in primary care, with a greater 
+emphasis on digital literacy and communication skills among health professionals. 
+Addressing shortages of different categories of health workers requires a multi-pronged strategy targeting both supply-side 
+policies (e.g. expanding education, increasing retention) and demand-side policies (e.g. making more effective use of the health 
+workforce by changing skill-mix and supporting an effective use of technologies). The optimal policy mix will depend on each 
+country’s specific circumstances. However, in all cases, a long-term, comprehensive workforce strategy is needed to ensure an 
+adequate supply of health workers to meet the growing demand for health services across Europe. These strategies have to be 
+regularly reassessed and updated to take into account changing circumstances affecting demand-side and supply-side factors. 
+Figure 1.1. A framework for thinking about supply and demand in the health labour market 
+ 
+Source: Adapted from OECD (2016[2]), Health Workforce Policies in OECD Countries: Right Jobs, Right Skills, Right Places, https://doi.org/10.1787/9789264239517-en. 
+1.3. Past trends and current challenges in health workforce in the EU 
+1.3.1. The number of health workers, doctors and nurses has increased in nearly all EU countries over 
+the past two decades 
+Despite concerns about a health workforce crisis, the health and social care sectors employ more workers now than at any time 
+in history in most EU countries. In 2022, more than one in every ten jobs (10.1%) was in health and social care on average across 
+EU countries, up from 8.5% in 2002 (Figure 1.2). In most Nordic countries, the Netherlands and Belgium, more than 14% of all 
+jobs were in health and social care work. However, despite this growth, many countries – even those with some of the most well-
+resourced health systems – are grappling with the challenge of ensuring an adequate and sustainable supply of health workers 
+to meet future needs. The example of Norway illustrates the importance of increasing health workforce productivity in light of 
+supply constraints (Box 1.1). By contrast, the share of health and social care workers remains much lower in countries such as 
+Cyprus, Bulgaria and Romania, accounting for less than 6% of total employment. 
+Inflows
+Outflows
+Stock of health 
+workers (number 
+and working hours)
+Substitution with 
+other health 
+workers 
+(skill-mix) and 
+technologies 
+Healthcare services
+Technology
+Morbidity
+Demography
+New graduates 
+Immigrants
+Leavers
+Emigrants
+Retirees
+Optimising 
+resource use 
+(productivity)
+Policies on:
+•
+Education and training 
+•
+Pay and working 
+conditions
+•
+Migration
+•
+Retirement
+Supply side
+Demand side
+GDP and Health 
+Expenditure
+
+
+## Stran PDF 24
+
+22    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.2. The share of employment in the health and social care sector has increased in nearly all EU countries over 
+the past two decades 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat based on Labour Force Survey data (lfsa_egana, lfsa_egan2). 
+StatLink 2 https://stat.link/gj84hk 
+Box 1.1. Norway’s plan to steer demand for health workers onto a more sustainable path 
+Like all European countries, Norway’s healthcare system is under increasing pressure from the combination of an ageing 
+population and a growing shortage of health workers. Recognising the urgency of the situation, in December 2021 the 
+Norwegian Government appointed a Healthcare Personnel Commission to conduct an in-depth analysis of the country’s 
+looming workforce challenges. 
+The report from this Commission, tabled in February 2023, offers a sobering assessment of Norway’s ability to meet its future 
+health workforce needs. Norway’s health sector (excluding social work activities) is the country’s largest employer, employing 
+over 400 000 people, or more than 15% of the total workforce – the highest proportion in Europe. The sector’s workforce has 
+grown rapidly, more than tripling since the early 1970s, driven by strong economic growth, medical advances and an ageing 
+population. 
+However, this growth trajectory is set to collide with a demographic shift that will simultaneously increase demand for 
+healthcare while shrinking the available labour pool, placing an ever-greater burden on a dwindling share of workers. The 
+Commission’s analysis suggests that there is little scope for the health sector to increase its already large share of the 
+workforce without drawing talent away from other priority sectors of the economy. The report also advises against large-scale 
+recruitment of health workers from abroad as a solution, stressing that reliance on foreign workers would introduce fragility 
+into the system and be irresponsible from a global perspective. 
+To meet this challenge, the Healthcare Personnel Commission recommends a multi-pronged strategy aimed at limiting growth 
+in the health workforce to no more than 0.5% per year, while at the same time increasing productivity of existing human 
+resources through increased task shifting, technology use, service redesign and improved care integration. In particular, the 
+report calls for a fundamental change in societal attitudes towards healthcare, emphasising the need to set priorities and set 
+realistic expectations about the level of service provision. The Healthcare Personnel Commission stresses the need for a 
+public debate on the difficult trade-offs that are inevitable in light of projected fiscal and demographic developments. 
+Source: Healthcare Personnel Commmission (2023[3]), Time for action: personnel in a sustainable health and care service, www.regjeringen.no/. 
+20.2
+18.4
+16.9
+15.7 14.5
+14.4 14.0 13.7 13.2
+12.7
+11.2 11.1 11.0 10.1
+9.9
+9.2
+8.2
+8.2
+7.9
+7.7
+7.5
+7.5
+7.0
+6.8
+6.8
+6.8
+6.7
+5.8
+5.7
+5.5
+0
+5
+10
+15
+20
+25
+% of total employment
+2022 (values shown)
+2002
+
+
+## Stran PDF 25
+
+   23 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+The number of doctors and nurses per capita has increased substantially over the past two decades in most EU countries. 
+However, this does not mean that shortages have decreased if the demand for doctors and nurses has increased even more 
+during the same period. 
+On average across EU countries, there were 4.2 doctors per 1 000 population in 2022, up from 3.1 in 2002 and 3.6 in 2012 
+(Figure 1.3). The growth in the number of doctors has been particularly rapid in Greece and Portugal, but it is important to note 
+that the data for these two countries relate to all doctors licensed to practice (therefore including a large number who may no 
+longer practice but have nonetheless kept their licence). Austria, Cyprus and Norway had the highest number of practising doctors 
+per population with about 5 doctors per 1 000 population or more. The number of doctors per population was lowest in 
+Luxembourg (although the latest data dates back to 2017) and France (although the number does not include physicians-in-
+training, resulting in an under-estimation compared to other countries). 
+Figure 1.3. The number of practising doctors per population has increased by over one-third on average across the EU 
+over the past two decades 
+ 
+Notes: The EU average is unweighted. 1. Data refer to all doctors licensed to practice, resulting in a large over-estimation of the number of practising doctors. 2. Data 
+include not only doctors providing direct care to patients, but also those working in the health sector as managers, educators, researchers, etc. (adding another 5-10% 
+of doctors). 3. Medical interns and residents are not included. 4. The latest data refer to 2017 only. 5. The data for Belgium starts in 2013 and for Cyprus, Ireland and 
+the Netherlands in 2014 to avoid breaks in time series (the last data point for Ireland relates to 2023 to avoid a break in 2022). 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2). 
+StatLink 2 https://stat.link/qwcxda 
+Nurses represent the most numerous category of health workers in nearly all EU countries. However, it is not easy to collect data 
+on nurses across countries because the distinction between different categories of nurses is not always clear and there are also 
+blurring lines (“grey zones”) between some categories of nurses and personal care workers/healthcare assistants who are not 
+recognised as nurses (Box 1.2). 
+6.6
+5.7
+5.4
+5.2
+4.9
+4.6
+4.5
+4.5
+4.5
+4.4
+4.4
+4.4
+4.3
+4.3
+4.2
+4.2
+4.0
+3.9
+3.9
+3.7
+3.7
+3.6
+3.6
+3.5
+3.5
+3.5
+3.4
+3.4
+3.2
+3.0
+1
+2
+3
+4
+5
+6
+7
+2022
+2012
+2002
+Per 1 000 population
+
+
+## Stran PDF 26
+
+24    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Box 1.2. Definition of nurses for the purpose of international data collection 
+Defining who is a nurse (and who is not a nurse) for the purpose of international data collection is not as easy as it might seem 
+at first sight. The main issue is that in several countries the distinction between different categories and levels of nurses is not 
+clear-cut, and there are also blurring lines in qualifications, job titles and tasks between some categories of nurses and 
+personal care workers /healthcare assistants. 
+The OECD/Eurostat/WHO-Europe Joint Questionnaire on Non-Monetary Healthcare Statistics collects data on the two broad 
+categories of nurses that are identified in the International Standard Classification of Occupations (ISCO-08): “professional 
+nurses” and “associate professional nurses”. Data on personal care workers/healthcare assistants are collected separately 
+(based also on the ISCO classification). 
+In the EU, the first category of “professional nurses” has been defined as those who have a level of qualifications meeting the 
+EU Directive on the recognition of professional qualifications for general nurses (i.e. at least three years of study or 4 600 hours 
+of theoretical and clinical training according to Directive 2013/55/EU). The second category of “associate professional nurses” 
+includes all other categories of nurses that are recognised as such in each country. Only about one-third of EU countries report 
+data for this second category. However, a few countries are not able to make a clear distinction between these two broad 
+categories of nurses and only report the total of nurses without any distinction. 
+It is also important to bear in mind that a comprehensive assessment of the nursing-related workforce would also take into 
+account the support provided by personal care workers/healthcare assistants. For example, in some countries that have below 
+average numbers of nurses such as Italy and Spain, a large number of personal care workers/healthcare assistants provide 
+assistance to nurses and patients. 
+The number of nurses has increased over the past decade in most EU countries. On average across EU countries, there were 
+8.4 nurses per 1 000 population in 2022, up from 7.3 in 2012 (Figure 1.4).1 Norway, Iceland, Finland, Ireland and Germany had 
+the highest number of nurses per capita in 2022, with at least 12 nurses per 1 000 population. By contrast, Greece had the lowest 
+number of nurses per capita among EU countries, but the data only include nurses working in hospitals. The number of nurses 
+per capita was also relatively low in Latvia, Bulgaria, Cyprus and Hungary. The Hungarian Government has increased substantially 
+the remuneration of nurses in recent years to increase attractiveness and retention in the profession (see indicator on 
+“Remuneration of nurses” in Chapter 7). 
+Figure 1.4. The number of practising nurses per population has increased in three-quarters of EU countries over the 
+past decade 
+ 
+Note: The EU average is unweighted. Professional nurses refer to nurses with an education level meeting the EC Directive on the recognition of professional qualifications (a 
+minimum of 3 years of postsecondary education for general nurses and at least an equivalent level of education for specialist nurses). Associate professional nurses include all 
+other categories of nurses that are recognised in some countries. Some countries are not able to make a clear distinction between these two main categories. 1. The latest data 
+for Luxembourg refer to 2017 only. 2. The data for France and Poland starts in 2013, for the Netherlands in 2014 and for Hungary in 2017 to avoid breaks in series. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2).  
+StatLink 2 https://stat.link/y5axbh 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Professional nurses (2022)
+All nurses (no distinction) (2022)
+Associate professional nurses (2022)
+All nurses (no distinction) (2012)
+Per 1 000 population 
+
+
+## Stran PDF 27
+
+   25 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.5 shows the relationship between the number of doctors and nurses per 1 000 population across countries in 2022. The 
+Nordic countries (with the exception of Finland), Austria, Germany and Czechia are characterised as having both a higher-than-
+average number of doctors and nurses per population. These are also countries that spend more than the EU average on health 
+with the exception of Czechia (see indicator on “Health expenditure per capita” in Chapter 5). 
+By contrast, most Central and Eastern European countries are characterised as having lower-than-average number of doctors 
+and nurses, and these are also countries that tend to spend less on health. Many countries in Southern Europe (e.g. Greece, 
+Cyprus, Italy and Spain) have a higher-than-average number of doctors per population but lower-than-average number of nurses, 
+suggesting a greater reliance on doctors to deliver health services. By contrast, some countries mainly in Western Europe 
+(e.g. Belgium, Finland, Ireland, Luxembourg and the Netherlands) have a higher-than-average number of nurses but lower-than-
+average number of doctors, suggesting a greater reliance on nurses in delivering services. However, it is important to keep in 
+mind that while EU averages can serve as useful benchmarks, they do not necessarily reflect the adequacy of health workforce 
+supply in any given country. 
+Figure 1.5. The number of doctors and nurses per population varies by more than two-fold and three-fold, respectively, 
+across EU countries 
+ 
+Notes: The EU average is unweighted. The data on nurses include all categories of nurses (not only those meeting the EU Directive on the Recognition of Professional 
+Qualifications). In Portugal and Greece, data refer to all doctors licensed to practice, resulting in a large overestimation of the number of practising doctors. In the 
+Slovak Republic, data refer to professionally active doctors, resulting in a slight over-estimation. In Portugal and the Slovak Republic, data refer to professionally active 
+nurses, resulting in a slight over-estimation. In Greece, the number of nurses is underestimated as it only includes those working in hospital. The data for Luxembourg 
+refer to 2017 (latest year available). 
+Source: OECD Health Statistics 2024 (data refer to 2022 or the nearest year). 
+StatLink 2 https://stat.link/4nat8z 
+1.3.2. Most doctors, nurses, and other health and social care workers are women 
+Women constitute the majority of health and social care workers in all EU countries. On average across EU countries, 79% of 
+health and social care workers were females in 2023, according to the EU Labour Force Survey. 
+Women have traditionally accounted for the bulk of nurses and healthcare assistants, and this continues to be the case nowadays. 
+In 2022, they accounted for over 85% of all nurses on average across EU countries, a share that has been fairly stable over the 
+past few decades. One of the main challenges to address nurse shortages is therefore to attract more men into the profession. 
+The proportion of female doctors has increased greatly in many countries over the past two decades, so that in the EU as a whole, 
+more than half (53%) of doctors in 2022 were women, up from 45% in 2010. This growth was the sole contributor to the substantial 
+increase in the number of doctors during that period as the number of male physicians decreased over time. 
+AT
+BE
+BG
+HR
+CY
+CZ
+DK
+EE
+EU
+FI
+FR
+DE
+EL
+HU
+IS
+IE
+IT
+LV
+LT
+LU
+MT
+NL
+NO
+PL
+PT
+RO
+SK
+SI
+ES
+SE
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2
+3
+4
+5
+6
+7
+Doctors lower than EU average
+Nurses higher than EU average
+Doctors lower than EU average
+Nurses lower than EU average
+Doctors higher than EU average
+Nurses lower than EU average
+Practising doctors per 1 000 population
+Practising nurses per 1 000 population
+EU average: 8.4
+EU average: 4.2
+Doctors higher than EU average
+Nurses higher than EU average
+
+
+## Stran PDF 28
+
+26    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+1.3.3. The average working hours of doctors has decreased over the past decade, while it has 
+remained stable for nurses 
+While the number of doctors in headcounts has increased over the past decade in nearly all countries, the average working hours 
+of doctors has decreased in most countries, so the increase in the number of full-time equivalents (FTEs) has been more modest. 
+Part of this reduction is due to the feminisation of the medical workforce, but the working time of male doctors also fell over the 
+past decade as many aim to achieve a better work-life balance. On average in the EU, male doctors worked 43.2 hours per week 
+in 2022 (down from 44.3 hours in 2012), while female doctors worked on average 39.5 hours per week (down from 40.0 hours), 
+often reflecting changes in work-life balance preferences and uneven family responsibilities. Nurses generally work fewer hours 
+than doctors, but their working hours have remained relatively stable over the past decade on average in the EU (Figure 1.6). 
+Figure 1.6. The working hours of doctors have reduced over the past decade in the EU, while they have remained 
+stable for nurses 
+ 
+Note: The EU average is weighted based on the number of doctors and nurses. The data include both employed and self-employed workers. 
+Source: Eurostat based on EU Labour Force Survey microdata. 
+StatLink 2 https://stat.link/7dewj4 
+1.3.4. The ageing of the health workforce requires efforts in training and retaining 
+The ageing of the physician workforce is a growing concern in many EU countries, with a substantial proportion of doctors nearing 
+retirement age and a non-negligible number already beyond it. In 2022, over one-third (35%) of doctors across EU countries were 
+over 55 years old, with nearly half of EU countries having this proportion reach 40% or higher (Figure 1.7). Italy and Bulgaria are 
+the two EU countries facing the most pressing concerns, with more than half of their physician populations aged over 55 and more 
+than a fifth aged over 65. This age composition poses a dual challenge for the countries concerned, as they will need to train 
+sufficient numbers of new doctors to replace those retiring over the next decade and simultaneously implement policies to 
+encourage current doctors to continue working beyond the standard retirement age. In this context, flexible work-to-retirement 
+arrangements can play a key role in retaining experienced doctors in the workforce longer. 
+While the proportion of nurses over 55 years old is generally lower compared to physicians in nearly all countries, ensuring an 
+adequate supply of new nurses and improving retention rates of current nurses until standard retirement age remain nonetheless 
+key issues to avoid an exacerbation of nurse shortages and to allow more experienced nurses to provide mentorship and training 
+to new nurses. 
+44.3
+40.0
+38.2
+35.2
+43.2
+39.5
+38.1
+35.6
+20
+25
+30
+35
+40
+45
+50
+Men
+Women
+Men
+Women
+Doctors
+Nurses
+2012
+2022
+Average weekly working hours
+
+
+## Stran PDF 29
+
+   27 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.7. Over one-third of doctors and a quarter of nurses on average across EU countries were aged over 55 years in 2022 
+ 
+Note: The EU average is unweighted and refer to countries for which data are available for each category of workers. The data for Luxembourg refer to 2017. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_phys). 
+StatLink 2 https://stat.link/o31avn 
+1.3.5. The composition of the medical workforce has shifted towards specialists 
+Issues around the shortages of doctors often go beyond the overall number and relate more specifically to certain categories of 
+doctors and their geographic distribution. 
+In many countries, the main concern about the shortage of doctors has been about a growing shortage of general practitioners 
+(GPs), particularly in rural and remote areas, contributing to medical deserts. Whereas the overall number of doctors per capita has 
+increased in all countries over the past two decades, the share of GPs has come down in most countries, reflecting reduced 
+attractiveness of general medicine. This has happened despite the fact that a growing number of doctors are women who have 
+traditionally been more inclined to go into general practice than men. On average across EU countries, only about one in five doctors 
+were GPs in 2022, whereas two-thirds were specialists (Figure 1.8). A few countries such as Portugal, Finland, Belgium and France, 
+have been able to maintain a better balance between GPs and specialists, with GPs accounting for at least 30% of all doctors. 
+Figure 1.8. Only about one in five doctors in the EU were general practitioners in 2022 
+ 
+Note: The EU average is unweighted. 1. The category “Other doctors” includes other generalist (non-specialist) medical practitioners not considered GPs, recent 
+medical graduates who have not yet started post-graduate specialty training and other doctors not further defined. 2. In Portugal, only about 30% of doctors employed 
+by the public sector work as GPs in primary care – the other 70% work in hospitals. 3. The data for Luxembourg refer to 2017. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2). 
+StatLink 2 https://stat.link/tz2cx0 
+54
+54
+47
+46
+44
+43
+43
+43
+42
+42
+40
+40
+40
+35
+34
+34
+33
+32
+32
+30
+28
+28
+26
+24
+24
+24
+23
+21
+21
+24
+39
+28
+25
+21
+28
+24
+19
+21
+27
+34
+24
+20
+28
+26
+22
+22
+17
+10
+0
+10
+20
+30
+40
+50
+60
+Doctors
+Nurses
+% of health workers aged 55 years and over 
+49
+39
+34
+30
+30
+27
+24
+23
+22
+22
+21
+21
+21
+19
+18
+18
+18
+18
+18
+16
+16
+16
+14
+14
+13
+13
+12
+9
+6
+48
+60
+57
+57
+70
+73
+53
+47
+78
+66
+77
+67
+75
+78
+56
+76
+78
+43
+42
+79
+77
+81
+51
+56
+87
+51
+80
+72
+80
+3
+1
+10
+13
+23
+30
+12
+2
+11
+5
+3
+26
+6
+4
+39
+40
+5
+7
+3
+35
+31
+36
+8
+19
+14
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+%
+General practitioners
+Specialists
+Other doctors¹
+
+
+## Stran PDF 30
+
+28    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+1.3.6. The uneven geographical distribution of doctors is a major barrier to access to care in 
+peripheral regions 
+There also continues to be wide variations in the geographic distribution of doctors, resulting in medical deserts. In many countries, 
+there is a particularly high density of doctors in national capital regions, reflecting the concentration of specialised services and 
+physicians’ preferences to practice in national capitals. This is the case for example in Austria, Croatia, Czechia, Denmark, 
+Hungary, Greece, Poland, Portugal, Romania and the Slovak Republic (Figure 1.9). 
+Figure 1.9. Capital regions tend to have the highest concentration of doctors relative to their population across most 
+EU countries 
+ 
+Note: The data refer to 2022, except for Denmark and Sweden (2021) and Finland (2020). 
+Source: Eurostat (hlth_rs_physreg) and OECD Regional Database. 
+StatLink 2 https://stat.link/v4t72k 
+Three recent EU-funded projects aimed to improve the understanding, measurement and potential policy actions to address 
+different types of medical deserts (Box 1.3). 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Austria
+Belgium
+Bulgaria
+Croatia
+Czechia
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Italy
+Lithuania
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Slovak Republic
+Slovenia
+Spain
+Sweden
+Density per 1000 population
+Vienna
+Zagreb
+Prague
+Copenhagen Region
+Budapest Region
+Central and Western Lithuania
+Warsaw Region
+Lisbon Metropolitan Area
+Bucharest
+Bratislava Region
+Athens Region
+
+
+## Stran PDF 31
+
+   29 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Box 1.3. Recent European projects addressing medical desertification 
+“Medical desertification” refers to the emergence of severely underserved areas where residents face major barriers to 
+accessing needed health services. While various definitions of “medical deserts” exist reflecting different types of access 
+issues, the concept typically encompasses geographical distance to healthcare facilities and providers, shortage of health 
+professionals, and areas with ageing and declining or disadvantaged populations that make it difficult to attract and retain 
+medical staff in such areas. Three EU-funded projects, which ran between 2021 and the first quarter of 2024, aimed to better 
+understand, measure and address this medical desertification: 
+ROUTE-HWF (Roadmap OUT of mEdical deserts into supportive Health WorkForce initiatives and policies) aimed to help 
+EU countries reduce inequalities in healthcare access by supporting them in designing and implementing policies related to 
+medical deserts. It developed a taxonomy of five distinctive types of medical deserts, guidelines on monitoring and measuring 
+them, analysis of factors driving desertification, and a roadmap with a policy mix to address different types of medical deserts. 
+OASES (prOmoting evidence-bASed rEformS) aimed at strengthening the capacity of health authorities in Cyprus, Finland, 
+France, Hungary, Italy, Moldova and Romania to address medical deserts. It developed a methodology to measure spatial 
+access and conducted pilot studies in participating countries to assess medical deserts and built consensus on mitigation 
+strategies among stakeholders. 
+AHEAD (Action for Health and Equity: Addressing medical Deserts) aimed to reduce health inequalities by addressing the 
+challenge of medical desertification in Italy, Moldova, the Netherlands, Romania and Serbia. Its goals were to achieve better 
+access to health services in underserved areas and more equitable access to health workers by building knowledge, 
+encouraging innovation in health service delivery, and applying a participatory approach to health policy making. 
+Sources: https://route-hwf.eu/; https://oasesproject.eu/, https://ahead.health. 
+Countries have sought to address such medical deserts through policies based on financial incentives, health service redesign 
+and digital solutions: 
+• 
+In France, where the term “medical deserts” was first popularised almost two decades ago, successive governments 
+have implemented various initiatives to address the growing shortage or complete absence of GPs in certain regions. 
+The main policy response has been the creation of multidisciplinary health homes, allowing GPs and other primary care 
+providers to work in the same location, thereby mitigating the challenges associated with solo practice. By the end of 
+2023, a total of 2 500 such homes were in operation, with a target of reaching 4 000 by the end of 2027 (Ministère de la 
+Santé et de la Prévention, 2024[4]). However, despite these efforts and the provision of various financial incentives for 
+doctors to set up their practices in underserved areas, the measures do not seem to have been sufficient to resolve the 
+issue (OECD/European Observatory on Health Systems and Policies, 2023[5]). 
+• 
+In Czechia, the Ministry of Health offers special subsidies to GPs to open offices in underserved areas, and health insurers 
+provide higher payments to doctors serving less densely populated regions to attract and retain them in underserved 
+areas (OECD/European Observatory on Health Systems and Policies, 2023[6]). 
+• 
+Spain has also taken steps to address medical deserts by promoting the adoption of digital health solutions, such as 
+telemonitoring programmes, in combination with the introduction of advanced nursing practices without physicians 
+(Dubas-Jakóbczyk et al., 2024[7]). Furthermore, the Spanish Government has launched initiatives to encourage medical 
+staff to work in rural and sparsely populated areas, including investing in health centre infrastructure and deploying 
+training programmes for medical students in rural settings – a practice which has however received some criticisms from 
+Spain’s General Council of Physicians on the grounds that it risks hampering the professional development of young 
+doctors (Consejo General Médicos, 2024[8]). 
+1.3.7. What do we know about current shortages of health workers in EU countries? 
+Despite the widespread concern about workforce shortages in most EU countries, there is a scarcity of robust data to accurately 
+quantify the shortages of various categories of health workers at both national and subnational levels. This lack of data makes it 
+difficult to determine to what extent these shortages might have worsened over time. Conventional economic theory suggests that 
+unfilled or hard-to-fill job vacancies are a key indicator of shortages, but very few countries routinely collect and report data on 
+this indicator.2 Another indicator that could potentially fill this gap is population-reported unmet healthcare needs due to a lack of 
+available health workers or waiting times. However, the questions on unmet healthcare needs in population-based surveys are 
+often limited to a few professional categories only (e.g. doctors and dentists), and do not provide a precise measure of the 
+shortages of these health professionals. 
+
+
+## Stran PDF 32
+
+30    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+During the COVID-19 pandemic, the OECD collected data from its member countries on the shortage of various categories of 
+health workers as part of a questionnaire to identify the main challenges countries faced in responding to the crisis. A total of 
+26 OECD countries, including 14 EU countries, responded to this questionnaire. As illustrated in Figure 1.10, the reported 
+shortages varied significantly among the responding countries. Some countries, such as Austria, Portugal and Spain, reported 
+shortages across a wide range of categories of health and long-term care workers, whereas other countries such as France, 
+Germany and Luxembourg reported more specific shortages of certain categories of workers in certain settings, such as nurses 
+and healthcare assistants in hospitals and/or long-term care facilities. 
+Figure 1.10. Shortages of various categories of health workers impacted countries’ capacity to respond to the 
+pandemic in 2020 and 2021 
+ 
+Note: This figure shows the country responses to the question: “Which categories of health and long-term care workers were particularly in short supply during the 
+COVID-19 pandemic?” 
+Source: OECD Resilience of Health Systems Questionnaire 2022 – adapted from Figure 10.5 in OECD (2023[1]), Ready for the Next Crisis? Investing in Health System 
+Resilience, https://doi.org/10.1787/1e53cf80-en. 
+The European Employment Services (EURES) network’s most recent annual report on labour shortages and surpluses provides 
+insights into the countries reporting shortages in various sectors, including the health and social care sector, for the period 
+spanning 2022 and 2023 (European Labour Authority, 2024[9]). The information on occupations in shortages, as provided by the 
+EURES National Co-ordination Offices in the 27 EU countries and Norway, draws on diverse sources and indicators, including 
+public employment services’ administrative data, national lists of occupations qualifying for work permits and national employment 
+barometers. The most recent findings reveal that 75% of the surveyed countries (21 out of 28) reported a shortage of doctors 
+(either generalists or specialists) in the second half of 2022 and first half of 2023, about 60% (16 countries) reported a shortage 
+of nurses and 55% (15 countries) a shortage of healthcare assistants (Figure 1.11). Although this approach effectively identifies 
+the number of countries reporting shortages in specific health worker categories, it does not provide any precise quantitative 
+assessment of the magnitude of these shortages. 
+Healthcare assistants 
+(e.g. nursing aids)
+Nurses
+Doctors
+LTC facilities 
+(nursing homes)
+Hospitals
+(all units)
+LTC facilities 
+(nursing homes)
+Hospital
+(all units)
+Hospital
+(ICU unit) 
+GPs
+(family doctors)
+Hospital 
+(emergency unit)
+Hospital
+(ICU unit) 
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+Austria
+⬤
+⬤
+⬤
+⬤
+⬤
+Czechia
+⬤
+⬤
+⬤
+⬤
+⬤
+Finland
+⬤
+⬤
+France
+⬤
+⬤
+⬤
+⬤
+Germany
+⬤
+⬤
+⬤
+Greece
+⬤
+Ireland
+⬤
+⬤
+⬤
+⬤
+⬤
+Italy
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+Latvia
+⬤
+⬤
+⬤
+⬤
+⬤
+Lithuania
+⬤
+Luxembourg
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+Portugal
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+Slovenia
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+⬤
+Spain
+10
+(71%)
+7
+(50%)
+9
+(64%)
+11
+(79%)
+11
+(79%)
+7
+(50%)
+5
+(36%)
+9
+(64%)
+Out of 14 
+countries: 
+
+
+## Stran PDF 33
+
+   31 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.11. Most EU countries reported shortages of health workers in 2022 and 2023 
+ 
+Note: Data refer to the second half of 2022 and/or the first half of 2023, based on 28 reporting countries (EU27 and Norway). 
+Source: European Labour Authority  (2024[9]), Report on labour shortages and surpluses 2023, https://data.europa.eu/doi/10.2883/973861. 
+StatLink 2 https://stat.link/ws45ob 
+Previous OECD work (Morgan and James, 2022[10]) provided an order-of-magnitude estimate of the shortage of health workers 
+in OECD countries based on a set of minimum thresholds of health worker densities proposed by the Institute of Health Metrics 
+and Evaluation (IHME). The same methodology can be applied to EU countries to provide an approximation of health workforce 
+shortages in the region. Following a systematic analysis of the Global Burden of Disease Study 2019 to measure health workforce 
+requirements in relation to universal health coverage (UHC), the IHME derived levels of health worker density required to achieve 
+a performance target of 90 out of 100 on the UHC effective coverage index. The thresholds of 3.54 doctors and 11.45 nurses and 
+midwives per 1 000 population were adopted in this study (Haakenstad et al., 2022[11]). Based on these minimum thresholds set 
+by IHME, EU countries had a shortage of approximately 1.2 million doctors, nurses and midwives in 2022. 
+It is important to note that these estimates are based on a set of minimum thresholds that do not comprehensively capture the 
+specific health workforce needs of individual countries, as several factors can influence the health worker densities required to 
+meet the healthcare needs of each country. Nevertheless, this estimate offers a valuable starting point for understanding the scale 
+of health worker shortages in the EU, also highlighting the need for concerted efforts to address this challenge. 
+1.4. Improving health workforce planning to guide policy decision-making 
+Workforce planning and forecasting in the health sector is particularly important given the time and cost involved in training new 
+doctors and other highly skilled health professionals. In a context of rising demand for healthcare together with budget constraints 
+on governments, the development of more sophisticated health workforce planning is needed to guide policy making, notably with 
+regard to student intakes in various medical specialties (including general medicine) and other health professions. These decisions 
+on the required inflows of new doctors and nurses should be made in light of current and projected outflows from the workforce 
+as well as possible innovations in skills mix and substitutions of certain categories of health workers by other categories or by 
+technologies under new health service delivery models. 
+The first step of any robust health workforce planning exercise is to have good data about the current health workforce situation 
+and recent trends. Without good data on recent trends and the current situation, it is impossible to make any accurate projections 
+about the future. The data currently available in many EU countries have serious limitations in measuring several important 
+aspects regarding the current supply of different categories of health workers, in particular the outflows (e.g. early exit from the 
+occupation, effective retirement age and emigration). As noted in the previous section, currently available data also often cannot 
+measure any current imbalance between the supply and demand for different categories of health workers, so most health 
+workforce projection models of doctors and nurses start by making the convenient (but unsatisfactory) assumption that there is 
+currently no shortage (or potential surplus). Data improvements are needed to allow health workforce planning models to assess 
+more reliably recent trends, the current situation and the future outlook for all the main variables affecting the supply and demand 
+for different categories of health workers as illustrated in the analytical framework presented in Figure 1.1. 
+15
+16
+21
+0
+7
+14
+21
+28
+Healthcare assistants
+Nurses
+Doctors (generalists and specialists)
+Number of countries reporting shortages
+
+
+## Stran PDF 34
+
+32    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+The European Commission has supported over the past 10 years a number of projects and Joint Actions on health workforce 
+planning and forecasting to provide opportunities for countries to effectively learn from each other and identify good practices. 
+The current Joint Action HEROES (HEalth woRkfOrce to meet health challEngeS), which started in early 2023 and is expected to 
+end in 2026, involves 21 countries. It has four main objectives: 1) develop databases, data collection, analysis, linkages and 
+sources on health workforce supply and demand; 2) develop forecasting tools and planning methodologies to address health 
+workforce future challenges; 3) develop and enhance skills and capacities for effective management of health workforce planning 
+systems at national and regional levels; and 4) engage stakeholders for successful and sustainable health workforce governance 
+(HEROES Joint Action, 2023[12]). 
+The European Commission (through its Joint Research Centre) will also release in December 2024 a series of projections about 
+the possible future supply and demand for doctors and nurses across all EU countries over the coming decades based on different 
+scenarios (Box 1.4). 
+Box 1.4. The development of a JRC projection model on the supply and demand for health workers at the EU level 
+The Joint Research Centre (JRC) of the European Commission has developed a Supply ANd DEMand model for the 
+healthcare workforce (SANDEM) to project the evolution of the supply and demand for health workers across the 
+27 EU countries up to 2071, focussing in particular on doctors and nurses. 
+The goal of the SANDEM model is to complement national health workforce planning with a series of “what if” scenarios with 
+a long-term EU perspective, rather than projecting any specific number of doctors and nurses in each country. While reflecting 
+national differences in the structure of the health workforce and general population trends, the model does not aim to provide 
+any “gold standard” in terms of provider-to-population ratio. The model also remains at a relatively high level of aggregation 
+and does not consider regional variations in the supply and demand for doctors and nurses, nor does it include a breakdown 
+by medical specialty. 
+On the supply side, SANDEM uses a standard stock-and-flow model to characterise the medical and nursing workforce in 
+terms of size and age structure. The model assumes that current trends in dropouts, retirements and migration will remain the 
+same in the future, while allowing changes in the number of new graduates to respond to changes in demand. 
+On the demand side, the model includes several scenarios that combine demographic projections with individuals’ healthcare 
+needs. The “population” scenario is based on a provider-to-population ratio that assumes that the only driver of health 
+workforce demand is population size. The “utilisation” scenario goes a step further and estimates changes in demand using 
+data on past trends in healthcare utilisation by age group based on two different epidemiological scenarios. In the “disease 
+burden” scenario, age-specific healthcare needs are assumed to remain the same in the future, while in the “healthy ageing” 
+scenario they are assumed to decrease over time. 
+The model relies mainly on data from Eurostat, WHO and OECD. Data gaps are addressed by using some approximations. 
+The main challenges relate to the lack of data on outflows from the health workforce (e.g. emigration, dropout and effective 
+retirement age). One of the recommendations is to improve the collection of data on migration patterns of health professionals 
+by distinguishing more clearly the emigration of health workers who are both foreign born and foreign trained from the 
+internationalisation of medical education, reflecting the fact that a significant number of international students move temporarily 
+to other countries to obtain a first medical degree before returning to their home country to complete their training and work. 
+More basic data issues also relate to the lack of data on the current stock of practising doctors and nurses in some countries, 
+and the inclusion of different categories of nurses at the national level and in international data collections. 
+The results from the SANDEM projection model are expected to be released by the end of 2024. 
+Source: Bernini, A., Icardi, R., Natale, F. and Nédée, A. (2024[13]), Supply and demand model for the healthcare workforce in the EU27 – Data sources and model 
+structure, https://data.europa.eu/doi/10.2760/957386. 
+It is important to bear in mind that health workforce planning is inherently subject to uncertainty, precluding definitive long-term 
+predictions. Health workforce planning models need to be continuously developed and regularly updated to take into account the 
+availability of more recent and better data, changes in demographic and non-demographic factors that may affect the supply and 
+demand for different categories of health workers, and the effects of any new policies that may affect the skill mix in health service 
+delivery and the demand for different categories of health workers, as outlined in the analytical framework above (Figure 1.1). 
+
+
+## Stran PDF 35
+
+   33 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+1.5. Increasing the education and training of new doctors and nurses 
+One of the main policy levers to increase the supply of doctors and nurses is to increase the number of students in medical and 
+nursing education programmes, although there is a time lag of several years between any decisions to increase student intakes 
+and the completion of their studies (about 8-12 years for doctors depending on the specialisation and at least 3 years for 
+“professional” nurses). Determining what may be the “right” number of student intakes and graduates in medicine and nursing is 
+complex and should be guided by robust health workforce planning. 
+1.5.1. Most EU countries have already recognised the need to train more doctors and nurses 
+Most EU countries had already taken steps to increase the number of students in medical and nursing education programmes 
+before the pandemic as reflected by the growing number of medical and nursing graduates over the decade from 2012 to 2022. 
+This is one of the main reasons why the number of doctors and nurses has increased in most countries during that period. The 
+increase in the number of medical graduates was stronger than in nursing graduates. Across the EU, the number of new medical 
+graduates increased at an average annual rate of over 3.5% between 2012 and 2022, while the number of nursing graduates 
+increased at a more modest rate of about 0.5% per year. Part of the explanation for this slower growth rate is that the dropout rate 
+from nursing education programmes is, in most countries, higher than from medical education programmes. In 2022, there were 
+15.5 medical graduates and 37.5 nursing graduates per 100 000 population in the EU as a whole, up from 11.1 medical graduates 
+and 36.0 nursing graduates per 100 000 population in 2012. 
+The number of new medical graduates varied significantly across EU countries in 2022, ranging from about 12 per 
+100 000 population in Slovenia, Estonia and Germany to over 24 per 100 000 population in Ireland, Romania, Latvia, Malta and 
+Bulgaria (Figure 1.12). Countries producing the most medical graduates relative to population size, such as Bulgaria, Romania 
+and Ireland, largely reflect the success of medical schools in these countries to attract international students. This 
+internationalisation of medical education has been facilitated by the EU Directive on the recognition of professional qualifications 
+that allows automatic recognition of medical diplomas obtained in EU/EEA countries. While these provide opportunities for 
+students to study medicine in another country, in most cases these international students leave the country after obtaining their 
+first medical degree due to limited postgraduate specialty training opportunities or better career prospects in their home countries 
+(OECD, 2019[14]).3 
+The number of new nursing graduates also varied widely across EU countries in 2022. Cyprus and Bulgaria – which also have 
+among the lowest numbers of practising nurses – had the fewest graduates at less than 10 per 100 000 population. Romania and 
+Greece topped the ranking with rates over 100 graduates per 100 000 population, though about 90% of these completed 
+vocational training programmes below the EU Professional Qualifications Directive’s minimum requirements for general nurses. 
+Norway, Iceland, Finland, Croatia and the Netherlands also had a relatively high number of nurse graduates in 2022, with more 
+than 60 graduates per 100 000 population (Figure 1.12). 
+
+
+## Stran PDF 36
+
+34    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.12. The number of new medical and nursing graduates varies widely across EU countries 
+ 
+Notes: The EU average is weighted. The data relate to 2022 or most recent year available. The data on nursing graduates include graduates from programmes that 
+are meeting the EU Directive on the recognition of professional qualifications as well as other nursing programmes at the national level. Luxembourg has no medical 
+graduates as it launched its first full medical degree programme in 2020. 
+Source: OECD Health Statistics 2024; Eurostat for medical graduates (hlth_rs_grd2). 
+StatLink 2 https://stat.link/aphwz7 
+After the pandemic, many EU countries have decided to increase the number of students admitted in medical and nursing 
+education programmes, although it is too early to see the results of these policy decisions in terms of the number of new graduates. 
+Student intakes in medical education programmes have increased greatly in recent years in countries such as France, Italy and 
+Poland. The increase in Germany has been more modest (Figure 1.13). 
+AT
+BE
+BG
+CY
+CZ
+DE
+DK
+ES
+EE
+FI
+FR
+EL
+HR
+HU
+IE
+IT
+LT
+LV
+MT
+NL
+PL
+PT
+RO
+SK
+SI
+SE
+EU
+IS
+NO
+5
+20
+35
+50
+65
+80
+95
+110
+5
+10
+15
+20
+25
+30
+35
+Medical graduates 
+lower than EU average
+Nursing graduates 
+higher than EU average
+Medical graduates
+lower than EU average
+Nursing graduates 
+lower than EU average
+Medical graduates
+higher than EU average
+Nursing graduates 
+higher than EU average
+Medical graduates 
+higher than EU average
+Nursing graduates 
+lower than EU average
+Nursing graduates per 100 000 population
+EU average: 37.5
+EU average: 15.5
+Medical graduates per 100 000 population
+
+
+## Stran PDF 37
+
+   35 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.13. The number of students admitted in medical schools has increased greatly over the past decade in several 
+EU countries 
+ 
+Sources: France: ONDPS; Germany: Education and Culture (Students at Universities reports); Italy: Ministry of University and Research; Poland: Ministry of Health 
+(Admissions in Medicine and Dentistry annual reports). 
+StatLink 2 https://stat.link/g7sb93 
+1.5.2. Fewer young people seem interested in careers in health, calling for greater efforts to increase 
+attractiveness 
+While many countries have recognised the urgent need to train more doctors, nurses and other health workers to address 
+shortages, increasing the education and training capacity will prove ineffective if there is not a sufficient pool of qualified and 
+motivated candidates to fill the additional training places available. According to the latest data from the Programme for 
+International Student Assessment (PISA) survey, in about half of EU countries, health sector jobs have become less attractive to 
+15-year-old students. By comparison, the share of students aiming for careers as information and communications technology 
+(ICT) professionals increased in nearly all countries (Figure 1.14). 
+4 000
+6 000
+8 000
+10 000
+12 000
+14 000
+16 000
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+France
+Italy
+Germany
+Poland
+Admission in medical schools (absolute numbers)
+
+
+## Stran PDF 38
+
+36    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.14. Student interest in working as health professionals has declined in about half of EU countries between 
+2018 and 2022 
+ 
+Notes: The EU average is unweighted. Health professions includes doctors, nurses, midwives, dentists and other health professions. ICT professions refer to jobs such 
+as software and web developers. Luxembourg did not participate in PISA 2022, while data for Cyprus are not available for this variable. Countries are ranked in 
+descending order of the change between 2018 and 2022 in the percentage of students expecting to work as health professional. 
+Source: Adapted from OECD publication “PISA 2022 Results (Volume II): Learning During – and from – Disruption”, 2023. 
+StatLink 2 https://stat.link/z29uho 
+While becoming a doctor still remains a very popular career aspiration among 15-year-olds, interest in nursing has always been 
+less popular and has decreased in many countries between 2018 and 2022. On average across EU countries, less than 2% of 
+15-year-olds expected to become nurses in 2022, a proportion four times lower than those aspiring to become doctors. This 
+contrasts with the actual composition of the health workforce as there are two times more nurses than doctors on average across 
+EU countries (see indicator “Availability of nurses” in Chapter 7). Interest in pursuing a career in nursing has diminished in over 
+half of EU countries. This reduction was particularly marked in some Nordic countries (Norway, Denmark and Finland to a lesser 
+extent), Ireland, Czechia, Hungary and Romania (OECD, 2024[15]). 
+Data on applications to nursing education programmes also show that, following a brief increase during the onset of the pandemic, 
+the number of applications has been decreasing in recent years in countries like Ireland and Italy. If the decline in applications 
+continues, it will become increasingly difficult (if not impossible) to fill all available places (Figure 1.15). 
+-6
+-4
+-2
+0
+2
+4
+6
+Percentage point difference
+Health professional
+ICT professional
+Fewer students reported aspiring to this career in PISA 
+2022 than in PISA 2018
+More students reported aspiring to this career in PISA 
+2022 than in PISA 2018
+
+
+## Stran PDF 39
+
+   37 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.15. Student applications in nursing education programmes have decreased in recent years in some 
+EU countries (Ireland and Italy) 
+ 
+Notes: In Ireland, the data on applications refer to students who ranked nursing as their first preference while the admissions data refer to the number of offers that 
+have been accepted by students. The data include both nursing and midwifery programmes. 
+Source: Ireland: Central Applications Office; Italy: Conferenza Nazionale Corsi di Laurea delle Professioni Sanitarie. 
+StatLink 2 https://stat.link/q1ocvt 
+One of the main reasons for the relatively low interest in the nursing profession is that it almost only attracts females. Results from 
+PISA 2022 show that over 85% of 15-year-old students expecting to work as nurses are girls in most EU countries. A continuing 
+challenge in all countries is to address the persistent stereotype that places nursing as a profession suited primarily for women. 
+Addressing this bias requires efforts to change perceptions of traditional gender roles and better career guidance (OECD, 2024[15]). 
+1.5.3. Improving the quality of initial education and continuous professional development also matters 
+to meet new skill requirements in the health sector 
+Beyond the sheer numbers of students admitted in medicine and nursing education programmes, it is also important to consider 
+the types and quality of initial education and training that students are receiving, as well as opportunities for continuous 
+professional development throughout the careers of doctors and nurses. The European Commission has launched a number of 
+initiatives to address skills gaps in the European health sector (Box 1.5). 
+0
+2
+4
+6
+8
+10
+Numbers (in thousands)
+Ireland
+0
+10
+20
+30
+40
+50
+Numbers (in thousands)
+Italy
+Applications
+Admissions
+
+
+## Stran PDF 40
+
+38    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Box 1.5. Initiatives to tackle skills gaps in the European health sector 
+The COVID-19 pandemic not only highlighted the critical importance of a skilled and resilient health workforce but also 
+accelerated the adoption of digital health solutions and emphasised the need for sustainable, environmentally-friendly 
+practices in the health sector. In response to these challenges, the European Commission launched two key initiatives in 
+recent years. 
+The first initiative, launched in 2021, is the Skills Partnership for the Health Ecosystem (https://pact-for-
+skills.ec.europa.eu/about/industrial-ecosystems-and-partnerships/health_en). This initiative includes three large-scale 
+partnerships: a skills partnership focused on health workers, a skills partnership in the long-term care sector, and a skills 
+partnership for the health industry. These partnerships aim to foster collaboration among stakeholders to address skills gaps 
+and build a future-ready health workforce. Their objectives encompass mapping current and future skills needs in the health 
+sector, aligning education, training and employer needs at regional/EU level, facilitating cross-border mobility and recognition 
+of qualifications, and promoting continuous professional development. 
+The second initiative, the Be Well Blueprint (https://bewell-project.eu/), launched in December 2022, focuses on upskilling 
+and reskilling the European health workforce for the digital and green transition. Key activities include collecting in an easily 
+accessible monitor existing upskilling/reskilling initiatives, developing and piloting comprehensive curricula and training 
+programmes, and developing and launching a skills strategy for health workers focused on digital and green skills. 
+1.6. Improving job quality to increase retention 
+The return on investment in education and training will be lost if newly-trained doctors, nurses and other health workers don’t end 
+up working in their profession for most of their working lives. Increasing the retention rates of current doctors, nurses and other 
+health workers is key also to avoid a vicious circle whereby more workers leaving the sector would result in growing shortages 
+and increased workloads and pressures on remaining staff, followed by more resignations and even greater shortages. 
+The quality of jobs plays a central role in the decision of people to stay in their current job or to leave. The OECD Job Quality 
+Framework distinguishes three complementary dimensions of what makes a “good job”: 1) earnings (or remunerations) (discussed 
+in Section 1.6.3), 2) labour market/job security, and 3) the quality of the work environment. This latter dimension includes several 
+non-monetary aspects of job quality (OECD, 2024[16]). 
+1.6.1. The pandemic led to a deterioration of the working conditions for many health workers, but 
+evidence of a “great resignation” is limited 
+The Eurofound’s 2021 European Working Conditions Telephone Survey (EWCTS) has gathered data on several aspects of the 
+quality of jobs as it relates to the quality of the work environment of workers in all sectors of the economy, including the health 
+and long-term care sector. Using a methodology developed by the OECD, the data from the EWCTS survey can be used to 
+compare job demands or strains (which affect workers negatively) and job resources (which affect workers positively). When 
+workers have more demands/strains than resources, they experience poorer job quality. 
+In 2021, therefore in the context of the pandemic, almost half of workers in the health sector (48%) and long-term care residential 
+sector (47%) reported high levels of job strain on average in EU countries, a much higher proportion than workers across all 
+sectors (30%). Looking at specific occupations, job strain was about two times higher among nurses (61%) and personal carer 
+workers (55%) than across all occupations on average across the EU (Figure 1.16). 
+
+
+## Stran PDF 41
+
+   39 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.16. Job strain reported by nurses and personal care workers was about two times greater than the average 
+across all shortage occupations in the EU in 2021 
+ 
+Notes: Job strain levels are calculated as the gap between job demands (6-7 indicators) and resources (8 indicators). “Strained (extreme)” represents a >50% excess 
+of demands over resources, “Strained (high)” a 25-50% excess, and “Strained (moderate)” up to 25% excess. Where resources exceed or match demands, categories 
+range from “Resourced (low)” (<25% resource advantage), “Resourced (moderate)” (25-50% resource advantage) to “Resourced (high)” (>50% resource advantage). 
+The nurses’ category also includes midwives. 
+Source: Eurofound (2021[17]), Working conditions in the time of COVID-19: Implications for the future, https://doi.org/10.2806/357794. 
+StatLink 2 https://stat.link/xpgbjv 
+In jobs with difficult working conditions, health and safety at work risks can be an additional factor contributing to lower job quality 
+and retention, and greater shortages. Data from the EWCTS survey show that the highest levels of health and safety at work risk 
+in 2021 were reported by nurses (69%), truck and bus drivers (53%), doctors (51%) and personal care workers (50%) (European 
+Commission, 2023[18]). Additionally, the lack of flexibility in work schedules contribute to increased strain on workers, further 
+impacting job satisfaction and retention. 
+While the OECD Job Quality Framework assumes that most workers prefer more over less job security, a significant number of 
+newly-trained but also more experienced doctors and nurses have opted in recent years to take on temporary jobs – either via 
+interim agencies or as self-employed – rather than seeking permanent employment from hospitals or other employers in the health 
+sector. Greater job security may be less of an issue for people working in occupations where considerable shortage prevails and 
+who are confident that they will find a temporary job, which may provide them with greater earnings and more flexibility over work 
+schedules (Box 1.6). Addressing this issue is important not only for individual hospitals or other healthcare employers, but also to 
+reduce cost pressures on the health system as a whole. However, there is no quick solution to this issue. 
+0 %
+20 %
+40 %
+60 %
+80 %
+100 %
+Nurses
+Personal care
+workers
+Truck and bus
+drivers
+Cooks and
+waiters
+Doctors
+Cleaners
+Building workers
+Salespeople
+EU average
+Software
+developers
+Resourced (high)
+Resourced (moderate)
+Resourced (low)
+Strained (moderate)
+Strained (high)
+Strained (extreme)
+
+
+## Stran PDF 42
+
+40    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Box 1.6. The use of interim staff in hospital can be a short-term fix for acute workforce shortages, but can cause 
+long-term issues 
+Like other industries, the health sector uses temporary staff to overcome momentary workforce shortages and to deal with 
+unexpected increases in demand, as seen during the COVID-19 pandemic. However, recent evidence suggests that these 
+working arrangements have become more systematic and that a growing number of health workers actually prefer to be hired 
+by interim agencies that “rent out” health workers to hospitals and other healthcare providers for short time periods. The 
+normalisation of these employment situations has serious consequences from an organisational perspective as well as cost 
+implications. It increases costs for hospitals and other health facilities and can generate tensions in the workplace, as doctors 
+and nurses doing the same jobs are often paid more when employed by an interim agency than being regular hospital staff 
+and may also have more desirable working schedules. In recent years, this trend has caught on in many European countries 
+and beyond. 
+In France, hospitals have increasingly relied on interim doctors and nurses to fill vacant posts in emergency departments and 
+other hospital units over the past few years. Reports suggest that interim doctors can earn 2-3 times more than their 
+counterparts with a regular contract with the hospital, while interim nurses are able to earn about 30% more. Interim staff also 
+have much more flexibility to choose their working hours than regular staff. The government has adopted some regulations 
+regarding the maximum amount that hospitals should pay interim doctors, although doctors are often in a position to negotiate 
+a higher pay. A recent report by the French Auditing Court pointed out that between 2017 and 2022 the total costs of interim 
+doctors for public hospitals increased by 25% to reach EUR 147.5 million, while the number of interim doctors increased by 
+23% over the same period. 
+In Germany, the costs associated with interim staff in hospitals (doctors and other health workers) reached nearly 
+EUR 2.9 billion in 2022, double the costs seen in 2015. In 2022, around 33 000 staff working in hospitals had no employment 
+relationship with hospitals, roughly double the number of 2010. Interestingly, this trend is nearly entirely driven by non-doctors. 
+The use of temporary contracts in the health sector in Spain also remains an issue, having increased to nearly 42% of all 
+health workers in 2020 during the peak of the pandemic, up from 28% in 2012. A new regulation adopted in 2022 aims to 
+reduce the use of temporary contracts by restricting their use to specific circumstances, imposing time limits on their duration 
+and promoting the conversion of long-term temporary staff into permanent positions. 
+Sources: France : Cour des Comptes (2024[19]), Observations définitives Intérim médical et permanence des soins dans les hôpitaux publics - exercices 2017-
+2022 [Final observations medical interim and permanent care in public hospitals - financial years 2017-2022]; Germany: Statistisches Bundesamt (2024[20]), 
+Hospitals in Germany - Federal Statistical Office, https://www.destatis.de/; Spain: OECD/European Observatory on Health Systems and Policies, (2023[21]), Spain: 
+Country Health Profile 2023, https://www.doi.org/10.1787/71d029b2-en. 
+Results from health staff surveys conducted during the COVID-19 pandemic in some EU countries showed a perceived 
+degradation of working conditions, growing job dissatisfaction and intention to leave jobs. For example, in Belgium, the proportion 
+of health workers expressing an intention to leave the profession increased markedly in 2021 to reach 28% by September 2021, 
+up from less than 10% before the pandemic (Sciensano, 2021[22]). 
+During the second year of the pandemic in 2021, the term “great resignation” was coined in the United States to refer to the 
+growing number of frontline workers in the health sector as well as in other sectors who were resigning at that time because of 
+job dissatisfaction and possibly reflecting also some changes in people’s work-life balance preferences. It is hard to get reliable 
+data from most EU countries to measure to what extent there might have been any “great resignation” of health workers in the 
+aftermath of the pandemic because most European countries do not have the equivalent of the American Job Openings and 
+Labour Turnover Survey that can be used to measure resignation (quit) rates. Sweden is an exception.4 
+The available survey data from the United States and Sweden show fairly similar trends in resignation rates from the health and 
+social care sector before and after the pandemic (Figure 1.17). While in the two countries there was an increase in quit rates from 
+the health and social care sector in 2021, these resignation rates decreased in the United States in 2022 while the reduction in 
+Sweden occurred a bit later in 2023. The hiring (or recruitment) rates in the two countries show in fact greater differences. In the 
+United States, the hiring rates have been steadily higher than the quit rates, thereby explaining the steady growth in employment 
+in health and social care in recent years. By contrast, in Sweden, the hiring and quit rates have fluctuated from year-to-year, with 
+the hiring rates being generally lower than the quit rates between 2018 to 2023. This was associated with a reduction in total 
+employment in the health and social sector in Sweden during that period, which was driven by a sharp drop in employment in 
+social care, while employment in healthcare continued to increase. 
+
+
+## Stran PDF 43
+
+   41 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.17. Quit rates of health and social care workers increased in the aftermath of the pandemic in some countries, 
+but have started to decrease in 2022 and 2023 
+ 
+Notes: Sweden data refer to employees with a permanent employment contract who have resigned as a share of the total number of permanent employees in the 
+health and social care sector. Data is presented as a 3-period moving average. 
+Source: U.S. Bureau of Labor Statistics (2024[23]), Job Openings and Labor Turnover Survey, www.bls.gov/jlt/; Statistikmyndigheten (2024[24]), Kortperiodisk 
+sysselsättningsstatistik [Short-term employment statistics], www.scb.se/. 
+StatLink 2 https://stat.link/1rqvxy 
+Available data from other European countries, such as Ireland and the United Kingdom, also indicate that there was an increase 
+in exit rates of public sector employees (from HSE and NHS) following the pandemic in 2021 and 2022, but the exit rates started 
+to drop in 2023, suggesting that this may have been a transitory event (Health Service Executive, 2023[25]; NHS England, 2024[26]). 
+A significant proportion of health workers reported symptoms of anxiety, depression and burnout during the pandemic, with these 
+symptoms often increasing as the pandemic went on. For example, over half of nurses, caregivers and other health workers in 
+Belgium reported being under pressure and stress in March 2021, while 40% reported having mental health issues (Sciensano, 
+2021[22]). In France, over half (54%) of nurses working in public facilities reported in December 2021 being in burnout, and that 
+this negatively impacted the quality of care provided and increased their intention to leave the profession in the short term (Ordre 
+National des Infirmiers, 2022[27]). The EU-funded project METEOR, which ran from 2021 to 2024, aimed to measure the mental 
+health of hospital workers and to provide a set of recommendations to improve working conditions and retention rates (Box 1.7). 
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+United States
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+Sweden
+Hires
+Quits
+
+
+## Stran PDF 44
+
+42    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Box 1.7. The METEOR project called for multipronged policy actions to improve the working conditions of health 
+workers and increase retention rates 
+The METEOR (Mental Health: Focus on Retention of Healthcare Workers) project, funded by the EU Health Programme 
+between 2021 and the first quarter of 2024, aimed to assess the mental health of health workers and to improve job retention. 
+The project conducted surveys in hospitals in four EU countries (Belgium, Italy, the Netherlands and Poland) and organised 
+stakeholder workshops to develop policy recommendations to improve the working conditions of hospital workers and retention 
+rates. In 2022, on average across participating countries and hospitals, only 13% of doctors and 16% of nurses were satisfied 
+with their job, while about a quarter of both categories of workers reported emotional exhaustion and depersonalisation. 
+Nonetheless, the intention to leave the profession remained low (9% among doctors and 13% among nurses). 
+One set of recommendations from the project relates to providing greater professional and personal support. This includes 
+fostering interprofessional collaborations, supporting flexible work schedules, facilitating task sharing and the deployment of 
+healthcare assistants to allow nurses to focus on their core patient-related duties, ensuring a stable and supportive 
+environment and establishing psychological support services. 
+Another set of recommendations related to training and coaching, including recommendations such as putting in place 
+onboarding and mentorship programmes, developing leadership programmes, implementing employee evaluations, 
+encouraging peer supervision groups focused on stress and mental health in the workplace, and promoting lifelong learning 
+and digital literacy among staff. 
+The third key area of recommendations was about regulation, including promoting adequate staffing levels and manageable 
+workloads that support high-quality care at all times, enhancing job security, minimising bureaucratic burdens, addressing 
+discrimination and bullying, and protecting workers against verbal abuse and aggression. 
+The fourth area focused on investment and providing flexible financial support. Recommendations included investing in new 
+technologies that can help automate or simplify administrative tasks, allowing greater flexibility in funding allocation for hospital 
+managers, and investing in more up-to-date equipment to improve quality of care and workers’ job satisfaction. 
+Source: https://meteorproject.eu/. 
+Post COVID-19 condition – commonly referred to as long COVID – also presents a significant challenge to health workforce 
+capacity. Health workers face elevated risk of developing this debilitating condition due to increased occupational exposure and 
+the sector’s predominantly female workforce, as women appear to be more susceptible to long COVID (Expert Panel on effective 
+ways of investing in health (EXPH), 2022[28]). The UK Office for National Statistics (ONS, 2023[29]) identified health workers as 
+having the second-highest prevalence of long COVID, surpassed only by long-term care workers. Multiple studies have 
+documented how long COVID reduces health workers’ ability to perform their duties (Cruickshank et al., 2024[30]). 
+The European Commission has announced in September 2024 a new contribution agreement with the WHO Regional Office for 
+Europe to support EU Member States in retaining nurses in health systems and making the profession more attractive. The 
+agreement, funded with EUR 1.3 million from the EU4Health programme, will involve activities across all EU Member States over 
+a three-year period. Particular focus will be given to those countries with significant shortages in health workers, and specifically 
+shortages in nurses. Through co-operation with Member States, nurses’ organisations and social partners, the initiative will be 
+tailored to specific needs at national and sub-national level. The funding will include creating recruitment action plans, mentoring 
+programmes to attract a new generation of nurses, strategies to improve the health and well-being of nurses, and implementing 
+training opportunities and actions to ensure the health workforce can reap benefits of the digital transformation (European 
+Commission, 2024[31]). 
+As part of another project funded by the European Commission, WHO-Europe has launched in October 2024 a survey to assess 
+the mental health and well-being of health professionals across the 27 EU countries, Iceland and Norway. The survey aims to 
+gather data to better understand the challenges doctors and nurses face in their work environments, including questions related 
+to job satisfaction and intention to leave job (WHO-Europe, 2024[32]). 
+1.6.2. Retaining experienced doctors for longer in the workforce 
+The ageing of the physician workforce is a growing concern in many EU countries. As shown above in Figure 1.17, 40% of doctors 
+in almost half of the EU countries were over 55 years old in 2022, raising concerns about a potential large wave of retirements in 
+the coming years. This situation could aggravate current workforce shortages, particularly if there is an insufficient inflow of newly-
+trained doctors to replace those retiring. 
+
+
+## Stran PDF 45
+
+   43 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Over the past decade, the decision of many doctors to continue working beyond the standard retirement age has helped to avoid 
+an exacerbation of shortages in many EU countries. This trend is evident in the increasing proportion of doctors aged over 65 
+between 2012 and 2022, which has been particularly significant in countries such as Italy, the Slovak Republic, Germany, France 
+and Belgium (Figure 1.18). 
+Figure 1.18. The share of doctors aged 65 and over has increased over the past decade in several EU countries 
+ 
+Source: Eurostat (hlth_rs_phys). 
+StatLink 2 https://stat.link/k5rgpc 
+Italy stands out with 27% of its medical workforce aged 65 and over, foreshadowing substantial doctor attrition in the coming 
+years. The outflow of doctors due to retirement in the country is expected to peak in 2025 with the retirement rate projected to 
+return to normal levels only by 2030 (Sumai-ASSOPROF, 2023[33]). To mitigate the impact of this anticipated retirement wave, 
+Italy has implemented measures to retain older physicians longer in the system while simultaneously boosting the training of new 
+doctors in recent years (Figure 1.13). In 2024, legislation was passed to temporarily suspend the obligation for doctors employed 
+by public facilities (NHS) to retire at age 70, allowing them to remain in the ward until they are 72. This legislation also enables 
+NHS local authorities to keep medical personnel in service beyond retirement age on a voluntary basis, addressing both the 
+serious staff shortage and the training and tutoring needs of newly hired staff. Additionally, those who have retired since 
+September 2023 can be readmitted to service within these limits (Consiglio dei ministri, 2023[34]). 
+Pension reforms and a potential increase in doctors’ capacity and willingness to work longer may have a significant impact on the 
+supply of doctors and replacement needs in the short to medium term. Many EU countries besides Italy have combined efforts to 
+increase statutory retirement ages, curb early retirement, and offer incentives for longer working lives along with initiatives to foster 
+job flexibility for older workers. Normal retirement ages have increased or are set to increase in most EU countries, reaching an 
+average of over 65 years for both men and women starting their careers today. In Denmark, Estonia, the Netherlands and Sweden, 
+the normal retirement age is projected to rise to 70 years or more if life expectancy gains materialise as projected and legislated 
+links with life expectancy are applied (OECD, 2023[35]). Although there are few studies examining the specific impact of these 
+pension reforms on doctors and other health workers, they can be expected to prolong the working lives and expand the supply 
+of doctors, nurses and other health workers after age 65 in the coming years. 
+According to the 2023 OECD Health System Characteristics Survey, six EU countries (Czechia, Greece, Ireland, Latvia, Portugal 
+and Spain) indicated that part of their strategies to maintain or increase the supply of doctors is to prolong their working lives. This 
+may be achieved through general pension reforms that increase the retirement age for all workers or through more specific 
+incentives targeting doctors to prolong their working lives. 
+Italy
+Slovak Republic
+Germany
+France
+Belgium
+0
+5
+10
+15
+20
+25
+30
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+.
+Share of doctors aged 65 and over
+
+
+## Stran PDF 46
+
+44    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+1.6.3. Improving the remuneration of some categories of health workers can increase attractiveness 
+and retention 
+An important aspect of job quality relates to earnings, as explicitly recognised under the OECD Job Quality Framework. Based on 
+standard economic theory, wage adjustments should address any imbalance in the supply and demand for different categories of 
+health workers: if there are shortages of some categories of workers, wages should go up to increase supply (either in terms of 
+the number of health workers and/or their working hours) while the demand should decrease, thereby reducing the shortage. 
+However, this supposes that wages are free to adjust to labour market conditions and that the supply of health workers is fairly 
+responsive (or “elastic”) to wage changes. In practice, both of these conditions often do not apply in the health sector.5 
+The remuneration of health workers varies widely by categories of workers depending on qualification levels, years of experience 
+(seniority), working time (or activity rates) and negotiating power. In general across EU countries, the remuneration of doctors is 
+several times higher than the average wage of workers in all occupations reflecting their higher qualifications and longer working 
+hours. GPs earn two to four times more than the average wage, while specialists earn two to five times more (see indicator on 
+“Remuneration of doctors” in Chapter 7). The remuneration of nurses is substantially lower than that of doctors. On average 
+across EU countries, it is about 20% higher than the average wage of workers in all occupations, although in some countries 
+nurses do not earn more than the average wage (see indicator on “Remuneration of nurses” in Chapter 7). The remuneration of 
+personal care workers is about 30% lower than the economy-wide average wage on average across EU countries (OECD, 
+2023[36]). 
+Based on data collected through the Eurofound’s EWCTS survey in 2021, over 40% of personal care workers on average across 
+EU countries reported having financial difficulties (almost the same proportion as cleaners and cooks and waiters). Over 20% of 
+nurses also reported having difficulties in making ends meet, slightly lower than the average across all occupations considered to 
+be in shortage, but nonetheless a significant proportion. Only about 5% of doctors reported facing such financial difficulties on 
+average across EU countries (Figure 1.19). 
+Workers in certain health occupations also believe that they were not fairly rewarded. This is notably the case for nurses: only 
+40% of nurses felt in 2021 that they were paid fairly in relation to their efforts and achievements on average across EU countries 
+(19 percentage points less than the average across all occupations). 
+Figure 1.19. Almost a quarter of nurses and half of personal care workers report financial difficulties across 
+EU countries 
+ 
+Source: European Commission  (2023[18]), Employment and social developments in Europe 2023, https://data.europa.eu/doi/10.2767/089698. 
+StatLink 2 https://stat.link/jf50p8 
+43
+22
+5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Cleaners
+Cooks and
+waiters
+Personal care
+workers
+Salespeople
+Building
+workers
+Truck and bus
+drivers
+Metal workers EU average
+Electronic
+workers
+Nurses
+Software
+developers
+Doctors
+% of workers in shortage occupations reporting difficulty in making ends meet 
+
+
+## Stran PDF 47
+
+   45 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Following the pandemic, nurses have obtained substantial pay rises in several EU countries, including Hungary, Poland, Slovenia, 
+Estonia and France. However, the high inflation rates in the years that followed the pandemic eroded the (nominal) wage gains 
+of nurses as well as other categories of workers in the health and other sectors. In several countries, the growth in the remuneration 
+of nurses in real terms (adjusted for inflation) in the years up to 2022 was almost nil or even negative (see indicator on the 
+“Remuneration of nurses” in Chapter 7). 
+1.6.4. Several countries are recruiting foreign doctors and nurses to respond to domestic needs, but 
+this strategy raises equity and sustainability issues 
+Health workers can leave the health system in a country to seize better job opportunities in other countries. The mobility of several 
+regulated health professions (including doctors and nurses) has been facilitated by the EU Directive on the recognition of 
+professional qualifications. 
+Many OECD countries in Europe and outside Europe are aiming to address current shortages of health workers at least partly by 
+recruiting them from other countries. While this can be a quick solution to address short-term domestic needs, this may only 
+exacerbate shortages of doctors and nurses when they are recruited from countries that have a lower supply and more acute 
+shortages of skilled health workers. The WHO Global Code of Practice on International Recruitment of Health Personnel 
+establishes ethical principles for the international recruitment of health personnel and discourages active recruitment from 
+countries facing critical health workforce shortages (WHO, 2010[37]). 
+The recruitment of foreign doctors and nurses increased greatly in many European countries in 2022 and 2023 following a 
+temporary reduction during the first two years of the pandemic. Based on data available from 27 European countries (excluding 
+some EU countries for which data is not available but including some of the main destination countries such as Switzerland and 
+the United Kingdom), the recruitment of foreign-trained doctors was 17% higher in 2022 than before the pandemic in 2019, rising 
+from about 28 000 in 2019 to 33 000 in 2022 in terms of annual inflow. The annual inflow of foreign-trained doctors continued to 
+increase in 2023 in 11 of the 12 European countries for which data are available (Lithuania being the only exception), with a further 
+increase of 40% compared to 2022 on average. The increase in the recruitment of foreign-trained nurses between 2019 and 2022 
+was even stronger, averaging about 72% across the 22 European countries for which data are available (which includes the 
+United Kingdom and Switzerland), rising from about 26 000 in 2019 to 45 000 in 2022. 
+In 2023, the overall (cumulative) stock of foreign-trained doctors as a share of all doctors in the main destination countries in 
+Europe reached over 40% in Norway, Ireland and Switzerland, although in Norway about half of these foreign-trained doctors are 
+Norwegian students who went abroad to get their first medical degree. When it comes to nurses, the share of foreign-trained 
+nurses among all nurses was highest in Ireland, reaching over 50% in 2023, followed by Switzerland and the United Kingdom 
+where about 25% of all nurses were initially trained in another country (Figure 1.20). Ireland’s particularly high reliance on foreign-
+trained nurses stems from a combination of factors. To fill chronic staff shortages, Ireland’s Health Service Executive has 
+conducted active overseas recruitments targeting countries like the Philippines and India, which have well-established nursing 
+diasporas in the country (Figure 1.22). Concurrently, significant numbers of Irish-trained nurses have emigrated to other English-
+speaking countries, attracted by better working conditions and pay, thereby exacerbating the domestic nursing shortage and 
+further driving the health system’s dependence on foreign-trained nurses. 
+
+
+## Stran PDF 48
+
+46    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Figure 1.20. The share of foreign-trained doctors and nurses has increased over the past decade in most European 
+countries 
+ 
+Notes: The EU averages are unweighted and only include those countries with data available for both data points. The data for Germany relate to foreign nationality 
+(not to the place of training). 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/w76vil 
+The countries of origin of foreign-trained doctors and nurses working in some of the main destination countries in Europe varies 
+widely, often linked to the sharing of a common language, historical ties and geographic proximity. In Ireland and the 
+United Kingdom, a major source of doctors and nurses trained abroad is from other countries where English is at least one of the 
+official languages. There are relatively few doctors and nurses recruited nowadays from other EU countries.6 Hence, about 
+one-third of doctors who moved to work in the United Kingdom in 2023 came from India and Pakistan, while another 20% came 
+from three African countries (Nigeria, Egypt and Sudan). In Ireland, Pakistan was by far the main country of origin of foreign-
+trained doctors recruited in 2023, followed by two African countries (Sudan and South Africa) (Figure 1.21). 
+By contrast, in Switzerland, nearly all foreign-trained doctors (93%) and foreign-trained nurses (98%) who have moved to work in 
+2023 came from EU countries, with most of them coming from three large neighbouring countries (Germany, France and Italy). 
+In Germany, the composition of foreign-trained doctors and nurses is more balanced between EU and non-EU countries. While 
+the data on the annual inflows of foreign-trained doctors only cover EU countries, the data on the cumulative stock of foreign 
+doctors in Germany show that about 40% come from EU countries while the other 60% come from non-EU countries. Considering 
+only the inflows from EU countries, in 2022 the greatest number of foreign doctors came from Romania, Austria and Greece. 
+Regarding nurses, the greatest number of foreign nurses who moved to work in Germany came from the Philippines, but a large 
+number also came from the Balkans (e.g. Bosnia-Herzegovina, Serbia and Albania). 
+0.7
+1.0
+2.0
+3.7
+3.8
+4.5
+4.8
+7.0
+7.5
+8.2
+8.2
+9.5
+11.7
+12.7
+13.2
+13.5
+14.4
+15.0
+15.4
+30.4
+31.9
+39.5
+43.4
+44.0
+0
+10
+20
+30
+40
+50
+60
+Lithuania
+Italy
+Romania
+Netherlands
+Poland
+Estonia
+Croatia
+Latvia
+Austria
+Czechia
+Hungary
+Denmark
+EU17
+France
+Finland
+Belgium
+Germany
+Malta
+Slovenia
+Sweden
+United Kingdom
+Switzerland
+Ireland
+Norway
+% of total medical workforce
+0.1
+0.2
+0.4
+0.5
+0.8
+1.2
+1.4
+1.5
+1.8
+1.9
+3.1
+3.2
+3.6
+4.0
+4.0
+4.4
+5.2
+6.5
+9.9
+13.4
+22.7
+25.8
+51.8
+0
+10
+20
+30
+40
+50
+60
+Romania
+Estonia
+Poland
+Lithuania
+Finland
+Croatia
+Czechia
+Netherlands
+Denmark
+Hungary
+France
+Latvia
+Sweden
+Slovenia
+EU9
+Belgium
+Italy
+Norway
+Germany
+Austria
+United Kingdom
+Switzerland
+Ireland
+2023 (or latest)
+2012
+Foreign-trained doctors
+Foreign-trained nurses
+% of total nursing workforce
+
+
+## Stran PDF 49
+
+   47 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+It is important to bear in mind that the inflows of foreign doctors and nurses in Ireland, the United Kingdom and Germany are partly 
+offset by the migration of a significant number of doctors and nurses trained in these countries to other European and non-
+European countries. For example, a significant number of doctors from Ireland and the United Kingdom move to other English-
+speaking countries such as Australia, the United States, Canada and New Zealand. As noted above, a large number of doctors 
+and nurses trained in Germany are moving to work in Switzerland. 
+Figure 1.21. The main countries of origin of foreign-trained doctors vary across European countries 
+ 
+Note: The German data only include inflows from EU countries. Based on the data on the cumulative stock, about 40% of all foreign doctors in Germany came from 
+other EU countries in 2022, whereas the remaining 60% came from non-EU countries. 
+Source: OECD Health Statistics 2024. 
+Figure 1.22. The main countries of origin of foreign-trained nurses vary across European countries 
+ 
+Source: OECD Health Statistics 2024. 
+Some EU countries have, for many years, been important countries of origin of doctors and nurses recruited by other EU countries, 
+raising concerns about a “brain drain” (or “care drain”). This has notably been the case for some of the EU Member States that 
+have joined since 2004. The reduction in barriers to mobility, notably through the EU Directive on the recognition of professional 
+qualifications, has facilitated the movement of doctors and nurses from these countries to other EU/EEA countries. 
+Total
+2266 Total
+18689 Total
+1213 Total
+2402
+EU
+405 EU
+2864 EU
+1213 EU
+2226
+    Romania
+80    Bulgaria
+631    Romania
+191    Germany
+1096
+    Bulgaria
+53    Ireland
+315    Austria
+127    France
+267
+    Spain
+47 India
+3074    Greece
+102    Italy
+254
+    Poland
+43 Pakistan
+2968    Bulgaria
+97    Austria
+92
+Pakistan
+947 Nigeria
+1671    Italy
+93    Romania
+87
+Sudan
+306 Egypt
+1446    Poland
+77    Greece
+83
+South Africa
+124 Bangladesh
+628    Hungary
+65    Belgium
+73
+United Kingdom
+119 Sudan
+593    Cyprus
+56    Spain
+58
+China
+61 China
+540    Spain
+55    Poland
+35
+Malaysia
+51 Sri Lanka
+477    France
+41    Lithuania
+31
+United Kingdom 
+(Annual inflows - 2023)
+Switzerland
+ (Annual inflows - 2023)
+Ireland 
+(Annual inflows - 2023)
+Germany 
+(Annual inflows - 2022)
+Total
+5225 Total
+21888 Total
+8310 Total
+3070
+EU
+122 EU
+443 EU
+1218 EU
+3020
+    Spain
+42    Romania
+90    Romania
+591    France
+1427
+    Portugal
+21    Ireland
+72    Croatia
+141    Germany
+675
+India
+3552 India
+10527 Philippines
+1503    Italy
+399
+Philippines
+741 Philippines
+3899 Bosnia–Herzegovina
+876    Portugal
+108
+United Kingdom
+260 Nigeria
+2399 Serbia
+825    Austria
+100
+Zimbabwe
+183 Ghana
+1167 India
+714    Romania
+50
+Nigeria
+136 Kenya
+487 Tunisia
+675    Netherlands
+41
+Ghana
+98 Zimbabwe
+438 Albania
+465    Belgium
+38
+Australia
+14 Nepal
+301 North Macedonia
+177    Poland
+34
+Brazil
+12 Zambia
+202 Türkiye
+141    Croatia
+33
+United Kingdom 
+(Annual inflows - 2023)
+Switzerland 
+(Annual inflows - 2023)
+Ireland 
+(Annual inflows - 2023)
+Germany
+(Annual inflows - 2022)
+
+
+## Stran PDF 50
+
+48    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+For example, following its accession to the EU in 2007, a large number of nurses trained in Romania have moved to work in other 
+EU/EEA countries. The movement to Italy was particularly large in 2007 and the following years, but started to decrease around 
+2012. Looking at trends over the decade from 2012 to 2022, the annual number of nurses trained in Romania moving to work in 
+some of the main destination countries in Europe (Italy, Germany and the United Kingdom) has decreased. There has been a 
+notable steep reduction in the movement to the United Kingdom following the Brexit vote in June 2016 (Figure 1.23). At the same 
+time, there has been a slight increase in the movement of Romanian nurses to other destination countries such as Switzerland. 
+Many Central and Eastern European countries have significantly increased the remuneration of nurses over the past decade, 
+thereby narrowing the pay gap with Western European countries and the financial incentives to move (see indicator on the 
+“Remuneration of nurses” in Chapter 7). 
+Figure 1.23. The recruitment of nurses trained in Romania has decreased sharply in some European countries over the 
+past decade, although it has increased slightly in other countries 
+ 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/oa3w62 
+1.7. Innovating to optimise the use of skills and new technologies 
+1.7.1. Supporting innovations in healthcare delivery to optimise skills use of health workers and raise 
+productivity 
+In addition to training and retention strategies aimed at increasing the supply of different categories of health workers, innovations in 
+health service delivery designed to use more effectively the skills of different categories of health workers can also help address the 
+shortages of some categories of doctors and nurses, and improve job satisfaction and retention rates. Previous OECD work has 
+shown that many doctors and nurses report being over-skilled for some of the tasks they do in their daily work, indicating a waste in 
+human capital and the possibilities to reallocate tasks to optimise skills use. This is a particular issue among nurses with higher levels 
+of education (a Master’s degree or the equivalent) who are more likely to report being over-skilled for the job they do (OECD, 2016[2]). 
+In recent years, many EU countries have expanded the role and scope of practice of certain categories of nurses (often referred 
+to advanced practice nurses) to address issues related to access, continuity and quality of care, particularly in primary care. Many 
+countries have also introduced or expanded the roles of physician assistants (PAs) to reduce the demands and pressures on GPs 
+and other categories of doctors. 
+However, the movement towards more advanced nurse practice roles in primary care is not new and started in the 1960s in the 
+United States with the introduction of the first nurse practitioners (NPs) in some States and in Canada in response to shortages of 
+GPs in rural and remote areas. In Europe, the United Kingdom started to use NPs and other advanced practice nurses in the early 
+1980s, and other countries followed such as the Netherlands in 1997, Ireland in 2001, Finland in 2003 and Estonia in 2005 (Box 1.8). 
+ 0
+ 500
+1 000
+1 500
+2 000
+2 500
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+United Kingdom
+Italy
+Germany
+Switzerland
+Annual inflow of nurses trained in Romania
+Brexit
+
+
+## Stran PDF 51
+
+   49 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Box 1.8 How is “advanced practice nursing” defined? 
+It is not easy to define precisely what is meant by “advanced practice nursing” and who is an “advanced practice nurse” as 
+this term encompasses a large variety of educational requirements, roles, practices, and titles. A recent review by the 
+European Federation of Nurses pointed out that the definition, recognition, regulation, and education of advanced practice 
+nursing vary significantly across Europe  (De Raeve et al., 2023[38]). The International Council of Nurses (ICN) has proposed 
+a few years ago the following definition of advanced practice nurses and nurse practitioners: 
+• 
+“An Advanced Practice Nurse (APN) is a generalist or specialised nurse who has acquired, through additional 
+graduate education (minimum of a master’s degree), the expert knowledge base, complex decision-making skills and 
+clinical competencies for Advanced Nursing Practice… The two most commonly identified APN roles are clinical nurse 
+specialists (CNS) and nurse practitioners (NPs). 
+• 
+A Nurse Practitioner (NP) is an Advanced Practice Nurse who integrates clinical skills associated with nursing and 
+medicine in order to assess, diagnose and manage patients in primary healthcare settings and acute care populations 
+as well as ongoing care for populations with chronic illness.” (Schober et al., 2020[39]). 
+Not surprisingly, the number of NPs is highest in those countries that recognised this role earlier. In the United States and Canada, 
+the number of NPs has increased rapidly over the past decade to respond to growing demands for primary care and hospital care 
+in a context of persisting shortages of certain categories of doctors (e.g. GPs). In Europe, the United Kingdom and the Netherlands 
+have the highest number of NPs (who may have a different title such as “advanced nurse practitioner” in the United Kingdom or 
+“nurse specialist” in the Netherlands). In the Netherlands, the number of NPs has increased steadily since 2010, although their 
+role and scope of practice is more limited than in several other countries, with some functions only permitted under the supervision 
+of doctors (Brownwood and Lafortune, 2024[40]). The Netherlands has also increasingly relied on physician assistants to support 
+doctors, although the number of physician assistants (PAs) remains lower than NPs (Figure 1.24). 
+Figure 1.24. The number of nurse practitioners and physician assistants has increased steadily in the Netherlands 
+since 2010 
+ 
+Note: Nurse practitioners refer to those working in general healthcare. 
+Source: ACMMP (2022[41]), Capaciteitsplan 2024-27 [Capacity plan 2024-27], https://capaciteitsorgaan.nl/capaciteitsplan-2024-2027-integraal-overzicht/. 
+StatLink 2 https://stat.link/fdu1t8 
+The Dutch health workforce planning models have started to incorporate different vertical substitutions of tasks between doctors 
+and these new professions to assess the impact on the projected demand and required training for these professions. In its 2022 
+report, the Advisory Committee on Medical Manpower Planning (ACMMP) recommended to increase the training of NPs by 7% 
+and PAs by 10% over the period 2024-27 to respond to future demand (Advisory Committee on Medical Manpower Planning, 
+(ACMMP), 2022[41]). 
+218
+448
+641
+1 058
+1 590
+733
+1 337
+1 762
+2 433
+3 150
+ 0
+ 500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+2010
+2013
+2015
+2019
+2022
+Number of practising nurses
+Physician assistants
+Nurse practitioners
+
+
+## Stran PDF 52
+
+50    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Estonia also has a long experience of over 15 years with advanced practice nursing in primary care. In 2009, GPs were 
+incentivised to hire a nurse in their practice by the threat of reduced reimbursement for those who did not. In 2013, GPs were 
+further incentivised to employ a second nurse this time through an extra bonus. Nowadays, most GP practices employ at least 
+two family nurses. Practice assistants are also part of primary care teams. Since the introduction of Family Primary Healthcare 
+Centres in 2018, family nurses have become the usual first point of contact for patients. The nurse competences are relatively 
+broad and include health promotion, disease prevention, and chronic disease monitoring, as well as prescriptions, procedures 
+and health check-ups. When the nurse competences are not sufficient to address the health issues of some patients, these 
+patients get an appointment with a GP. 
+The EU-funded project TaSHI (TAsk SHIfting) gathered evidence on the potential benefits of innovative ways in using the skills of 
+different categories of health workers in delivering health services and developed tools to support implementation (Box 1.9). 
+Box 1.9 TaSHI project: Empowering EU policies on Task SHIfting 
+Between April 2021 to March 2024, the EU-funded TaSHI project, co-ordinated by Semmelweis University in Hungary, 
+collected evidence and tools on task shifting practices in the health sector and provided an overview of the potential benefits 
+of task shifting based on concrete experiences in five European countries (Estonia, Italy, Lithuania, the Netherlands and 
+Norway).This three-year project produced tangible outcomes to support the implementation of new task shifting initiatives, 
+including: 
+• 
+A new curriculum to support task shifting in healthcare accompanied by training materials. 
+• 
+A guidebook on task shifting. 
+• 
+A set of recommendations to strengthen the resilience of the health workforce for different stakeholder groups. 
+Source: https://tashiproject.eu/. 
+1.7.2. Changing roles and opportunities for health workers in the digital and AI era 
+As European health systems grapple with workforce shortages and rising demand for health services, the integration of digital 
+technologies and artificial intelligence (AI) holds promise in supporting health workers in their workflow and enhancing their 
+productivity. Digital health tools are already enhancing health professionals’ clinical practice. A recent umbrella review indicated 
+that novel tools currently being deployed in high-income countries have been found to generally improve healthcare providers’ 
+performance (Borges do Nascimento et al., 2023[42]). Within the next decade, this technological transformation is poised to 
+significantly transform the roles and responsibilities of health workers across Europe. Early signs of this transformation are already 
+visible with novel roles emerging in recent years, such as telehealth co-ordinators and telemedicine physicians who provide 
+remote care enabled by the ability to track patients’ conditions at home. 
+Because of the specific nature and mix of tasks involved in providing health services, for most health occupations the 
+implementation of digital technologies and AI presents opportunities for augmentation rather than outright replacement, as few 
+roles are entirely automatable (Moulds and Horton, 2023[43]; OECD (forthcoming)[44]). Their integration is anticipated to have a 
+multifaceted impact across all stages of the patient journey within the health system (Table 1.1). For instance, digital and AI-
+powered tools can streamline triage and referral management processes, reducing waiting times and improving the 
+appropriateness of referrals (NHS England, 2018[45]). Administrative tasks carried out by clinical staff, particularly repetitive back-
+office processes, are prime candidates for automation, with recent estimates suggesting that up to 30% could be at least partially 
+automated through digital solutions that can execute these tasks with greater accuracy and speed than humans (EIT Health; 
+McKinsey & Company, 2020[46]). 
+The Netherlands provides a compelling example of how governments have started leveraging this potential to address healthcare 
+challenges. Faced with a projected shortage of nearly 200 000 health and social care workers by 2033, the Dutch Government 
+plans to harness AI in healthcare to reduce doctors’ administrative burden from 40% to just 20% of their working hours. To achieve 
+this, the government will prioritise legislation and regulations to enable generative AI in hospital care and accelerate efforts to 
+improve data availability and exchange in the healthcare and welfare sectors (Government of the Netherlands, 2024[47]). 
+AI-powered tools can also analyse patients’ data in real-time to support clinical decision-making, allowing clinical staff to focus 
+more on patients and improve the quality and efficiency of care delivery. In diagnostic roles like radiology and pathology, AI can 
+assist in analysing medical images and identifying patterns that may be difficult to discern through manual analysis (Barragán-
+Montero et al., 2021[48]). 
+
+
+## Stran PDF 53
+
+   51 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Table 1.1. Emerging digital technologies can augment health professionals’ productivity throughout the care 
+continuum 
+Care point 
+Impact on frontline health workforce 
+Triage 
+Healthcare staff gain access to synthesised health-related information enabling them to precisely understand the unique needs of each 
+patient to deliver the ‘right care, at the right time’ (Churruca et al., 2023[49]). 
+Encounter 
+Frontline health providers have timely access to comprehensive patients’ data thanks to the possibility of linking pre-recorded symptoms 
+summary and data stored in electronic health records (EHRs). 
+Health providers’ administrative workload is alleviated through the integration of voice recognition and AI-powered administrative functions 
+such as multilingual clinical notetaking (Li et al., 2021[50]) 
+Testing 
+Testing professionals (laboratory technicians, radiologists, pathologists, bioinformatics testers etc.) interpret tests with greater precision by 
+using AI applications in laboratory testing, image processing and analysis of genomic data for early symptoms detection (Liu et al., 
+2021[51]). 
+Diagnosis 
+Innovations such as large language models (LLMS) enhance diagnostic accuracy and timeliness by enabling probabilistic diagnoses based 
+on comprehensive patient health data including lifestyle and environmental metrics, thereby minimising the risk of misdiagnosis (Tian et al., 
+2023[52]). 
+Treatment 
+AI-applications enables patients’ data analysis for personalised treatment plans (Johnson et al., 2021[53]); Mobile apps extend mental health 
+interventions remotely supplementing psychiatrists’ work (Graham et al., 2019[54]). 
+Predictive AI can be leveraged to reduce the frequency of adverse drug events (Syrowatka et al., 2022[55]). 
+The integration of digital technologies and AI in healthcare holds great potential for augmenting staff 
+capabilities and productivity, but also poses challenges 
+While digital technology and AI tools offer significant potential for enhancing health professionals’ capabilities, their integration 
+also presents challenges and risks that require careful management. A primary concern is the risk of sub-optimal implementation, 
+where the deployment of these advanced technologies fails to align with the practical demands and operational difficulties of day-
+to-day clinical practice – a potential misalignment which can further burden an already stretched clinical workforce. To mitigate 
+these risks, it is crucial to invest in comprehensive reskilling and upskilling programmes enabling health workers to gradually 
+transition into their evolved roles. This may involve training in data analysis and systems management, as well as in soft skills 
+such as communication, as these novel technologies are bound to transform the nature of physician-patient interactions in ways 
+that remain uncertain (Mittelstadt, 2021[56]). In addition to these adaptations, health workers will need to develop a comprehensive 
+set of digital and data literacy skills. Equally crucial is a thorough understanding of data privacy and security practices to ensure 
+the responsible and ethical use of sensitive patient data. These competencies are not just technical requirements but are 
+fundamental to maintaining patient trust and ensuring high-quality care in an increasingly digitised healthcare environment. 
+To address these evolving skill requirements, collaboration between healthcare organisations, universities and industry is 
+essential in developing comprehensive training programmes. Such initiatives might include, among other elements, integrating 
+AI-specific content into medical and nursing curricula; ensuring that new graduates enter the workforce with a solid foundation in 
+digital health technologies and health data management; offering continuing education opportunities for practising professionals 
+to stay up-to-date with rapidly evolving AI applications in healthcare; and creating interdisciplinary career paths at the intersection 
+of healthcare, data science and AI, with a view to nurturing talent capable of driving best practices and ensuring the seamless 
+integration of novel technologies into frontline clinician workflows. 
+Another related challenge is the potential for emerging digital technologies and AI to alter the nature of healthcare work in 
+unexpected ways, potentially leading to reduced job satisfaction. For instance, while automation of routine administrative tasks 
+enables health professionals to maximise time spent on specialised care work, continuous engagement at peak cognitive capacity 
+may paradoxically increase stress levels and burnout risk (Moulds and Horton, 2023[43]). 
+These complex dynamics highlight the need for careful consideration when implementing AI solutions in healthcare settings. To 
+address these concerns, fostering a culture of collaboration between health professionals and technology experts is essential. 
+Crucially, health workers should be involved in the design and implementation of these capacity-augmenting technological tools 
+to make sure that their insights are leveraged to create efficient solutions that enhance rather than inadvertently undermine their 
+professional roles. Similarly, health informatics experts should be recognised as key contributors, given their expertise in building 
+and maintaining integrated digital health infrastructures, designed to complement and enhance front-line clinician workflows. 
+
+
+## Stran PDF 54
+
+52    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Digital health technologies hold promise to enhance patient involvement in their own health management 
+The increasing availability of heath data through digital health tools, such as mobile apps, wearables and patient portals is 
+empowering patients to take a more active role in managing their own health. By providing patients with secure access to their 
+health records and personalised health metrics, these tools effectively activate millions of additional “health workers” able to track 
+routine health conditions with co-ordinated intervention and engage the health system more efficiently. 
+For example, AI-powered chatbots and virtual health coaches can provide patients with 24/7 access to health information, triage 
+symptoms, and guide them to the appropriate level of care (Iqbal, Celi and Li, 2020[57]). Remote monitoring devices can help 
+patients with chronic conditions track their vital signs and symptoms at home, alerting healthcare providers when intervention is 
+needed (Shaik et al., 2023[58]), and digital therapeutics, such as mental health apps, can extend the reach of care beyond 
+traditional clinical settings, supplementing the work of mental health professionals (Graham et al., 2019[54]). 
+The increasing adoption of patient-facing digital health tools has the potential to alleviate some of the burden on the health 
+workforce and mitigate the impact of staff shortages. However, realising these benefits will require careful planning, targeted 
+investments in a fully data-enabled health environment, and a focus on ensuring equitable access and digital literacy for all 
+patients. 
+1.8. Conclusions 
+Despite a steady increase in the number of doctors, nurses and other health workers over the past few decades, the European health 
+workforce is facing a severe crisis with most countries grappling with significant shortages of several categories of health workers 
+due to growing demand for healthcare as well as a reduction in the working hours of some categories of health workers aiming to 
+achieve a better work-life balance. These workforce shortages may be exacerbated in the coming years, driven by the double 
+demographic challenge of an ageing population and an ageing health workforce, posing a serious threat to the sustainability and 
+resilience of European health systems. As the proportion of the population aged 65 and over in the EU is projected to increase from 
+23% in 2023 to nearly 30% by 2050, the demand for health services is expected to increase as well. However, this rising demand 
+may be contained by individual and policy actions to promote healthy ageing, and health workforce productivity improvements can 
+also mitigate the impact on the demand for health professionals. On the supply side, large numbers of health professionals are 
+approaching retirement age in a significant number of EU countries, requiring a substantial inflow of new health professionals to 
+replace them, as well as more flexible work-to-retirement options to retain those who are able to work longer. 
+This chapter has examined the complex interplay of factors shaping the supply and demand for health workers in the EU. The 
+analysis has revealed worrying trends, such as high levels of job dissatisfaction and burnout among current health workers, 
+exacerbated by the COVID-19 pandemic, and declining interest in health careers among young people. Addressing health 
+workforce challenges will require a multi-faceted approach, with some policies having impact in the short term, while the impact 
+of other policies may be felt more in the medium to longer term. 
+Increasing the training and education of new doctors and nurses is crucial, and most EU countries have already recognised this 
+need. However, the declining number of applicants to nursing programmes in some countries underscores the urgency of making 
+nursing and other health careers more attractive. Improving the working conditions and remuneration of health workers – in other 
+words improving the quality of work – is an essential first step to boost both attractiveness and retention rates of current workers 
+and prevent a vicious cycle of shortages leading to increased workloads, stress, and further attrition. 
+The chapter has shed light on the growing role of international migration of health workers in Europe as part of the strategies that 
+many countries are using to address health workforce shortages. While the recruitment of foreign-trained health professionals can 
+provide a quick fix to domestic needs, overreliance on this approach is inefficient and will exacerbate shortages in countries of 
+origin while creating vulnerabilities in the health systems of destination countries. As the demand for healthcare continues to grow, 
+it is crucial for EU countries to strike a balance between leveraging the benefits of intra-EU worker mobility and ensuring the 
+sustainability of their domestic health workforces. To achieve this, better data on health worker movement within Europe is 
+essential for monitoring cross-border flows and informing the development of co-operative policies. 
+Increasing the training and improving the working conditions of health workers will be key in addressing the growing domestic 
+need and demand for healthcare, but it will come with a significant financial burden. Prior OECD estimates indicate that bolstering 
+the health workforce to make health systems more resilient would require significant additional resources relative to the 
+pre-pandemic level, amounting to an average of 0.6% of GDP across the EU (OECD, 2023[1]). While this cost is undoubtedly 
+substantial, it pales in comparison to the economic and societal repercussions of having fragile health systems that fail to deliver 
+adequate care, as the pandemic has vividly illustrated. Investing in a robust, well-trained, and motivated health workforce is 
+therefore a prudent economic strategy to ensure the long-term sustainability and effectiveness of health systems. 
+
+
+## Stran PDF 55
+
+   53 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+However, relying solely on an indefinite increase in the number of doctors, nurses and other health workers is unlikely to be 
+feasible or sufficient in meeting the future demand for health services, especially in countries that already have some of the highest 
+densities of health professionals. In conjunction with workforce expansion, it is thus essential to explore innovative solutions that 
+can enhance the productivity and efficiency of healthcare delivery. This includes scaling up research and investment in digital 
+health technologies and artificial intelligence that can augment the capacity of health workers and streamline administrative tasks. 
+Experimenting with new models of care provision enabled by digital technology and task sharing can also help alleviate the burden 
+on doctors and nurses and increase productivity while improving access to care. Modernising the curricula of medical and nursing 
+education programmes to incorporate digital literacy and interprofessional collaboration skills is another essential step to prepare 
+the health workforce for the challenges and opportunities of the digital health era. 
+The health workforce challenge in the EU is a complex and pressing issue that requires urgent and comprehensive action. The 
+decisions and investments made now will have far-reaching consequences for the resilience and sustainability of European health 
+systems in the coming decades. Against this background, the EU has a crucial role to play in supporting Member States in their 
+efforts to attract, train, and retain a sufficient number of skilled and motivated health workers. By fostering collaboration and 
+leveraging its funding instruments, the EU can help create a more resilient and equitable European Health Union that ensures 
+timely access to high-quality healthcare for all its citizens. The grit and dedication displayed by health workers during the pandemic 
+and beyond must be matched by policies to address the root causes of the workforce shortages and build a health system that 
+can withstand the demographic challenges ahead. 
+References 
+ 
+Advisory Committee on Medical Manpower Planning, (ACMMP) (2022), Capaciteitsplan 2024-2027 [Capacity plan 
+2024-2027], https://capaciteitsorgaan.nl/capaciteitsplan-2024-2027-integraal-overzicht/. 
+[41] 
+Barragán-Montero, A. et al. (2021), “Artificial intelligence and machine learning for medical imaging: A technology 
+review”, Physica Medica, Vol. 83, pp. 242-256, https://doi.org/10.1016/J.EJMP.2021.04.016. 
+[48] 
+Bernini, A. et al. (2024), Supply and demand model for the healthcare workforce in the EU27 – Data sources and 
+model structure, Publications Office of the European Union, https://data.europa.eu/doi/10.2760/957386. 
+[13] 
+Borges do Nascimento, I. et al. (2023), “The global effect of digital health technologies on health workers’ 
+competencies and health workplace: an umbrella review of systematic reviews and lexical-based and sentence-based 
+meta-analysis”, The Lancet Digital Health, Vol. 5/8, pp. e534-e544, https://doi.org/10.1016/s2589-7500(23)00092-4. 
+[42] 
+Brownwood, I. and G. Lafortune (2024), “Advanced practice nursing in primary care in OECD countries: Recent 
+developments and persisting implementation challenges”, OECD Health Working Papers, No. 165, OECD Publishing, 
+Paris, https://doi.org/10.1787/8e10af16-en. 
+[40] 
+Churruca, K. et al. (2023), “The place of digital triage in a complex healthcare system: An interview study with key 
+stakeholders in Australia’s national provider”, Digital Health, Vol. 9, https://doi.org/10.1177/20552076231181201. 
+[49] 
+Consejo General Médicos (2024), Los médicos jóvenes alertan del impacto de la desertificación médica para la 
+cohesión territorial y acceso a servicios de salud en España [Young doctors warn of impact of medical desertification 
+on territorial cohesion and access to health services], https://www.cgcom.es/media/4639/download. 
+[8] 
+Consiglio dei ministri (2023), Decreto Legge n. 215/Art 4. Proroga di termini in materia di salute [Decree-Law No. 
+215/Art 4. Extension of health-related deadlines], Gazzetta, https://www.gazzettaufficiale.it/. 
+[34] 
+Cour des comptes (2024), Observations définitives Intérim médical et permanence des soins dans les hôpitaux publics 
+- exercices 2017-2022 [Final observations medical interim and permanent care in public hospitals - financial years 
+2017-2022]. 
+[19] 
+De Raeve, P. et al. (2023), “Advanced practice nursing in Europe-Results from a pan-European survey of 35 
+countries”, J Adv Nurs, Vol. 00, pp. 1-10, https://doi.org/10.1111/jan.15775. 
+[59] 
+De Raeve, P. et al. (2023), “Advanced practice nursing in Europe—Results from a pan‐European survey of 35 
+countries”, Journal of Advanced Nursing, Vol. 80/1, pp. 377-386, https://doi.org/10.1111/jan.15775. 
+[38] 
+Dubas-Jakóbczyk, K. et al. (2024), “Medical deserts in Spain—Insights from an international project”, International 
+Journal of Health Planning and Management, Vol. 39/3, pp. 708-721, https://doi.org/10.1002/HPM.3782. 
+[7] 
+EIT Health; McKinsey & Company (2020), Transforming healthcare with AI: The impact on the workforce and 
+organizations, https://eithealth.eu/. 
+[46] 
+Eurofound (2021), Working conditions in the time of COVID-19: Implications for the future, European Working 
+Conditions Telephone Survey 2021 series,, https://doi.org/10.2806/357794. 
+[17] 
+
+
+## Stran PDF 56
+
+54    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+European Commission (2024), Commission supports action across Europe to attract and retain nurses, 
+https://health.ec.europa.eu/. 
+[31] 
+European Commission (2023), Employment and social developments in Europe 2023, Directorate-General for 
+Employment, Social Affairs and Inclusion, https://data.europa.eu/doi/10.2767/089698. 
+[18] 
+European Labour Authority (2024), Report on labour shortages and surpluses 2023, Publications Office of the 
+European Union, Belgium. 
+[61] 
+European Labour Authority (2024), Report on labour shortages and surpluses 2023, Publications Office of the 
+European Union, Belgium, https://data.europa.eu/doi/10.2883/973861. 
+[9] 
+Expert Panel on effective ways of investing in health (EXPH) (2022), Facing the impact of post-COVID-19 condition 
+(long COVID) on health systems C, European Commission, Brussels. 
+[28] 
+Government of the Netherlands (2024), Hoofdstuk 6a. Zorg - Afwenden van een onbeheersbaar arbeidsmarkttekort 
+[Chapter 6a. Care: Averting an unmanageable labour market deficit], 
+https://www.rijksoverheid.nl/regering/regeerprogramma/6a-zorg. 
+[47] 
+Graham, S. et al. (2019), “Artificial Intelligence for Mental Health and Mental Illnesses: an Overview”, Current 
+Psychiatry Reports, Vol. 21/11, pp. 1-18, https://doi.org/10.1007/S11920-019-1094-0. 
+[54] 
+Haakenstad, A. et al. (2022), “Measuring the availability of human resources for health and its relationship to universal 
+health coverage for 204 countries and territories from 1990 to 2019: a systematic analysis for the Global Burden of 
+Disease Study 2019”, Lancet (London, England), Vol. 399/10341, pp. 2129-2154, https://doi.org/10.1016/S0140-
+6736(22)00532-3. 
+[60] 
+Haakenstad, A. et al. (2022), “Measuring the availability of human resources for health and its relationship to universal 
+health coverage for 204 countries and territories from 1990 to 2019: a systematic analysis for the Global Burden of 
+Disease Study 2019”, The Lancet, Vol. 399/10341, pp. 2129-2154, https://doi.org/10.1016/s0140-6736(22)00532-3. 
+[11] 
+Health Service Executive (2023), Health Sector Workforce Report: 2023 Annual Turnover Rates, 
+https://www.hse.ie/eng/staff/resources/our-workforce/workforce-reporting/. 
+[25] 
+Healthcare Personnel Commmission (2023), Time for action: personnel in a sustainable health and care service, 
+Departementenes sikkerhets-og serviceorganisasjon Oslo, https://www.regjeringen.no/. 
+[3] 
+HEROES Joint Action (2023), HEROES Joint Action (HEalth woRkfOrce to meet health challEngeS), 
+https://healthworkforce.eu/. 
+[12] 
+Iqbal, U., L. Celi and Y. Li (2020), “How Can Artificial Intelligence Make Medicine More Preemptive?”, Journal of 
+medical Internet research, Vol. 22/8, https://doi.org/10.2196/17211. 
+[57] 
+Johnson, K. et al. (2021), “Precision Medicine, AI, and the Future of Personalized Health Care”, Clinical and 
+Translational Science, Vol. 14/1, p. 86, https://doi.org/10.1111/CTS.12884. 
+[53] 
+Li, B. et al. (2021), “Automating clinical documentation with digital scribes: Understanding the impact on physicians”, 
+Conference on Human Factors in Computing Systems - Proceedings, https://doi.org/10.1145/3411764.3445172. 
+[50] 
+Liu, X. et al. (2021), “Advances in Deep Learning-Based Medical Image Analysis”, Health Data Science, Vol. 2021, 
+https://doi.org/10.34133/2021/8786793. 
+[51] 
+Ministère de la Santé et de la Prévention (2024), Les maisons de santé [Health homes], https://sante.gouv.fr/systeme-
+de-sante. 
+[4] 
+Mittelstadt, B. (2021), The impact of artificial intelligence on the doctor-patient relationship, Council of Europe. 
+[56] 
+Morgan, D. and C. James (2022), “Investing in health systems to protect society and boost the economy: Priority 
+investments and order-of-magnitude cost estimates”, OECD Health Working Papers, No. 144, OECD Publishing, Paris, 
+https://doi.org/10.1787/d0aa9188-en. 
+[10] 
+Moulds, A. and T. Horton (2023), What do technology and AI mean for the future of work in health care?, The Health 
+Foundation, https://www.health.org.uk/. 
+[43] 
+NHS England (2024), NHS workforce statistics, https://digital.nhs.uk/data-and-information/publications/statistical/. 
+[26] 
+NHS England (2018), Using intelligent automation to improve the triage and referral management pathway, 
+https://transform.england.nhs.uk/. 
+[45] 
+OECD (2024), Fewer young people want to become nurses in half of OECD countries, 
+https://www.oecd.org/en/publications/fewer-young-people-want-to-become-nurses-in-half-of-oecd-
+countries_e6612040-en.html. 
+[15] 
+
+
+## Stran PDF 57
+
+   55 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+OECD (2024), OECD Employment Outlook 2024: The Net-Zero Transition and the Labour Market, OECD Publishing, 
+Paris, https://doi.org/10.1787/ac8b3538-en. 
+[16] 
+OECD (2023), Beyond Applause? Improving Working Conditions in Long-Term Care, OECD Publishing, Paris, 
+https://doi.org/10.1787/27d33ab3-en. 
+[36] 
+OECD (2023), Pensions at a Glance 2023: OECD and G20 Indicators, OECD Publishing, Paris, 
+https://doi.org/10.1787/678055dd-en. 
+[35] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[1] 
+OECD (2019), Recent Trends in International Migration of Doctors, Nurses and Medical Students, OECD Publishing, 
+Paris, https://doi.org/10.1787/5571ef48-en. 
+[14] 
+OECD (2016), Health Workforce Policies in OECD Countries: Right Jobs, Right Skills, Right Places, OECD Health 
+Policy Studies, OECD Publishing, Paris, https://doi.org/10.1787/9789264239517-en. 
+[2] 
+OECD (forthcoming) (n.d.), Digital, AI and Soft Skills in major health occupations: What do we know about new 
+demand?. 
+[44] 
+OECD/European Observatory on Health Systems and Policies (2023), Czechia: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/24a9401e-en. 
+[6] 
+OECD/European Observatory on Health Systems and Policies (2023), France: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/07c48f9f-en. 
+[5] 
+OECD/European Observatory on Health Systems and Policies (2023), Spain: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/71d029b2-en. 
+[21] 
+ONS (2023), Prevalence of ongoing symptoms following coronavirus (COVID-19) infection in the UK, Office for 
+National Statistics, https://www.ons.gov.uk/. 
+[29] 
+Ordre National des Infirmiers (2022), L’Ordre National des Infirmiers alerte de nouveau sur la situation de la profession 
+[The Ordre National des Infirmiers is once again alerting the public to the state of the nursing profession], 
+https://www.ordre-infirmiers.fr/. 
+[27] 
+Schober, M. et al. (2020), Guidelines on Advanced Practice Nursing 2020, ICN - International Council of Nurses. 
+[39] 
+Sciensano (2021), Power to care - L’enquête sur le bien-être des personnes et professionnels d’aide et de soin [Power 
+to care - The survey on the well-being of care and support workers and professionals], Epidémiologie et santé 
+publique, Bruxelles, https://www.sciensano.be/. 
+[22] 
+Shaik, T. et al. (2023), “Remote patient monitoring using artificial intelligence: Current state, applications, and 
+challenges”, Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, Vol. 13/2, p. e1485, 
+https://doi.org/10.1002/WIDM.1485. 
+[58] 
+Statistikmyndigheten (2024), Kortperiodisk sysselsättningsstatistik [Short-term employment statistics], SCB, 
+https://www.scb.se/. 
+[24] 
+Statistisches Bundesamt (2024), Hospitals in Germany - Federal Statistical Office, https://www.destatis.de/. 
+[20] 
+Sumai-ASSOPROF (2023), Medici 2023 - 2030 - quale futuro: pubblico o privato? I numeri [Doctors 2023-2030 - what 
+future: public or private? The numbers], Sindacato Unico Medicina Ambulatoriale Italiana, 
+https://www.sumaiassoprof.org/. 
+[33] 
+Syrowatka, A. et al. (2022), “Key use cases for artificial intelligence to reduce the frequency of adverse drug events: a 
+scoping review”, The Lancet Digital Health, Vol. 4/2, pp. e137-e148, https://doi.org/10.1016/s2589-7500(21)00229-6. 
+[55] 
+Tian, S. et al. (2023), “Opportunities and Challenges for ChatGPT and Large Language Models in Biomedicine and 
+Health”, https://arxiv.org/pdf/2306.10070. 
+[52] 
+U.S. Bureau of Labor Statistics (2024), Job Openings and Labor Turnover Survey, https://www.bls.gov/jlt/. 
+[23] 
+Ubom, A. (ed.) (2024), “What is the impact of long-term COVID-19 on workers in healthcare settings? A rapid 
+systematic review of current evidence”, PLOS ONE, Vol. 19/3, https://doi.org/10.1371/journal.pone.0299743. 
+[30] 
+WHO (2010), WHO Global Code of Practice on the International Recruitment of Health Personnel, World Health 
+Organization (WHO), https://www.who.int/publications/i/item/wha68.32. 
+[37] 
+WHO-Europe (2024), WHO Europe launches first-of-its-kind survey on mental health of health-care professionals. 
+[32] 
+  
+
+
+## Stran PDF 58
+
+56    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD OECD/EUROPEAN UNION 2024 
+  
+Notes
+ 
+1 The trend analysis for nurses is limited to the last decade only because there are breaks in the time series for several countries 
+in the preceding years. 
+2 It is important to bear in mind that data on all job vacancies do not provide a precise indicator of shortages. Instead, they serve 
+as an indicator of employers’ interest in recruiting new staff, but not whether they encounter difficulties in doing so. 
+3 The internationalisation of medical education also complicates the analysis of the “brain drain” in those countries that are 
+attracting a significant number of international students, when the “brain drain” is measured based on the place where doctors 
+have obtained their initial medical degree. 
+4 Data from professional registrations might be used as an alternative to measure the number of health professionals who decide 
+to leave the profession, but an important limitation is that these professionals will often wish to keep their professional registrations 
+as long as possible in case they might want to rejoin the workforce or because they perceive some other potential benefits in 
+keeping their registration. 
+5 A key characteristic of health labour markets in many countries is the “monopsony” power exercised by the dominant public 
+purchaser on the wages/fees paid to doctors, nurses and other health workers. In NHS systems, governments often play a central 
+role in wage setting as the pre-eminent funder of jobs in the health sector, and pay rates are often based on nationally agreed pay 
+structures (or sub-nationally in federal countries and other countries where responsibility for healthcare delivery rests with sub-
+national governments/authorities). The wages/fees may be fairly rigid and not responsive to local labour market conditions. In 
+addition, the supply of doctors, nurses and other health workers may not be very elastic to changes in wages for at least two 
+reasons. First, it takes several years to train new doctors, nurses and other skilled health workers, so in the short-term any change 
+in supply can only come either from inactive workers (e.g. nurses) deciding to return to work, current workers choosing to work 
+more hours (in return for higher hourly wages/fees) or increased recruitment of foreign-trained workers (attracted by higher pay). 
+Second, the impact of pay increases on the supply of labour among current health workers is not clear and may not be linear: it 
+is possible that a “substitution” effect (i.e. a preference for more leisure over work) might reduce the elasticity of supply above a 
+certain wage/income threshold. 
+6 The number of doctors and nurses moving to the United Kingdom from other EU countries fell in the mid-2010s, coinciding with 
+both the Brexit vote and the introduction of language tests by UK professional regulators. 
+
+
+## Stran PDF 59
+
+   57 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Promoting good physical and mental health across the life course is key to allow people to 
+live active and fulfilling lives for as long as possible and to reduce the demand on health 
+and long-term care systems in the context of population ageing. The available evidence 
+shows that about two-thirds of the gains in life expectancy at birth and at age 65 over the 
+past 20 years in the EU have been years lived in good health, while the other one-third have 
+been years lived with some health issues and disabilities. Despite these gains in healthy life 
+years, less than half of the life expectancy of people at age 65 in 2022 in the EU could be 
+expected to be lived free of disability. The proportion of life lived without disability is 
+significantly lower among women, as they live longer but with more health issues than men. 
+There are also large inequalities in health status according to socio-economic status, 
+highlighting the need to step up health promotion and disease prevention policies to 
+promote healthy longevity for all. One of the main priorities to support further gains in life 
+expectancy in good health is to prevent the main burden of diseases and disabilities among 
+older people in the EU, including dementia, falls, diabetes, arthritis, mental health issues 
+and cardiovascular diseases. Not all diseases and injuries can be prevented, and health 
+systems also need to be prepared to provide more people-centred and integrated care for 
+the growing number of older people who will require chronic care. 
+2 Living longer, living healthier? 
+Promoting healthy longevity in Europe 
+
+
+## Stran PDF 60
+
+58    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+2.1. Introduction 
+Healthy longevity can be defined as living a long life in good physical and mental health and social well-being. It allows people to 
+live active and fulfilling lives across the life course, remaining engaged in work, leisure and social activities well beyond traditional 
+retirement age. The benefits of healthy longevity are clear. If people live longer and healthier lives, this may enable them to work 
+longer and to reduce the demands on health and long-term care systems. Conversely, if people live longer but spend a greater 
+part of their lives with health issues and disabilities, this will reduce their ability to remain active on the labour market and will put 
+additional pressures on health and long-term care systems and the related demand for health and long-term care workers. 
+This chapter reviews the most recent trends in life expectancy, healthy life expectancy, morbidity and disability in the EU, focussing 
+in particular on the growing number of people aged over 65. It uses data from Eurostat and WHO to assess to what extent people 
+live not only longer but also healthier lives. Indicators of “healthy life expectancy” are arguably the most important indicators to 
+monitor gains in health status, as they combine both the quantity and the health-related quality of life. However, as noted in this 
+chapter, they are also much more difficult to measure than life expectancy alone as there are many dimensions to health 
+(e.g. physical, mental, functioning) that can be measured in many different ways. The available data used to measure trends over 
+time in healthy life expectancy at the European or global level are not yet as robust as they would ideally be. There are many 
+breaks in the time series in the Eurostat’s indicator of healthy life years, which hamper robust analysis of trends over time, and 
+there are many data gaps and uncertainties around the WHO estimates underlying the calculations of healthy life expectancy. 
+Bearing these limitations in mind, one of the main findings of this chapter is that the data available from both Eurostat and WHO 
+suggest that about two-thirds of the additional years of life at age 60 or 65 gained over the past 20 years in the EU are lived in 
+good health, while the other one-third is lived with some health issues and disabilities. Looking at more specific indicators of 
+morbidity, data from the EU statistics on income and living conditions (EU-SILC) show that in most EU countries, fewer people 
+aged over 65 reported to be in poor health in 2023 than in 2010, while the proportion reporting some chronic diseases and activity 
+limitations (disabilities) have remained relatively stable. Nonetheless, less than half of the life expectancy of people at age 65 in 
+the EU can be expected to be lived free of disability, calling for further health promotion and disease prevention efforts. 
+This chapter also reviews the overall burden of diseases and injuries among older people in the EU to assess the relative 
+importance of some of the main health issues in old age and help identify priorities for action. The most recent results from the 
+2021 Global Burden of Disease (GBD) study show that chronic diseases such as Alzheimer’s disease and other dementias, 
+arthritis, diabetes, cardiovascular diseases, as well as mental health issues such as depression and anxiety, represent the bulk 
+of the burden of diseases in old age in the EU. Falls and fall-related injuries also account for a large burden of health issues and 
+disabilities in old age. 
+Policies to promote healthy longevity must address important risk factors to ill-health among people at all ages, including physical 
+inactivity, malnutrition, overweight and obesity, preventing falls and other injuries among older people, and social isolation. 
+However, not all health issues can be prevented, and health systems must also be prepared to meet the healthcare needs of a 
+growing number of older people. While this chapter reviews mainly a range of prevention policies to support healthy longevity, it 
+also identifies some of the main challenges and emerging best practices in the management of chronic conditions through more 
+integrated and people-centred care. 
+2.2. People are living longer in the EU 
+2.2.1. The share of people aged over 65 in the EU is expected to reach 29% by 2050, driven by gains in 
+life expectancy and declining fertility rates 
+The demographic profile of EU countries is undergoing a profound transformation due to rising life expectancy and declining 
+fertility rates.1 The post-World War II baby boom observed in many European countries has also contributed to an increasing 
+proportion of people over age 65 during the past decade and will continue to increase the proportion in the coming years as this 
+cohort reaches that age group. The proportion of people aged over 65 in the EU has risen from 16% in 2000 to 21% in 2023 and 
+is projected to reach 29% by 2050 (Figure 2.1). 
+The share of people aged over 65 in 2023 was particularly high in Italy and Portugal with nearly 25% of the population in that age 
+group, while Ireland and Luxembourg had the lowest proportion with 15%. However, population ageing will accelerate greatly in 
+some countries in the coming decades. For example, while Ireland currently has a relatively young population, the share of its 
+population aged over 65 is projected to increase by more than two-thirds between 2023 and 2050. 
+
+
+## Stran PDF 61
+
+   59 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+By 2050, the share of people aged over 65 is expected to be the highest in Italy and Portugal but also in Greece and Spain with 
+at least one-third of the population in that age group. It is expected to be the lowest in Luxembourg, Malta and Sweden, but 
+nonetheless rising to reach at least 23% by 2050 in these three countries. 
+Figure 2.1. Nearly three in ten people in the EU will be over age 65 in 2050, up from two in ten in 2023 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat (proj_23np, demo_pjangroup). 
+StatLink 2 https://stat.link/vdywp1 
+2.2.2. Life expectancy in the EU has increased by over four years since 2000 
+As already noted, populations are ageing because of declining fertility rates and rising life expectancy. Life expectancy at birth in 
+the EU has increased by over four years between 2000 and 2023, from 77.3 years in 2000 to 81.5 years in 2023 (Figure 2.2). 
+While there was a sharp reduction in life expectancy during the COVID-19 pandemic (with a reduction in life expectancy by more 
+than a year between 2019 and 2021), it started to bounce back in 2022. In 2023, it was at about the same level as before the 
+pandemic in most EU countries or even reaching a slightly higher level than before the pandemic in some countries, although 
+typically still below the pre-pandemic trajectory.2 
+Women live longer than men in all EU countries, on average over 5 years longer (84.2 years for women in 2023 compared to 
+78.9 years for men). However, this gender gap has narrowed by 1.5 years since 2000 as the life expectancy of men has increased 
+more rapidly than that of women in most EU countries. 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+2000
+2023
+2050
+% of population aged 65 and over
+
+
+## Stran PDF 62
+
+60    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.2. Life expectancy at birth in the EU increased by over four years between 2000 and 2023, despite the 
+temporary reduction during the pandemic 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat (demo_mlexpec), and OECD calculations for 2000 and 2001. 
+StatLink 2 https://stat.link/7pd6s1 
+The gains in life expectancy over the past two decades have been particularly strong in Central and Eastern European countries, 
+converging towards the EU average. By contrast, the gains in life expectancy slowed down in many Western European countries 
+(e.g. in France and Germany) in the years before the pandemic (2010-19) compared to the previous decade (2000-09). This 
+slowdown was partly due to slower reductions in death rates from circulatory diseases, which was previously one of main drivers 
+of increased life expectancy in these countries. Death rates from respiratory diseases such as influenza and pneumonia among 
+older people were also higher in several Western European countries in some years in the decade before the pandemic. 
+Focussing on the population aged 65 and over, the trends in life expectancy were similar to that of life expectancy at birth. It 
+increased by 2.5 years between 2000 and 2023, rising from 17.7 years in 2000 to 20.2 years in 2023. However, the COVID-19 
+pandemic led to a temporary reduction in life expectancy at age 65 in all EU countries (Box 2.1). 
+Box 2.1. The COVID-19 pandemic led to a temporary drop in life expectancy at age 65 in the EU 
+The COVID-19 pandemic led to a substantial increase in the number of deaths in the EU in 2020, 2021 and 2022, and therefore 
+a reduction in life expectancy. The overall number of deaths in the EU increased from 4.65 million in 2019 to 5.18 million during 
+the first year of the pandemic in 2020 and reached a peak of 5.29 million in 2021, before falling slightly to 5.15 million deaths 
+in 2022 (Eurostat, 2024[1]). The vast majority of these additional deaths during the pandemic were among older people. In 2020 
+and 2021, over 85% of COVID-19 deaths were among those aged over 65 on average across EU countries. 
+Despite the reduction in COVID-19 deaths in 2022 due to widespread vaccination efforts, increasing population immunity 
+through prior infections and the virus mutating into less severe variants, excess mortality in many European countries remained 
+relatively high. This was due at least partly to the resurgence of the flu and other infections as well as heatwaves during the 
+summer of 2022 (Morgan et al., 2023[2]). Based on some estimations, more than 60 000 heat-related deaths occurred in Europe 
+in the summer 2022, with about 85% of these deaths occurring among people aged over 65 (Ballester et al., 2023[3]) 
+In the EU, life expectancy at age 65 temporarily fell by one year between 2019 and 2021, from 20.2 years in 2019 to 19.2 years 
+in 2021, and only recovered slightly to 19.5 years in 2022. It then bounced back in 2023, going at least back to its 2019 level 
+in most countries. The reduction in life expectancy at age 65 during the pandemic affected men and women to the same extent 
+on average in the EU (Figure 2.3). 
+70
+72
+74
+76
+78
+80
+82
+84
+86
+Total
+Men
+Women
+Years
+
+
+## Stran PDF 63
+
+   61 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.3. Life expectancy at age 65 in the EU fell temporarily during the COVID-19 pandemic but was back to its 
+pre-pandemic level in 2023 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat (demo_mlexpec). 
+StatLink 2 https://stat.link/q623kv 
+2.3. Are people living healthier in the EU? 
+2.3.1. Some additional years of life are lived in good health, but not all 
+While life expectancy at birth has increased by over four years on average across the EU between 2000 and 2023, many years 
+of life in old age are lived with chronic diseases and disabilities. How many of the additional years of life are spent in good health 
+is a crucial question to assess the growing demand for health and long-term care, but also to guide decision-making on 
+employment and retirement policies. 
+Both the EU and WHO have developed some indicators of healthy life expectancy that combine data on mortality and morbidity 
+(or disability) to measure how many years of life people can expect to live in good health (or free of activity limitations). Since 2004, 
+Eurostat has reported an indicator of “healthy life years” (HLY) that provides an estimate of the number of years that people at 
+different ages can expect to live free of activity limitations. This indicator is also known as “disability-free life expectancy” (DFLE). 
+The calculation of this indicator is based on self-reported responses to a two-question item on general activity limitations due to 
+health problems from the EU-SILC survey. At the global level, WHO periodically reports an indicator of “health-adjusted life 
+expectancy” (HALE), which is defined as life expectancy in full health, based on different data sources and statistical models to 
+calculate the “health adjustment”. A comparison of the most recent WHO’s HALE estimates with those from Eurostat’s HLY shows 
+large variations in national estimates and country rankings (Box 2.2). 
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+Total
+Men
+Women
+Years
+
+
+## Stran PDF 64
+
+62    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Box 2.2. Comparing estimates of healthy life years from Eurostat and health-adjusted life expectancy from WHO 
+highlights challenges in measuring healthy life expectancy 
+Indicators of healthy life expectancy, which combines both the “quantity” of life and the health-related “quality” of life, are 
+arguably among the most important indicators to monitor population health. However, it is challenging to get reliable and 
+comparable data because of the complexity in measuring health (or ill-health). The measurement of health often relies on 
+population-based surveys that may not be harmonised across countries and are based on self-reported information that may 
+be affected by cultural biases and different expectations. 
+Eurostat calculates and reports two indicators of healthy life expectancy, based on a simple approach that relies on responses 
+to questions from the EU-SILC survey for each indicator. The first and main indicator is referred to as “healthy life years” (HLY) 
+and relies on the two-question item on activity limitations due to health problems. The recommended survey questions are as 
+follows: “Are you limited because of a health problem in activities people usually do?” with response categories including 
+“severely limited”, “limited but not severely” or “not limited at all”; and “Have you been limited for at least the past six months? 
+with “yes” and “no” answer categories. People who report having been limited for at least six months are considered to be 
+“unhealthy” in the calculation of the HLY indicator. The second indicator of healthy life expectancy (less frequently used) is 
+based on the question on self-reported health in EU-SILC, with the recommended formulation being: “How is your health in 
+general?” with response categories including “very good, good, fair, bad, very bad”. People responding to be in very good, 
+good or fair health are considered to be healthy, while those responding to be in bad or very bad health are considered 
+unhealthy. 
+The main advantages of the approach used by Eurostat are its simplicity and the availability of annual data from EU-SILC to 
+update these two indicators annually. However, the main downside is that these indicators depend entirely on the reliability of 
+responses to a few questions from EU-SILC and the comparability of the survey instrument used across countries. Another 
+downside is that these indicators are based on a simple binary valuation of the reported health status. For the main indicator 
+of HLY, a value of zero is assigned to people reporting severe or at least some limitations, or one if they report no activity 
+limitation (for the secondary indicator, a value of zero is assigned for people reporting to be in bad or very bad health and one 
+for those reporting to be in fair, good or very good health). Any changes in the formulation and translation of the survey item 
+in EU-SILC can result in large variations in the reported number of HLY. For example, when Germany revised the EU-SILC 
+question on activity limitations in 2015, it included a first “screening” question that forced people with some but not severe 
+limitations to choose between “Yes” or “No”. This resulted in an immediate increase of 10 healthy life years because of the 
+large reduction in the percentage of people reporting some activity limitations. In 2022, Germany revised again this EU-SILC 
+question and dropped this first “screening” question. This resulted in a loss of 4.5 healthy life years due to the large increase 
+in the percentage of people reporting some or severe activity limitations. 
+The calculation of the WHO’s indicator of health-adjusted life expectancy (HALE), defined as years of life lived in “full health”, 
+is based on a much more complex approach that requires a large volume of data to describe the health status of the population, 
+taking into account the overall burden of diseases and injuries, as well as some valuation (weighting) of the severity of disability 
+related to all these diseases and injuries. The indicator draws on morbidity data, namely years lived with disability (YLD), 
+based on statistical modelling from the Global Burden of Disease (GBD) study, given that the wide range of required data are 
+not readily available across countries. These estimates may not be consistent with national data. 
+These two very different approaches between Eurostat and WHO in calculating indicators of healthy life expectancy based on 
+different data sources and methodologies explain why the two indicators of HLY and HALE vary widely in terms of national 
+estimates and country ranking (Figure 2.4). Among EU countries, the WHO’s HALE indicator provides higher values in all 
+countries except Bulgaria. Except for Sweden, the complete country ranking changes between the two indicators and often 
+quite widely (with an average shift of six positions). These discrepancies between HLY and HALE and the complex 
+methodological issues underlying the calculation of any measure of healthy life expectancy highlight the need to be cautious 
+in interpreting these indicators and using them in policy development. 
+
+
+## Stran PDF 65
+
+   63 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.4. Comparisons of estimates of healthy life years (HLY) and health-adjusted life expectancy (HALE) at birth 
+highlight challenges in measuring healthy life expectancy 
+ 
+Note: Data refer to 2021 (the latest year available for both indicators) and include both men and women. 
+Source: Eurostat (tps00150) and WHO. 
+StatLink 2 https://stat.link/rfx7bu 
+It is very difficult to analyse trends in healthy life years (HLY) based on the Eurostat data because of breaks in the time series in 
+most EU countries, meaning that the data after a break should not usually be compared with the data before the break. Bearing 
+in mind this important limitation, the available data suggest that life expectancy at age 65 increased by 1.2 years in the EU between 
+2005 and 2022. Of this increase, two-thirds were gains in healthy life years (0.8 years) and the other third were years with disability 
+(0.4 years) (Figure 2.5). As a result, the share of life expectancy at age 65 lived with some disability decreased slightly, from 55% 
+in 2005 to 53% in 2022. 
+WHO data on HALE at age 60 show similar trends between 2000 and 2021. On average across EU countries, about 60% of the 
+gains in life expectancy at age 60 since 2000 were in good health (1 year) while about 40% (0.7 year) was in less than full health 
+(Figure 2.6). 
+Malta
+68.7
+71.2 Luxembourg
+Sweden
+68.4
+71.1 Sweden
+Italy
+68.1
+71.1 Spain
+Ireland
+67.2
+70.7 Cyprus
+France
+66.2
+70.7 Malta
+Cyprus
+65.7
+70.6 Italy
+Germany
+65.6
+70.1 France
+Greece
+65.6
+70.1 Denmark
+Slovenia
+65.4
+70.0 Ireland
+Belgium
+64.6
+70.0 Netherlands
+Bulgaria
+63.3
+69.9 Finland
+Spain
+62.8
+69.8 Belgium
+Poland
+62.6
+69.8 Austria
+Hungary
+62.5
+69.5 Portugal
+Czechia
+62.0
+69.4 Slovenia
+Luxembourg
+62.0
+68.9 Germany
+Austria
+61.8
+68.6 Greece
+Finland
+61.7
+66.8 Croatia
+Netherlands
+60.3
+66.7 Estonia
+Croatia
+58.6
+66.7 Czechia
+Portugal
+58.3
+65.5 Poland
+Romania
+57.8
+64.9 Slovak Rep.
+Lithuania
+57.6
+64.8 Hungary
+Slovak Rep.
+56.8
+64.2 Lithuania
+Denmark
+56.6
+63.8 Romania
+Estonia
+56.5
+63.8 Latvia
+Latvia
+53.8
+62.4 Bulgaria
+HLY (Eurostat)
+HALE (WHO)
+
+
+## Stran PDF 66
+
+64    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.5. About two-thirds of life expectancy gains at age 65 in the EU between 2005 and 2022 have been healthy life 
+years (based on Eurostat data) 
+ 
+Note: Healthy life years is defined as years free of disability. The EU average is weighted. Caution is needed when interpreting these data because of breaks in time 
+series in most EU countries during that period. 
+Source: Eurostat (lth_hlye). 
+StatLink 2 https://stat.link/03bi4w 
+Figure 2.6. About 60% of the gains in life expectancy at age 60 on average across EU countries between 2000 and 2021 
+have been in good health (based on WHO data) 
+ 
+Note: The EU average is unweighted. 
+Source: WHO database, www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy. 
+StatLink 2 https://stat.link/nydv0o 
+Bearing in mind the breaks in time series in most countries based on the Eurostat data, the number of healthy life years at age 65 
+has increased between 2005 and 2022 in nearly all EU countries (Figure 2.7). At the same time, the number of years lived with 
+disability also increased at least marginally in most countries. National estimates based on the WHO’s HALE indicator at age 60 
+are available in Annex 2.A. 
+8.3 years (45%)
+9.1 years (47%)
+10 years (55%)
+10.4 years (53%)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2005
+2022
+Healthy life years at 65
+Years with disability at 65
++0.8
++0.4
++1.2
+19.5
+years
+18.3
+years
+15.7 years (77%)
+16.7 years (75%)
+4.8 years (23%)
+5.5 years (25%)
+0
+5
+10
+15
+20
+25
+2000
+2021
+Years of life in good health at 60
+Years of life in less than full health at 60
++1.0
++0.7
++1.7
+20.5 years
+22.2 years
+
+
+## Stran PDF 67
+
+   65 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.7. Healthy life years at age 65 have increased more than years of life with disability between 2005 and 2022 in 
+most EU countries 
+ 
+Note: There is at least one break in the time series for most EU countries during that period, thereby limiting the interpretation of these trends. The time trend is restricted 
+to 2010 to 2022 for Romania, Denmark and Bulgaria to avoid a major break in series between 2005 and 2010, and for Croatia because of missing data before 2010. 
+Source: Eurostat (lth_hlye). 
+StatLink 2 https://stat.link/ojs804 
+9.4
+10.1
+5.5
+3.9
+5.1
+7.1
+5.3
+4.3
+4.8
+7.1
+5.2
+4.8
+6.5
+5.4
+9.5
+8.2
+6.8
+7.4
+3.6
+7.6
+6.1
+8.4
+10.1
+8.8
+5.8
+8.7
+12.4
+10.2
+8.3
+9.1
+6.8
+9.4
+6.5
+9.0
+8.1
+11.4
+10.8
+9.1
+9.6
+10.8
+12.5
+14.5
+5.8
+7.9
+9.4
+11.6
+10.9
+12.1
+10.0
+10.1
+10.9
+13.9
+9.3
+9.8
+9.4
+9.7
+9.1
+11.0
+6.2
+5.3
+10.6
+12.4
+10.4
+9.3
+9.8
+12.3
+11.2
+9.9
+10.3
+12.3
+10.2
+11.7
+7.2
+9.5
+9.5
+10.6
+12.5
+10.7
+12.6
+10.9
+8.7
+10.6
+12.1
+10.8
+6
+9.3
+10.0
+10.4
+12.1
+10.2
+12.7
+10.7
+9.4
+8.3
+7.6
+10.7
+9
+9.4
+6.7
+5.8
+12.2
+12.6
+8.8
+8.9
+7.1
+8.5
+9.4
+10.5
+8.3
+6.9
+9.5
+11.2
+9.9
+11.6
+11
+10.3
+15.6
+15.4
+16.1
+16.3
+15.5
+16.4
+15.1
+16.6
+16.0
+17.0
+15.5
+17.1
+16.7
+17.1
+16.7
+17.7
+16.3
+18.0
+16.1
+18.3
+18.7
+19.3
+18.8
+19.4
+17.9
+19.5
+18.4
+19.5
+18.3
+19.5
+18.9
+19.6
+19.2
+19.7
+17.5
+19.7
+18.4
+19.8
+18.6
+20.2
+18.0
+20.5
+18.2
+20.5
+18.0
+20.6
+19.4
+20.6
+19.2
+20.8
+18.8
+21.0
+20.1
+21.3
+19.3
+21.3
+0
+5
+10
+15
+20
+2010
+2022
+2010
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2010
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2010
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+2005
+2022
+Bulga
+ria*
+Roma
+nia*
+Hung
+ary Latvia
+Lithua
+nia
+Slova
+k
+Rep.
+Croati
+a*
+Polan
+d
+Czech
+ia
+Estoni
+a
+Germ
+any
+Greec
+e
+Cypru
+s
+Denm
+ark*
+EU
+Austri
+a
+Finlan
+d
+Slove
+nia
+Nethe
+rlands
+Belgiu
+m
+Norw
+ay
+Portu
+gal
+Irelan
+d
+Malta Italy
+Swed
+en
+Luxe
+mbour
+g
+Spain
+Franc
+e
+Years
+Healthy life years at 65
+Life years with disability at 65
+Spain
+Luxembourg
+Sweden
+Italy
+Malta
+Ireland
+Portugal
+Norway
+Belgium
+Netherlands
+Slovenia
+Finland
+Austria
+EU
+Denmark
+Cyprus
+Greece
+Germany
+Estonia
+Czechia
+Poland
+Croatia
+Slovak Rep.
+Lithuania
+Latvia
+Hungary
+Romania
+Bulgaria
+France
+
+
+## Stran PDF 68
+
+66    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+When looking at gender differences, women continue to have a higher life expectancy at age 65 than men in all countries, but a 
+lower share of their life expectancy can be expected to be lived in good health and without activity limitation. According to the 
+Eurostat data, in 2022 there was almost no gender gap in the number of healthy life years at age 65 (9.2 years of healthy life 
+years for women compared to 8.9 years for men). Women not only spend more time with diseases and disabilities in old age, but 
+they are also less likely to have the financial resources to meet their health and long-term care needs (Box 2.3). 
+Box 2.3. Older women are more likely to have health issues and less resources to meet their health and long-term 
+care needs 
+Older women can expect to live many more years than men, yet they report more chronic diseases and disabilities than men, 
+thereby reducing the gender gap in the number of healthy life years. Older women are more likely than men to have chronic 
+conditions such as arthritis, osteoporosis, depression and dementia, and they are also more likely to have multiple health 
+problems. One of the consequences of these health issues is that older women are also more likely to have difficulties carrying 
+out activities of daily living such as dressing, walking or bathing according to data from the Survey of Health, Ageing and 
+Retirement in Europe (SHARE) survey, which may require long-term care support. 
+At the same time, older women have fewer financial resources to pay for health or long-term care. In the EU, women received 
+on average 26% less in retirement benefits than men in 2022, reflecting persistent disparities in employment rate and unequal 
+pay during their working years (European Commission, 2024[4]). Over one in five women over age 75 in the EU was living 
+below the poverty line in 2023, according to EU-SILC data. 
+The combination of higher health and long-term care needs with lower incomes impacts the ability of older women to afford 
+health and long-term care services. According to the EU-SILC survey, unmet medical care needs were higher among women 
+aged over 65 than men in 2023 (4.1% compared to 3.0% in the EU), and it was particularly high among older women in the 
+lowest income group (6.0% among women in the lowest income quintile compared to 1.9% among women in the highest 
+income group), mainly because the care was unaffordable. Going without such medical care may aggravate the health 
+problems of older women. 
+2.3.2. Since 2010, fewer older people report being in bad health, while chronic conditions and activity 
+limitations have remained stable on average in the EU 
+The share of older people reporting to be in bad or very bad health has fallen in nearly all EU countries since 20103 (Figure 2.8). 
+In the EU as a whole, the share of people aged over 65 reporting to be in bad or very bad health decreased from 25% in 2010 to 
+19% in 2023. This reduction was particularly noticeable in Central and Eastern European countries. It was also particularly marked 
+among women, although the proportion of older women reporting to be in bad or very bad health remains higher than men (20% 
+compared to 17%). 
+
+
+## Stran PDF 69
+
+   67 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.8. The share of people aged over 65 reporting to be in bad or very bad health has decreased in the EU 
+between 2010 and 2023 
+ 
+Note: The EU average is weighted. There are breaks in times series in Germany and Luxembourg. 
+Source: Eurostat based on EU-SILC (hlth_silc_10). 
+StatLink 2 https://stat.link/c8arh9 
+The share of older people reporting to have at least one chronic disease has remained stable at around 60% between 2010 and 
+2023 in the EU, meaning that the absolute number has increased given the growing number of people aged over 65 (Figure 2.9). 
+While the share of people aged over 65 reporting at least one chronic disease increased in some countries (e.g. Czechia, 
+Denmark, Lithuania and Sweden), it decreased at least slightly in others (e.g. Austria, Estonia, Italy, Poland and Slovenia). The 
+proportion of women aged over 65 reporting at least one chronic disease was only marginally higher than men in 2023. 
+Figure 2.9. The share of people aged over 65 reporting at least one chronic disease has remained stable in the EU 
+between 2010 and 2023 
+ 
+Note: The EU average is weighted. There are breaks in time series in Croatia, France, Germany, Ireland and Norway. 
+Source: Eurostat (hlth_silc_05). 
+StatLink 2 https://stat.link/04ayjp 
+0
+10
+20
+30
+40
+50
+60
+2010
+2023
+% of people aged 65 or over reporting bad or very bad health
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2010
+2023
+% of people aged 65 or over reporting at least one chronic disease
+
+
+## Stran PDF 70
+
+68    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+The share of people aged over 65 reporting some or severe activity limitations due to health problems has decreased slightly in 
+the EU from 55% in 2010 to 52% in 2023, although breaks in time series in most countries during that period limit the interpretation 
+of these trends (Figure 2.10). The proportion of women aged over 65 reporting such activity limitations is higher than men (54% 
+compared to 49% in 2023). This measure of activity limitations is the “health” indicator used by Eurostat to calculate the healthy 
+life years indicator (see section 2.3 above). 
+Figure 2.10. The share of people aged over 65 reporting some or severe activity limitations has decreased slightly in 
+the EU between 2010 and 2023 
+ 
+Note: There is at least one break in the data series for most EU countries during that period, reducing the interpretability of these trends. 
+Source: Eurostat (hlth_silc_07). 
+StatLink 2 https://stat.link/ho2rug 
+2.4. The burden of diseases and injuries among older people in the EU 
+Figure 2.11 presents data from the 2021 Global Burden of Disease (GBD) study to identify the most common causes of ill-health 
+and disability among older people aged over 70 in the EU to help identify priority for actions (IHME, 2024[5]). These data provide 
+an indication of the estimated incidence and severity of different conditions and the length of time that people on average will be 
+affected by them.4 
+Based on these data, the greatest burden of disability among older people in the EU in 2021 was related to dementias (including 
+Alzheimer’s disease) and Parkinson’s disease, and falls. Diabetes, arthritis, depression and anxiety, and cerebrovascular and 
+ischaemic heart diseases were also among the most important causes of healthy life years lost due to disability among older 
+people in the EU. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2010 (or nearest year)
+2023
+% of people aged 65 or over reporting some or severe activity limitations
+
+
+## Stran PDF 71
+
+   69 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.11. Chronic diseases and falls cause a large number of years of life with disability among older people in the EU 
+ 
+Note: Dementias include Alzheimer’s disease. Arthritis includes rheumatoid arthritis and osteoarthritis. Cancer covers all cancer sites except non-melanoma skin 
+cancer. COPD = chronic obstructive pulmonary diseases. 
+Source: IHME (2024), GBD Results (estimates refer to 2021), https://vizhub.healthdata.org/gbd-results/. 
+StatLink 2 https://stat.link/x9ruso 
+2.4.1. Alzheimer’s disease and other dementias are among the greatest challenges of population 
+ageing 
+As in other parts of the world, Alzheimer’s disease and other dementias are one of the greatest challenges as the population ages 
+in EU countries. Despite years of research and large amounts of money invested in dementia-related research, there is no cure 
+yet and even disease-modifying treatments are only likely to slow the progression of the condition, with the possibility of negative 
+side-effects affecting quality of life. This emphasises the need to focus on prevention as recently highlighted in the 2024 report of 
+the Lancet Commission on dementia (Livingston et al., 2024[6]) (see also section on Preventing Alzheimer’s disease and other 
+dementias below). 
+Across EU countries, nearly 8 million people were estimated to have Alzheimer’s disease or another dementia in 2021, according 
+to GBD estimates. Focusing on people aged over 70, over 9% of people in that age group were estimated to have Alzheimer’s 
+disease or another dementia (Figure 2.12). The prevalence increases sharply with age, rising from 3% among people aged 70-74 
+to 18% among those aged over 80 across EU countries. 
+  0
+ 200 000
+ 400 000
+ 600 000
+ 800 000
+1 000 000
+1 200 000
+1 400 000
+1 600 000
+1 800 000
+Dementias and
+Parkinson's
+Falls
+Diabetes
+Arthritis
+Depression and
+anxiety
+Stroke and heart
+attack
+Cancer
+COPD
+Years of life with disability among people aged 70 or over
+
+
+## Stran PDF 72
+
+70    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.12. Over 9% of people aged over 70 in the EU were estimated to have Alzheimer’s disease or another 
+dementia in 2021 
+ 
+Source: IHME (2024), GBD Results (estimates refer to 2021), https://vizhub.healthdata.org/gbd-results/. 
+StatLink 2 https://stat.link/otmqec 
+Data from some European countries (e.g. France, Sweden, the United Kingdom) suggest that age-specific dementia incidence 
+rates have decreased over the past two decades. This positive trend indicates that prevention is possible (Wolters et al., 2020[7]). 
+In many cases, dementia in old age is accompanied by other chronic diseases (Box 2.4). 
+0
+2
+4
+6
+8
+10
+12
+14
+Estimated share of people aged 70 or over with Alzheimer's disease or other dementias
+
+
+## Stran PDF 73
+
+   71 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Box 2.4. Multimorbidity affects over 40% of people aged over 65 in the EU 
+As people age, they are also more likely to have multiple chronic conditions (multimorbidity), often requiring careful 
+management and care co-ordination because of possible interactions between different treatments and prescriptions. Based 
+on the Survey of Health, Ageing and Retirement (SHARE), 44% of people aged 65 and over reported having at least two 
+chronic diseases on average across EU countries in 2021-22. Older women reported having multiple chronic diseases more 
+often than men (46% versus 40% on average), partly because they live longer. This gender gap is more pronounced in many 
+Central and Eastern European countries such as Romania, the Slovak Republic, Latvia and Croatia. 
+Figure 2.13. More than 40% of people aged over 65 report having at least two chronic diseases on average in the EU 
+ 
+Note: The EU average is unweighted and based on 26 EU countries (Ireland does not participate in the SHARE survey). Chronic diseases include Alzheimer’s 
+disease, cancer, chronic kidney diseases, chronic lung diseases, diabetes, heart attack, hip fracture, hypertension, Parkinson’s disease, stroke, rheumatoid arthritis 
+and osteoarthritis. 
+Source: SHARE wave 9 (data refer to 2021-22). 
+StatLink 2 https://stat.link/f6gw0d 
+2.4.2. Falls increase markedly with age, especially among women 
+Older people are at higher risk of falling for many reasons, including a loss of muscle and balance, physical inactivity, declining 
+vision, the consumption of multiple medications, and malnutrition. Poor living conditions and not having enough light at home also 
+add to the risk of falling. Such falls frequently lead to emergency department visits and hospital admissions due to fractures and 
+can cause lasting damage to mobility and quality of life. 
+Data from the SHARE survey show that the proportion of people affected by falls increases markedly with age, and the gender 
+gap becomes more pronounced in older age groups (Figure 2.14). Nearly one in six (16%) people aged over 75 reported that they 
+have been affected by falls over the past 6 months on average across EU countries in 2021-22, and the rate was particularly high 
+among women (18%). 
+0
+10
+20
+30
+40
+50
+60
+Total
+Men
+Women
+% of people aged 65 or over reporting at least two chronic diseases
+
+
+## Stran PDF 74
+
+72    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.14. The share of people affected by falls increases with age to reach one in six among those aged over 75 
+across EU countries 
+ 
+Note: The EU average is unweighted. People considered affected by falls are those who answered “falling down” to the question: “For the past six months at least, 
+have you been bothered by any of the health conditions [including falls]?” 
+Source: SHARE wave 9 (data refer to 2021-22). 
+StatLink 2 https://stat.link/jpqwsi 
+Taking several medications at the same time is an important risk factor for falls among older people as this can impair balance 
+and reaction time. Nearly half of people aged over 75 were taking at least five medications at the same time in 2021 on average 
+in 11 EU countries with available data (OECD, 2023[8]). There is a consistent association in particular between the use of most 
+psychotropic medications and falls. 
+2.4.3. Depression and suicide increase in old age 
+Good mental health plays a critical role in enabling people to stay active and physically healthy as they age. Depression is a 
+common mental health issue among all age groups, but particularly among older people. Older people are more exposed to some 
+key risk factors for depression than the working-age population, including lower rates of social interactions in everyday life, death 
+of a partner, and the lack of family contact, which all play a more pronounced role in late-life depression (Vasile et al., 2023[9]). 
+Depression among older people also often coexists with chronic physical illnesses, particularly when these chronic diseases are 
+painful. 
+Results from the European health interview survey (EHIS) show that 8.5% of people aged over 65 in the EU reported depression 
+in 2019, compared to 6.8% among people aged 15 to 64. Older women are much more likely to report depression than men 
+(10.8% compared to 5.5%). Some of this gender gap may be due to  women being more likely to report depression. 
+Data from the 2021-22 SHARE survey also show that depression symptoms tend to increase with age among both women and 
+men (Figure 2.15). The rates increase slightly from age 50-64 to age 65-74, and then rise strongly in older ages. Among people 
+aged over 75, 45% of women and 27% of men reported at least four depression symptoms on average across EU countries in 
+2021-22. 
+7%
+9%
+16%
+9%
+12%
+18%
+5%
+6%
+12%
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+50 to 64
+65 to 74
+75 or over
+Total
+Women
+Men
+% of people affected by falls over the past six months
+
+
+## Stran PDF 75
+
+   73 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.15. Over 35% of people aged over 75 had multiple depression symptoms on average in the EU in 2021-22 
+ 
+Note: Data refer to 2021-22. The EU average is unweighted and based on 26 EU countries. The shares are based on the EURO-D score, with a cut-off point of at least 
+4 out of the 12 symptoms. 
+Source: SHARE wave 9 (data refer to 2021-22). 
+StatLink 2 https://stat.link/p6iyrb 
+Suicide rates among people aged over 75 are much higher than those in younger age groups, particularly among men. Among 
+people aged 65-74, the suicide rate is approximately 15 per 100 000 population on average in the EU, with the rate about three 
+times higher among men than among women. Among people aged over 75, the rate goes up to 21 per 100 000 population, with 
+the rate among men soaring to nearly 40 per 100 000, almost five times the rate for women. However, the gender gap in suicide 
+attempts is much smaller or even reversed in some countries, as women often use less fatal methods. For example, in France, 
+suicide attempts among women of all ages were about 40% higher than among men in 2020 (DREES, 2022[10]). 
+Figure 2.16. Deaths by suicide among men aged over 75 are particularly high in the EU 
+ 
+Note: Data refer to 2021. The EU average is weighted. 
+Source: Eurostat (hlth_cd_acdr2 and tps00202). 
+StatLink 2 https://stat.link/v4byxe 
+0
+5
+10
+15
+20
+25
+30
+35
+50 to 64
+65 to 74
+75 or over
+Total
+Men
+Women
+% of the population with multiple depression symptoms
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+From 45 to 54
+From 55 to 64
+From 65 to 74
+75 or over
+Total
+Men
+Women
+Rate per 100 000 population
+
+
+## Stran PDF 76
+
+74    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+2.4.4. Socio-economic inequalities in health status are large among older people 
+Large inequalities in health status exist among older people not only by gender, but also by socio-economic status, be it measured 
+by education level, income or occupational group. These inequalities stem from many different factors, including greater exposure 
+to various risk factors during the whole life course, more difficult living and working conditions during the working life, and lesser 
+access to and use of health services. 
+Inequalities in life expectancy by education level are generally larger among men than among women, and they are particularly 
+large in Central and Eastern Europe. Based on the latest data from Eurostat which date back to 2017, the life expectancy of 
+30-year-old men with less than secondary education was about 7 years less than those with a tertiary education (a university 
+degree or the equivalent) on average across 15 EU countries. The education gap in longevity among women was smaller, about 
+3 years (OECD/European Union, 2020[11]). Previous OECD analysis has shown that the significant gap in mortality rates by 
+education level among both older men and women is driven mainly by higher death rates from the two leading causes of death, 
+circulatory diseases and cancer (Murtin et al., 2017[12]). 
+A study of 11 EU countries based on data from 2010 to 2014 found significant disparities in disability-free life expectancy (healthy 
+life years) by education level. Disability-free life expectancy was 9 years shorter among men aged 35 to 80 with the lowest level 
+of education (less than secondary education) compared to the most educated (with a tertiary education). The gap among the least 
+educated and most educated women was slightly narrower at about 8 years. The risk factor contributing most to these educational 
+inequalities in disability-free life expectancy was low income. Other important risk factors included being overweight or obese, and 
+smoking (Valverde et al., 2021[13]). 
+All indicators of health status show that older people with a lower level of education are on average in poorer health compared to 
+those with the highest level of education (Table 2.1). 
+Table 2.1. Health inequalities among older people by education level are large in the EU 
+  
+Low education 
+All people over age 65  
+High education 
+Indicators from EU-SILC (2023)  
+Self-reported health (% in poor health) 
+23% 
+19% 
+11% 
+Long-standing illness or health problem 
+64% 
+60% 
+54% 
+Activity limitations due to health problem  
+59% 
+52% 
+41% 
+Indicators from SHARE (2021-22) 
+Depression symptoms 
+38% 
+30% 
+23% 
+People with at least two chronic diseases 
+48% 
+44% 
+38% 
+People bothered by falls (aged 75+) 
+16% 
+16% 
+14% 
+Note: Low education is defined as people who have not completed secondary education, while high education refers to people who have completed tertiary education 
+(a university degree or the equivalent). 
+Source: Eurostat based on EU-SILC (hlth_silc_02, hlth_silc_05, hlth_silc_07) and SHARE wave 9 (2021-22 data, weighted observations). 
+2.5. Risk factors to health among older people in the EU 
+2.5.1. Some behavioural and environmental risk factors are more important among older people 
+A wide range of behavioural and environmental risk factors can increase the likelihood of illness or injury amongst people in old 
+age. Some behavioural risk factors increase with age, while others decrease. Physical inactivity is a particularly important issue 
+among older adults. Over three-quarters (78%) of people aged over 65 in the EU do not meet the WHO recommendation regarding 
+the minimum level of physical activity per week, compared to 65% among younger adults. Obesity rates are also higher among 
+people aged over 65 (18%) than among younger adults (15% among people aged 25-64). On the other hand, nutritional habits, 
+as measured by the consumption of fruit and vegetables, are generally better among older people. While other risk factors such 
+as tobacco smoking and heavy alcohol consumption also tend to be less frequent among older people than younger adults, this 
+is mostly due to both behavioural changes and a selection effect. As people age, they are more likely to stop smoking and reduce 
+alcohol consumption, especially if they have chronic diseases that require healthier lifestyles. However, the lower smoking and 
+drinking rates among older people is also partially due to survivorship. Adults who smoke more and consume more alcohol at 
+younger ages are more likely to be ill and die before reaching age 65. When it comes to environmental factors, exposure to air 
+pollution and extreme temperatures have a more pronounced impact on older people than younger adults (Table 2.2). 
+
+
+## Stran PDF 77
+
+   75 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Table 2.2. Overview of behavioural and environmental risk factors among older people compared to younger people 
+  
+People aged 18-64 
+People aged 65 or over 
+Behavioural risk factors  
+Physical inactivity (% reporting to spend less than 150 minutes per week)  
+65% 
+78% 
+Physical inactivity (% reporting to do physical activity less than once a week) 
+43% 
+52% 
+Obesity rate 
+15%  
+18%  
+Nutrition (% not eating any vegetable or fruit a day) 
+35% 
+25% 
+Smoking rate (% smoking daily) 
+22% 
+9% 
+Alcohol consumption (% reporting heavy drinking at least once a month) 
+21% 
+11% 
+Environmental risk factors (mortality) 
+Air pollution (% of deaths attributable to air pollution) 
+3% (people aged < 70) 
+4% (people aged 70+) 
+Extreme temperature (% deaths attributable to heat or cold wave) 
+2% (people aged < 70) 
+4% (people aged 70+) 
+Note: Data refer to 2019 for physical activity (duration), nutrition, smoking, alcohol consumption; 2021 for air pollution and extreme temperature;2022 for obesity and 
+physical inactivity (frequency). 
+Source: Eurostat (hlth_ehis_pe2e, ilc_hch07b, ilc_hch10, hlth_ehis_al3e, hlth_ehis_sk3e, hlth_ehis_fv3e) and IHME GBD for environmental risks. 
+2.5.2. Physical activity decreases sharply with age, despite being crucial for mitigating the negative 
+effects of ageing 
+Physical activity is one of the most important activities that people can do to avoid or slowdown the negative consequences of 
+ageing. It reduces the risks of many chronic conditions and falls, promotes mental health, and reduces cognitive functioning 
+decline. WHO released in 2020 new guidelines on physical activity and sedentary behaviour for different age groups, including 
+people aged over 65. These guidelines recommend at least 150-300 minutes of moderate intensity physical activity or 
+75-150 minutes of vigorous intensity physical activity per week for older adults. As part of their weekly physical activity, it is also 
+recommended that older adults do varied physical activity that emphasises functional balance at least three days per week. Older 
+adults should also limit the amount of time spent being sedentary (WHO, 2020[14]). 
+The share of people meeting the WHO recommendation on physical activity declines with age in all EU countries (Figure 2.17). On 
+average across the EU, it drops from 35% among those aged 18 to 64 years to 22% among those aged over 65. In 11 EU countries, 
+less than 10% of people aged over 65 meet these guidelines. Only in Norway, the Netherlands and Sweden did at least half of the 
+older population meet the WHO recommendations. This highlights the need for policies to promote appropriate physical activity among 
+older adults, but also among young adults, as the shares of people reporting sufficient physical activity are low across all age groups. 
+Figure 2.17. Only 22% of people aged over 65 meet the WHO recommendation on minimum physical activity per week 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat (hlth_ehis_pe2e) (the data refer to 2019). 
+StatLink 2 https://stat.link/79bcw8 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+From 18 to 64 years
+65 years or over
+% of people reporting to spend 150 minutes or more per week of physical activity
+
+
+## Stran PDF 78
+
+76    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Physical activity decreases with age equally among both men and women, and less women report physical activity than men in 
+all age groups. About 27% of men aged over 65 reported doing physical activity that met the WHO guidelines in 2019 compared 
+to 19% of women only. 
+Not only does the time spent doing physical activity reduce with age, but its frequency also decreases. Based on the EU-SILC 
+survey, over half (52%) of people aged over 65 reported doing physical activity less often than once a week or never in 2022. This 
+proportion was highest in Central and Eastern European countries, and lowest in Nordic countries and the Netherlands. 
+The highest burden of new disease cases due to insufficient physical activity are among people aged 60 to 79 (Figure 2.18). 
+Cardiovascular diseases account for 40% of all new disease cases due to lack of physical activity among people aged 60 to 79, 
+and nearly 75% of the burden for people aged 80 to 89. People over 80 are at high risk of developing diseases due to physical 
+inactivity, but there are fewer cases of new diseases because there are fewer people in this older age group (OECD/WHO, 
+2023[15]). 
+Figure 2.18. The greatest burden of diseases due to insufficient physical activity occurs at old age 
+ 
+Note: CVDs = cardiovascular diseases. 
+Source: OECD/WHO (2023[15]), Step Up! Tackling the Burden of Insufficient Physical Activity in Europe, OECD Publishing, Paris, https://doi.org/10.1787/500a9601-en. 
+StatLink 2 https://stat.link/08iov3 
+2.5.3. Obesity rates increase gradually with age to peak at age 65-74 
+Obesity rates increase gradually as people age to reach a peak of about 20% at age 65-74 on average across EU countries in 
+2022, according to data from EU-SILC (Figure 2.19). Obesity rates then start to fall after age 75. 
+While obesity rates are higher among younger men than younger women, the gender gap diminishes and even inverts after 
+age 75, with a slightly higher obesity rate among women than men in that age group on average across EU countries. 
+A much smaller proportion of people aged 65-74 and over 75 are considered to be underweight (about 1% according to data from 
+EU-SILC in 2022) than overweight or obese. While physiological changes such as muscle atrophy and bone density loss often 
+lead to a reduction in body weight in old age, this reduction does not necessarily mean that people become underweight. 
+ 0
+10 000
+20 000
+30 000
+40 000
+50 000
+60 000
+70 000
+80 000
+90 000
+00 - 19
+20 - 29
+30 - 39
+40 - 49
+50 - 59
+60 - 69
+70 - 79
+80 - 89
+Number of cases
+Depression
+Dementia
+Diabetes
+CVDs
+Cancers
+
+
+## Stran PDF 79
+
+   77 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.19. Obesity rates gradually increase with age to peak at 65 to 74 years 
+ 
+Note: The data refer to the EU average. The EU average is weighted. Obesity and underweight are based on the body mass index (BMI) that divides weight by height 
+in metres, squared. Obesity is defined as a BMI over 30, while underweight is defined as a BMI under 18.5. 
+Source: Eurostat based on EU-SILC 2022 (ilc_hch10). 
+StatLink 2 https://stat.link/in81xe 
+2.5.4. Malnutrition is the main contributor to weight issues and deficiencies in specific nutrients 
+Malnutrition is the main contributor of overweight and obesity at all ages. Eating five fruit and vegetables a day is recommended 
+by WHO for all adults (including older adults) to stay healthy. However, only one in seven people (14%) aged over 65 in the EU 
+reported eating at least five fruit and vegetables a day in 2019, according to the EHIS. Nonetheless, this rate was slightly higher 
+than among younger adults aged 15-64 (12%). The consumption of fruit and vegetables is strongly influenced by socio-economic 
+status. Older people in the highest income quintile are over twice as likely to eat five fruit and vegetables a day compared with 
+those in the lowest income quintile (19% compared to 10% in 2019 on average in the EU). More highly educated older people 
+were also 40% more likely to eat five fruit and vegetables a day than the least educated (18% compared to 14% in 2019). 
+More recent data from the EU-SILC survey 2022 only asked people if they were eating fruit and vegetable each day or week, 
+hence the percentage of the population is much higher than for those who reported eating five fruit and vegetables per day in 
+2019. These data confirm that retired (older) people were more likely to eat at least one fruit and vegetable per day than employed 
+(younger) adults, but nonetheless about one-third of retired people reported not eating one fruit and vegetable each day. 
+Deficiencies in specific nutrients are another significant health issue among older adults. They can manifest as involuntary weight 
+loss and a very low body mass index, although this does not necessarily lead to weight loss. It is estimated that almost a quarter 
+(23%) of European adults over the age of 65 are at high risk of malnutrition based on a meta-analysis of nearly 200 studies 
+published between 2000 and 2016 (Crichton et al., 2018[16]; Leij-Halfwerk et al., 2019[17]).5 People aged over 80 years, women 
+and those with comorbidities have a higher risk of malnutrition. The risk is also higher in long-term care settings (e.g. nursing 
+homes). These increased risks can be due to difficulties in eating because of dental issues, difficulties in preparing meals, and 
+chronic diseases that lead to decreased appetite. 
+2.5.5. People aged over 65 are more vulnerable to extreme temperatures and air pollution 
+The health of older people can also be affected by a number of environmental factors that may have a detrimental effect on their 
+health. This includes extreme temperature (hot or cold) and air pollution. 
+According to the GBD study, about 4% of all deaths among people aged over 65 in the EU in 2021 (or 188 000 deaths) could be 
+attributed to air pollution. Air pollution in the form of fine particulate matter (often referred to as PM2.5) can lead to strokes and 
+ischaemic heart diseases by affecting blood vessels and increasing the risk of clot formation. Prolonged exposure also contributes 
+to lung cancer, while respiratory diseases can be triggered or worsened by the inhalation of these particles. 
+0
+5
+10
+15
+20
+25
+16 to 24 years
+ 25 to 34 years
+35 to 49 years
+ 50 to 64 years
+65 to 74 years
+75 years or over
+Underweight
+Obese
+%
+
+
+## Stran PDF 80
+
+78    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+About 165 000 deaths of people aged over 65 in the EU in 2021 could be attributed to extreme temperature (too cold or too hot), 
+according also to GBD estimates. The percentage of deaths due to extreme temperature rises from 2% among those aged 65-69 
+to 4% among those aged over 80. A combination of physiological and behavioural factors makes older adults particularly 
+vulnerable to hypothermia and heat. Certain chronic illnesses affecting physiological responses, such as diabetes, and the use of 
+various medications can impair heat regulation. Older people are also more vulnerable to heat because they don’t sweat or cool 
+down as efficiently as younger people, making them more susceptible to heat stress, which can worsen underlying conditions like 
+heart, lung and kidney diseases. Poor air quality can also make it harder for older people to breathe, especially among those with 
+existing respiratory issues. 
+Figure 2.20. Older people are more vulnerable to extreme temperature and air pollution 
+ 
+Note: These estimates relate to the EU as a whole and refer to 2021. 
+Source: IHME GBD Results, available from https://vizhub.healthdata.org/gbd-results/. 
+StatLink 2 https://stat.link/0kqlx9 
+2.6. Promoting healthy longevity 
+Promoting healthy longevity is more important than ever as the proportion of people aged over 65 will continue to grow in the 
+coming years and can be expected to increase pressure on health spending unless they are able to live in good health for longer. 
+Both the OECD’s and EC’s most recent projection results indicate that the growth in health spending over the coming decades 
+would be reduced significantly under a “healthy ageing” scenario. According to a baseline scenario assuming that there would be 
+no progress in the health status of the population, the results from the most recent OECD projections show that public spending 
+on health as a share of GDP could grow by 1.2 percentage points between 2019 and 2040 on average across the 23 EU countries 
+included in these projections, because public spending on health would grow faster than GDP. However, this increase could be 
+reduced by 0.4 percentage point of GDP on average under a “healthy ageing” scenario (OECD, 2024[18]). 
+The most recent projections from the 2024 EC’s Ageing Report show a more modest growth in public spending on health as a 
+share of GDP between 2022 and 2070 under the baseline scenario, but this would be accompanied by a stronger increase in 
+public spending on long-term care due to population ageing. Under the baseline scenario, the projected increase in public 
+spending on health on average across EU countries would go up from 6.9% of GDP in 2022 to 7.3% in 2070, while public spending 
+on long-term care would rise from 1.7% of GDP in 2022 to 2.6% in 2070. However, under a “healthy ageing” scenario where all 
+future gains in life expectancy would be spent in good health (and not only half of these gains as under the baseline scenario), 
+the projection results from the 2024 Ageing Report suggest that it may be possible to stabilise public expenditure on health at 
+6.9% of GDP by 2070 and to contain the growth of public expenditure on long-term care to 2.4% of GDP (European Commission, 
+2024[19]).6 
+3.9%
+4.1%
+4.2%
+4.3%
+2.4%
+2.8%
+3.2%
+4.2%
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+65-69 years
+70-74 years
+75-79 years
+80+ years
+Air pollution
+Extreme temperature
+% of deaths attributable
+
+
+## Stran PDF 81
+
+   79 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Achieving healthy longevity requires fostering environments and promoting lifestyles that help people to avoid becoming ill in the 
+first place, and that provide access to people-centred and integrated care to people when they do get sick to restore their health 
+and reduce the risk of complications. Another important element of healthy longevity strategies is to mitigate the inequalities that 
+develop and often widen over the life course by addressing the social determinants of health and ensuring universal access to 
+care when people get sick. 
+This section identifies a range of policy actions and good practices in health promotion and disease prevention, as well as in 
+providing more integrated care for people with chronic conditions with a particular focus on older people, drawing on recent OECD 
+evaluations of best practices (OECD, 2022[20]; 2023[21]). 
+2.6.1. Preventing diseases and injuries as people age 
+A significant proportion of health issues in old age can be prevented or delayed by supporting healthier lifestyles and health-
+promoting environments to reduce exposure to risk factors to various diseases and injuries. 
+Making physical activity a daily habit 
+Being physically active is one of the most important activities people at all ages can do to maintain and improve their physical and 
+mental health. Physical activity helps prevent a range of non-communicable diseases, such as cardiovascular diseases and 
+cancers, and improves mental health and cognitive functioning. Nevertheless, as already noted (see Figure 2.17 above), too many 
+Europeans are not doing enough physical activity, and the proportion of people not sufficiently active increases with age. Recent 
+joint OECD/WHO work has estimated that increasing physical activity levels to the WHO recommendation could prevent more 
+than 10 000 premature deaths of people aged 30 to 70 years in the EU each year and increase the life expectancy of people who 
+are not sufficiently active by 7.5 months (OECD/WHO, 2023[15]). 
+Most EU countries report that they have some programmes in place to promote physical activity among older adults (OECD/WHO, 
+2023[15]). Programmes such as the Multimodal Training Intervention, initially developed in Iceland and since then transferred in 
+certain regions in Spain and Lithuania, provide good examples of effective ways to promote physical activity as well as healthy 
+eating among older people (Box 2.5). 
+Box 2.5. What works in promoting active lifestyle and healthy eating among older people? The Multimodal Training 
+Intervention 
+The Multimodal Training Intervention (MTI) is an exercise-based intervention first developed in Iceland targeting people 
+aged 65 years and over who live independently at home. The intervention involves endurance and resistance training under 
+the guidance of a personal training over a period of 24 months. Participants also have access to lectures on topics such as 
+nutrition, physical activity training and sleep. 
+The MTI includes several digital features. First, participants can track their performance by logging their workouts and diet in 
+a dedicated mobile app. Second, municipalities have access to an online dashboard displaying the results from each round of 
+participants’ measurements. Third, MTI administrators have created a website and Facebook group to provide participants 
+with important information as well as direct contact with professional trainers and nutrition counsellors. 
+The OECD assessment of the MTI showed that it is effective in preventing chronic diseases and has the potential to lead to 
+significant gains in life expectancy and disability-adjusted life years among older population over the long term. However, the 
+MTI is a relatively expensive intervention as it offers participants supervised exercise classes and tailored healthy living 
+lectures for a relatively small number of people. Hence, affordability may be an issue if participants are required to pay out-of-
+pocket for the programme. 
+The MTI has been successfully transferred to some regions in Spain and Lithuania. 
+Source: OECD (2022[20]), Healthy Eating and Active Lifestyles: Best Practices in Public Health, https://doi.org/10.1787/40f65568-en. 
+
+
+## Stran PDF 82
+
+80    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Reducing falls through prevention campaigns 
+Falls are among the most common health issues among older people as highlighted in Figure 2.14 above, and in many cases 
+result in serious injuries and fractures, requiring hospitalisations and long periods of immobilisation. 
+Many EU countries have put in place a series of measures to reduce falls among older people. These measures often focus first 
+on raising awareness among older people about the risks of falls and the steps that can be taken to lessen these risks. This is 
+done, for example, by disseminating preventive checklists. A second common measure of fall prevention strategies is to identify 
+people at higher risk of falling and to target efforts to reduce potential environmental hazards for these people. This identification 
+process can be implemented, for example, through regular fall risk assessments conducted by primary care providers. A third 
+measure is to encourage discussions on fall prevention between all older people and their primary care providers and facilitate 
+referrals to specialists (e.g. orthopaedic doctors) or physiotherapists who may be able to intervene to reduce risks. 
+Research on the effectiveness of fall prevention strategies is limited in Europe, and the results across OECD countries are mixed. 
+Promoting physical exercise has been identified as a potential effective measure to reduce the risk of falls among older people. A 
+systematic review of evaluations of more than 50 interventions carried out mainly in non-EU OECD countries (e.g. Australia, Japan, 
+the United States and the United Kingdom) found that exercise may reduce the rate of falls by up to 23% (Sherrington et al., 2019[22]). 
+However, another systematic review of about 40 trials carried out mainly in the United States and the United Kingdom as well as in 
+some EU countries (e.g. the Netherlands, Spain and Sweden) found that multifaceted interventions, often including exercise 
+prescription along with other interventions, may only reduce slightly the risk of falls among older people (Hopewell et al., 2019[23]). 
+Interventions to reduce fall hazards at home may significantly diminish the number of falls, particularly if they are targeted to 
+people at greater risk. A review of 22 evaluations from 10 countries found a reduction of 38% in the number of falls when 
+programmes target those at higher risk. This review did not find any evidence of a reduction in falls when people were not selected 
+based on risk (Clemson et al., 2023[24]). 
+Preventing Alzheimer’s disease and other dementias 
+Much can be done to prevent Alzheimer’s disease and other dementias through a comprehensive approach to dementia risk 
+reduction, The 2024 Lancet Commission on dementia reported that 14 modifiable risk factors account for up to 45% of dementia 
+cases around the world (Livingston et al., 2024[6]). It recommended a series of actions to address these risk factors to prevent or 
+delay dementia (Box 2.6). 
+Box 2.6. Recommendations from the 2024 Lancet Commission to reduce dementia risk factors across the life course 
+One of the key messages from the 2024 Lancet Commission on dementia is that modifying 14 risk factors might prevent or 
+delay up to 45% of dementia cases worldwide. The Commission recommended a series of specific actions to address these 
+modifiable risk factors, including: 
+• 
+Ensuring good quality education is available for all and encouraging cognitively stimulating activities in midlife to 
+protect cognition 
+• 
+Making hearing aids accessible for people with hearing loss and decreasing harmful noise exposure to reduce hearing 
+loss 
+• 
+Making screening and treatment for vision loss accessible for all 
+• 
+Treating depression effectively 
+• 
+Encouraging exercise as people who participate in sport and exercise are less likely to develop dementia 
+• 
+Reducing cigarette smoking through education, price control, preventing smoking in public places, and making 
+smoking cessation advice accessible 
+• 
+Preventing or reducing hypertension 
+• 
+Detecting and treating high LDL cholesterol from midlife 
+• 
+Maintaining a healthy weight and treating obesity as early as possible, which also helps to prevent diabetes 
+• 
+Reducing high alcohol consumption through price control and increased awareness of levels and risks of 
+overconsumption 
+• 
+Prioritising age-friendly and supportive community environments and housing and reducing social isolation by 
+facilitating participation in activities and living with others. 
+Source: Livingston, G. et al. (2024[6]), “Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission”, 
+https://doi.org/10.1016/s0140-6736(24)01296-0. 
+
+
+## Stran PDF 83
+
+   81 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Policy efforts are underway across EU countries to tackle dementia more effectively. For instance, the EU4Health programme 
+includes a Joint Action with funding of EUR 4.5 million to support collaborative work between EU countries to address challenges 
+related to neurological disorders and dementia. This Joint Action is expected to focus on early detection and improved access to 
+care and management, and on awareness raising and fighting stigma. 
+Protecting older people against infectious diseases 
+While it is crucial to step up efforts to prevent chronic diseases among older people, it is also important to protect them against 
+infectious diseases, notably by boosting vaccination rates. Vaccination is a cornerstone of public health and disease prevention 
+programmes. It is particularly critical for older adults who are more vulnerable to severe complications from infections. Ensuring 
+high vaccination coverage among older populations can minimise illness and death rates, as well as alleviate pressure on 
+healthcare systems. 
+The COVID-19 pandemic served as a stark demonstration of the life-saving efficacy of vaccines, with countries that achieved 
+higher vaccination rates experiencing markedly lower excess mortality (OECD, 2023[25]). COVID-19 vaccination was especially 
+crucial for people aged over 60 who accounted for 93% of all COVID-19 deaths in the EU in 2020 and 2021. By the end of 2021, 
+nearly 90% of people aged over 60 in the EU had completed their primary vaccination course, with all countries except three 
+reaching at least 75% coverage (see indicator “Public health measures: Vaccination to protect older people” in Chapter 8). 
+Similar to COVID-19, all EU countries have national recommendations to promote influenza vaccination among older people. 
+Before the pandemic, 44% of people aged over 65 on average across EU countries received the flu vaccine during the 2019/20 
+influenza season. The start of the pandemic prompted efforts to prevent a simultaneous outbreak of influenza and COVID-19, 
+which led to a marked increase in flu vaccination rates in the EU to 51% during the 2020/21 season. In 2021/22, average 
+vaccination uptake decreased to 48% despite the fact that influenza virus activity resumed following the relaxation of measures 
+to reduce COVID-19 transmission. The vaccine take-up nevertheless remained 4 percentage points above the pre-pandemic level 
+(Figure 2.21). Denmark, Portugal and Ireland attained over 75% coverage in 2021/22, while Latvia, Estonia and Ireland maintained 
+significant increases from their pre-pandemic rates. Conversely, nine EU countries experienced declines below pre-pandemic 
+levels, with Croatia, Malta, Slovenia and the Slovak Republic seeing particularly sharp reductions. 
+Figure 2.21. Flu vaccination among people aged over 65 has increased since 2019 in most EU countries, but remains 
+below 25% in ten countries 
+ 
+Note: The data for 2019/20 refer to the flu vaccination campaign that started in fall 2019 and ended in winter 2020, as do the data for the 2021/22 vaccination campaign. 
+No recent data is available for Austria. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_ps_immu). 
+StatLink 2 https://stat.link/gl2apc 
+Maintaining high vaccination coverage rates can be challenging due to various factors, including vaccine hesitancy and other 
+barriers. The project “Overcoming Obstacles to Vaccination” aims to identify and pilot exemplary practices to address practical 
+and administrative obstacles to vaccination in participating EU countries (https://overcomingobstaclestovaccination.eu/). 
+44
+78
+76
+75
+70
+70
+68
+66
+63
+60
+60
+58
+57
+56
+48
+43
+43
+42
+42
+32
+29
+25
+22
+22
+21
+19
+17
+10
+9
+6
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+%
+2019/20
+2021/22
+
+
+## Stran PDF 84
+
+82    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+2.6.2. Promoting more people-centred and integrated care for older people with chronic conditions 
+Even with enhanced prevention efforts, not all health issues in old age can be prevented, and it is essential to ensure that all older 
+people receive the necessary care when they are ill. 
+As the first point of contact, general practitioners (GPs) and other primary care providers are key to boost prevention, early 
+diagnosis and to provide treatments for older people with multiple diseases. During the pandemic, only about 2% of people aged 
+over 65 reported having had to forgo some GP visits due to cost or accessibility issues, according to the SHARE survey in 2021/22 
+(Figure 2.22). This share was higher in Finland and Hungary (over 6%), and in Portugal, Italy, the Slovak Republic and Romania 
+(over 4%). 
+Forgone care tends to be higher among older people with a lower socio-economic status. About 3.5% of older people with a low 
+level of education (less than secondary education) reported forgoing care in 2021-22, compared to 1.8% among the most highly 
+educated on average across EU countries.7 
+Figure 2.22. About 2% of people aged 65 and over reported forgone GP visits in 2021-22 
+ 
+Note: Forgone care due to cost, distance or waiting times. The EU average is unweighted and based on 26 EU countries (Ireland does not participate in the SHARE 
+survey). 
+Source: SHARE wave 9 (data refer to 2021-22). 
+StatLink 2 https://stat.link/6lvzu9 
+The proper management of people living with multiple chronic conditions (multimorbidity) requires the involvement of 
+multidisciplinary care teams and co-ordination between various health services and providers (generalists and specialists). Many 
+EU countries have developed different types of integrated care models to better respond to the needs of people with 
+multimorbidity. One good example is in the Spanish Basque country (Box 2.7). 
+6.2
+6.1
+5.5
+4.5
+4.5
+4.4
+3.3
+3.1
+3.0
+2.4
+2.3
+2.0
+2.0
+1.9
+1.9
+1.9
+1.6
+1.5
+1.3
+1.0
+0.9
+0.9
+0.9
+0.8
+0.7
+0.6
+0.3
+0
+1
+2
+3
+4
+5
+6
+7
+% of people aged 65 or over who reported forgone GP visit 
+
+
+## Stran PDF 85
+
+   83 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Box 2.7. What works in providing more integrated care to older people with multimorbidity? The Basque model 
+focussing on patient-centred care and a robust health information system 
+In 2010, the Spanish Basque country started to implement an integrated care model for patients with multiple chronic 
+conditions to improve chronic care for this population group. This model incorporates several key components to enhance 
+care quality for these patients: 
+• 
+A comprehensive baseline assessment conducted by a multidisciplinary care team. 
+• 
+An individualised therapeutic plan tailored to each patient’s needs. 
+• 
+The support from multidisciplinary care teams, including a general practitioner, specialists, social workers, a care 
+manager (usually a primary care nurse), and a hospital liaison nurse. 
+• 
+Co-ordinated hospital discharge, with a collaboration between the hospital liaison nurse and the primary care nurse 
+to ensure smooth transitions from hospital to home, with follow-up calls to detect any early signs of deterioration. 
+• 
+Patient empowerment programmes to provide education sessions to help patients understand and manage their 
+conditions. 
+The Basque Country model also leverages technology to enhance patient accessibility and ensure continuous care. The health 
+information system provides unified electronic health records, ePrescriptions and a Personal Health Folder. A Health Service 
+Centre offers a 24x7 eHealth Call Centre, patient tele-monitoring, online consultations, and a mobile app. This integrated care 
+model increases patient contacts with primary care providers and reduces hospitalisations. The evaluation of the model 
+showed that the average healthcare costs were 5% lower for patients who received the integrated care model compared to 
+the control group. 
+Source: OECD (2023[21]), Integrating Care to Prevent and Manage Chronic Diseases: Best Practices in Public Health, https://doi.org/10.1787/9acc1b1d-en. 
+2.6.3. Supporting older people in the management of chronic conditions 
+While health professionals will remain important actors in regularly monitoring older people with chronic conditions and providing 
+required care, much of the day-to-day management of chronic conditions can be undertaken by people themselves. Successful 
+self-management hinges on a range of factors, including people’s health status, the complexity of their healthcare needs, their 
+personal capabilities, and the effectiveness of the information and support that they receive from healthcare providers. 
+As people get older, their level of health literacy (defined as the ability to obtain, understand, and use health information) generally 
+diminishes while their healthcare needs often become more complex. Across EU countries, the shares of people needing help to 
+read medical instructions are larger for older age groups. At age 65-74, 16% of people need help to read medical instructions and 
+this share nearly doubles to 29% among people aged over 75. The share of women needing help to read medical instructions is 
+much higher than that of men in older age groups (Figure 2.23). 
+Older people with a lower level of education are more likely to have difficulties with health literacy. Over one-third (35%) of people 
+aged over 65 who have not completed secondary education need help to read medical instructions, compared with 9% among 
+those with a tertiary education. 
+
+
+## Stran PDF 86
+
+84    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 2.23. People aged over 75 in the EU need greater help to read medical instructions 
+ 
+Note: The EU average is unweighted and based on 26 EU countries. The survey question is: “How often do you need to have someone help you when you read 
+instructions, pamphlets, or other written material from your doctor or pharmacy?”, with possible answers being: always, often, sometimes, rarely, never. The figure 
+shows the percentage of people responding “always”, “often” and “sometimes”. 
+Source: SHARE wave 9 (data refer to 2021-22). 
+StatLink 2 https://stat.link/y37n0c 
+Preliminary results from the 2023 OECD Patient Reported Indicator Surveys (PaRIS) also show that people’s confidence in 
+managing their own health and well-being tends to decrease as the number of chronic conditions increases, and is lower among 
+people with lower levels of education (OECD, 2024[26]). 
+Informal carers (typically family members or friends) play an important role in supporting older people to manage their chronic 
+conditions. These carers often assist them with medications (e.g. helping with medication schedules, refills and administration), 
+care co-ordination (e.g. helping with managing multiple healthcare providers and treatments) and lifestyle support (e.g. helping 
+with maintaining healthy diets and encouraging physical activity). While this support can significantly improve the quality of life for 
+older adults, this caregiving can also have a negative impact on carers’ labour market participation and well-being. Policies aimed 
+at achieving healthy longevity should support these informal carers through respite care, care leave and short trainings to foster 
+appropriate care. 
+2.6.4. Promoting good mental health among older people and appropriate access to mental health 
+services 
+Mental health must be a key part of healthy longevity policies alongside physical health. Promoting good mental health and 
+preventing mental health issues across all ages has gained greater attention since the COVID-19 pandemic. Almost all 
+EU countries that responded to an OECD survey conducted in 2023 reported that they had expanded existing efforts or introduced 
+new measures to promote mental health, with two-thirds of countries reporting that they included some interventions for key 
+population groups, notably children, young people and older people. 
+In 2023, the European Commission released a comprehensive approach to mental health with 20 flagship initiatives supported by 
+EUR 1.23 billion funding. While the approach focusses to a large extent on promoting mental health among children and young 
+people, it also recognises that older people should be empowered to manage their own mental health and to increase their social 
+interactions and reduce loneliness (European Commission, 2023[27]). Risk factors for loneliness often stem from major life events 
+that particularly affect older people, such as the loss of a partner or health issues affecting oneself or close family members. These 
+events underscore the importance of providing support to maintain social ties in older age. In 2022, a mapping of interventions to 
+reduce loneliness in EU countries found that most interventions were targeting older people (53% of all interventions). These 
+interventions, primarily led by NGOs and local governments, typically involve different ways of connecting people and offering 
+group and social activities. However, these interventions are rarely evaluated, making it difficult to determine what kind of 
+interventions work to reduce loneliness, for whom and under what conditions (Nurminen, 2023[28]). 
+0
+5
+10
+15
+20
+25
+Age 50 to 64
+Age 65 to 74
+Age 75 or over
+Total
+Men
+Women
+% of people needing help every time or often to read medical instructions
+
+
+## Stran PDF 87
+
+   85 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Alongside tackling risk factors for mental health issues, older adults should also have access to effective mental health care 
+services when they need it. Despite having a higher prevalence of common mental health issues such as depression, older people 
+tend to access mental health services less often than younger adults. Out of five EU countries, only in Slovenia did people aged 
+over 65 have as many mental health consultations with specialists as younger adults aged 18 to 64, although the number of 
+consultations in both age groups is relatively small (Figure 2.24). 
+Digital health services can offer a potential solution to bridge some of the gap in access to both physical and mental care services 
+among older people. This is especially beneficial for those who have mobility issues or are living in rural and remote areas. Since 
+the pandemic, teleconsultations for mental health issues have increased among older people, as has also been the case for 
+younger adults. However, teleconsultation rates for mental health issues among older people still account for a relatively small 
+share of consultations compared to in-person consultations, as is the case also among younger age groups. The only country 
+where older people had more teleconsultations than in-person consultations in 2022 was Denmark. 
+Figure 2.24. Teleconsultations for mental health issues among older people still represented a relatively low share of 
+all consultations in 2022 
+ 
+Note: Data refer to 2022 and only include the appointments/contacts in outpatient mental health clinics. 
+Source: OECD calculations based on responses to OECD Mental Health Questionnaire 2023. 
+StatLink 2 https://stat.link/riye9n 
+2.7. Conclusions 
+Despite a temporary setback during the COVID-19 pandemic, life expectancy at birth in the EU has increased by more than 
+four years since 2000 to reach 81.5 years in 2023, and life expectancy when people reach age 65 has never been higher, now 
+exceeding 20 years. Combined with low fertility rates, this increase in longevity has led to a growing share of people aged over 65 
+in the EU, rising from 16% in 2000 to 21% in 2023, with this share projected to increase further to reach 29% by 2050. 
+Whether people are ageing in good physical and mental health will have substantial consequences for health and long-term care 
+systems. The available data from Eurostat and WHO to assess to what extent the gains in life expectancy over the past two 
+decades have been lived in good health and free of disabilities are not as robust as they would ideally be. There are breaks in the 
+time series of many countries for the Eurostat’s indicator of healthy life years and many data gaps and uncertainties around the 
+estimates used in WHO’s calculations of healthy life expectancy. Bearing these important limitations in mind, both the data 
+available from Eurostat and WHO generally show some positive trends: about two-thirds of the additional years of life at age 60 
+or 65 gained over the past 20 years in the EU are lived in good health and free of activity limitations, while the remaining one-third 
+of gains in life expectancy is lived with some health issues and disabilities. 
+29.5
+4.8
+28.1
+16.2
+23.2
+4.0
+13.0
+6.0
+3.1
+3.4
+7.7
+2.1
+5.8
+4.9
+8.4
+4.8
+5.0
+3.1
+2.6
+2.5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+18-64
+65+
+18-64
+65+
+18-64
+65+
+18-64
+65+
+18-64
+65+
+Finland
+Poland
+Denmark
+Estonia
+Slovenia
+In-person
+Teleconsultation
+In-person consultations and teleconsultations per hundred population aged between 18-64 and aged 65 years and older
+
+
+## Stran PDF 88
+
+86    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Despite these positive trends, over half of life expectancy at age 65 in 2023 is lived with some disabilities, based on the Eurostat 
+data. While women continue to live many years longer than men in all EU countries, they also tend to spend a greater proportion 
+of their lives with some health issues and disabilities, so the gender gap in healthy life years is almost nil. 
+As people age, the prevalence of various chronic diseases and disabilities tends to increase, although a substantial share of these 
+chronic diseases can be prevented or delayed through effective health promotion and disease prevention. Over 60% of people 
+aged over 65 in the EU reported having at least one chronic disease in 2023, and this share has remained stable since 2010. 
+Data from the SHARE survey show that over 40% of people aged over 65 had at least two chronic conditions (multimorbidity) in 
+2021/22, often requiring strong care co-ordination from multiple providers. 
+Dementia (including Alzheimer’s disease) is the most important cause of healthy life years lost due to disability among older 
+people in the EU, but other chronic diseases such as diabetes, arthritis, depression and cardiovascular diseases, are also 
+important causes of ill-health and disabilities. In addition, accidental falls account for a large number of years of life lost due to 
+disability among older people. 
+Many of the risk factors contributing to the burden of these diseases and injuries are preventable through individual actions and 
+health promotion and prevention policies. Promoting physical activity, healthy eating and healthy weight, and better management 
+of conditions such as hypertension and hearing loss can substantially prevent or delay many chronic diseases and injuries. 
+However, not all health issues can be prevented in old age and health systems must be prepared to meet the healthcare needs 
+of a growing number of older people. Early diagnosis of health conditions, along with equal access to people-centred and 
+integrated care, will be instrumental to help older people manage their health conditions and avoid or delay any further 
+deterioration in their health and functional status. 
+References 
+ 
+Ballester, J. et al. (2023), “Heat-related mortality in Europe during the summer of 2022”, Nature Medicine, Vol. 29/7, 
+pp. 1857-1866, https://doi.org/10.1038/s41591-023-02419-z. 
+[3] 
+Clemson, L. et al. (2023), “Environmental interventions for preventing falls in older people living in the community”, 
+Cochrane Database of Systematic Reviews, Vol. 2023/3, https://doi.org/10.1002/14651858.cd013258.pub2. 
+[24] 
+Crichton, M. et al. (2018), “A systematic review, meta-analysis and meta-regression of the prevalence of protein-
+energy malnutrition: associations with geographical region and sex”, Age and Ageing, 
+https://doi.org/10.1093/ageing/afy144. 
+[16] 
+DREES (2022), Suicide : mesurer l’impact de la crise sanitaire liée au Covid-19 [Suicide: measuring the impact of the 
+health crisis linked to COVID-19], https://drees.solidarites-sante.gouv.fr/publications-communique-de-
+presse/rapports/suicide-mesurer-limpact-de-la-crise-sanitaire-liee-au-0. 
+[10] 
+European Commission (2024), 2024 Ageing Report - Economic & Budgetary Projections for the EU Member States 
+(2022-2070), https://economy-finance.ec.europa.eu/document/download/971dd209-41c2-425d-94f8-e3c3c3459af9_en. 
+[19] 
+European Commission (2024), The 2024 pension adequacy report – Current and future income adequacy in old age in 
+the EU, Publications Office of the European Union, https://data.europa.eu/doi/10.2767/909323. 
+[4] 
+European Commission (2023), European Health Union: a new comprehensive approach to mental health, 
+https://ec.europa.eu/commission/presscorner/detail/en/IP_23_3050. 
+[27] 
+Eurostat (2024), Causes of death statistics, https://ec.europa.eu/eurostat/statistics-
+explained/index.php?title=Causes_of_death_statistics#Major_causes_of_death_in_the_EU_in_2021. 
+[1] 
+Hopewell, S. et al. (2019), “Multifactorial interventions for preventing falls in older people living in the community: a 
+systematic review and meta-analysis of 41 trials and almost 20 000 participants”, British Journal of Sports Medicine, 
+Vol. 54/22, https://doi.org/10.1136/bjsports-2019-100732. 
+[23] 
+IHME (2024), GBD Results, Institute for Health Metrics and Evaluation, https://vizhub.healthdata.org/gbd-results/. 
+[5] 
+Leij-Halfwerk, S. et al. (2019), “Prevalence of protein-energy malnutrition risk in European older adults in community, 
+residential and hospital settings, according to 22 malnutrition screening tools validated for use in adults ≥65 years”, 
+Maturitas, Vol. 126, pp. 80-89, https://doi.org/10.1016/j.maturitas.2019.05.006. 
+[17] 
+Livingston, G. et al. (2024), “Dementia prevention, intervention, and care: 2024 report of the Lancet standing 
+Commission”, The Lancet, Vol. 404/10452, https://doi.org/10.1016/s0140-6736(24)01296-0. 
+[6] 
+Morgan, D. et al. (2023), “Examining recent mortality trends: The impact of demographic change”, OECD Health 
+Working Papers, No. 163, OECD Publishing, Paris, https://doi.org/10.1787/78f69783-en. 
+[2] 
+
+
+## Stran PDF 89
+
+   87 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Murtin, F. et al. (2017), “Inequalities in longevity by education in OECD countries: Insights from new OECD estimates”, 
+OECD Statistics Working Papers, No. 2017/2, OECD Publishing, Paris, https://doi.org/10.1787/6b64d9cf-en. 
+[12] 
+Nurminen, M. (2023), Mapping of loneliness interventions in the EU, JRC Publications Repository, 
+https://publications.jrc.ec.europa.eu/repository/handle/JRC134255. 
+[28] 
+OECD (2024), Fiscal Sustainability of Health Systems: How to Finance More Resilient Health Systems When Money Is 
+Tight?, OECD Publishing, Paris, https://doi.org/10.1787/880f3195-en. 
+[18] 
+OECD (2024), Healthcare through patients’ eyes: The next generation of healthcare performance indicators, 
+https://splsportugal.com/wp-content/uploads/2023/07/1719311695353.pdf. 
+[26] 
+OECD (2024), Society at a Glance 2024: OECD Social Indicators, OECD Publishing, Paris, 
+https://doi.org/10.1787/918d8db3-en. 
+[29] 
+OECD (2023), Health at a Glance 2023: OECD Indicators, OECD Publishing, Paris, https://doi.org/10.1787/7a7afb35-
+en. 
+[8] 
+OECD (2023), Integrating Care to Prevent and Manage Chronic Diseases: Best Practices in Public Health, OECD 
+Publishing, Paris, https://doi.org/10.1787/9acc1b1d-en. 
+[21] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[25] 
+OECD (2022), Healthy Eating and Active Lifestyles: Best Practices in Public Health, OECD Publishing, Paris, 
+https://doi.org/10.1787/40f65568-en. 
+[20] 
+OECD/European Union (2020), Health at a Glance: Europe 2020: State of Health in the EU Cycle, OECD Publishing, 
+Paris, https://doi.org/10.1787/82129230-en. 
+[11] 
+OECD/WHO (2023), Step Up! Tackling the Burden of Insufficient Physical Activity in Europe, OECD Publishing, Paris, 
+https://doi.org/10.1787/500a9601-en. 
+[15] 
+Sherrington, C. et al. (2019), “Exercise for preventing falls in older people living in the community”, Cochrane Database 
+of Systematic Reviews, Vol. 2019/1, https://doi.org/10.1002/14651858.cd012424.pub2. 
+[22] 
+Valverde, J. et al. (2021), “Determinants of educational inequalities in disability-free life expectancy between ages 35 
+and 80 in Europe”, SSM - Population Health, Vol. 13, https://doi.org/10.1016/j.ssmph.2021.100740. 
+[13] 
+Vasile, M. et al. (2023), “Association Between Social Isolation and Mental Well-Being in Later Life. What is the Role of 
+Loneliness?”, Applied Research in Quality of Life, Vol. 19/1, pp. 245-267, https://doi.org/10.1007/s11482-023-10239-z. 
+[9] 
+WHO (2020), WHO guidelines on physical activity and sedentary behaviour, 
+https://www.who.int/publications/i/item/9789240015128. 
+[14] 
+Wolters, F. et al. (2020), “Twenty-seven-year time trends in dementia incidence in Europe and the United States”, 
+Neurology, Vol. 95/5, https://doi.org/10.1212/wnl.0000000000010022. 
+[7] 
+ 
+ 
+
+
+## Stran PDF 90
+
+88    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Annex 2.A. Gains in life expectancy and HALE at 
+age 60, based on WHO data 
+Annex Figure 2.A.1. Healthy life expectancy has increased more than years of life in ill-health at age 60 in most 
+EU countries between 2000 and 2021 (based on WHO data) 
+ 
+Source: WHO database, www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-life-expectancy-and-healthy-life-expectancy. 
+StatLink 2 https://stat.link/dwuymp 
+13.7
+12.8
+14.1
+13.7
+13.6
+14.0
+14.2
+14.1
+13.9
+14.2
+14.7
+14.6
+14.7
+14.8
+14.6
+15.0
+14.6
+15.1
+14.3
+15.8
+15.7
+16.7
+16.8
+17.3
+15.3
+17.0
+16.8
+17.3
+16.7
+17.7
+16.0
+18.0
+16.6
+17.8
+15.7
+18.3
+16.3
+18.2
+16.6
+18.0
+16.8
+18.4
+16.5
+18.1
+16.2
+18.6
+17.1
+18.4
+17.4
+18.7
+16.7
+18.8
+16.7
+18.7
+18.0
+18.6
+17.4
+19.1
+17.3
+18.9
+3.9
+4.0
+4.1
+4.2
+4.4
+4.7
+4.3
+4.7
+4.5
+4.7
+4.8
+4.9
+4.5
+5.0
+4.7
+5.3
+4.8
+5.1
+4.3
+5.2
+4.8
+5.5
+4.8
+5.3
+5.1
+5.9
+5.0
+5.8
+5.2
+5.7
+4.7
+5.4
+4.7
+5.7
+4.5
+5.6
+5.0
+5.8
+5.1
+6.0
+5.1
+5.8
+5.1
+6.0
+4.6
+5.7
+5.5
+6.0
+5.0
+6.0
+5.0
+5.9
+5.3
+6.1
+5.0
+6.2
+5.2
+5.8
+5.4
+6.1
+17.6
+16.8
+18.2
+17.8
+18.0
+18.7
+18.5
+18.8
+18.3
+18.9
+19.5
+19.5
+19.2
+19.8
+19.3
+20.3
+19.4
+20.3
+18.6
+21.0
+20.5
+22.2
+21.5
+22.6
+20.5
+23.0
+21.8
+23.2
+22.0
+23.5
+20.6
+23.5
+21.3
+23.5
+20.2
+23.9
+21.2
+24.0
+21.6
+24.0
+21.9
+24.2
+21.6
+24.2
+20.8
+24.3
+22.5
+24.4
+22.4
+24.7
+21.8
+24.7
+22.0
+24.8
+23.0
+24.9
+22.6
+24.9
+22.7
+24.9
+0
+5
+10
+15
+20
+25
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+2000
+2021
+Bulga
+ria
+Roma
+nia
+Hung
+ary
+Slova
+kia Latvia
+Lithua
+nia
+Polan
+d
+Czech
+ia
+Croati
+a
+Estoni
+a
+EU
+Greec
+e
+Slove
+nia
+Germ
+any
+Austri
+a
+Denm
+ark
+Nethe
+rlands
+Irelan
+d
+Portu
+gal
+Belgiu
+m
+Cypru
+s
+Finlan
+d
+Malta Italy
+Swed
+en
+Luxe
+mbour
+g
+Norw
+ay
+Franc
+e
+Icelan
+d
+Spain
+Years
+Years of life in good health at 60
+Years of life in less than full health at 60
+Spain
+Iceland
+France
+Norway
+Luxembourg
+Sweden
+Italy
+Malta
+Finland
+Cyprus
+Belgium
+Portugal
+Ireland
+Netherlands
+Denmark
+Austria
+Germany
+Slovenia
+Greece
+EU
+Estonia
+Croatia
+Czechia
+Poland
+Lithuania
+Latvia
+Slovak Rep.
+Hungary
+Romania
+Bulgaria
+
+
+## Stran PDF 91
+
+   89 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Notes
+ 
+1 The 2024 edition of Society at a Glance provided a detailed analysis of the long-term decline in fertility rates in OECD and 
+EU countries, as well as policy options to halt this decline (OECD, 2024[29]). The fertility rates have fallen over the past few decades 
+to reach just 1.5 children per woman in 2022 on average across the OECD and EU, well below the “replacement level” of 
+2.1 children per woman. Among EU countries in 2022, the fertility rate was highest in France with 1.8 children per woman, and 
+lowest in Malta, Italy and Spain with 1.2 children per woman. 
+2 See indicator on trends in life expectancy in Chapter 3 for more information by country. 
+3 The main reason why 2010 was selected as the baseline year rather than 2005 is that Eurostat does not report any EU average 
+before 2010. 
+4 The data from the IHME GBD study are model-based estimates that may not always be consistent with national data. 
+5 People at risk of malnutrition are identified based on one of the 22 validated malnutrition screening tools for older adults. These 
+tools assess various parameters such as nutritional intake, weight loss, body mass index and physical health. 
+6 See indicator on public expenditure projections for health and long-term care in Chapter 8 for more specific information. 
+7 Unmet medical care needs among older people are also low based on the EU-SILC survey: 3.6% of people aged 65 and over 
+reported unmet medical care needs in 2023 in the EU. However, there is also large inequality across income groups: while only 
+1.6% of older people in the highest income quintile reported going without medical care, this proportion reached 5.5% in the lowest 
+quintile. 
+
+
+## Stran PDF 92
+
+
+
+## Stran PDF 93
+
+   91 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Part II Overview of health 
+indicators 
+
+
+## Stran PDF 94
+
+
+
+## Stran PDF 95
+
+   93 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+This chapter describes the health status of EU citizens, including trends in life expectancy, 
+healthy life expectancy, main causes of death, the prevalence of chronic diseases and 
+disabilities, and mental health issues. By 2023, life expectancy in most EU countries had 
+recovered from the unprecedented reductions during the COVID-19 pandemic, but there 
+remained a gap of eight years between countries with the highest life expectancy and those 
+with the lowest life expectancy. While women in the EU continue to live more than five years 
+longer than men, the gender gap in healthy life years is much smaller as women live a 
+greater proportion of their lives with some health issues and disabilities. The main causes of 
+death are cardiovascular diseases and cancer, which together accounted for over half of all 
+deaths (54%) in the EU in 2021. COVID-19 was the third leading cause in 2021, accounting 
+for one in nine deaths. Over one-third of adults (35%) in the EU report living with a chronic 
+condition, and this proportion increases to 60% among people aged over 65. There is some 
+evidence that the health of young people deteriorated during the pandemic. Over half (52%) 
+of 15-year-olds on average across the EU reported multiple health complaints in 2022, an 
+increase from 42% in 2018. The most common health complaints are related to 
+psychological distress. The gender difference in multiple health complaints is large: 68% of 
+15-year-old girls reporting multiple health complaints in 2022 compared to 37% of boys. 
+3 Health status 
+
+
+## Stran PDF 96
+
+94    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Trends in life expectancy 
+Life expectancy at birth in the EU reached 81.5 years in 2023 based on preliminary data from Eurostat, up by nearly a year from 
+2022 and exceeding its pre-pandemic level in 2019 by 0.2 years (Eurostat, 2024[1]). Spain had the highest life expectancy among 
+EU countries at 84.0 years in 2023, followed by Italy, Malta, Luxembourg, Sweden and France, with all these countries having a 
+life expectancy exceeding 83 years. Outside the EU, Switzerland had the highest life expectancy in Europe at 84.2 years. Life 
+expectancy in the EU in 2023 was the lowest in Bulgaria and Latvia at less than 76 years. The gap between the lowest and highest 
+life expectancy in the EU was more than eight years (Figure 3.1). 
+Women continue to live many years longer than men in all EU countries – 5.3 years on average across the EU in 2023. However, 
+the gender gap in longevity has narrowed by nearly a year since 2010 as the life expectancy of men increased more rapidly than 
+women. The gender gap in healthy life expectancy is much smaller as women tend to spend a greater proportion of their lives 
+with some health issues and activity limitations (see indicator “Healthy life expectancy at birth and at age 65”). 
+Large inequalities in life expectancy persist not only by gender but also by socio-economic status, no matter how it is measured 
+– whether by education level, income or occupational group. For example, in France, the gap in life expectancy between men at 
+age 35 with a university degree or the equivalent and those who have not completed secondary education was 8.0 years in 
+the years 2020-22. The gap between the most educated and least educated women was 5.4 years. These education gaps have 
+remained relatively stable over the past 30 years (INSEE, 2024[2]). The education gaps in life expectancy in the Netherlands are 
+less pronounced, but still there was a gap of 5.1 years among the most educated and least educated men at age 30 in 2021 and 
+of 4.1 years among women. 
+The COVID-19 pandemic resulted in unprecedented reductions in life expectancy in most EU countries in 2020 and 2021, but life 
+expectancy started to bounce back in many countries in 2022 and improved further in 2023 (Figure 3.2). Compared with its 
+pre-pandemic level, life expectancy in 2023 was higher than in 2019 in 18 EU countries, at the same level in two countries, and 
+lower in six countries (Austria, Estonia, Finland, Germany, Greece and the Netherlands). No data is available yet for Ireland for 
+2023. 
+The exact timing in the reduction in life expectancy during the pandemic varied across countries, depending on when the pandemic 
+had the greatest impact on excess mortality. In several countries in Western and Southern Europe such as Spain, Italy and France, 
+the mortality impact was mainly felt during the first year of the pandemic in 2020, whereas the impact in several Central and 
+Eastern European countries was mainly felt in 2021 (Figure 3.2). 
+In Germany, life expectancy fell less sharply than in other Western European countries during the first year of the pandemic in 
+2020, but it continued to fall in 2021 and 2022 before bouncing back in 2023. The reduction in life expectancy in 2022 was not 
+due to any surge in mortality from COVID-19, but rather attributed to the unusually deadly wave of influenza during the winter 
+2022 as well as the number of deaths caused by the record-breaking heat wave in the summer 2022 in Germany (OECD/European 
+Observatory on Health Systems and Policies, 2023[3]). 
+Most excess deaths during the pandemic were among older people, as people aged over 65 accounted for over 85% of all 
+COVID-19 deaths in the EU in 2020 and 2021. This resulted in a substantial, but transient, reduction in life expectancy at age 65. 
+Life expectancy at age 65 in the EU fell by one year between 2019 and 2021, from 20.2 years to 19.2 years, but then bounced 
+back up to its pre-pandemic level of 20.2 years in 2023. However, over half of the remaining years of life at age 65 are lived with 
+some health issues and activity limitations (see indicator “Healthy life expectancy at birth and at age 65”). 
+Definition and comparability 
+Life expectancy at birth measures the average number of years that a person can expect to live based on current mortality 
+rates (age-specific death rates). However, the actual age-specific death rates of any particular birth cohort cannot be known 
+in advance. If age-specific death rates are falling as was the case before the pandemic and can be expected to be the case 
+once the pandemic is over, actual life spans will be, on average, higher than the life expectancy calculated with current death 
+rates. 
+ 
+References 
+ 
+Eurostat (2024), EU life expectancy estimated at 81.5 years in 2023, https://ec.europa.eu/eurostat/fr/web/products-
+eurostat-news/w/ddn-20240503-2. 
+[1] 
+INSEE (2024), Espérance de vie à 35 ans par catégorie socioprofessionnelle et diplôme (Life expectancy at age 35 by 
+socioeconomic and diploma status), https://www.insee.fr/fr/statistiques/2383438. 
+[2] 
+OECD/European Observatory on Health Systems and Policies (2023), Germany: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/21dd4679-en. 
+[3] 
+  
+
+
+## Stran PDF 97
+
+   95 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.1. Life expectancy at birth, by gender, 2023 (or nearest year) 
+ 
+Note: The EU average is weighted. Data refer to 2022 for Ireland, Albania, Georgia, Serbia, Türkiye and the United Kingdom, and to 2019 for Moldova, Montenegro, 
+North Macedonia and Ukraine. 
+Source: Eurostat (demo_mlexpec); complemented with ONS for the United Kingdom, TURKSTAT for Türkiye and WHO for Moldova. 
+StatLink 2 https://stat.link/ojtzgf 
+Figure 3.2. Trends in life expectancy, selected EU countries, 2013-23 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat (demo_mlexpec). 
+StatLink 2 https://stat.link/kvauqf
+84.0
+83.8
+83.6
+83.4
+83.4
+83.1
+82.6
+82.5
+82.5
+82.4
+82.0
+82.0
+81.9
+81.7
+81.6
+81.6
+81.5
+81.2
+80.0
+78.8
+78.6
+78.6
+78.1
+77.3
+76.9
+76.6
+75.9
+75.8
+84.2
+83.1
+82.6
+80.9
+79.1
+77.3
+76.7
+76.6
+75.2
+73.7
+73.4
+73.3
+65
+70
+75
+80
+85
+90
+Total
+Men
+Women
+Years
+70
+72
+74
+76
+78
+80
+82
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Bulgaria
+Czechia
+Poland
+Romania
+EU27
+79
+80
+81
+82
+83
+84
+85
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Germany
+Spain
+France
+Italy
+EU27
+
+
+## Stran PDF 98
+
+96    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Healthy life expectancy at birth and at age 65 
+Healthy life expectancy is an important indicator of population health, as it signals whether years of life are lived in good health or 
+with some health issues and disabilities (activity limitations). A greater number of healthy life expectancy generally means a 
+healthier workforce, fewer early retirements due to health problems, and reduced or postponed health and long-term care needs. 
+In 2022, the number of healthy life years (defined as disability-free life expectancy) at birth was 62.8 years for women and 
+62.4 years for men in the EU (Figure 3.3). The small gender gap in healthy life years (0.4 years) contrasts with the much larger 
+gap in life expectancy (5.4 years). This is because women live a greater proportion of their lives with some disabilities (25% of 
+women’s lives on average in the EU are lived with some disabilities compared to 20% for men). 
+Among EU countries, Malta recorded the highest number of healthy life years at birth among both women and men in 2022, while 
+Denmark and Latvia had the lowest number of healthy life years among women and these same two countries and the 
+Slovak Republic had the lowest number of healthy life years among men (Eurostat, 2024[1]). However, caution is required in 
+making cross-country comparisons because part of the variations across countries may be explained by variations in the 
+translation and understanding of the survey question used to measure disability in the EU-SILC survey. 
+There are large inequalities in life expectancy and healthy life expectancy by socio-economic status, for example by education 
+level. A study of 15 European countries based on data from 2010 to 2014 found that disability-free life expectancy among men 
+aged 35 to 80 with lower education (those who have not completed secondary education) was 9 years shorter compared to those 
+with higher education (those with a university or other tertiary education). This gap was slightly smaller among women, but still 
+disability-free life expectancy among women with lower education was 8 years shorter than among those with higher education. 
+This educational gap in disability-free life expectancy among both men and women was particularly large in Estonia, Hungary and 
+Lithuania. The main factor contributing to these educational gaps was low income, but other risk factors such as being overweight 
+or obese and smoking also contributed to these gaps (Valverde et al., 2021[2]). 
+Looking at trends over time, the data from the Eurostat’s healthy life years indicator suggest that most of the gains in life 
+expectancy in the EU since 2005 have been years free of disability, although breaks in the time series in most EU countries 
+seriously limit the possibility of meaningful trends analysis. The data on healthy life expectancy from WHO also suggest that most 
+of the gains in life expectancy on average across EU countries between 2000 and 2021 have been in “good health” (see Chapter 2 
+for a more detailed discussion on trends in healthy life expectancy). 
+As people get older, the proportion of remaining years of life that they can expect to live free of disability decreases. This is 
+particularly the case among women. While women in the EU could expect to live another 21.1 years when they reached age 65 
+in 2022, less than half of these years was free of activity limitations. For men, the remaining life expectancy at age 65 was about 
+3.5 years shorter than women (17.7 years), but they could expect to live almost the same number of years free of disability 
+(Figure 3.4). 
+A range of policies can contribute to increasing healthy life expectancy, including greater efforts to prevent health problems 
+throughout the life course, promoting equal access to care at all ages, and better management of chronic diseases when they 
+occur (see Chapter 2 for further discussion on policies to promote healthy longevity). 
+Definition and comparability 
+Healthy life years are defined as the number of years spent free of activity limitation (i.e. disability-free life expectancy). Healthy 
+life years are calculated by Eurostat based on life table data and age-specific prevalence data on long-term activity limitations. 
+The disability measure is the global activity limitation indicator, which measures limitation in usual activities because of health 
+problems based on the EU-SILC survey. 
+The comparability of data on healthy life years is limited by the fact that the indicator is derived from self-reported data that 
+can be affected by people’s subjective assessment of their activity limitation (disability) and by social and cultural factors. There 
+are also differences across countries in the formulation of the survey question on disability in EU-SILC. 
+ 
+References 
+ 
+Eurostat (2024), Healthy life years statistics, https://ec.europa.eu/eurostat/statistics-
+explained/index.php?title=Healthy_life_years_statistics. 
+[1] 
+Valverde, J. et al. (2021), “Determinants of educational inequalities in disability-free life expectancy between ages 35 
+and 80 in Europe”, SSM - Population Health, Vol. 13, p. 100740, https://doi.org/10.1016/j.ssmph.2021.100740. 
+[2] 
+  
+
+
+## Stran PDF 99
+
+   97 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.3. Life expectancy and healthy life years at birth, by gender, 2022 
+ 
+Note: The EU average is weighted. Data comparability is limited because of different formulations of the survey question in EU-SILC. 
+Source: Eurostat (hlth_hlye). 
+StatLink https://stat.link/epz1lv 
+Figure 3.4. Life expectancy and healthy life years at 65, by gender, 2022 
+ 
+Note: The EU average is weighted. Data comparability is limited because of different formulations of the survey question in EU-SILC. 
+Source: Eurostat (hlth_hlye). 
+StatLink 2 https://stat.link/efra06
+Spain
+Luxembourg
+France
+Sweden
+Italy
+Malta
+Portugal
+Ireland
+Slovenia
+Belgium
+Finland
+Austria
+Cyprus
+Greece
+EU27
+Denmark
+Netherlands
+Germany
+Estonia
+Czechia
+Poland
+Croatia
+Slovak Rep
+Lithuania
+Latvia
+Hungary
+Romania
+Bulgaria
+Switzerland
+Norway
+60.6
+59.4
+65.2
+65.3
+67.8
+70.3
+58.0
+66.8
+68.5
+63.3
+56.5
+61.3
+66.3
+67.8
+62.8
+54.6
+56.3
+61.2
+60.6
+62.4
+64.1
+61.5
+58.0
+62.3
+55.4
+63.9
+59.3
+68.9
+56.7
+64.8
+25.3
+25.8
+19.9
+19.5
+17.0
+14.3
+26.5
+17.4
+15.6
+20.6
+27.3
+22.3
+17.1
+15.6
+20.5
+28.6
+26.8
+21.8
+21.7
+19.5
+17.0
+19.3
+22.5
+17.8
+24.0
+15.4
+19.9
+9.0
+28.8
+19.4
+0
+25
+50
+75
+Years
+Women
+61.7
+60.7
+63.7
+67.5
+67.1
+70.1
+60.2
+65.2
+65.0
+64.1
+59.3
+60.6
+65.7
+66.2
+62.4
+57.1
+60.7
+60.9
+58.0
+61.2
+60.8
+59.0
+56.6
+58.2
+53.0
+61.3
+58.7
+64.5
+61.4
+69.8
+18.8
+20.1
+15.6
+13.9
+13.6
+10.3
+18.7
+15.7
+13.6
+15.6
+19.4
+18.5
+14.0
+12.1
+15.5
+22.4
+19.5
+17.4
+15.6
+14.9
+12.6
+15.6
+17.0
+13.2
+16.4
+11.3
+12.6
+6.1
+20.4
+11.1
+0
+25
+50
+75
+Years
+Men
+Healthy life years
+Life expectancy with activity limitation
+Spain
+France
+Luxembourg
+Portugal
+Malta
+Sweden
+Italy
+Ireland
+Belgium
+Slovenia
+Finland
+Austria
+EU27
+Greece
+Netherlands
+Germany
+Cyprus
+Denmark
+Estonia
+Czechia
+Poland
+Lithuania
+Slovak Rep
+Croatia
+Latvia
+Hungary
+Romania
+Bulgaria
+Switzerland
+Norway
+9.5
+11.7
+9.8
+7.3
+12.0
+14.3
+9.9
+11.9
+10.8
+12.2
+9.1
+9.5
+9.2
+9.0
+8.9
+8.6
+8.6
+10.4
+8.1
+7.7
+8.6
+7.7
+4.9
+5.6
+4.4
+7.5
+3.8
+10.9
+10.1
+14.2
+13.7
+11.3
+12.4
+14.8
+10.0
+7.6
+12.0
+9.7
+10.8
+9.3
+12.2
+11.6
+11.9
+11.9
+11.9
+12.2
+12.1
+10.3
+12.4
+12.1
+11.0
+11.3
+13.9
+13.0
+14.2
+10.6
+14.3
+6.4
+12.5
+7.1
+0
+10
+20
+Years
+Women
+9.8
+10.2
+9.7
+8.6
+12.2
+13.5
+10.4
+11.3
+10.8
+10.6
+8.9
+9.4
+8.9
+8.6
+9.3
+8.2
+8.8
+10.0
+7.1
+7.1
+7.8
+6.2
+4.7
+5.2
+4.1
+6.6
+4.0
+9.2
+11.1
+14.7
+9.4
+9.0
+9.9
+10.1
+7.0
+6.1
+8.6
+8.1
+7.9
+7.2
+9.1
+8.6
+8.8
+9.2
+9.4
+9.4
+9.5
+8.2
+8.1
+8.9
+7.6
+7.9
+10.3
+10.0
+9.6
+7.6
+10.0
+4.0
+8.9
+4.4
+0
+10
+20
+Years
+Men
+Healthy life years
+Life expectancy with activity limitation
+
+
+## Stran PDF 100
+
+98    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Main causes of mortality 
+In 2021, nearly 5.3 million people died across EU countries (Figure 3.5). This was over 100 000 more deaths than in 2020 and 
+over 600 000 more deaths than in 2019, mainly due to the COVID-19 pandemic. 
+Diseases of the circulatory system and cancer remained the two leading causes of mortality in the EU, with circulatory diseases 
+accounting for 32% of all deaths in 2021 (over 1.7 million deaths) and cancer for 22% (1.1 million deaths). Among circulatory 
+diseases, the main causes of mortality relate to ischaemic heart diseases (i.e. diseases that involve reduced blood flow to the 
+heart, including acute myocardial infarctions also commonly called heart attacks) and cerebrovascular diseases (strokes), which 
+together accounted for over half of all deaths from circulatory diseases (see indicator “Mortality from circulatory diseases”). The 
+main causes of cancer-related mortality are lung cancer, colorectal cancer, breast cancer (that affects almost exclusively women) 
+and prostate cancer (that affects only men). About 225 000 people died from lung cancer in 2021 (see indicator “Cancer mortality”). 
+The main risk factor for lung cancer is tobacco smoking (see indicator “Smoking among adults” in Chapter 4). 
+COVID-19 was the third leading cause of death in the EU in 2021, accounting for 11% of all deaths (about 580 000 deaths). Death 
+rates from COVID-19 were particularly high in 2021 in Bulgaria, the Slovak Republic, Poland, Hungary and Czechia, with 
+age-standardised rates in all these countries exceeding 250 per 100 000 population. By contrast, COVID-19 deaths fell sharply in 
+2021 compared to 2020 in other EU countries, notably in Belgium, Spain and Sweden (Eurostat, 2024[1]). 
+Respiratory diseases (excluding COVID-19) were the fourth main cause of death in EU countries in 2021, causing 6% of all deaths 
+(approximately 324 000 deaths). Chronic obstructive pulmonary disease (COPD) and pneumonia are the two main causes of 
+death from respiratory diseases. As is the case with lung cancer, tobacco smoking is the main risk factor for COPD. 
+External causes of death, including accidents, suicides and homicides, were responsible for 5% of all deaths in the EU in 2021. 
+The most important external causes of deaths are accidents (164 000 deaths in 2021, of which 65 000 were falls-related deaths 
+and 22 000 related to transport accidents) and suicides (47 000 deaths). Transport accidents are a particularly important cause 
+of death among young people aged 18-25, whereas deaths from falls and suicide generally increase with age. 
+Looking at other specific causes, Alzheimer’s and other dementias accounted for 5% of all deaths in the EU in 2021. The number 
+of deaths from Alzheimer’s and other dementias has increased by over 50% in the decade up to 2021, although some of this 
+increase is due to changes in causes of death coding. 
+As shown in Figure 3.6, overall mortality rates (age-standardised to take into account differences in population structure) were 
+20% lower than the EU average in Spain, France, Sweden and Luxembourg in 2021, while they were at least 50% higher than 
+the EU average in Bulgaria, Romania, Latvia, the Slovak Republic, Hungary and Lithuania. The main reasons for the much higher 
+mortality rates in this latter group of countries were higher mortality rates from circulatory diseases and COVID-19 in 2021. 
+Definition and comparability 
+Deaths from all causes are classified to ICD-10 codes A00-Y89, excluding S00-T98. The grouping Alzheimer’s disease and 
+other dementias include G30 (Alzheimer) and F01-F03 (dementias). Chronic obstructive pulmonary disease (COPD) is defined 
+as all chronic lower respiratory diseases (J40-47), excluding asthma (J45-46). Mortality rates are based on the number of 
+deaths of residents in or outside their home country. The rates are age-standardised to the revised European standard 
+population adopted by Eurostat in 2013 to remove variations arising from differences in age structures across countries and 
+over time. 
+ 
+References 
+ 
+Eurostat (2024), Causes of death statistics, https://ec.europa.eu/eurostat/statistics-
+explained/index.php?title=Causes_of_death_statistics. 
+[1] 
+  
+ 
+
+
+## Stran PDF 101
+
+   99 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.5. Main causes of mortality in EU countries, 2021 
+ 
+Note: The other causes of death not shown in this figure represent 19% of all deaths. COPD = chronic obstructive pulmonary disease. 
+Source: Eurostat (hlth_cd_aro). 
+Figure 3.6. Main causes of mortality by country, 2021 (or nearest year) 
+ 
+Note: The EU average is weighted. Data for the United Kingdom refer to 2020 (the rates have been calculated by the OECD based on the European population). 
+Source: Eurostat (hlth_cd_asdr2). 
+StatLink 2 https://stat.link/ey4vd8
+Restricte
+d Use À
+Circulatory
+32%
+Cancer
+22%
+Alzheimer’s and 
+Dementias
+3%
+6%
+4%
+2%
+1%
+2%
+Pneumonia
+2%
+COPD
+1%
+Ischaemic 
+Heart Disease 
+Stroke
+COVID-19
+11%
+All Deaths
+5,290,894
+5%
+11%
+Prostate
+Suicide
+Accident
+5%
+Breast
+Colorectal
+2%
+Lung
+7%
+External 
+Causes
+Respiratory
+2 132
+1 861
+1 728
+1 676
+1 652
+1 623
+1 552
+1 505
+1 437
+1 322
+1 079
+1 073
+1 071
+1 051
+1 045
+1 012
+1 000
+993
+982
+929
+921
+914
+904
+899
+860
+850
+848
+829
+2 033
+1 426
+1 052
+832
+828
+797
+ 0
+ 500
+1 000
+1 500
+2 000
+2 500
+Circulatory system
+Cancer
+COVID-19
+Respiratory
+Other
+Age-standardised rates by 100 000 population
+
+
+## Stran PDF 102
+
+100    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Mortality from circulatory diseases 
+Circulatory (or cardiovascular) diseases remain the leading cause of mortality in most EU countries, accounting for over 1.7 million 
+deaths (or 32% of all deaths) in the EU in 2021. 
+Age-standardised mortality rates from circulatory diseases are four to seven times higher in Bulgaria, Romania and Latvia than in 
+France, Denmark, Spain and Luxembourg (Figure 3.7). The gaps reflect differences in the prevalence of risk factors such as 
+smoking, obesity and alcohol consumption as well as differences in quality of care. For example, 30-day mortality following heart 
+attack (which reflects processes such as timely transport of patients and effective medical treatment) was above 14% in Latvia, 
+the Slovak Republic, Lithuania and Estonia in 2021, compared to 7% or less in Sweden, Denmark and Spain (see indicator 
+“Mortality following acute myocardial infarction” in Chapter 6). 
+On average between 2011 and 2021, mortality rates from circulatory diseases decreased by nearly 20% in the EU (Figure 3.7). 
+While all EU countries experienced a drop in circulatory mortality rates during this period except Bulgaria, decreases ranged from 
+as little as 3% in Romania to 48% in Malta. Decreases in Central and Eastern European countries tended to be smaller than 
+among Western European countries, pointing to growing geographic disparities. 
+Among circulatory diseases, the leading cause of death in the EU was ischemic heart disease (IHD), responsible for a third of all 
+deaths in this category (567 000 deaths). The second leading cause was cerebrovascular diseases (strokes), accounting for 
+357 000 deaths or slightly more than one-fifth of all circulatory disease deaths in the EU. The large geographic gradient in terms 
+of circulatory disease mortality rates highlighted in Figure 3.8 generally remains consistent when analysing IHD and stroke 
+separately. Most EU countries that have high mortality rates from IHD also have high mortality rates from strokes. 
+Men in the EU have 43% higher age-standardised death rates from circulatory diseases than women, and this gender gap has 
+grown slightly over the past decade. This gender gap is related to the higher prevalence of key risk factors among men, including 
+smoking, high blood pressure and high cholesterol and a younger age of onset of cardiovascular disease among men. 
+For both genders, circulatory disease mortality rates are generally higher among people from lower socio-economic status 
+(OECD/The King's Fund, 2020[1]). A study covering 11 European countries found that socio-economic gaps in circulatory disease 
+mortality rates were the largest in Central and Eastern European countries and in Baltic countries (Di Girolamo et al., 2020[2]). 
+Higher prevalence of risk factors among lower socio-economic groups is a major driver of poorer cardiovascular outcomes. Lower 
+socio-economic groups also have poorer access to healthcare, reducing the likelihood of early diagnosis and proper medical 
+management of circulatory diseases such as blood pressure and cholesterol-lowering medications. 
+The COVID-19 pandemic has had an impact on the incidence and mortality from circulatory diseases as COVID-19 infection is 
+associated with increased risk. This can be expected to continue to have an impact in the coming years, particularly among those 
+with more severe and long COVID (Espinosa Gonzalez and Suzuki, 2024[3]). 
+Focusing on primary prevention and effective care can reduce the incidence and mortality from circulatory diseases. For example, 
+research findings shared by the European Society of Cardiology show that patients with heart disease who quit smoking can reduce 
+the risk of death or heart attack by nearly half, and that even a modest reduction in weight can significantly reduce metabolic risk 
+factors for circulatory diseases such as high blood pressure (The ESC Scientific Document Group, 2024[4]). Healthcare providers 
+have a key role to play in early detection of circulatory diseases and proper management of diagnosed patients. In addition, new 
+technology such as wearable sensors and mobile applications can facilitate remote monitoring of patients, supporting earlier 
+intervention in cases of worsening circulatory disease symptoms, as well as patient engagement in managing their condition. 
+Definition and comparability 
+Deaths from all circulatory diseases relate to ICD-10 codes I00-I99, with those from ischaemic heart diseases relating to ICD-10 
+codes I20-I25 and those from cerebrovascular diseases (strokes) to I60-I69. Mortality rates are age-standardised to the 
+European standard population adopted by Eurostat in 2013. 
+ 
+References 
+ 
+Di Girolamo, C. et al. (2020), “Progress in reducing inequalities in cardiovascular disease mortality in Europe”, Heart, 
+Vol. 106/1, pp. 40-49, https://doi.org/10.1136/heartjnl-2019-315129. 
+[2] 
+Espinosa Gonzalez, A. and E. Suzuki (2024), “The impacts of long COVID across OECD countries”, OECD Health 
+Working Papers, No. 167, OECD Publishing, Paris, https://doi.org/10.1787/8bd08383-en. 
+[3] 
+OECD/The King's Fund (2020), “Socio-economic inequalities in CVD mortality: an overview of patterns, secular 
+changes and their determinants”, in Is Cardiovascular Disease Slowing Improvements in Life Expectancy?: OECD and 
+The King’s Fund Workshop Proceedings, OECD Publishing, Paris, https://doi.org/10.1787/2ffad28f-en. 
+[1] 
+The ESC Scientific Document Group (2024), “Obesity and cardiovascular disease: an ESC clinical consensus 
+statement”, European Heart Journal, https://doi.org/10.1093/eurheartj/ehae508. 
+[4] 
+  
+
+
+## Stran PDF 103
+
+   101 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.7. Circulatory disease mortality, 2011 and 2021 
+ 
+Note: The EU average is weighted. Data for the United Kingdom refer to 2020 and have been calculated by the OECD. 
+Source: Eurostat (hlth_cd_asdr2). 
+StatLink 2 https://stat.link/f68wh2 
+Figure 3.8. Circulatory disease mortality, 2021 
+ 
+Note: The EU average is weighted. Data for the United Kingdom refer to 2020 and have been calculated by the OECD. 
+Source: Eurostat (hlth_cd_asdr2).
+ 0
+ 200
+ 400
+ 600
+ 800
+1 000
+1 200
+1 400
+2021
+2011
+Age-standardised mortality rates by 100 000 population
+< 301
+Standardised mortality rate
+212
+599
+248
+213
+170
+304
+257
+345
+248
+541
+859
+801
+208
+252
+267
+217
+526
+343
+723
+213
+641
+361
+340
+220
+528
+221
+1,005
+1,211
+281
+884
+301 - 500
+501 - 700
+701 - 900
+> 901
+601
+EU: 343
+272
+232
+
+
+## Stran PDF 104
+
+102    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Cancer mortality 
+In 2021, 1.15 million people died from cancer in EU countries, accounting for more than one in five (22%) deaths. Cancer is the 
+second leading cause of mortality in the EU on average after cardiovascular diseases, although it is already the leading cause of 
+death in five EU countries (Belgium, Denmark, France, the Netherlands and Spain). Globally, preventable risk factors are 
+estimated to cause about half of cancer deaths in men and over a third in women. Early diagnosis via population-based screening 
+programmes and high-quality care delivered through comprehensive cancer networks, multidisciplinary teams and timely care 
+pathways can reduce cancer mortality (OECD, 2024[1]). 
+In 2021, there were 227 000 lung cancer deaths in the EU, 132 000 colorectal cancer deaths, 85 000 breast cancer deaths and 
+68 000 prostate cancer deaths. Lung cancer is by far the leading cause of cancer death among men, responsible for almost a quarter 
+of deaths (23%), followed by colorectal cancer (12%) and prostate cancer (11%). Among women, breast cancer is the leading cause 
+of death, accounting for about one in six cancer deaths (16%), followed closely by lung cancer (15%) and colorectal cancer (11%). 
+While incidence of breast cancer has been on the rise in the decade before COVID-19, efforts at earlier diagnosis and better treatment 
+have led to improvements in survival rates. For example, in the Netherlands, five-year relative breast cancer survival increased from 
+82% for those diagnosed between 1995-2004 to 89% for those diagnosed between 2015-22. In Belgium, five-year relative breast 
+cancer survival increased from 88% for patients diagnosed in 2004 to 92% for those diagnosed in 2017 (OECD, forthcoming[2]). 
+In 2021, mortality rates from cancer were more than 10% lower than the EU average in Malta, Luxembourg and Sweden, while 
+they were over 20% higher in Hungary, Croatia and Latvia (Figure 3.9). Similar to incidence patterns (see indicator “Cancer 
+incidence and prevalence”), cancer mortality rates are two-thirds higher among men than women in the EU. Lithuania, Estonia 
+and Latvia had particularly high gender gaps in 2021, with mortality rates for men double or more those of women. 
+There are also gaps within countries. Large disparities in cancer mortality (of over 30%) have been found between regions in 
+Romania, Poland, France, Spain and Germany (OECD, 2024[1]). Socio-economic disparities persist as well. A study on 
+educational inequalities in cancer mortality between 2015-19 found that, on average across 14 EU countries and Norway, lower 
+educated men had an 84% higher overall cancer mortality than higher educated men. The gap between lower and higher educated 
+women was narrower, but nonetheless substantial at 37% (International Agency for Research on Cancer, 2024[3]). In a number of 
+countries, cancer survival rates are lower among those with lower socio-economic status (OECD, 2024[1]). These gaps reflect 
+differences in the prevalence of risk factors, in screening participation, and in access to timely and high-quality care. 
+Since 2011, there has been a substantial reduction in age-standardised cancer mortality rates in the EU (12%), which has occurred 
+in all countries except Cyprus (10% increase) and Bulgaria (where it remained flat). Men have seen a particularly large reduction 
+in mortality during this period (16% reduction compared to an 8.5% reduction among women). 
+Age-standardised mortality rates have decreased across most cancer types in the decade through 2021 (Figure 3.10), with the 
+largest decreases in stomach (-29%), and colorectal and cervical (both -17%). Ovarian, bladder, lung, leukaemia, liver and breast 
+cancers also decreased by about 10% or more. For lung cancer, however, the overall reduction masks a diverging trend between 
+genders: while mortality rates among men have decreased by 24% since 2011, they have increased by 9% among women. This 
+reflects the legacy of a later increase in smoking rates among more recent birth cohorts of women. 
+In cervical and colorectal cancer, the improvement in mortality is related to major efforts to introduce or expand population-based 
+screening programmes in EU countries over the last two decades, including via home-based sampling in some countries. 
+However, pancreatic cancer, responsible for about 7% of total cancer deaths, has seen a 3% increase during this period among men 
+and a 6% increase among women. Increased pancreatic cancer mortality is driven by its growing incidence among women and younger 
+people (The Lancet Gastroenterology & Hepatology, 2023[4]), alongside very low survival rates compared to other cancer types. 
+Definition and comparability 
+Mortality from all cancers relate to ICD-10 codes C00-C97. The rates have been age-standardised to the revised European 
+standard population adopted by Eurostat in 2013. 
+ 
+References 
+ 
+International Agency for Research on Cancer (2024), Mapping Socio-economic Inequalities in Cancer Mortality across 
+European Countries, https://cancer-inequalities.jrc.ec.europa.eu/sites/default/files/ECIR-inequalities-factsheet-
+socioecon-cancer-mortality-Jun2024.pdf. 
+[3] 
+OECD (2024), Beating Cancer Inequalities in the EU: Spotlight on Cancer Prevention and Early Detection, OECD 
+Health Policy Studies, OECD Publishing, Paris, https://doi.org/10.1787/14fdc89a-en. 
+[1] 
+OECD (forthcoming), EU Country Cancer Profile: Belgium 2025, OECD Publishing, Paris. 
+[2] 
+The Lancet Gastroenterology & Hepatology (2023), “Cause for concern: the rising incidence of early-onset pancreatic 
+cancer”, The Lancet Gastroenterology & Hepatology, Vol. 8/4, p. 287, https://doi.org/10.1016/s2468-1253(23)00039-0. 
+[4] 
+  
+
+
+## Stran PDF 105
+
+   103 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.9. Cancer mortality in EU countries by gender, 2021 (or nearest year) 
+ 
+Note: The EU average is weighted. Data for the United Kingdom refer to 2020 and have been calculated by the OECD. 
+Source: Eurostat (hlth_cd_asdr2). 
+StatLink 2 https://stat.link/hufsd5 
+Figure 3.10. Change in cancer mortality by cancer site in the EU, 2011-21 
+ 
+Note: The red bubble signals an increase in mortality during 2011-21 while the green bubbles signal a decrease. The size of the bubbles is proportional to the mortality 
+rate in 2021. “Lung” includes cancers of the lung, trachea, and bronchus. “Brain” refers to both brain cancers and central nervous system cancers. The data correspond 
+to the EU27 weighted averages. 
+Source: Eurostat (hlth_cd_asdr2). 
+StatLink 2 https://stat.link/styxji
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+Age-standardised mortality rate per 100 000 population
+Total
+Men
+Women
+Bladder
+Breast 
+Cervix 
+uteri 
+Colorectum
+Leukaemia
+Liver
+Ovary 
+Pancreas
+Prostate 
+Skin
+Stomach
+Brain
+Lung
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+0
+10
+20
+30
+40
+50
+Mortality in 2021 per 100 000 population
+Percentage change in mortality rate 2011-21
+
+
+## Stran PDF 106
+
+104    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Cancer incidence and prevalence 
+In 2022, about 1.3 million women and 1.5 million men in EU countries were expected to be diagnosed with cancer (ECIS, 2024[1]). 
+This represents an age-standardised incidence rate of 684 per 100 000 men and 488 per 100 000 women. Except for breast and 
+thyroid cancer, men have higher age-standardised incidence rates among all main cancer sites that affect both sexes. 
+Among men, prostate is the most frequent cancer diagnosis, accounting for 23% of all cancer diagnoses, followed by lung and 
+colorectal cancer (both 14%). For women, breast cancer dominates in terms of incidence, accounting for an estimated 30% of 
+cases, followed by colorectal (12%) and lung cancer (9%). While breast cancer is a leading cancer site across women of all ages, 
+prostate, lung and colorectal cancers are diagnosed mainly in people over age 50. 
+Within the EU, Denmark was expected to have the highest cancer incidence rate in 2022, with age-standardised rates around 
+27% higher than the EU average, followed by Ireland, the Netherlands and Croatia (Figure 3.11). These gaps reflect not only 
+variations in the real number of cancer diagnoses, but also differences in the quality of national cancer surveillance systems and 
+data reporting as well as policies related to cancer screening and early detection (see indicator “Cancer Screening” in Chapter 6). 
+In addition to incidence data, countries rely heavily on their cancer registries to provide key information such as stage of diagnosis, 
+survival and mortality data. In 2024, the EU is allocating EUR 13 million via an EU4Health Joint Action to help Member States 
+improve their cancer registries to ensure more accurate, complete and timely data for assessing cancer control. 
+In terms of cancer burden, tobacco is by far the leading risk factor in Europe, followed by alcohol consumption, poor diets, obesity 
+and occupational risks (OECD, 2024[2]). Europe’s Beating Cancer Plan, launched in 2021, has primary prevention as one of its 
+four pillars, alongside early detection, diagnosis and treatment, and improving the quality of life of cancer patients and survivors 
+(European Commission, 2022[3]). 
+With population ageing and advancements in cancer detection and care leading to improvements in survival rates, European countries 
+are seeing a major increase in the number of people living with cancer. In 2020, an estimated 22 million people alive in the EU had 
+ever received a cancer diagnosis. Five-year cancer prevalence rates in the EU are estimated at 1 876 per 100 000 people in 2022, 
+with rates about 10% higher among men than women (IARC, 2024[4]). Similar to incidence trends, Denmark and the Netherlands are 
+the EU countries with the highest prevalence, while Bulgaria, Luxembourg and Romania have substantially lower rates. Between 2010 
+and 2020, age-standardised lifetime cancer prevalence in the EU increased by 24% (Figure 3.12) (De Angelis et al., 2024[5]). Latvia, 
+Lithuania and Estonia have seen increases in lifetime cancer prevalence of about 40% or more during this period. 
+To manage increasing prevalence, countries are developing their cancer care and reintegration models. This includes investments 
+in palliative care services, psychosocial support and return-to-work programmes. In October 2023, the EU Consumer Credits 
+Directive was adopted, recognising the “right to be forgotten” and regulating that health information after a certain period of cancer 
+survival cannot be used for assessing financial creditworthiness. The Directive allows countries to set their own time limits (not to 
+exceed 15 years) after which such health information cannot be requested. Eight EU countries already had such “right to be 
+forgotten” in place before this Directive (Belgium, France, Italy, Luxembourg, the Netherlands, Portugal, Romania and Spain). 
+Definition and comparability 
+The 2022 cancer incidence estimates come from the European Cancer Information System (ECIS), as an outcome of a 
+collaborative exercise between the European Commission’s Joint Research Centre (JRC) with the International Agency for 
+Research on Cancer (IARC), in collaboration with the International Association of Cancer Registries (IACR). Rates have been 
+age-standardised to the European standard population adopted by Eurostat in 2013. The estimates for 2022 may differ from 
+national estimates due to methodology differences. 
+Data on five-year cancer prevalence comes from IARC Global Cancer Observatory (IARC, 2024[4]) while data on change in lifetime 
+cancer prevalence comes from EUROCARE-6. Greece, Hungary, Luxembourg, Romania and Sweden did not contribute to the 
+EUROCARE-6; their values were estimated through the corresponding macro region prevalence (De Angelis et al., 2024[5]). 
+Incidence and prevalence for all cancers refers to ICD-10 codes C00-C97, excluding non-melanoma skin cancer C44. 
+ 
+References 
+ 
+De Angelis, R. et al. (2024), “Complete cancer prevalence in Europe in 2020 by disease duration and country 
+(EUROCARE-6): a population-based study”, The Lancet Oncology, Vol. 25/3, pp. 293-307, 
+https://doi.org/10.1016/S1470-2045(23)00646-0. 
+[5] 
+ECIS (2024), European Cancer Information System, https://ecis.jrc.ec.europa.eu. 
+[1] 
+European Commission (2022), Europe’s Beating Cancer Plan, https://health.ec.europa.eu/non-communicable-
+diseases/cancer_en. 
+[3] 
+IARC (2024), Global Cancer Observatory – Cancer Today (GLOBOCAN), https://gco.iarc.who.int/today. 
+[4] 
+OECD (2024), Beating Cancer Inequalities in the EU: Spotlight on Cancer Prevention and Early Detection, OECD 
+Health Policy Studies, OECD Publishing, Paris, https://doi.org/10.1787/14fdc89a-en. 
+[2] 
+  
+
+
+## Stran PDF 107
+
+   105 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.11. Cancer incidence by gender, 2022 
+ 
+Notes: The EU average is weighted. Data are estimated incidence based on incidence trends from previous years and may differ from observed rates in more 
+recent years. Includes all cancer sites except non-melanoma skin cancer. 
+Source: European Cancer Information System (ECIS), https://ecis.jrc.ec.europa.eu. 
+StatLink 2 https://stat.link/j16zw0 
+Figure 3.12. Change in age-standardised cancer prevalence rates, 2010-20 
+ 
+Note: The EU average is weighted. 
+Source: De Angelis, R. et al. (2024[5]), “Complete cancer prevalence in Europe in 2020 by disease duration and country (EUROCARE-6): a population-based study”, 
+https://doi.org/10.1016/S1470-2045(23)00646-0. 
+StatLink 2 https://stat.link/hftj07
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+Age-standardised incidence rate per 100 000 population
+Total
+Men
+Women
+45
+41
+39
+36
+35
+34
+33
+33
+30
+29
+28
+27
+27
+27
+27
+27
+27
+26
+25
+24
+23
+22
+22
+21
+18
+17
+17
+13
+25
+21
+19
+15
+ 0
+ 5
+ 10
+ 15
+ 20
+ 25
+ 30
+ 35
+ 40
+ 45
+ 50
+Change in age-standardised prevalence rates, 2010-20 
+
+
+## Stran PDF 108
+
+106    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Self-rated health among adults 
+How individuals assess their own health provides an overview of both physical and mental health. Despite its subjective nature, 
+self-rated health is strongly related to morbidity and multi-morbidity and a good predictor of future healthcare needs and mortality 
+(Palladino et al., 2016[1]). 
+Over two-thirds of adults (68%) in the EU reported to be in good or very good health in 2023, while 23% reported their health to 
+be fair and the remaining 9% reported to be in bad or very bad health (Figure 3.13). Men are more likely than women to report 
+being in good or very good health (71% of men compared to 65% of women in the EU). Men are also less likely to report having 
+some chronic diseases or disabilities than women (see indicator on “Chronic conditions and activity limitations among adults”). 
+The share of adults in the EU reporting to be in good or very good health has remained constant over the past decade, while the 
+proportion reporting to be in bad or very bad health also remained stable. 
+Cross-country comparisons of self-rated health are affected by cultural factors that may influence responses to the survey question 
+as well as demographic factors. Since older people generally report poorer health than younger people, countries that have a 
+larger proportion of people aged over 65 or 80 are likely to have a lower proportion of people reporting to be in good or very good 
+health. With these limitations in mind, the proportion of adults in 2023 considering themselves to be in good or very good health 
+ranged from 75% or more in Ireland, Malta, Greece, Cyprus and Belgium to less than 50% in Lithuania and Latvia, and to about 
+50% in Portugal. In these latter three countries, a large proportion of adults (over one-third) report their health to be fair (i.e. not 
+bad but not good). 
+People on higher incomes generally rate their health more positively than those on lower incomes in all EU countries (Figure 3.14). 
+Nearly 80% of adults in the highest income quintile in the EU countries reported to be in good or very good health in 2023, 
+compared to less than 60% of those in the lowest income quintile. These socio-economic disparities are particularly marked in 
+Lithuania, Latvia, Estonia and Croatia. These gaps can be explained at least partly by the fact that people in better health have 
+higher employment rate and higher income. 
+Good self-rated health tends to decline with age. In many countries, there is a particularly marked decline in how people rate their 
+health when they reach their mid-40s, with a further decline after reaching retirement age. Among people aged over 65 in the EU 
+as a whole, only 40% reported to be in good or very good health in 2023, while 18.5% reported being in bad or very bad health, 
+and the remaining 41.5% reported to be in fair health. The gender gap persists as people age: only 37% of women aged over 65 
+reported to be in good or very good health compared to 43% of men. Chapter 2 on healthy longevity provides more information 
+on trends in the health status of older people and inequalities, as well as policies to promote healthy ageing and reduce 
+inequalities. 
+Definition and comparability 
+Self-rated health reflects people’s overall perception of their health. The data from EU-SILC are based on the question: “How 
+is your health in general? Very good, good, fair, bad, very bad”. Caution is required in making cross-country comparisons of 
+self-rated health because responses to this question are subjective and may be affected by socio-cultural differences in how 
+people rate their health. 
+Self-rated health by income level is reported for the first quintile (the 20% of the population with the lowest income) and the 
+fifth quintile (the 20% with the highest income).  
+ 
+References 
+ 
+Palladino, R. et al. (2016), “Associations between multimorbidity, healthcare utilisation and health status: Evidence 
+from 16 European countries”, Age and Ageing, Vol. 45/3, https://doi.org/10.1093/ageing/afw044. 
+[1] 
+  
+
+
+## Stran PDF 109
+
+   107 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.13. Self-rated health among adults, 2023 (or latest year) 
+ 
+Note: The EU average is weighted. Data refer to 2022 for Switzerland, Montenegro, Serbia, and Türkiye, 2021 for Albania, and 2020 for North Macedonia. 
+Source: Eurostat based on EU-SILC (hlth_silc_10). 
+StatLink 2 https://stat.link/l5kx79 
+Figure 3.14. Adults rating their own health as good or very good, by income quintile, 2023 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat based on EU-SILC (hlth_silc_10). 
+StatLink 2 https://stat.link/41njfq
+80
+80
+78
+77
+75
+74
+74
+72
+70
+70
+69
+68
+68
+67
+67
+66
+66
+66
+65
+65
+65
+65
+65
+63
+56
+51
+48
+48
+83
+80
+77
+76
+74
+66
+65
+16
+16
+15
+17
+16
+20
+20
+21
+23
+24
+23
+21
+23
+25
+24
+28
+25
+24
+26
+27
+22
+24
+26
+27
+30
+36
+37
+39
+13
+16
+15
+15
+17
+25
+23
+5
+4
+7
+6
+8
+6
+6
+7
+7
+7
+8
+12
+9
+8
+9
+6
+9
+11
+9
+8
+13
+11
+10
+10
+13
+14
+16
+13
+5
+4
+8
+10
+10
+8
+11
+ 0
+ 10
+ 20
+ 30
+ 40
+ 50
+ 60
+ 70
+ 80
+ 90
+ 100
+Good or very good
+Fair
+Bad or very bad
+% of population aged 16 years and over
+80
+80
+78
+77
+75
+74
+74
+72
+70
+70
+69
+68
+68
+67
+67
+66
+66
+66
+65
+65
+65
+65
+65
+63
+56
+51
+48
+48
+83
+80
+77
+76
+74
+66
+65
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Total
+Lowest income
+Highest Income
+% of population aged 16 years and over reporting to be in good health
+
+
+## Stran PDF 110
+
+108    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Chronic conditions and disabilities among adults 
+Chronic conditions (referred also as longstanding illnesses) are not only the leading causes of death across EU countries, but 
+also reduce the quality of life of people living with such chronic conditions and represent a major disability burden, especially if 
+the conditions are not properly managed. Many chronic conditions are preventable through modifiable risk factors such as 
+smoking, alcohol use, physical inactivity, malnutrition and obesity. 
+More than one-third of adults in the EU (35%) reported living with a longstanding illness or health problem in 2023 (Figure 3.15). 
+The proportion of women reporting a long-standing illness is greater than men in all EU countries except in Ireland and Cyprus 
+where there is no significant gender gap. In the EU as a whole, 37% of women reported having a chronic condition in 2023 
+compared to 33% of men. 
+Cross-country comparisons of self-reported chronic conditions can be affected by a different understanding and interpretation of 
+the question in the EU-SILC survey. The proportion of adults reporting having a chronic condition ranges from over one in two in 
+Finland to one in six only in Italy. 
+As populations age, the prevalence of people reporting having a chronic condition also increases: 60% of people aged over 65 in 
+the EU reported that they had at least one chronic condition in 2023 (61% of women and 59% of men). 
+Socio-economic disparities in the prevalence of chronic conditions are large. Adults in the lowest income quintile were 50% more 
+likely to report a longstanding illness or health problem compared to those in the highest income quintile. Health systems must be 
+able to provide equal access to high-quality chronic care to meet the needs of all people, regardless of their income and age. 
+Living with chronic diseases does not necessarily hinder people from carrying on with their usual activities. Nonetheless, 27% of 
+adults in the EU reported in 2023 having at least some or severe activity limitation (disability) due to health problems (Figure 3.16). 
+As is the case for chronic conditions, women more often report a disability (29% of women compared to 24% of men on average 
+in the EU). 
+The proportion of people reporting a disability increases greatly with age. Over half (52%) of people aged over 65 in the EU 
+reported a disability in 2023 (54% of women and 49% of men). This proportion increases to 75% among people aged over 85 
+(77% of women and 71% of men). 
+There are also large disparities in disability by income level. In the EU as a whole, 35% of adults of all ages in the lowest income 
+quintile reported a disability, a rate nearly two-times higher than among those in the highest income quintile (18%). This large gap 
+can be explained at least partly by the fact that people with disabilities (activity limitations) have lower employment rate and 
+income.  
+Definition and comparability 
+The data related to chronic conditions and disabilities (activity limitations) are based on responses to the EU Statistics on 
+Income and Living Conditions instrument (EU-SILC). The comparability of data is limited by the fact that the indicators are 
+derived from self-reported data, which can be affected by people’s subjective assessment of their health and socio-cultural 
+factors, as well as differences in the specific formulation of the survey items (questions and responses) in some countries. The 
+data in EU-SILC cover people aged 16 and over. 
+ 
+
+
+## Stran PDF 111
+
+   109 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.15. People reporting a longstanding illness or health problem, by gender, 2023 
+ 
+Note: The EU average is weighted. 
+Source: Eurostat based on EU-SILC (hlth_silc_04). 
+StatLink 2 https://stat.link/6xovwb 
+Figure 3.16. People reporting a disability, by gender, 2023 
+ 
+Note: The EU average is weighted. The data refer to people reporting some or severe activity limitation due to a health problem. 
+Source: Eurostat based on EU-SILC (hlth_silc_06). 
+StatLink 2 https://stat.link/oae53k
+0
+10
+20
+30
+40
+50
+60
+70
+Total
+Male
+Female
+% of population aged 16 years and over 
+0
+10
+20
+30
+40
+50
+Total
+Men
+Women
+% of people aged 16 and over 
+
+
+## Stran PDF 112
+
+110    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Adolescent health 
+Childhood and adolescence are important times for building health habits. Early life is when many mental health issues first 
+appear, making it a priority period for promoting good mental health and preventing mental-ill health. 
+In 2022, over 40% of 11-year-old girls and 30% of 11-year-old boys experienced multiple health complaints such as feeling low 
+or irritable, experiencing head-, stomach- or backaches, or having difficulties with getting to sleep (Figure 3.17). The rate of 
+multiple health complaints increases over time. Between 2018 and 2022, the average rate of multiple health complaints increased 
+from 30% to 36% for 11-year-olds, and from 42% to 52% for 15-year-olds. For girls the increase was bigger, with an increase from 
+33% in 2018 to 42% in 2022 for 11-year-olds and an increase from 53% to 68% for 15-year-olds. The gender difference in rates 
+of multiple health complaints also increases with age: 68% of 15-year-old girls reported multiple health complaints, compared to 
+only 37% of 15-year-old boys. The most common health complaints for both genders are those frequently associated with 
+psychological distress (nervousness, irritability and difficulties in getting to sleep). 
+Mental well-being is lower amongst older children in all EU countries (Figure 3.18). Mental well-being was better amongst 
+11-year-olds (score of 66 on average) than 15-year-olds (score of 54 on average), and was higher amongst boys than girls. The 
+lowest levels of well-being in the EU were amongst 15-year-old girls in Slovenia, Poland and Italy (score of 40 for all three). 
+Many factors can explain declining mental well-being, and increasing health complaints, by age. These include declining physical 
+activity in older age groups, especially for girls, potentially lower social interactions, higher rate of problematic internet and social 
+media use, and exposure to cyberbullying, which has increased significantly in recent years (OECD, 2024[1]). In addition, the 
+average age of onset for many mental disorders is in early adolescence, around 14 years of age. Socio-economic factors also 
+have an impact, with adolescents from more affluent families reporting higher levels of mental well-being than those from less 
+affluent families (Cosma et al., 2023[2]). 
+During the COVID-19 pandemic, young people’s mental health deteriorated markedly and became a priority for many governments 
+(OECD/European Union, 2022[3]). Some strategies encompassing health, education and welfare policies were in place before 
+2020, but disruptions caused by the pandemic drove governments to introduce or expand efforts to support youth and offer 
+targeted mental health support. For example, from April 2021, France introduced “mon soutien psy”, which gave all minors access 
+to reimbursed consultations with a psychologist (OECD, 2021[4]). This scheme has since been expanded to cover the whole 
+population. In Spain, under the Mental Health Action Plan and Suicide Prevention Plan 2022-24, specific initiatives target children 
+and adolescents. Attention is also being paid to limiting exposure to potential mental health risks, notably harms related to digital 
+media. The EU’s Digital Services Act was introduced in 2022 and seeks to ensure that digital platforms have taken appropriate 
+steps to ensure the privacy, safety and security of minors (European Commission, 2023[5]). 
+Definition and comparability 
+Data on multiple health complaints and mental well-being are taken from the Health Behaviour in School-aged Children (HBSC) 
+study. The HBSC surveys have been undertaken every four years since 1993‐94. The latest data was collected in 2021-22, 
+during the COVID-19 pandemic, which may hinder the comparability of the results with previous years. For both indicators, 
+differences across countries may reflect different understanding and interpretation of the questions between individuals. 
+The indicator on multiple health complaints (two or more, more than once a week) is based on the following symptoms 
+experienced in the previous six months: headache; stomach ache; backache; feeling low; feeling irritable or bad tempered; 
+feeling nervous; difficulties in getting to sleep; and feeling dizzy. The indicator on mental well-being is based on the 5-item 
+WHO Well-Being Index (WHO-5), which assesses mental well-being by asking five, positively phrased items that respondents 
+have to rate from 5 (all the time) to 0 (none of the time). This item was introduced for the first time in the 2021-22 survey. 
+ 
+References 
+ 
+Cosma, A. et al. (2023), A focus on adolescent mental health and well- being in Europe, central Asia and Canada: 
+Health Behaviour in School-aged Children international report from the 2021/2022 survey: Volume 1, World Health 
+Organization Regional Office for Europe, https://iris.who.int/handle/10665/373201. 
+[2] 
+European Commission (2023), The Digital Services Act (DSA) explained – Measures to protect children and young 
+people online, Publications Office of the European Union, https://doi.org/10.2759/576008. 
+[5] 
+OECD (2024), OECD Digital Economy Outlook 2024 (Volume 1): Embracing the Technology Frontier, OECD 
+Publishing, Paris, https://doi.org/10.1787/a1689dc5-en. 
+[1] 
+OECD (2021), “Tackling the mental health impact of the COVID-19 crisis: An integrated, whole-of-society response”, 
+OECD Policy Responses to Coronavirus (COVID-19), OECD Publishing, Paris, https://doi.org/10.1787/0ccafa0b-en. 
+[4] 
+OECD/European Union (2022), Health at a Glance: Europe 2022: State of Health in the EU Cycle, OECD Publishing, 
+Paris, https://doi.org/10.1787/507433b0-en. 
+[3] 
+  
+
+
+## Stran PDF 113
+
+   111 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.17. Share of 11- and 15-year-olds reporting multiple health complaints, 2022 
+ 
+Note: The EU average is unweighted. Differences across countries may reflect a different understanding and interpretation of the questions. The rate for 11-year-old 
+boys is higher than the rate for the 15-year-olds in Moldova and Iceland. 1. The value for Belgium is the unweighted average of the Flemish Community and the French 
+Community. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/ensaf4 
+Figure 3.18. Mental well-being score, 11- and 15-year-olds, 2022 
+ 
+Note: The EU average is unweighted. No data available for Bulgaria (all ages) and Denmark (11-year-olds). The average mental well-being score by age is calculated 
+as the unweighted average of the average score reported by boys and girls for each age respectively. 1. The value for Belgium is the unweighted average of the 
+Flemish Community and the French Community. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/hpxy16
+Italy
+Greece
+Poland
+France
+Hungary
+Slovak Republic
+Estonia
+Bulgaria
+Belgium¹
+Lithuania
+Malta
+Sweden
+Romania
+Czechia
+Cyprus
+EU27
+Luxembourg
+Latvia
+Denmark
+Portugal
+Germany
+Netherlands
+Austria
+Ireland
+Croatia
+Spain
+Finland
+Slovenia
+Norway
+North Macedonia
+Switzerland
+Serbia
+Albania
+Moldova
+England (UK)
+Iceland
+Girls
+Boys
+61
+52
+53
+47
+43
+47
+44
+46
+45
+46
+49
+46
+39
+41
+42
+42
+39
+41
+41
+42
+34
+39
+33
+34
+33
+29
+40
+25
+42
+26
+37
+27
+32
+38
+62
+51
+86
+81
+73
+72
+73
+70
+72
+67
+69
+70
+71
+78
+67
+67
+63
+68
+69
+72
+57
+66
+67
+58
+60
+71
+60
+55
+62
+59
+57
+64
+65
+55
+57
+57
+77
+68
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+% with at least two health complaints more than once a week
+44
+41
+39
+37
+37
+35
+35
+33
+33
+32
+31
+31
+31
+30
+30
+30
+29
+28
+26
+26
+26
+26
+25
+24
+24
+21
+19
+16
+25
+25
+27
+27
+29
+32
+40
+43
+46
+51
+45
+39
+44
+40
+43
+40
+38
+38
+43
+46
+40
+45
+34
+37
+38
+37
+28
+32
+31
+27
+32
+41
+25
+25
+23
+25
+33
+37
+31
+31
+34
+29
+45
+33
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+% with at least two health complaints more than once a week
+11-year-olds
+15-year-olds
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Mean WHO-5 Well-being Index value, score out of 100
+15-year-olds
+11-year-olds
+
+
+## Stran PDF 114
+
+112    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Adult mental health 
+Good mental health is essential for maintaining overall well-being and productivity (European Commission, 2023[1]). Living with 
+mental health issues can have a significant impact on people’s daily lives, contribute to poorer educational outcomes, higher rates 
+of unemployment and poorer physical health (OECD, 2021[2]; OECD, 2021[3]). Without effective treatment and support, mental 
+health problems can have a devastating effect on people’s lives, and significantly increase the risk of dying from suicide. 
+Suicide is a significant cause of death in many European countries. In 2021, about 47 300 people died by suicide across EU countries, 
+a rate of 10.2 per 100 000 population. Slovenia and Lithuania had the highest rate, followed by Hungary (Figure 3.19). Gender differences 
+in mortality from suicide are significant. In 2021, suicide amongst men was almost four times higher than for women (16.8 deaths per 
+100 000 men compared to 4.6 deaths per 100 000 women). In Lithuania and Slovenia, the gender gap in deaths by suicide is even 
+larger. However, the gender gap in suicidal intent and behaviour is far smaller, and in some instances even reversed, possibly because 
+men use more lethal means during suicide attempts, a pattern referred to as the “gender paradox of suicide” (OECD, forthcoming[4]). 
+Between 2004 and 2021, suicide rates decreased by 25% across the EU, with declines of as much as 50% in countries such as 
+Lithuania and Hungary (Figure 3.20). Social, economic and other crises can have an impact on suicide rates. For example, some 
+increases in suicide were observed during the 2008 financial crisis. More recently, the COVID-19 crisis was accompanied by 
+marked increases in symptoms of depression and anxiety (OECD, 2023[5]), but the data for 2020 and 2021 does not show any 
+marked increases in deaths by suicide during the pandemic. 
+Effective strategies to reduce death by suicide include good access to mental health care and support, targeted suicide prevention 
+strategies, as well as mental health awareness and anti-stigma campaigns. In the Netherlands, the National Agenda for Suicide 
+Prevention 2018-21 took a multi-disciplinary approach, including suicide prevention training for health workers and persons in 
+contact with high-risk groups (e.g. agencies working with debt relief, unemployment support workers and the police), as well as 
+improving aftercare following a suicide attempt. In Lithuania, which still has the second-highest suicide rate in the EU, recent 
+reforms aim to tackle formal and informal forms of stigmatisation of adults with mental-ill health, and increase access to mental 
+health services (OECD, 2021[3]). Lithuania also adopted a new suicide prevention plan for 2023-26 in October 2023. 
+Mental health conditions can affect people at all ages, including later in life. Depression can come with a range of consequences 
+for people in their mid- and later-life, including increased likelihood of absence from work, early retirement, greater difficulties 
+managing physical health conditions and poorer quality of life. In 2021-22, on average 26% of adults over 50 had multiple symptoms 
+of depression (4+ symptoms) in the EU (Figure 3.21). In all countries, women are much more likely to report symptoms of depression 
+than men. On average, 32% of women aged over 50 had multiple symptoms of depression compared to 19% of men. Strategies to 
+prevent depression amongst people aged over 50 include promoting exercise and social connection, reducing loneliness, support 
+during life transitions such as retirement, and access to good mental health care when needed (OECD, 2021[3]). 
+Definitions and comparability 
+Data on suicide rates come from the Eurostat Database. Mortality from intentional self-harm (suicide) relate to ICD-10 code 
+2010. The registration of suicide is a complex procedure, affected by factors such as how intent is ascertained, who is 
+responsible for completing the death certificate, and cultural dimensions including stigma. Caution is therefore needed when 
+comparing suicide rates. 
+Data on depression symptoms come from the ninth wave of the Survey of Health, Ageing and Retirement in Europe (SHARE) 
+carried out in 2021-22. SHARE is a longitudinal study looking at adults aged over 50. To measure depression symptoms, 
+SHARE uses the EURO-D scale. The EURO-D is a 12-item questionnaire with closed-ended questions, in which each item 
+measures a different symptom (depressed mood, pessimism, suicidality, guilt, sleep quality, interest, irritability, appetite, 
+fatigue, concentration, enjoyment, and tearfulness). A score of 4 or higher cannot be considered a clinical diagnosis but is 
+often considered to correspond to a positive screening for depression. 
+ 
+References 
+ 
+European Commission (2023), Communication from the Commission to the European Parliament, the Council, the 
+European Economic and Social Committee and the Committee of the Regions on a comprehensive approach to mental 
+health, COM(2023) 298 final, https://health.ec.europa.eu/publications/comprehensive-approach-mental-health_en. 
+[1] 
+OECD (2023), Health at a Glance 2023: OECD Indicators, OECD Publishing, Paris, https://doi.org/10.1787/7a7afb35-en. 
+[5] 
+OECD (2021), A New Benchmark for Mental Health Systems: Tackling the Social and Economic Costs of Mental Ill-
+Health, OECD Health Policy Studies, OECD Publishing, Paris, https://doi.org/10.1787/4ed890f6-en. 
+[3] 
+OECD (2021), Fitter Minds, Fitter Jobs: From Awareness to Change in Integrated Mental Health, Skills and Work 
+Policies, Mental Health and Work, OECD Publishing, Paris, https://doi.org/10.1787/a0815d0f-en. 
+[2] 
+OECD (forthcoming), “Mental Health and the 21st Century Megatrends: Understanding and Addressing Inequalities in 
+Mental Health”, OECD Health Working Papers, OECD Publishing, Paris. 
+[4] 
+  
+
+
+## Stran PDF 115
+
+   113 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 3.19. Suicide rate, by sex, 2021 
+ 
+Note: The EU average is weighted. Differences across countries may reflect, at least in part, differences in recording practices. 1. The data for the United Kingdom 
+relate to 2020 (the rates have been calculated by the OECD based on the European population structure). 
+Source: Eurostat (hlth_cd_asdr2). 
+StatLink 2  https://stat.link/x8j1n2 
+Figure 3.20. Trends in suicide rates, selected European countries, 2004 to 2021 
+ 
+Note: The EU average is weighted. Differences across countries may reflect, at least in part, differences in recording practices. 
+Source: Eurostat (hlth_cd_asdr2). 
+StatLink 2  https://stat.link/odgpvz 
+Figure 3.21. Symptoms of depression among adults aged over 50, by sex, 2021-22 
+ 
+Note: The EU average is unweighted. Ireland does not participate in the survey. Symptoms of depression are measured using the EURO-D score, with a cut-off point 
+of at least 4 out of 12 symptoms. 
+Source: SHARE survey (wave 9). 
+StatLink 2  https://stat.link/1s9j6g
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Age-standardised rate per 100 000 population
+Women
+Men
+Total
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Age-standardised rates per 100 000 population
+Cyprus
+EU27
+Slovenia
+Hungary
+Lithuania
+0
+10
+20
+30
+40
+50
+60
+Men
+Women
+Total
+% of population aged 50 and over with a score of 4 or higher
+
+
+## Stran PDF 116
+
+
+
+## Stran PDF 117
+
+   115 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+This chapter examines modifiable risk factors affecting the health of adolescents and adults 
+in the European Union (EU), including tobacco use, alcohol consumption, illicit drug use, 
+poor nutrition, physical inactivity, overweight and obesity, and environmental hazards such 
+as extreme temperatures and air pollution. Although adolescent smoking rates have 
+decreased in most EU countries over the past decade, the increasing use of e-cigarettes 
+among youth has become a growing concern. Adult smoking rates have also decreased in 
+nearly all EU countries over the past decade, but still averaged over 18% in 2022. Binge 
+drinking remains a significant problem among adolescents, with nearly 25% of 15-year-olds 
+having been drunk more than once in their life in 2022. Adult alcohol consumption averaged 
+10 litres per person in 2022, a small reduction of 3% since 2010. One in five adults reported 
+heavy episodic drinking at least monthly in 2019. Cannabis use among people aged 15-34 
+in the past year reached 15% on average in 2022, with rates of 20% or higher in Czechia, 
+Italy and Croatia. When it comes to nutrition habits, in 2022, more than 50% of 15-year-olds 
+did not consume fruit or vegetables daily, while one in seven consumed sugary soft drinks 
+each day. Among adults, only about 60% consumed fresh vegetables and fruit daily, with 
+significant socio-economic disparities. Insufficient physical activity is a widespread issue, 
+with only 15% of 15-year-olds and about one-third of adults meeting WHO 
+recommendations on minimum physical activity per day or week. As a consequence of poor 
+nutrition habits and physical inactivity, over 20% of 15-year-olds and more than 50% of 
+adults were overweight or obese in 2022, with notable inequalities by socio-economic 
+status. Environmental risks, such as air pollution and extreme temperatures, pose 
+increasing health threats. In 2021, exposure to fine particulate matter (PM2.5) alone caused 
+over 253 000 deaths in the EU, with the highest mortality rates in Central and Eastern 
+Europe. The EU has set ambitious targets to reduce air pollution and greenhouse gas 
+emissions, aiming for a 55% reduction in premature deaths due to PM2.5 by 2030 compared 
+to 2005 levels. 
+4 Risk factors 
+
+
+## Stran PDF 118
+
+116    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Tobacco and cannabis smoking among adolescents 
+Adolescence is a period of experimentation, sometimes linked to participation in behaviours detrimental to health, including 
+tobacco consumption and the use of illicit drugs. Tobacco smoking in childhood and adolescence has both immediate and long-
+term health consequences, increasing the risks of respiratory diseases like asthma in the short term and the long-term risks of 
+cardiovascular diseases, respiratory illnesses, and cancer. 
+While tobacco smoking among adolescents has continued to decline in most EU countries in the last decade, too many 
+adolescents still smoke. On average in EU countries, more than one in six (17%) 15-year-olds reported smoking cigarettes at 
+least once in the past month in 2022 (Figure 4.1). This proportion reached a high of more than one in four in Bulgaria, Hungary, 
+Italy and Croatia, whereas less than one in ten reported to have smoked cigarettes in the past month in Ireland, Portugal and 
+Malta. The gender gap in tobacco smoking between 15-year-old boys and girls is fairly small in most countries. On average, a 
+slightly greater proportion of 15-year-old girls reported smoking in 2022 (18% compared with 16% for boys) (Charrier et al., 
+2024[1]). 
+The smoking rate among 15-year-olds has decreased since 2014 in nearly all EU countries, except in Bulgaria, where it slightly 
+increased, and Romania and Spain, where the rates were stable. However, the decrease was generally more pronounced between 
+2014 and 2018 than between 2018 and 2022. 
+EU countries have used a mix of policies to reduce smoking rates among adolescents and the rest of the population, including 
+taxes to increase prices, smoking bans in indoor public places, restrictions on youth purchase of tobacco, advertising restrictions, 
+plain packaging of tobacco products, and greater education. In 2014, the EU adopted a directive that came into force in 2016, 
+banning flavoured cigarettes, imposing rules on novel tobacco products, and tightening regulations on the production and sales 
+of e-cigarettes, such as setting maximum nicotine concentration and requiring compulsory health warnings to inform consumers 
+that e-cigarettes contain nicotine. Despite these efforts, about one in five (22%) 15-year-olds across EU countries reported using 
+e-cigarettes in the last month in 2022. 
+Cannabis smoking is by far the most used drug among adolescents. Frequent and heavy cannabis use during adolescence is 
+linked to long-term increased risk of dependence and cognitive functioning problems, including memory losses and attention 
+deficits. 
+On average in EU countries, 1 in 14 (7%) 15-year-olds reported smoking cannabis at least once in the past month in 2022 
+(Figure 4.2). This proportion ranged from over one in ten in Bulgaria, Poland and Italy to less than 1 in 20 in Romania, Portugal, 
+Denmark, Estonia, Ireland and Cyprus. Examining trends since 2014 reveals that past-month cannabis use among 15-year-olds 
+decreased in more than one-third of EU countries, while it increased in the remaining two-thirds. France and Denmark experienced 
+the most substantial decreases, although this finding may be attributable to a delay in the age of initiation for cannabis use in 
+these countries. The 2022 data also highlights a gender disparity, with 15-year-old boys (8%) being more likely to report past-
+month cannabis use compared to their female counterparts (6%) across EU countries on average. 
+EU countries use a mix of approaches to reduce cannabis consumption among adolescents, combining legal controls of drug 
+dealers and users, education and public awareness programmes of the health risks of drug use, and treatments for young people 
+who have developed addictions. 
+Definition and comparability 
+The data come from the Health Behaviour in School-aged Children (HBSC) study. Since 1993-94, the HBSC survey has 
+collected data every four years on substance use among children and adolescents aged 11, 13 and 15 years across 
+EU countries and several other countries. The data presented focus specifically on the proportion of 15-year-olds who report 
+having smoked either a cigarette or cannabis at least once during the month preceding the survey. 
+ 
+References 
+ 
+Charrier, L. et al. (2024), A focus on adolescent substance use in Europe, central Asia and Canada. Health Behaviour 
+in School-aged Children international report from the 2021/2022 survey. Volume 3, World Health Organization. 
+Regional Office for Europe, Copenhagen, https://iris.who.int/handle/10665/376573. 
+[1] 
+  
+ 
+
+
+## Stran PDF 119
+
+   117 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.1. Tobacco smoking rates among 15-year-olds, 2014 and 2022 
+ 
+Note: The EU average is unweighted. 1. Data for Belgium refer to the unweighted average of Flanders and Wallonia/Brussels. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/431xgk 
+Figure 4.2. Cannabis smoking rates among 15-year-olds, 2014 and 2022 
+ 
+Note: The EU average is unweighted. 1. Data for Belgium refer to the unweighted average of Flanders and Wallonia/Brussels. 
+the unweighted average of Flanders and Wallonia/Brussels. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/yq9al0 
+7
+9
+10
+11
+12
+12
+12
+12
+13
+13
+14
+14
+15
+15
+17
+17
+17
+18
+18
+19
+19
+20
+23
+23
+26
+27
+29
+32
+4
+9
+12
+12
+13
+15
+18
+20
+0
+5
+10
+15
+20
+25
+30
+35
+40
+2014
+2022
+% of 15-year-olds who reported smoking a cigarette at least once in the last 30 days
+3
+4
+4
+4
+4
+4
+5
+5
+5
+6
+6
+6
+7
+7
+7
+7
+7
+8
+8
+8
+8
+9
+9
+9
+10
+12
+12
+13
+2
+3
+4
+5
+5
+10
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2014
+2022
+% of 15-year-olds who reported using cannabis at least once in the last 30 days
+
+
+## Stran PDF 120
+
+118    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Smoking and vaping among adults 
+Tobacco consumption remains the leading cause of preventable mortality in the EU, resulting in nearly 500 000 deaths in 2021 
+(IHME, 2024[1]). As a key risk factor for several cardiovascular and respiratory diseases, it also contributes significantly to various 
+types of cancer, most notably lung cancer that accounted for nearly 20% of all cancer deaths in the EU in 2021. The harmful 
+effects of tobacco use extend beyond the individual, placing a significant burden on healthcare systems and society, with the cost 
+of smoking-attributable diseases estimated at 2.5% of Europe’s annual GDP (Goodchild, Nargis and D’Espaignet, 2018[2]). 
+In 2022, an average of 18.4% of adults smoked daily across EU countries. The proportion of daily smokers varied more than 
+two-fold, ranging from 25% or more in Bulgaria, Greece, Hungary and France to below 12% in Denmark, Finland and Sweden 
+(Figure 4.3). Men consistently smoked more than women across all Member States, with an average of 22.3% compared to 14.8%. 
+The gender gap was most pronounced in Romania and Lithuania, while it was non-existent in Sweden, Finland, Norway and 
+Iceland (Figure 4.4). Over the last decade, smoking rates declined in all EU countries except three, with an average 15% reduction 
+since 2012. Progress has however been uneven, with the largest reductions in Estonia (over 10 percentage points), Czechia and 
+Germany (over 6 percentage points), while rates stagnated in Malta and Bulgaria and Luxembourg saw an increase. 
+Over the last decade, the implementation of more stringent tobacco control policies at the national level such as smoke-free 
+environments, advertising bans and excise tax increases have played a significant role in reducing smoking rates across many 
+EU countries. These efforts have been complemented by the revised 2014 EU Tobacco Products Directive and the 2011 EU 
+Directive on tobacco excise duties, which introduced EU-wide measures such as larger health warnings, restrictions on advertising 
+and a requirement for a minimum rate of excise duties on tobacco products (European Commission, 2021[3]). 
+Against the backdrop of gradual declines in tobacco smoking, the use of electronic cigarettes (i.e. vaping products) has emerged 
+as a new public health challenge. While vaping rates remain relatively low overall, they are significantly higher among young 
+people (Figure 4.5). In 2022, 3.4% of individuals aged over 15 were regular users of vaping products across EU countries. 
+Luxembourg, Estonia and Czechia reported the highest vaping rates (over 10%), while Bulgaria, Austria and Croatia had the 
+lowest (less than 1%). Among the 15-24 age group, the average vaping rate was 6.5% in 2022, with particularly high rates in 
+Estonia (30%), Czechia (25%) and Luxembourg (20%). The strong increase in vaping rates among young people in Estonia and 
+Czechia in recent years was accompanied by a significant reduction of those smoking tobacco. 
+While some countries have explored the potential of vaping as a possible smoking cessation tool, evidence suggests it may lead 
+to tobacco smoking, especially among youth (Martinelli et al., 2023[4]). According to the Eurobarometer survey, in 2020 over 50% 
+of vaping users in EU countries mentioned stopping or reducing tobacco consumption as the main reason for taking up 
+e-cigarettes, but almost 60% of them were “dual users”, using both traditional tobacco products and e-cigarettes (European 
+Commission, 2021[5]). Policies to regulate vaping products include age restrictions, taxes, indoor vaping bans and sales 
+regulations. In the EU, advertising and promotion of e-cigarettes are prohibited in various media and contexts. Some countries 
+are also considering outright bans on specific vaping products as part of their anti-tobacco strategies. For instance, Belgium plans 
+to ban the sale of disposable vapes by 2025, with several other EU countries contemplating analogous measures. 
+Definition and comparability 
+The prevalence of daily smoking is defined as the percentage of individuals aged 15 years and over who report consuming 
+tobacco on a daily basis. This definition excludes other forms of smokeless tobacco products, such as snus, which is used in 
+certain countries like Sweden and Norway. 
+Regular users of electronic cigarettes, or “vapers”, are defined as individuals who use vaping devices at least once per month. 
+For data based on the European Health Interview Survey (hlth_ehis_sk6e), “regular use” refers to the sum of those response 
+categories “every day” and “occasionally”. The data on vaping specifically refers to electronic cigarettes and does not include 
+heated tobacco products. Caution should be used when interpreting data on e-cigarette use and vaping, as relatively small 
+sample sizes in surveys can lead to substantial year-to-year fluctuations in reported prevalence in certain countries. 
+ 
+References 
+ 
+European Commission (2021), Report on the application of the Tobacco Products Directive. 
+[3] 
+European Commission (2021), Special Eurobarometer 506: Attitudes of Europeans towards tobacco and electronic 
+cigarettes. 
+[5] 
+Goodchild, M., N. Nargis and E. D’Espaignet (2018), “Global economic cost of smoking-attributable diseases”, 
+Tobacco Control, Vol. 27/1, pp. 58-64, https://doi.org/10.1136/tobaccocontrol-2016-053305corr1. 
+[2] 
+IHME (2024), Global Burden of Disease Study 2021 (GBD 2021) - Global Health Data Exchange, Institute for Health 
+Metrics and Evaluation. 
+[1] 
+Martinelli, T. et al. (2023), “Exploring the gateway hypothesis of e-cigarettes and tobacco: a prospective replication 
+study among adolescents in the Netherlands and Flanders”, Tobacco Control, Vol. 32/2, pp. 170-178. 
+[4] 
+  
+
+
+## Stran PDF 121
+
+   119 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.3. Changes in daily smoking rates among adults, 2012 and 2022 (or nearest years) 
+ 
+Note: The EU average is unweighted 
+Source: OECD Health Statistics 2024 (based on national or European Health Interview surveys). 
+StatLink 2 https://stat.link/sbfpvq 
+Figure 4.4. Daily smoking rates among adults, by gender, 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024 (based on national or European Health Interview surveys). 
+StatLink 2 https://stat.link/ipdv4x 
+Figure 4.5. Regular use of vaping products, by age group, 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1.The latest available data are from the 2019 European Health Interview Survey (EHIS). 
+Source: OECD Health Statistics 2024 (based on national or European Health Interview surveys). 
+StatLink 2 https://stat.link/9noqpc
+22
+29
+25 25 25
+23
+22
+21
+21
+21
+20
+20
+20
+19
+19
+19
+18
+17
+17
+16
+16
+15
+15
+14
+14
+13
+12
+11
+9
+28
+26
+23
+16
+11
+8
+6
+0
+5
+10
+15
+20
+25
+30
+35
+2012
+2022
+% of adults (aged 15 and over)
+29
+25
+25
+25
+23
+22
+21
+21
+21
+20
+20
+20
+19
+19
+19
+18
+17
+17
+16
+16
+15
+15
+14
+14
+13
+12
+11
+9
+28
+26
+23
+16
+11
+8
+6
+0
+10
+20
+30
+40
+50
+Total
+Women
+Men
+% of adults (aged 15 and over)
+2.1
+2.7
+0
+5
+10
+15
+20
+25
+30
+All adults (aged 15+)
+Young adults (aged 15-24)
+% of population
+
+
+## Stran PDF 122
+
+120    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Alcohol consumption among adolescents 
+Repeated drunkenness, defined as being drunk on at least two occasions during their lifetime, continues to be common among 
+adolescents in Europe. Nearly one in four 15-year-olds have experienced repeated drunkenness, although this proportion has 
+decreased over the last decade. Early drinking initiation and getting drunk repeatedly among adolescents are of concern since 
+these behaviours can have serious negative health, education and social consequences. By age 15, 23% of adolescents report 
+having been drunk more than once in their life on average across EU countries, and 17% of 15-year-olds report having been drunk 
+at least once in the past month (Charrier et al., 2024[1]). This is despite the fact that the legal drinking age is 18 in most countries 
+(WHO, 2019[2]). Adolescents who report early initiation to alcohol and having been drunk on several occasions are more likely to 
+develop alcohol dependence later in life. 
+More than 30% of 15-year-olds in Denmark, Hungary, Bulgaria, Austria, Italy and Germany reported having been drunk more than 
+once in their life in 2022. In contrast, this proportion is much lower in countries such as Portugal, Luxembourg, Ireland and France, 
+with 15% or less of 15-year-olds reporting repeated drunkenness (Figure 4.6). Historically, boys were more likely than girls to 
+report repeated drunkenness in most EU countries. However, this trend has shifted in recent years. In 2022, the gender gap on 
+average across EU countries has closed. In fact, in 12 EU countries, a greater proportion of girls now report having been drunk 
+more than once. 
+Looking at long-term trends, there has been a significant decrease in the proportion of adolescents reporting repeated 
+drunkenness over the past two decades. In 2002, 39% of 15-year-old boys across EU countries reported repeated drunkenness, 
+but this figure dropped to 23% by 2022 (Figure 4.7). A similar trend was observed among girls, with rates declining from 30% to 
+23%. However, more recent data comparing 2018 to 2022 show a mixed picture across the EU. Approximately half of the countries 
+experienced a decrease in reported repeated drunkenness among adolescents. In the other half of countries, the rates either 
+remained stable or increased during this four-year period. Progress has therefore stalled in several countries. 
+A number of policies have proven to be effective to reduce alcohol drinking among adolescents, such as limiting access to alcohol 
+(e.g. through restrictions on location and hours of sales, and raising the minimum age to drink alcohol), increasing prices (through 
+taxation or minimum pricing of alcohol units), regulating advertisement in traditional and social media, and restricting industry 
+sponsorship of sport and youth events (OECD, 2021[3]). Taxes on alcoholic beverages exist in all EU countries, but the level of 
+taxes vary widely and by beverage type. When it comes to advertising on social media and the internet, the most common type 
+of regulation across EU countries relates to restrictions on the content and placement of advertising, although some countries 
+have gone further and adopted advertising bans on social media (e.g. Norway). Regarding industry sponsorship of sport and 
+youth events, about one-third of European countries report having voluntary agreements in place, while one-quarter have no 
+restrictions (WHO, 2019[2]). 
+Definition and comparability 
+The data come from the Health Behaviour in School-aged Children (HBSC) study. Since 1993-94, the HBSC survey has 
+collected data every four years on alcohol use among children and adolescents aged 11, 13 and 15 years across EU countries 
+and several other countries. The data presented focus specifically on the proportion of 15-year-olds who report having been 
+drunk on at least two occasions during their lifetime. 
+ 
+References 
+ 
+Charrier, L. et al. (2024), A focus on adolescent substance use in Europe, central Asia and Canada. Health Behaviour 
+in School-aged Children international report from the 2021/2022 survey. Volume 3, World Health Organization. 
+Regional Office for Europe, Copenhagen, https://iris.who.int/handle/10665/376573. 
+[1] 
+OECD (2021), Preventing Harmful Alcohol Use, OECD Health Policy Studies, OECD Publishing, Paris, 
+https://doi.org/10.1787/6e4b4ffb-en. 
+[3] 
+WHO (2019), Status report on alcohol consumption, harm and policy responses in 30 European countries 2019: data 
+sources and methods, https://www.who.int/europe/publications/i/item/WHO-EURO-2019-3544-43303-60695 (accessed 
+on 26 July 2024). 
+[2] 
+  
+
+
+## Stran PDF 123
+
+   121 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.6. Share of adolescents who report having been drunk more than once, 2022 
+ 
+Note: The EU average is unweighted. 1. Data for Belgium refer to the unweighted average of Flanders and Wallonia/Brussels. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/xp3fgm 
+Figure 4.7. Trends in adolescents who have been drunk more than once, EU average, 1994 to 2022 
+ 
+Note: The EU average is unweighted. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/p0mson
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Girls
+Boys
+Total
+% of 15-year-olds who report repeated drunkenness
+25
+29
+30
+30
+30
+23
+20
+23
+36
+41
+39
+38
+36
+27
+24
+23
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+1993-94
+1997-98
+2001-02
+2005-06
+2009-10
+2013-14
+2017-18
+2021-22
+Girls
+Boys
+%
+
+
+## Stran PDF 124
+
+122    
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Alcohol consumption among adults 
+Excessive alcohol consumption is a major public health concern in the EU, contributing significantly to premature mortality and 
+disability, being a causal factor for various chronic diseases including cardiovascular diseases, liver cirrhosis and several types 
+of cancer (WHO, 2024[1]). OECD modelling estimates that between 2020 and 2050, alcohol consumption exceeding one drink per 
+day for women and 1.5 drinks per day for men will lead to over 125 000 premature deaths annually in the EU. Between 2020 and 
+2050, the mortality impact of alcohol consumption is projected to reduce average life expectancy in the EU by one year compared 
+to what it would have been without such consumption. The economic burden of alcohol consumption is also large, with estimates 
+for EU countries for which data are available ranging between 0.4% and 1.5% of GDP (OECD, 2021[2]) 
+Alcohol consumption levels vary considerably across EU countries, with significant differences in drinking patterns. Measured 
+through sales data, overall alcohol consumption averaged 10.0 litres per adult across EU countries in 2022. Latvia and Spain 
+reported the highest consumption at nearly 12 litres per person, followed by Romania, Austria and Czechia. Greece boasted the 
+lowest level of consumption at only 6.3 litres per capita, followed by Sweden, Finland and Italy (Figure 4.8). 
+The average alcohol consumption in the EU saw a modest decline of 0.3 litres (-3%) between 2010 and 2022. However, notable 
+changes have occurred in several countries, with nine EU countries reporting a decrease of at least 10% in their average consumption 
+per capita, having achieved the target from the European framework for action on alcohol 2022-25 of a relative reduction in alcohol per 
+capita consumption of 10% by 2025 compared to 2010 (WHO, 2022[3]). In litres per capita, Lithuania recorded the largest reduction, 
+decreasing by nearly 2.5 litres (-17%) between 2010 and 2022, reflecting the implementation of stricter alcohol control measures in 
+2018 (OECD/European Observatory on Health Systems and Policies, 2023[4]). Greece, Finland and Croatia also saw significant 
+declines, with reductions of 24%, 22%, and 16% respectively compared to their 2010 levels. In contrast, five EU countries reported an 
+increase of at least 10% in per capita alcohol consumption over the same period. The most notable increases were observed in Latvia, 
+Spain and Romania, which had average consumption levels below the EU average in 2010, but surpassed the EU average by 2022. 
+Heavy episodic drinking is a particularly harmful pattern of alcohol consumption that remains prevalent in many EU countries. In 
+2019, nearly one in five adults (19%) reported heavy episodic drinking at least once a month on average across the EU. However, 
+this proportion varied widely, from less than 5% in Italy to more than 30% in Denmark, Romania and Luxembourg. Men were more 
+likely to binge drink than women across the EU, with 27% of men reporting this behaviour compared to 11% of women on average. 
+The gender gap was most pronounced in Lithuania, where the prevalence among men was over four times that of women. 
+To address the substantial burden of alcohol-related harm, EU countries have implemented various policies and interventions 
+aimed at reducing consumption and promoting responsible drinking. These include taxation, restrictions on availability and 
+advertising regulations. However, the effectiveness of these measures is often limited by inadequate implementation, resource 
+constraints and industry resistance. As part of Europe’s Beating Cancer Plan, the EU has prioritised reducing harmful alcohol 
+consumption, proposing actions such as limiting online advertising, reviewing taxation policies and mandating ingredient labelling 
+and health warnings on alcohol products. In this regard, Ireland has taken a leading role, introducing Minimum Unit Pricing in 2022 
+and becoming the first country globally to mandate comprehensive health labelling for alcohol products from 2026. 
+Definition and comparability 
+Overall alcohol consumption is defined as annual sales of pure alcohol in litres per person aged 15 and over, with the exception 
+of Denmark, which measures consumption for those 18 and over. Consumption in Estonia, Italy, Latvia and Lithuania exclude 
+tourist consumption. For Luxembourg, consumption is estimated as the average of France and Germany based on their 2019 
+values. For Spain, the data source on annual wine sales varied between 2010 and 2022, which may introduce inconsistencies 
+when comparing the annual alcohol consumption estimates across this time period. 
+The proportion of heavy episodic drinkers is defined as the share of adults aged 18 and over who reported consuming 60g or 
+more of pure ethanol (6+ drinks) on a single occasion in the past 30 days. Data are from the European Health Interview Survey 
+(EHIS 2019), compiled by Eurostat, complemented by national sources for some non-EU countries (Norway, Switzerland and 
+the United Kingdom). Some differences exist in survey methods: Norway’s data cover ages 16-79, while Switzerland’s data 
+cover ages 15+. The data from the United Kingdom are processed by the Office for National Statistics, based on EHIS. The 
+definition of a standard drink and threshold number of drinks can vary slightly across surveys. 
+ 
+References 
+ 
+OECD (2021), Preventing Harmful Alcohol Use, OECD Health Policy Studies, OECD Publishing, Paris, 
+https://doi.org/10.1787/6e4b4ffb-en. 
+[2] 
+OECD/European Observatory on Health Systems and Policies (2023), Lithuania: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/5ed683c8-en. 
+[4] 
+WHO (2024), Global status report on alcohol and health and treatment of substance use disorders, World Health 
+Organization, https://iris.who.int/handle/10665/377960. 
+[1] 
+WHO (2022), European framework for action on alcohol 2022–2025, https://iris.who.int/handle/10665/361662. 
+[3] 
+  
+
+
+## Stran PDF 125
+
+   123 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.8. Overall alcohol consumption among the population aged 15 and over, 2010 and 2022 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024 and WHO Global Information System on Alcohol and Health (GISAH). 
+StatLink 2 https://stat.link/8wcgpb 
+Figure 4.9. Proportion of adults who reported heavy episodic drinking, by gender, 2019 (or nearest year) 
+ 
+Notes: The EU average is weighted. 1. Data pertain to 2014. 2. Data pertain to 2022. 
+Source: Eurostat (EHIS) (hlth_ehis_al3i), complemented with national data sources for Norway, Switzerland and the United Kingdom. 
+StatLink 2 https://stat.link/qk9z64
+10.3
+11.9
+11.8
+11.6
+11.6
+11.6
+11.2
+11.1
+11.2
+11.0
+11.0
+10.8
+10.6
+10.6
+10.4
+10.2
+10
+10
+9.0
+9.6
+9.5
+9.5
+9.2
+8.5
+8.1
+7.7
+7.6
+7.5
+6.3
+9.9
+9.9
+8.4
+7.5
+6.1
+7.5
+6.6
+6.1
+3.8
+3.8
+1.6
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2010
+2022
+Litres per adult (aged 15 and above)
+0
+10
+20
+30
+40
+50
+60
+Total
+Women
+Men
+% of the population aged 15 years old and over
+
+
+## Stran PDF 126
+
+124    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Use of illicit drugs among adults 
+Drug availability and use remain at high levels across the European Union, although considerable differences exist across 
+countries. Almost a third of adults in the EU aged 15 to 64, or around 89 million people, have used illicit drugs at some points in 
+their lives, with the experience of drug use being still more frequently reported by males than females. The use of illicit drugs, 
+particularly among people who use them regularly and in bigger quantities, is associated with higher risks of cardiovascular 
+diseases, mental health problems, accidents, as well as infectious diseases such as HIV when the drug is injected. The mortality 
+rate due to overdoses in the EU in 2022 is estimated at 22.5 deaths per million in adults. Illicit drug use is a major cause of 
+preventable mortality among young people in Europe, both directly through overdose and indirectly through drug-related diseases, 
+accidents, violence and suicide (EMCDDA, 2024[1]). 
+Cannabis remains the most commonly used illicit drug among young adults in Europe, with approximately 15% (15.1 million) of 
+individuals aged 15 to 34 in EU countries reporting cannabis use in the last year. The highest rates of cannabis consumption are 
+found in Czechia, Italy and Croatia, where 20% or more of people in this age group have used cannabis in the past year. It is 
+estimated that around 1.3% of European adults – primarily males under 35 years old – are daily or almost daily cannabis users. 
+Recent trends in cannabis use at the national level have been mixed, with three countries reporting higher estimates, eight 
+remaining stable, and two showing a decrease compared to their previous comparable surveys. In 2023, out of 51 EU cities with 
+comparable data, 20 reported an increase in cannabis residues found in wastewater compared to 2021. 
+Cocaine is the most commonly used illicit stimulant in Europe: around 2.5% of young adults reported having used cocaine in the 
+last year on average across EU countries (Figure 4.11). The percentage of young adults using cocaine is highest in the 
+Netherlands, Ireland, Norway and Denmark with 4.0% or more having used cocaine at least once in the last year. Cocaine residues 
+in municipal wastewater increased in 49 out of 72 cities in the EU with data for both 2022 and 2023. 
+The use of amphetamines and MDMA/ecstasy is slightly lower than the use of cocaine, with about 2.2% of young adults in 
+EU countries reporting to have used MDMA/ecstasy and 1.5% used amphetamines in the last year. The use of MDMA/ecstasy 
+tends to be higher in the Netherlands, Ireland and Czechia, while the use of amphetamines tends to be higher in Finland, Croatia, 
+the Netherlands and Germany. 
+The consumption of opioids (i.e. heroin and other drugs) is responsible for the majority of drug overdose deaths (reported in 74% 
+of fatal overdoses), often in combination with other substances. The main opioid used in Europe is still heroin, but there are 
+concerns in several countries about the use of other synthetic opioids (such as buprenorphine, methadone, fentanyl and tramadol). 
+In 2023, new synthetic opioids were detected by the EU Early Warning System on new psychoactive substances in at least 16 
+EU Member States, Norway and Türkiye. The use of new psychoactive substance among young adults aged 15 to 34 ranges from 
+0.1% in Norway to 5.1% in Romania. 
+More complexity in drug consumption patterns is observed, with non-controlled new psychoactive substances, polydrug 
+consumption and substances such as ketamine and gamma-hydroxybutyrate (GHB) now associated with drug problems in some 
+countries or among some groups. This complexity is reflected in an increasing recognition that drug use is linked with, or 
+complicates responses to, a wide range of today’s most pressing health and social issues. Among these are mental health issues 
+and self-harm, homelessness, youth criminality and the exploitation of vulnerable individuals and communities (EMCDDA, 2024[1]). 
+Definition and comparability 
+Data on drug use prevalence come from national population surveys, as gathered by the European Monitoring Centre for 
+Drugs and Drug Addiction (EMCDDA), now called the European Union Drug Agency (EUDA) since July 2024. The data 
+presented focusses on the percentage of young adults aged 15 to 34 years old reporting to have used different types of illicit 
+drugs in the last year. Such estimates of recent drug use produce lower figures than “lifetime experience”, but reflect better the 
+current situation. The information is based on the last survey available for each country. The study year ranges from 2015 to 
+2022. To obtain estimates of the overall number of users in Europe, the EU average is applied to countries without prevalence 
+data. Data from wastewater-based epidemiology provide complementary information to general population surveys and further 
+insight into the use of drugs in Europe. 
+For more information, please see: www.emcdda.europa.eu/topics/prevalence-and-patterns-of-drug-use_en. 
+ 
+References 
+ 
+EMCDDA (2024), European Drug Report 2024: Trends and Developments, European Monitoring Centre for Drugs and 
+Drug Addiction, https://www.emcdda.europa.eu/publications/european-drug-report/2024_en. 
+[1] 
+  
+ 
+
+
+## Stran PDF 127
+
+   125 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.10. Cannabis use over last 12 months among people aged 15 to 34, 2022 (or nearest year) 
+ 
+Source: EMCCDA, 2024. 
+Figure 4.11. Cocaine use over last 12 months among people aged 15 to 34, 2022 (or nearest year) 
+ 
+Source: EMCCDA, 2024.
+13.3
+n.a
+12.5
+16.6
+13.8
+19.1
+19.2
+15.1
+6.6
+17.2
+4.9
+7.8
+8.2
+8.8
+11
+21.5
+13.6
+22.9
+11.1
+3.4
+12
+10.2
+12.3
+4.5
+18.2
+1.8
+6
+5.9
+10.6
+20.3
+0 – 5.0
+Cannabis usage rate (%)
+10.0 – 15.0
+15.0+
+EU: 15 %
+5.0 – 10.0
+n.a
+13.4
+5.3
+4.2
+2.8
+4.8
+3.1
+3.2
+3.1
+2.8
+3.1
+0.5
+0.5
+2.2
+0.8
+4.2
+2.1
+2.9
+1.8
+2.2
+0.6
+0.9
+1.1
+1.8
+0.6
+5.5
+0.1
+0.7
+1.3
+1.1
+3.9
+0 – 1.0
+2.0 – 3.0
+3.0+
+EU: 2.5%
+1.0 – 2.0
+Cocaine usage rate (%)
+n.a
+5.3
+
+
+## Stran PDF 128
+
+126    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Nutrition among adolescents 
+Nutrition plays a crucial role in child and adolescent development. Establishing good nutritional habits early in life, particularly 
+regular consumption of fruit and vegetables, can help prevent serious health problems such as obesity, diabetes and heart 
+diseases. Various factors influence fruit and vegetable consumption among adolescents, including family income, parental dietary 
+habits, and the availability of fresh products that can be affected by national or local climate conditions. 
+Despite the current recommendation to eat five portions of fruit and vegetables every day, over half (56%) of 15-year-old 
+adolescents on average across EU countries ate neither fruit nor vegetables daily in 2022 (Figure 4.12). The proportion of young 
+people reporting that they do not eat neither fruit nor vegetables each day increases between age 11 and 15 (Rakić et al., 2024[1]). 
+In all EU countries except Malta and Latvia, 15-year-old boys were more likely than girls to report not eating any fruit or vegetables 
+daily. This gender gap was particularly pronounced in Germany, Bulgaria and Slovenia. The proportion of 15-year-olds reporting 
+no daily fruit or vegetable consumption has generally remained stable between 2018 and 2022. 
+Most EU countries have initiated campaigns to promote increased fruit and vegetable consumption among the general population, 
+including young people, notably through “five a day” campaigns (e.g. in Germany, Spain, France) or even “six a day” in Denmark. 
+Several countries have also implemented more targeted policies to promote greater fruit and vegetable consumption among children 
+and adolescents, including health education in schools and increasing the fruit and vegetable content in school meals (OECD, 2019[2]). 
+At the EU level, a School Fruit Scheme, initially adopted in 2008 to promote fruit and vegetable consumption among school-aged 
+children, was later expanded to include milk and other dairy products. In the 2021/22 academic year, over 17 million children in 
+134 000 schools across EU countries benefited from this scheme (European Commission, 2023[3]). An evaluation of the 
+programme indicates that the scheme led to a short-term increase in the frequency and volume of fruit and vegetable consumption 
+among school-aged children (Comino et al., 2022[4]). 
+Promoting better nutrition at a young age also involves reducing the consumption of products high in sugar, fat and salt. On 
+average across EU countries, 14% of 15-year-olds reported drinking sugared soft drinks daily in 2022 (Figure 4.13). This 
+proportion was highest in Bulgaria, Belgium, Luxembourg, Romania, France and Hungary, where more than one in four 
+15-year-olds reported consuming sugared soft drinks every day. Across all EU countries except Romania and Malta, a greater 
+proportion of boys consumed sugared soft drinks daily (15% of boys compared to 12% of girls on average in EU countries). 
+The daily consumption of sugared soft drinks among 15-year-olds declined by about 2 percentage points on average across 
+EU countries between 2018 and 2022. The most notable reductions of above 5 percentage points were observed in Malta, the 
+Slovak Republic, France and Poland. In contrast, Estonia and Bulgaria experienced some increases, with other countries 
+maintaining relatively stable rates. 
+Various policy actions can further improve the nutritional quality of beverages consumed by adolescents. These include product 
+reformulation to reduce sugar levels, smaller portion sizes, front-of-pack labels promoting low-sugar drinks, taxes based on 
+product sugar content and advertising restrictions for high-sugar products (OECD, 2019[2]). For example, Ireland’s introduction of 
+a Sugar-Sweetened Drinks Tax (SSDT) in 2018 led to an estimated reduction in sugar intake from carbonated soft drinks from 
+5 kg per person in 2018 to less than 4 in 2022, suggesting the effectiveness of such fiscal measures in promoting healthier 
+beverage choices (Houghton, Moran Stritch and Auerbach, 2024[5]). 
+Definition and comparability 
+The data come from the Health Behaviour in School-aged Children (HBSC) study. Since 1993-94, the HBSC survey has 
+collected data every four years on the nutritional habits among adolescents aged 11, 13 and 15 years across EU countries 
+and several other countries. The data presented focus specifically on the proportion of 15-year-olds who report not consuming 
+any fruit or vegetables daily and those who report daily consumption of sugared soft drinks. The survey questions regarding 
+fruit and vegetable intake do not explicitly exclude juices, soups, or potatoes. 
+ 
+References 
+ 
+Comino, I. et al. (2022), “School Fruit and Vegetables Scheme: Characteristics of Its Implementation in the European 
+Union from 2009/10 to 2016/17”, Nutrients, Vol. 14/15, p. 3069, https://doi.org/10.3390/nu14153069. 
+[4] 
+European Commission (2023), The EU school fruit, vegetables and milk scheme - summary report for 2021/2022, 
+European Commission, Brussels. 
+[3] 
+Houghton, F., J. Moran Stritch and J. Auerbach (2024), Evaluation of Ireland’s Sugar-Sweetened Drinks’ Tax (SSDT), 
+Munster Research Consultancy, https://assets.gov.ie/306044/6588fc8d-54a2-4749-b931-ffdb3a0de68a.pdf. 
+[5] 
+OECD (2019), The Heavy Burden of Obesity: The Economics of Prevention, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/67450d67-en. 
+[2] 
+Rakić, J. et al. (2024), A focus on adolescent physical activity, eating behaviours, weight status and body image in 
+Europe, central Asia and Canada: Health Behaviour in School-aged Children international report from the 2021/2022 
+survey, World Health Organization. Regional Office for Europe, https://iris.who.int/handle/10665/376772. 
+[1] 
+  
+
+
+## Stran PDF 129
+
+   127 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.12. Share of adolescents not consuming any fruit or vegetable each day, 2022 
+ 
+Note: The EU average is unweighted. 1. Data for Belgium refer exclusively to the Flanders region. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/834hmu 
+Figure 4.13. Share of adolescents consuming sugared soft drinks each day, 2018 and 2022 
+ 
+Note: The EU average is unweighted. 1. Data for Belgium (2018) refer to the unweighted average of Flanders and Wallonia/Brussels; Data for Belgium (2022) refer to 
+the Flanders region only. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/pd2fx7
+39
+47
+49
+50
+52
+53
+53
+53
+54
+54
+54
+55
+56
+56
+57
+57
+58
+58
+59
+59
+59
+59
+60
+63
+63
+64
+65
+69
+37
+45
+47
+47
+54
+57
+59
+66
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Boys
+Girls
+Total (values shown)
+% of 15-year-olds who report eating neither fruit nor vegetables daily
+6
+6
+7
+7
+8
+8
+8
+8
+9
+9
+11
+11
+12
+12
+13
+14
+14
+15
+18
+18
+18
+19
+21
+21
+23
+24
+24
+30
+5
+8
+12
+13
+17
+22
+29
+35
+0
+5
+10
+15
+20
+25
+30
+35
+40
+2018
+2022
+% of 15-year-olds who report drinking sugared soft drinks at least once every day 
+
+
+## Stran PDF 130
+
+128    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Nutrition among adults 
+Fruit and vegetables are essential components of a healthy diet, providing essential vitamins, minerals and antioxidants. Regular 
+consumption of these foods is associated with a reduced risk of chronic diseases, including cardiovascular diseases, metabolic 
+conditions and certain types of cancer. Moreover, fruit and vegetables play a crucial role in weight management due to their 
+relatively low-calorie density, high water content and fibre, which promote satiety and help control overall calorie intake. However, 
+many EU citizens face barriers to accessing quality meals, including fruit and vegetables, due to financial constraints. The number 
+of people in the EU who cannot afford a proper meal every other day has risen from 33 million in 2018 to nearly 43 million in 2023, 
+meaning that almost 1 out of 10 individuals in the EU are unable to access nutritious meals regularly (Eurostat, 2024[1]). This lack 
+of affordability contributes to the significant health consequences associated with inadequate fruit and vegetable intake, which 
+was linked to an estimated 275 000 deaths in the EU in 2021 (IHME, 2024[2]). 
+On average across the EU, 60% of the adult population consumed fresh vegetables and 61% consumed fresh fruit at least daily 
+in 2022. Belgium and Italy led in fresh vegetable consumption, with over three-quarters of their adult populations consuming them 
+at least daily. For fresh fruit consumption, Italy and Portugal topped the list, with over 80% of adults consuming them at least once 
+a day. In contrast, daily fresh vegetable consumption was below 40% in Hungary and Romania, while the prevalence of daily fresh 
+fruit consumption was lowest in Bulgaria, Latvia, Lithuania and Romania (Figure 4.14). 
+Between 2017 and 2022, the proportion of adults consuming fruit daily in the EU declined by 3.6%, while daily fresh vegetable 
+consumption decreased even more by 5.5%. The decline in fruit and vegetable consumption in 2022 may be at least partly attributed 
+to their rising prices. The average price of vegetables in the EU spiked above the general food price index increase in the early and 
+final months of 2022, a factor which may have led consumers to limit their purchases and/or shift towards cheaper alternatives 
+(Eurostat, 2024[3]). Luxembourg and Sweden experienced the largest declines in the prevalence of at least daily fruit consumption, 
+with a decrease of around 20% compared to 2017. Conversely, Croatia (+13%), Hungary (+12%) and the Netherlands (+11%) saw 
+the most significant relative increases in at least daily fruit consumption over the same period. When considering at least daily 
+vegetable consumption, the Netherlands stood out with the highest increase (+21%), while Portugal, Luxembourg and Spain recorded 
+declines of over 20%. 
+Socio-economic status significantly influences people’s regular consumption of both fresh fruit and vegetables. In 2022, when 
+considering the average of the proportion of the population consuming fruit at least daily and the proportion consuming vegetables 
+at least daily, 67% of adults with higher education levels in the EU reported regular consumption compared to 60% among those 
+with lower education levels. Across EU countries, countries with higher overall daily consumption rates tended to have smaller 
+disparities in consumption by education level. Spain, Slovenia, Malta and Luxembourg had particularly small gaps, with less than 
+5 percentage points difference in the prevalence of daily consumption between those with the highest and lowest education levels. 
+In contrast, Romania stood out with a gap of nearly 28 percentage points, followed by Bulgaria (23 percentage points), the 
+Slovak Republic and Latvia (19 percentage points) (Figure 4.15). These findings suggest that countries with lower overall 
+consumption of fruit and vegetables also face larger challenges in ensuring equitable access to healthy diets across socio-
+economic groups. 
+Definition and comparability 
+The prevalence of daily consumption of fruit and vegetables is based on data from the health module of the EU Statistics on 
+Income and Living Conditions survey (EU-SILC). Fresh fruit and vegetables are defined based on the classification of individual 
+consumption by purpose (COICOP). Fresh fruit refer to COICOP code CP01 161 – Fresh or chilled fruit, while fresh vegetables 
+refer to code CP01 171 – Fresh or chilled vegetables other than potatoes and other tubers. The data are stratified by education 
+level according to the International Standard Classification for Education (ISCED) 2011. The “Higher education” group refers 
+to ISCED Levels 5-8, which include short-cycle tertiary education, bachelor’s degrees, master’s degrees and doctoral degrees. 
+The “Lower education” group corresponds to ISCED Levels 0-2 (less than upper secondary education). 
+EU-SILC combines survey and administrative data. Most countries use survey and administrative data combined, while 
+Czechia, Germany, Greece, Croatia, Luxembourg, Hungary, Poland, Portugal, Romania, the Slovak Republic and Montenegro 
+only use survey data. For most countries, the fieldwork took place from January to July 2022. 
+ 
+References 
+ 
+Eurostat (2024), Almost 1 out of 10 in the EU could not afford a proper meal, 
+https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240712-1. 
+[1] 
+Eurostat (2024), Food price monitoring tool, Eurostat Database, 
+https://ec.europa.eu/eurostat/cache/website/economy/food-price-monitoring/. 
+[3] 
+IHME (2024), Global Burden of Disease Study 2021 (GBD 2021) - Global Health Data Exchange, Institute for Health 
+Metrics and Evaluation. 
+[2] 
+  
+ 
+
+
+## Stran PDF 131
+
+   129 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.14. Population reporting daily consumption of fruit and vegetables, 2022 
+ 
+Note: The EU average is weighted. Data for Germany, Iceland, the United Kingdom and North Macedonia pertain to 2017. Low data reliability for the United Kingdom. 
+Source: Eurostat (ilc_hch11). 
+StatLink 2 https://stat.link/hv9p5n 
+Figure 4.15. Share of the population reporting daily intake of fresh fruit and vegetables, by education, 2022 or latest 
+year available 
+ 
+Notes: The EU average is weighted. The chart shows the average of the percentage of the population consuming fruit at least daily and the percentage of the population 
+consuming vegetables at least daily; the proportions were averaged together to discuss overall fresh produce intake. Low education refers to ISCED levels 0-2 (less 
+than primary, primary and lower secondary education). High education refers to ISCED Levels 5-8 (short-cycle tertiary education, bachelor’s or equivalent, master’s or 
+equivalent, doctoral or equivalent), 1. Data pertain to 2017. 
+Source: Eurostat (ilc_hch11). 
+StatLink 2 https://stat.link/okb7p5
+BE
+SI
+CY
+IT
+NL IE
+EL
+HR
+AT
+PL
+FI
+DK
+SK
+MT
+EE
+FR
+CZ
+ES
+PT
+DE
+SE
+LV
+LU
+BG
+LT
+HU
+RO
+CH
+NO
+MK
+IS
+UK
+RS
+ME
+EU
+30
+40
+50
+60
+70
+80
+30
+40
+50
+60
+70
+80
+% of the population eating vegetables at least daily
+% of the population eating fruit at least daily
+EU average: 60 %
+EU average: 61 %
+60
+67
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Low education
+High education
+Average % of population consuming fruit and vegetables at least daily
+
+
+## Stran PDF 132
+
+130    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Physical activity among children and adolescents 
+Adolescence is a critical period for establishing lifelong healthy habits, including regular physical activity. Engaging in sufficient 
+physical activity during childhood and adolescence has numerous health benefits, such as improved cardiovascular health, better 
+cognitive function and reduced risk of obesity and chronic diseases later in life (OECD/WHO, 2023[1]). 
+Despite the well-known benefits of physical activity, many adolescents in EU countries do not meet the WHO recommended levels 
+of at least 60 minutes of moderate-to-vigorous physical activity per day. On average, only 22% of 11-year-olds and 15% of 
+15-year-olds reported meeting these guidelines in 2022. This proportion was highest in Finland, Ireland and Hungary, while it was 
+lowest in Italy, Lithuania and France, where fewer than one sixth of all 11- and 15-year-olds met the recommendation. There is a 
+notable gender gap in physical activity levels among adolescents, with boys consistently more active than girls across all 
+EU countries. The difference was especially pronounced among 15-year-olds, with 20% of boys meeting the WHO guidelines in 
+2022, compared to only 10% of girls (Rakić et al., 2024[2]) (Figure 4.16). On average across EU countries, the proportion of 
+children doing moderate-to-vigorous physical activity every day has remained relatively constant among both boys and girls 
+between 2010 and 2022. There has been a marginal decline among 11- and 13-year-olds being accompanied by a small increase 
+among 15-year-olds, but 15-year-olds remain less physically active than younger school-aged children (Figure 4.17). 
+The effect of the COVID-19 pandemic and related lockdowns on levels of physical activity among children and adolescents 
+remains unclear. While some studies reported a decline in physical activity, others found that the amount of physical activity did 
+not change significantly (Kovacs et al., 2022[3]). However, studies examining the type of physical activity found a shift towards less 
+intensive activities such as walking and cycling. This may explain the decline in cardiorespiratory fitness documented in some 
+countries since the outbreak (Jurak et al., 2021[4]; Jarnig, Jaunig and Van Poppel, 2021[5]). 
+To tackle the issue of insufficient physical activity among adolescents, EU countries are implementing a range of policies and 
+initiatives. School-based interventions, such as mandatory physical education classes and active school breaks, play a crucial 
+role in promoting physical activity. Community-based programmes that provide accessible and affordable opportunities for sports 
+and recreation are also essential. Public awareness campaigns that emphasise the benefits of an active lifestyle can help to shift 
+social norms and encourage more adolescents to engage in regular physical activity. In addition, EU countries are focusing on 
+promoting active transport, such as walking and cycling, by improving pedestrian and cycling infrastructure, implementing safe 
+routes to school initiatives, and promoting bike-sharing schemes (OECD/WHO, 2023[1]). 
+Finland's "Schools on the Move" programme, launched in 2010 and now adopted by over 90% of Finnish municipalities, 
+exemplifies a successful national initiative to increase physical activity among adolescents. By providing tailored support and 
+resources, the programme encourages physical activity during school hours, promotes active commuting and fosters a more 
+physically active culture (Schools on the Move, 2024[6]). The programme’s success is reflected in the consistently high shares of 
+physical activity among adolescents in Finland compared to other EU countries. 
+Definition and comparability 
+The data come from the Health Behaviour in School-aged Children (HBSC) study. Since 1993-94, the HBSC survey has 
+collected data every four years on physical activity among children and adolescents aged 11, 13 and 15 years across 
+EU countries and several other countries. Moderate-to-vigorous physical activity refers to exercise undertaken for at least an 
+hour each day that increases the heartbeat and sometimes leaves the child out of breath. 
+ 
+References 
+ 
+Jarnig, G., J. Jaunig and M. Van Poppel (2021), “Association of COVID-19 Mitigation Measures With Changes in 
+Cardiorespiratory Fitness and Body Mass Index Among Children Aged 7 to 10 Years in Austria”, JAMA Network Open, 
+Vol. 4/8, pp. e2121675-e2121675, https://doi.org/10.1001/JAMANETWORKOPEN.2021.21675. 
+[5] 
+Jurak, G. et al. (2021), “A COVID-19 Crisis in Child Physical Fitness: Creating a Barometric Tool of Public Health 
+Engagement for the Republic of Slovenia”, Frontiers in Public Health, Vol. 9, p. 644235, 
+https://doi.org/10.3389/FPUBH.2021.644235/BIBTEX. 
+[4] 
+Kovacs, V. et al. (2022), “Physical activity, screen time and the COVID-19 school closures in Europe – An 
+observational study in 10 countries”, European Journal of Sport Science, Vol. 22/7, pp. 1094-1103, 
+https://doi.org/10.1080/17461391.2021.1897166. 
+[3] 
+OECD/WHO (2023), Step Up! Tackling the Burden of Insufficient Physical Activity in Europe, OECD Publishing, Paris, 
+https://doi.org/10.1787/500a9601-en. 
+[1] 
+Rakić, J. et al. (2024), A focus on adolescent physical activity, eating behaviours, weight status and body image in 
+Europe, central Asia and Canada: Health Behaviour in School-aged Children international report from the 2021/2022 
+survey, World Health Organization. Regional Office for Europe, https://iris.who.int/handle/10665/376772. 
+[2] 
+Schools on the Move (2024), Schools on the Move - Concept, https://schoolsonthemove.fi/about-us/. 
+[6] 
+  
+
+
+## Stran PDF 133
+
+   131 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.16. Share of 11- and 15-year-olds meeting WHO recommended daily physical activity, 2022 
+ 
+Note: The EU average is unweighted. Data for Belgium refer to the unweighted average of Flanders and Wallonia/Brussels. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/0o4cul 
+Figure 4.17. Trends in physical activity among 11-, 13- and 15-year-olds, EU average, 2010-22 
+ 
+Note: The EU average is unweighted. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/6g0erw
+Finland
+Croatia
+Czechia
+Hungary
+Ireland
+Latvia
+Poland
+Netherlands
+Sweden
+Slovak Republic
+Belgium
+Slovenia
+Bulgaria
+Romania
+EU27
+Spain
+Cyprus
+Austria
+Denmark
+Estonia
+Germany
+Lithuania
+Greece
+Malta
+Luxembourg
+Portugal
+France
+Italy
+Serbia
+Albania
+Norway
+North Macedonia
+Iceland
+UK (England)
+Moldova
+Boys
+Girls
+28%
+25%
+25%
+28%
+22%
+20%
+19%
+20%
+21%
+20%
+22%
+23%
+25%
+19%
+20%
+22%
+23%
+22%
+21%
+15%
+16%
+15%
+17%
+16%
+18%
+22%
+15%
+7%
+35%
+29%
+21%
+24%
+26%
+16%
+21%
+45%
+31%
+28%
+33%
+42%
+22%
+29%
+26%
+24%
+28%
+26%
+30%
+26%
+16%
+27%
+35%
+20%
+37%
+32%
+27%
+25%
+16%
+21%
+26%
+26%
+27%
+21%
+13%
+49%
+40%
+26%
+35%
+27%
+26%
+23%
+0%
+10%
+20%
+30%
+40%
+50%
+15-year-olds
+11-year-olds
+15%
+15%
+14%
+14%
+12%
+12%
+12%
+12%
+11%
+11%
+11%
+11%
+11%
+11%
+10%
+10%
+9%
+9%
+9%
+9%
+8%
+8%
+8%
+8%
+7%
+7%
+6%
+3%
+16%
+13%
+13%
+13%
+11%
+11%
+10%
+27%
+26%
+20%
+26%
+33%
+16%
+21%
+13%
+14%
+18%
+18%
+21%
+13%
+14%
+18%
+16%
+13%
+27%
+17%
+17%
+15%
+13%
+12%
+16%
+16%
+16%
+10%
+9%
+34%
+34%
+19%
+27%
+18%
+15%
+19%
+0%
+10%
+20%
+30%
+40%
+50%
+19
+13
+9
+28
+24
+19
+20
+15
+10
+30
+25
+20
+19
+13
+10
+26
+21
+18
+18
+13
+10
+27
+23
+20
+0
+5
+10
+15
+20
+25
+30
+35
+Aged 11
+Aged 13
+Aged 15
+Aged 11
+Aged 13
+Aged 15
+Girls
+Boys
+2010
+2014
+2018
+2022
+% who report at least one hour of daily moderate-to-vigorous physical activity
+
+
+## Stran PDF 134
+
+132    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Physical activity among adults 
+Physical activity is a cornerstone of human health, offering profound benefits that extend far beyond mere fitness. Scientific 
+evidence demonstrates that regular moderate- and vigorous-intensity exercise significantly reduces mortality rates from 
+cardiovascular diseases, the leading causes of death in the EU. This protective effect extends to a range of non-communicable 
+diseases, including type 2 diabetes as well as certain types of cancer. Additionally, exercise acts as a natural mood enhancer, 
+releasing endorphins that combat stress, anxiety and depression. In an era of increasing mental health concerns, the role of 
+physical activity in promoting psychological well-being is more crucial than ever. Moreover, regular exercise has been shown to 
+improve cognitive function, reducing the risk of age-related cognitive decline and dementia (OECD/WHO, 2023[1]). 
+The urgency of promoting active lifestyles is underscored by estimates of the overall health burden associated with sedentary 
+behaviour. In 2021, insufficient physical activity accounted for an estimated 1.2 million disability-adjusted life years (DALYs) and 
+64 000 deaths in the EU, highlighting the ample potential to improve public health and reduce the strain on European healthcare 
+systems by addressing this modifiable risk factor (IHME, 2024[2]). 
+Recognising the critical importance of physical activity for health and well-being, the WHO recommends that adults engage in at 
+least 150 minutes of moderate-intensity physical activity. As of 2019, about one-third of adults across the EU were meeting this 
+recommendation. However, rates varied more than eight-fold across European countries: the Netherlands, Sweden and Denmark, 
+along with Norway and Iceland had over half of their adult populations meeting the recommendation, while Malta, Bulgaria and 
+Romania had more than 85% of adults falling short of meeting the WHO physical activity guideline (Figure 4.18). 
+In nearly all EU countries, the prevalence of sufficient physical activity was higher among men: on average, 36% of men in the 
+EU met the recommended 150 minutes of weekly physical activity compared to 28% of women. Countries with lower overall 
+activity levels tend to have larger gender disparities favouring men. The Slovak Republic, France, Czechia and Spain exhibited 
+the most substantial gaps, exceeding 10 percentage points. Conversely, countries with higher overall activity levels showed 
+smaller gender gaps: Sweden and Denmark stood out as exceptions, with women slightly outperforming men. 
+Looking at the prevalence of physical activity by frequency in a typical week, in 2022 about one fifth of the EU population reported 
+engaging in some non-work-related physical activity at least daily, while half participated between one to six times weekly. 
+Concerningly, one-third of EU residents admitted to never engaging in non-work-related physical activity. The prevalence of 
+complete physical inactivity showed significant regional disparities across European countries, following a north-west to south-
+east gradient. Inactivity rates varied more than tenfold, with countries like Finland, the Netherlands, Denmark, Sweden, Norway 
+and Switzerland reporting less than 10% inactivity. In contrast, countries such as Croatia, Bulgaria, Serbia and Montenegro had 
+rates exceeding 50% (Figure 4.19). 
+Several EU countries have developed comprehensive plans to promote physical activity. For example, France introduced its 
+five-year “Sport and Health” Strategy in 2019, aiming to make physical activity accessible to all, regardless of age, socio-economic 
+status, or location. The plan includes measures such as establishing “sport-health houses” for personalised support and training 
+health professionals to prescribe physical activity as a preventive measure or treatment for chronic diseases (Ministère des Sports, 
+2024[3]). At the EU level, the European Commission launched the HealthyLifestyle4All campaign in September 2021. This two-year 
+initiative focused on promoting physical activity, healthy eating, and mental well-being through various activities, including the 
+European Week of Sport. The campaign emphasised the exchange of best practices and innovative approaches to encouraging 
+healthy lifestyles, with a special focus on reducing health inequalities and reaching disadvantaged communities. 
+Definition and comparability 
+The indicator on time spent on (non-work-related) moderate-intensity physical activity is based on data from the third wave of 
+the European Health Interview Survey (EHIS) conducted in 2019. In Germany, data collection for EHIS took place in 2019 and 
+2020. The survey was conducted in 2018 in Belgium, while in Malta and Germany, data collection took place in 2020. Physical 
+activity duration is categorised into three groups: at least 150 minutes per week, 1-149 minutes per week, and 0 minutes per 
+week. 
+Information about the prevalence of non-work-related physical activity frequency during a typical week was gathered through 
+the health module of the European Union Statistics on Income and Living Conditions (EU-SILC) survey conducted in 2022. 
+ 
+References 
+ 
+IHME (2024), Global Burden of Disease Study 2021 (GBD 2021) - Global Health Data Exchange, Institute for Health 
+Metrics and Evaluation. 
+[2] 
+Ministère des Sports (2024), Stratégie Nationale Sport Santé 2019-2024, https://www.sports.gouv.fr/strategie-
+nationale-sport-sante-2019-2024-85. 
+[3] 
+OECD/WHO (2023), Step Up! Tackling the Burden of Insufficient Physical Activity in Europe, OECD Publishing, Paris, 
+https://doi.org/10.1787/500a9601-en. 
+[1] 
+  
+
+
+## Stran PDF 135
+
+   133 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.18. Population spending over 150 minutes per week on physical activity, by gender, 2019 
+ 
+Note: The EU average is weighted. Data for Finland is not available. 
+Source: Eurostat 2024 (hlth_ehis_pe2i). 
+StatLink 2 https://stat.link/duix5a 
+Figure 4.19. Frequency of physical activity outside working time in a typical week, 2022 
+ 
+Note: The EU average is weighted. Data for Germany are not available. Countries are ranked in descending order according to the cumulative frequency of physical 
+activity, encompassing responses from “at least twice daily” to “at least 1-3 times a week”. 
+Source: Eurostat (ilc_hch07b). 
+StatLink 2 https://stat.link/wc41mn
+61
+56
+55
+48
+44
+43
+37
+35
+32
+31
+31
+30
+28
+26
+25
+24
+22
+20
+19
+19
+19
+19
+19
+16
+12
+10
+7
+67
+55
+16
+5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Total
+Men
+Women
+% of population aged 18 years and over 
+5
+14
+11
+25
+13
+32
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+% of adults performing physical activity outside working time in a typical week, by frequency
+At least twice a day
+Once a day
+From 4 to 6 times a week
+From 1 to 3 times a week
+Less than once a week
+Never
+
+
+## Stran PDF 136
+
+134    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Overweight and obesity among children and adolescents 
+Childhood obesity is a serious public health concern with far-reaching consequences. Overweight or obese children face a higher 
+risk of poor health, an effect that persists into adulthood. Furthermore, obesity in children is often associated with psychosocial 
+issues such as low self-esteem, bullying, and academic underachievement, potentially exacerbating health and economic 
+outcomes in later life (OECD, 2019[1]). 
+In 2022, over one in five (21%) 15-years-olds on average across EU countries was classified as either overweight or obese 
+(Figure 4.20). Childhood overweight and obesity rates vary significantly across EU countries, with an over two-fold difference 
+between the lowest and highest rates, ranging from 14% in the Netherlands to 32% in Malta. Across all countries, the prevalence 
+of childhood overweight and obesity is consistently higher among boys than girls. On average in EU countries, 26% of 15-year-old 
+boys were considered to be overweight or obese in 2022 compared to 16% of girls of the same age. In Bulgaria, Estonia, Italy 
+and Poland, the prevalence of overweight and obesity among boys is more than twice that of girls. 
+Since 2010, the prevalence of overweight and obesity has increased among both boys and girls across EU countries on average. 
+This rise was particularly pronounced among boys between 2018 and 2022. No country showed any significant reduction in the 
+proportion of overweight and obese adolescents between 2018 and 2022 (Rakić et al., 2024[2]). 
+Socio-economic factors play a significant role in childhood obesity rates. In all EU countries, children from high-affluence families 
+are less likely to be overweight or obese compared to those from poorer families (Figure 4.21). On average across EU countries, 
+the prevalence of overweight and obesity among children aged 11, 13 and 15 from low-affluence families is 60% higher than 
+among those from high-affluence families. These socio-economic disparities are particularly pronounced in Denmark, Belgium, 
+Luxembourg and Bulgaria, where the prevalence of overweight and obesity is more than twice as high among 15-year-olds from 
+low-affluence families compared to those from more affluent backgrounds. However, three out of these four countries also have 
+a lower-than-average overall prevalence of childhood obesity, making the absolute difference due to affluence smaller. 
+A number of policies to tackle obesity specifically target children. These include restrictions on advertising of food and drinks to 
+children, school-based wellness and educational programmes, reducing the availability of unhealthy food options in schools, and 
+policies to encourage or enable active transport to school (OECD, 2019[1]). Other broader policies, such as warning labels, price 
+interventions, and mass media campaigns, can also contribute to tackling childhood obesity. 
+To support countries in implementing effective policies to combat childhood obesity, the European Union has facilitated 
+collaboration among stakeholders across European countries to identify best practices. Following the 2014-20 EU Action Plan on 
+Childhood Obesity, the European Union funded the Science and Technology in childhood Obesity Policy (STOP) project. This 
+initiative brought together 24 academic and other stakeholders from 13 European countries, the United States and New Zealand 
+to generate evidence on the factors contributing to childhood obesity and the effectiveness of various policies. From 2018 to 2020, 
+the STOP project focused on improving data collection across EU countries, developing evidence-based interventions, and 
+enhancing policy coherence to reduce socio-economic disparities and promote effective solutions (STOP, 2024[3]). 
+Definition and comparability 
+The data come from the Health Behaviour in School-aged Children (HBSC) study. Since 1993-94, the HBSC survey has 
+collected data every four years on the height and weight of children and adolescents aged 11, 13 and 15 years across 
+EU countries and several other countries. The Body Mass Index (BMI) is subsequently calculated from this self-reported 
+information. The classification of overweight and obesity is determined using cut-off points based on the WHO growth reference 
+for age (www.who.int/tools/growth-reference-data-for-5to19-years). 
+The indicator of socio-economic status is based on the Family Affluence Scale, which asks young people about material assets 
+in the household. 
+ 
+References 
+ 
+OECD (2019), The Heavy Burden of Obesity: The Economics of Prevention, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/67450d67-en. 
+[1] 
+Rakić, J. et al. (2024), A focus on adolescent physical activity, eating behaviours, weight status and body image in 
+Europe, central Asia and Canada: Health Behaviour in School-aged Children international report from the 2021/2022 
+survey, World Health Organization. Regional Office for Europe, https://iris.who.int/handle/10665/376772. 
+[2] 
+STOP (2024), What is STOP?, https://www.stopchildobesity.eu/what-is-stop/ (accessed on 26 July 2024). 
+[3] 
+  
+
+
+## Stran PDF 137
+
+   135 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.20. Overweight and obesity rate among 15-year-olds, 2022 
+ 
+Note: The EU average is unweighted. The value for Belgium is the unweighted average of Flanders and Wallonia/Brussels. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/ijxntg 
+Figure 4.21. Inequality in overweight and obesity rates between children and adolescents (aged 11, 13 and 15) from 
+low- and high-affluence families, 2022 
+ 
+Note: The low- and high-affluence groups represent the bottom and top quintiles of socio-economic status within each country, respectively. Socio-economic status is 
+assessed using the Family Affluence Scale, which evaluates household material assets through questions to school-aged children. 
+Source: HBSC Data Browser, https://data-browser.hbsc.org/. 
+StatLink 2 https://stat.link/dr7yb6
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Boys
+Girls
+Total
+% overweight and obesity among 15-year-olds
+21
+22
+23
+26
+11
+13
+15
+16
+2010
+2014
+2018
+2022
+Boys (EU)
+Girls (EU)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Least affluent families
+Most affluent families
+% overweight and obesity among among the 11-, 13- and 15-year-olds
+
+
+## Stran PDF 138
+
+136    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Overweight and obesity among adults 
+Overweight and obesity are major risk factors for numerous non-communicable diseases, including cardiovascular diseases, 
+diabetes, and certain types of cancer. The excessive accumulation of body fat is a significant public health concern across the 
+EU, contributing to increased morbidity and mortality rates. In 2021, an estimated 420 000 deaths in the EU were associated with 
+an excessive body mass index (BMI), highlighting the large impact of overweight and obesity on population health (IHME, 2024[1]). 
+Based on self-reported data, in 2022 over half of the EU population was either overweight or obese. The prevalence of overweight 
+and obesity was consistently higher among men compared to women across all EU countries. On average, 44% of men in the EU 
+were overweight compared to 30% of women, while 16% of men were obese compared to 14% of women (Figure 4.22). 
+Overweight rates were highest among men in Romania (58%) and lowest in France and Belgium (both 38%). Among women, 
+overweight rates were highest in Romania (41%) and lowest in Luxembourg (24%) and France (25%). Obesity rates varied more 
+than threefold among EU countries; they were highest among men in Malta (29%) and Hungary (25%), while among women they 
+were highest in Latvia (24%) and Estonia (23%). In contrast, obesity rates were below 10% in Italy and Romania for both men 
+and women. In 2022, overweight rates (including obesity) across the EU were highest in Malta, where 62% of the population 
+grappled with excess weight, followed closely with Latvia and Finland. In contrast, Italy boasted the lowest rate at 42%, followed 
+by France and Cyprus. 
+Between 2017 and 2022, the EU’s overall overweight and obesity rate showed a marginal improvement, decreasing from 51.8% 
+to 51.3%. However, this masks significant variations among countries. Only ten countries reduced their rates, while some 
+experienced significant increases, such as the Slovak Republic with a rise of over 4 percentage points. In contrast, Czechia and 
+Bulgaria achieved declines of nearly 6 percentage points (Figure 4.23). 
+Educational attainment plays a significant role in the prevalence of overweight and obesity in the EU. Less educated individuals 
+are consistently more prone to overweight and obesity than the most educated. In 2022, 57% of those with lower education were 
+overweight (including obesity), compared to 43% among those with higher education. This education gap varied considerably 
+across EU countries; Portugal stood out with the most pronounced education gap, with a 23 percentage point difference between 
+lower and higher education groups; Malta and Luxembourg follow with a near 20 percentage point gap. Conversely, Latvia had 
+the smallest gap with a mere 1 percentage point difference between education levels, as the rate among the most educated was 
+the highest in the EU, followed by Czechia (3.5 percentage points) and Ireland (5 percentage points) (Figure 4.24). 
+Recent years have seen EU countries implement diverse strategies to combat rising overweight and obesity rates. A standout 
+initiative is the Nutri-Score front-of-pack color-coded labelling system to help consumers make healthier food choices, first 
+introduced by France in 2017. The system’s effectiveness has led to wide adoption across the EU: Belgium introduced it in 2019, 
+followed by Germany in 2020, Luxembourg in 2021 and the Netherlands in 2024 (OECD, 2022[2]; RIVM, 2024[3]). Additionally, in 
+2020 the EU has launched the Farm to Fork Strategy, which aims to make sustainable and healthy food more accessible for all 
+Europeans. A key component of this initiative is the proposed establishment of nutrient profiles, which would restrict the promotion 
+of food above certain maximum thresholds for fat, sugar and salt content (EPRS, 2022[4]). 
+Definition and comparability 
+The prevalence of overweight and obesity is based on data from the European Union Statistics on Income and Living 
+Conditions (EU-SILC). Overweight and obesity are defined using the body mass index (BMI), calculated by dividing an 
+individual’s weight in kilograms by the square of their height in metres. Adults with a BMI ≥25 are considered overweight, and 
+those with a BMI ≥30 are considered obese. 
+In the EU-SILC survey, BMI is calculated using self-reported estimates of body height and weight. Self-reported data can be 
+affected by various biases. The data are stratified by education level according to the International Standard Classification for 
+Education (ISCED) 2011. “Higher education” refers to ISCED Levels 5-8 (tertiary education), while “Lower education” 
+corresponds to ISCED Levels 0-2 (less than upper secondary education). 
+ 
+References 
+ 
+EPRS (2022), “Nutrient profiles A ’farm to fork’ strategy initiative takes shape”, European Parliament Research Service. 
+[4] 
+IHME (2024), Global Burden of Disease Study 2021 (GBD 2021) - Global Health Data Exchange, Institute for Health 
+Metrics and Evaluation. 
+[1] 
+OECD (2022), Healthy Eating and Active Lifestyles: Best Practices in Public Health, OECD Publishing, Paris, 
+https://doi.org/10.1787/40f65568-en. 
+[2] 
+RIVM (2024), Nutri-Score, National Institute for Public Health and the Environment. 
+[3] 
+  
+
+
+## Stran PDF 139
+
+   137 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 4.22. Self-reported adult overweight and obesity rates, by gender, 2022 
+ 
+Notes: “W” refers to data for women, “M” refers to data for men. The EU average is weighted. 1. Data for Germany reflects combined 2017-21 data and is derived from 
+the national Microcensus survey. 
+Source: Eurostat (ilc_hch10). 
+StatLink 2 https://stat.link/5akuqp 
+Figure 4.23. Self-reported adult overweight (including obesity) rates, 2017 and 2022 
+ 
+Note: The EU average is weighted. 1. Data for Germany reflects combined 2017 21 data and is derived from the national Microcensus survey. 
+Source: Eurostat (ilc_hch10). 
+StatLink 2 https://stat.link/d8mrgz 
+Figure 4.24. Self-reported adult overweight (including obesity) rates, by educational level, 2022 
+ 
+Note: The EU average is weighted. 1. Data for Germany pertains to 2017. 
+Source: Eurostat (ilc_hch10). 
+StatLink 2 https://stat.link/agsq85
+41
+42
+43
+58
+44
+41
+47
+51
+49
+41
+46
+44
+51
+43
+50
+41
+40
+43
+43
+41
+44
+44
+41
+38
+39
+42
+38
+45
+42
+51
+52
+40
+29
+22
+22
+10
+20
+25
+20
+19
+21
+21
+19
+22
+12
+19
+14
+18
+22
+16
+19
+19
+16
+16
+19
+17
+13
+16
+15
+8
+18
+14
+10
+15
+31
+33
+33
+41
+35
+32
+33
+32
+34
+30
+32
+33
+36
+29
+35
+31
+27
+32
+28
+28
+30
+29
+24
+28
+30
+27
+25
+26
+31
+32
+29
+24
+23
+24
+22
+10
+21
+20
+17
+15
+13
+23
+17
+14
+12
+20
+10
+17
+17
+16
+17
+19
+14
+14
+15
+15
+14
+11
+15
+6
+15
+10
+6
+12
+0
+10
+20
+30
+40
+50
+60
+70
+80
+MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW MW
+MW MW MW MW
+Overweight (but not obese)
+Obese
+% of the population aged 18 years and over
+51.8
+51.3
+35
+40
+45
+50
+55
+60
+65
+2017
+2022
+% of the population aged 18 years and over 
+57
+43
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Lower education
+Higher education
+% of the population aged 18 years and over
+
+
+## Stran PDF 140
+
+138    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Impact of environmental factors on health 
+The impacts of air pollution and climate change-related events pose a serious threat to people’s physical and mental health today 
+and to future generations. Air pollution increases the risk of various health problems, including respiratory diseases, lung cancer 
+and cardiovascular diseases, with children and older adults particularly vulnerable to its effects. In EU countries, exposure to fine 
+particulate matter (PM2.5) alone – a key air pollutant – is estimated to have caused the death of more than 253 000 people in 2021 
+(European Environment Agency, 2023[1]). Mortality rates from PM2.5 were highest in Central and Eastern Europe, where premature 
+death rates were more than twice as high as the EU average. Conversely, mortality rates from exposure to fine particulate matter 
+were lowest in Nordic countries, Estonia and Ireland, where rates were less than one-fifth of the EU average (Figure 4.25). 
+Climate change can increase the frequency and intensity of extreme temperature events, which can lead to health problems and 
+death. Across EU countries, extreme cold has generally had a greater impact on mortality than heatwaves, although heatwaves 
+have also caused significant numbers of deaths in certain years. The record-warm summer of 2003, for example, caused around 
+80 000 deaths in Europe, and the heatwaves in the summer of 2015 caused more than 3 000 deaths in France alone. High 
+temperatures can also aggravate poor air quality and increase the risk for other climate-change related events, such as wildfires, 
+which can in turn further exacerbate air pollution and impact health and well-being. 
+On average across the 27 EU countries, the proportion of the population who were estimated to have been exposed to any hot 
+summer days – defined as days where the temperature exceeded 35°C – increased from 28% on average from 2000-04 to 38% 
+on average between 2018-22 (Figure 4.26). The proportion of the population who were exposed to hot summer days increased 
+by over 50% in eight EU countries. Countries are already reckoning with the impacts of exposure to hot weather on health, 
+particularly on vulnerable groups, including older adults. Between 1991-2000 and 2013-22, deaths associated with heat among 
+people 65 and older were estimated to have increased by 85% around the world (Romanello et al., 2023[2]) 
+The European Union has recognised the critical need for cross-sectoral policy actions to curb greenhouse gas emissions, addressing 
+the dual threats of air pollution and climate change to human health and the environment. In 2021, as part of the European Green 
+Deal, the European Commission adopted the Zero Pollution Action Plan. This plan set a bold target to reduce premature deaths 
+caused by fine particulate matter (PM2.5) by at least 55% by 2030, compared to 2005 levels (European Commission, 2021[3]). 
+Between 2005 and 2021, the EU witnessed an average annual decline of over 3% in PM2.5-related mortality, culminating in a 
+41% reduction over this period. Extrapolating the progress observed over the past ten years, the target will be overreached at 
+the EU level (European Environment Agency, 2023[1]). To achieve this goal, the EU is revising the air quality standards to align 
+them more closely with the stricter WHO recommendations. In parallel, the Commission will also introduce stricter requirements 
+to tackle air pollution at source from agriculture, industry, transport, buildings and energy, including through a number of 
+European Green Deal measures and strategies (such as Sustainable and Smart Mobility, Renovation Wave and Farm to Fork). 
+Definition and comparability 
+Fine particulate matter (PM) is a mixture of fine solid or liquid particles (e.g. dust, smoke, soot, pollen and soil particles) added 
+into the air mostly by activities using fuel combustion. PM2.5 refers to particulates less than 2.5 micrometres in diameter that 
+are capable of penetrating deep into the respiratory tract. It is linked with illnesses and deaths from diseases of the heart, lung, 
+neurological or metabolic systems. 
+The data on premature deaths due to PM2.5 are based on estimates from the European Environment Agency (European 
+Environment Agency, 2024[4]). Premature death is defined as death occurring before a person reaches the life expectancy for 
+a country by sex. The data relate only to outdoor air pollution, which accounts for a much larger proportion of deaths than 
+indoor air pollution. 
+Data on population exposure to extreme temperatures (hot summer days) present the percentage of the population exposed 
+to any hot summer days averaged over a five-year period. Hot summer days are considered as those when the daily 
+temperature exceeded 35°C. Data are based on indicators prepared by the OECD jointly with the International Energy Agency 
+as part of the OECD International Programme for Action on Climate. 
+ 
+References 
+ 
+European Commission (2021), EU Action Plan: ‘Towards Zero Pollution for Air, Water and Soil’. 
+[3] 
+European Environment Agency (2024), Health impacts of air pollution, Eurostat Database. 
+[4] 
+European Environment Agency (2023), Premature deaths due to exposure to fine particulate matter in Europe, 
+https://www.eea.europa.eu/en/analysis/indicators/health-impacts-of-exposure-to. 
+[1] 
+Maes, M. et al. (2022), “Monitoring exposure to climate-related hazards: Indicator methodology and key results”, OECD 
+Environment Working Papers, No. 201, OECD Publishing, Paris, https://doi.org/10.1787/da074cb6-en. 
+[5] 
+Romanello, M. et al. (2023), “The 2023 report of the Lancet Countdown on health and climate change: the imperative 
+for a health-centred response in a world facing irreversible harms”, The Lancet, https://doi.org/10.1016/s0140-
+6736(23)01859-7. 
+[2] 
+
+
+## Stran PDF 141
+
+   139 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+ 
+Figure 4.25. Premature deaths attributable to PM2.5 exposure, 2021 
+ 
+Note: The EU average is weighted by population. 
+Source: European Environment Agency (EEA) and Eurostat (hlth_cd_iap). 
+StatLink 2 https://stat.link/txirvn 
+Figure 4.26. Share of population experiencing temperatures above 35°C, 2000-04 and 2018-22 
+ 
+Notes: The EU average is unweighted. The data show the percentage of the population exposed to hot temperatures averaged over each five-year period to reduce 
+the impact of any particular heatwave in a given year. 
+Source: OECD Environment Statistics 2024 and Maes, M., et al. (2022[5]), “Monitoring exposure to climate-related hazards: Indicator methodology and key results”, 
+https://doi.org/10.1787/da074cb6-en. 
+StatLink 2 https://stat.link/pri50y
+3
+6
+7
+9
+12
+20
+21
+30
+30
+32
+36
+37
+39
+44
+56
+57
+70
+75
+77
+79
+81
+95
+96
+98 103 107
+125
+158
+0
+7
+19
+164
+174
+217
+255
+0
+50
+100
+150
+200
+250
+300
+Per 100 000 population
+38
+28
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2000-2004
+2018-2022
+%
+
+
+## Stran PDF 142
+
+
+
+## Stran PDF 143
+
+   141 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+This chapter looks at recent trends in health spending, overall and disaggregated by type of 
+health service and provider. There is a particular focus on the impact of COVID-19 and the 
+cost-of-living crisis on health spending. The chapter also analyses how healthcare is 
+financed across Europe and takes a closer look at how much is spent on primary healthcare 
+and pharmaceuticals. After exceptionally high health spending growth in 2020 and 2021, 
+due to additional financial resources mobilised to fight the pandemic and address its 
+consequences, health spending declined in 2022 as EU countries were transitioning out of 
+the acute phase of the health emergency. Additionally, emerging geo-political and economic 
+conditions meant that other emergencies – such as the energy and cost-of-living crisis – 
+weakened the position of health within government priorities. As a result, spending on 
+health as a share of GDP dropped to 10.4% in the EU in 2022, down from 10.9% in 2021. 
+Regarding the financing of healthcare, government and compulsory schemes accounted for 
+around four-fifths of overall health spending across EU countries. However, out-of-pocket 
+expenditure – which can impact individuals’ access to care – remains an important source 
+of health financing in several Southern as well as Central and Eastern European countries. 
+5 Health expenditure and financing 
+
+
+## Stran PDF 144
+
+142    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Health expenditure per capita 
+The level of per capita health spending in a country and its changes over time are determined by a wide range of demographic, 
+social, and economic factors, as well as the financing and organisational arrangements of the country’s health system. Given 
+these factors, there are large variations in the level and growth of health spending across Europe. 
+In 2022, with spending at EUR 5 630 per person, Switzerland was the biggest spender on health in Europe, followed by Norway 
+(EUR 5 376). Among EU countries, health spending in Germany (EUR 5 317) was 50% above the population-weighed EU 
+average of EUR 3 533. Health spending in Austria and the Netherlands was also at least 25% higher than the EU average. Per 
+capita health spending in the EU was lowest in Hungary, Croatia, Bulgaria and Romania, at less than EUR 1 900 per person 
+(Figure 5.1). In some countries outside of the EU, health spending was much less. Türkiye only spent around EUR 1 000 per 
+capita while in Albania this figure stood at less than EUR 800. This means that health spending in high-income countries in 
+Western and Northern Europe can be over five times that in some low-spending countries in Central, Eastern or Southern Europe. 
+After a period of slow growth following the global financial crisis in 2008/09, annual per capita health expenditure growth (adjusted 
+for inflation) picked up and reached 3.4% on average across EU countries between 2015 and 2019 (Figure 5.2). This ranged from 
+very moderate growth rates of less than 1% per year in France, Sweden and Finland, to substantial average annual increases of 
+more than 6% in Cyprus, Lithuania and Latvia, and more than 10% in Romania. 
+The spending trajectory in the 2019-22 period was marked by the COVID-19 pandemic. On average, per capita health spending 
+grew by 3.6% across EU countries per year, slightly above the 3.4% annual growth rate observed in the 2015-19 period. Cyprus, 
+Latvia, Croatia and Bulgaria saw health spending growth of over 7% annually on average, while health spending grew on average 
+less than 1% in Sweden, Belgium and Denmark. 
+Yet, these averages conceal significant variations during the period. With the onset of COVID-19 pandemic in early 2020, 
+governments allocated unprecedented financial resources to the health sector to combat COVID-19 and address its 
+consequences. Average health spending growth reached nearly 6% in real terms in 2020, and accelerated to 9.6% in 2021 across 
+the EU, as significant funds were made available to track the virus, increase system capacity, develop treatment options, and 
+eventually roll out vaccines to the population. As the pandemic moved towards the end of the acute phase in many countries, 
+governments eased emergency health measures. In addition, emerging geo-political and economic conditions meant that other 
+emergencies – such as the energy and cost-of-living crisis – weakened the position of health within government priorities (OECD, 
+2024[1]). As a result, health spending per capita dropped sharply in 2022 by 3.7% across the EU, with negative growth of over 10% 
+in Czechia and Latvia. 
+Preliminary estimates for 2023 point to a further contraction of health spending in around half of EU countries. This suggests the 
+spending trajectory of health systems is returning to pre-pandemic levels, with few signs of significant uplifts in health spending in 
+the short term to make health systems more resilient. 
+Definition and comparability 
+Expenditure on health, as defined in the System of Health Accounts (OECD/Eurostat/WHO, 2017[2]) measures the final 
+consumption of health goods and services. This refers to current spending on medical services and goods, public health and 
+prevention programmes, and overall administration of healthcare provision and financing irrespective of the type of financing 
+arrangement. Subsidies paid to providers as part of targeted programmes to support the health sector should also be included 
+in the figures. 
+Countries’ health expenditures are converted into a common currency (Euro) and are adjusted to take account of the different 
+purchasing power of the national currencies. Economy-wide Actual Individual Consumption (AIC) PPPs are used to compare 
+relative expenditure on health in relation to the rest of the economy. 
+For the calculation of growth rates in real terms, economy-wide AIC deflators are used. Although some countries produce their 
+own health-specific deflators, these are not currently used due to the limited availability and comparability across all countries. 
+ 
+References 
+ 
+OECD (2024), Fiscal Sustainability of Health Systems: How to Finance More Resilient Health Systems When Money Is 
+Tight?, OECD Publishing, Paris, https://doi.org/10.1787/880f3195-en. 
+[1] 
+OECD/Eurostat/WHO (2017), A System of Health Accounts 2011: Revised edition, OECD Publishing, Paris, 
+https://doi.org/10.1787/9789264270985-en. 
+[2] 
+  
+
+
+## Stran PDF 145
+
+   143 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 5.1. Health expenditure per capita, 2022 (or nearest year) 
+ 
+Note: The EU average is weighted (based on OECD calculations). 
+Source: OECD Health Statistics 2024; Eurostat (hlth_sha11_hf); WHO Global Health Expenditure Database. 
+StatLink 2  https://stat.link/7j8azi 
+Figure 5.2. Average annual growth rate (real terms) in per capita health spending, 2015-22 (or nearest year) 
+ 
+Note: The EU average is unweighted. If necessary, growth rates and time periods have been adjusted by the OECD Secretariat to take account of breaks in series. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_sha11_hf); WHO Global Health Expenditure Database. 
+StatLink 2  https://stat.link/9zron5
+5 317
+4 745
+4 530
+4 363
+4 354
+4 316
+4 310
+4 189
+4 149
+3 645
+3 533
+3 481
+2 947
+2 932
+2 884
+2 866
+2 822
+2 814
+2 317
+2 014
+2 001
+1 947
+1 928
+1 908
+1 867
+1 859
+1 786
+1 632
+5 630
+5 376
+3 748
+3 651
+1 593
+1 517
+1 142
+1 072
+1 034
+734
+ 0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+EUR PPP
+0.7
+0.9
+0.9
+1.0
+1.1
+1.2
+1.3
+1.3
+1.4
+1.6
+2.2
+2.4
+2.8
+2.8
+3.0
+3.4
+3.7
+3.9
+3.9
+4.2
+4.5
+5.1
+5.2
+5.9
+6.2
+6.8
+7.7
+10.7
+1.0
+1.4
+1.8
+3.4
+4.3
+2.2
+0.7
+2.2
+1.5
+4.5
+0.5
+1.0
+0.6
+1.8
+3.4
+1.5
+5.2
+4.0
+2.6
+3.6
+3.6
+3.8
+5.2
+3.7
+8.6
+2.9
+2.7
+7.1
+4.5
+10.4
+3.2
+7.6
+3.4
+2.1
+2.2
+3.4
+3.0
+5.2
+0
+2
+4
+6
+8
+10
+12 %
+2015-19
+2019-22
+
+
+## Stran PDF 146
+
+144    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Health expenditure in relation to GDP 
+The resources that a country allocates to healthcare compared to the size of the overall economy vary over time due to differences 
+in both the growth of health spending and overall economic growth. During the 1990s and early 2000s, EU countries generally 
+saw health spending outpace the rest of the economy, leading to a nearly continual rise in the ratio of health expenditure to gross 
+domestic product (GDP). However, this trend was disrupted by the financial and economic crisis of 2008/09. The COVID-19 
+pandemic also led to fundamentally diverging growth patterns of health spending and economic output, resulting in a major 
+adjustment of this indicator. 
+In 2022, 10.4% of the GDP of the EU was devoted to healthcare (Figure 5.3). With 12.6%, Germany dedicated the highest share 
+of its economic output to health, followed by France and Austria (over 11% of their respective GDP). Belgium, Sweden and 
+Portugal also spent 10.5% or more of their GDP on health. The lowest shares of the overall economic output allocated to health 
+were recorded in Luxembourg (5.6%), Romania (5.7%), Ireland (6.1%) and Poland (6.4%). Across Europe, Switzerland and the 
+United Kingdom were additional high spenders on health (with shares at over 11%), while Türkiye allocated the lowest share 
+(3.7%). 
+Between 2015 and 2019, health expenditure per capita growth was broadly in line with GDP per capita growth in EU countries 
+(Figure 5.4), with both indicators averaging an annual growth rate of around 3% in real terms. Consequently, health expenditure 
+as a share of GDP remained relatively stable over the same period in many countries, at around 10% across the EU. 
+The period 2019 to 2022, characterised by the COVID-19 pandemic and associated economic turmoil, saw disruptions to the 
+health expenditure-to-GDP ratio. In 2020, lockdown measures and restrictions on economic activity led to a contraction of GDP 
+per capita of nearly 5% across EU countries. However, the rollout of vaccination programmes across Europe and the easing of 
+COVID-19 restrictions allowed GDP to recover strongly in 2021. At the same time, the pandemic brought a new array of direct 
+and indirect costs for the health sector, associated with the treatment and management of COVID-19 patients, the scaling up of 
+treatment capacity, and ensuring the continuation of routine care. Annual growth in per capita health expenditure reached a rate 
+of nearly 6% in 2020 and growth accelerated to 9.6% in 2021 across EU countries (Figure 5.4). As a result, health expenditure as 
+a share of GDP jumped by 1 percentage point to 10.9% in 2020 across the EU, continuing into 2021. 
+Hopes for a return to more stable economic conditions in 2022 were dented by Russia’s war on Ukraine and widespread 
+disruptions in supply chains, on top of the lingering effects of COVID-19. This placed upward pressure on prices, especially for 
+energy and food, leading to inflation levels not seen for decades and a slowdown in GDP growth (OECD, 2023[1]). These economic 
+and geopolitical challenges affected countries’ ability to fund health spending. At the same time, countries were emerging from 
+the acute stage of the pandemic and rolling back COVID-19 measures. Consequently, health spending per capita fell on average 
+by 3.7% in real terms across EU countries, causing the health spending-to-GDP ratio to also fall to 10.4% in 2022 across the EU. 
+The trajectory in the health expenditure-to-GDP ratio of selected EU economies, such as France, Italy, Germany and Spain, has 
+followed closely the EU-wide trend. From 2015 to 2019, the ratio in these countries remained stable, with minor fluctuations not 
+exceeding half a percentage point. However, a significant increase was observed in 2020. In Spain, the health spending-to-GDP 
+ratio surged by 1.6 percentage points to from 9.1% in 2019 to 10.7% in 2020. In France, Italy and Germany this increase was 
+more limited at around 1 percentage point. In 2021, this indicator increased further in France and Germany while decreasing in 
+Italy and Spain. In 2022, the health expenditure as a share of GDP declined in all of the four selected countries (Figure 5.4). 
+Definition and comparability 
+Gross domestic product (GDP) is the sum of final consumption, gross capital formation and net exports. Final consumption 
+includes all the goods and services used by households or the community to satisfy their needs. It includes final consumption 
+expenditure of households, general government and non-profit institutions serving households. 
+The GDP figures used to calculate the indicator health expenditure to GDP are based on official GDP data available as of mid-
+June 2024. 
+In countries such as Ireland and Luxembourg, where a significant proportion of GDP refers to profits exported and not available 
+for national consumption, gross national income (GNI) may be a more meaningful measure than GDP, but for international 
+comparability, GDP is used throughout. 
+ 
+References 
+ 
+OECD (2023), “Health care financing in times of high inflation”, https://www.oecd.org/en/publications/health-care-
+financing-in-times-of-high-inflation_78c11b24-en.html. 
+[1] 
+  
+
+
+## Stran PDF 147
+
+   145 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 5.3. Health expenditure as a share of GDP, 2022 (or nearest year) 
+ 
+Note: The EU average is weighted. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_sha11_hf); WHO Global Health Expenditure Database. 
+StatLink 2  https://stat.link/eyd8n9 
+Figure 5.4. Trends in health expenditure in EU27 and selected countries, 2015-22 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_sha11_hf and nama_10_gdp). 
+StatLink 2 https://stat.link/h876d1
+12.6
+11.9
+11.2
+10.8
+10.5
+10.5
+10.4
+10.1
+9.8
+9.7
+9.7
+9.6
+9.5
+9.1
+9.0
+8.8
+8.5
+7.7
+7.7
+7.6
+7.3
+7.2
+7.0
+6.7
+6.4
+6.1
+5.7
+5.6
+11.7
+11.1
+10.6
+9.7
+9.1
+8.7
+8.4
+8.0
+7.9
+7.7
+7.4
+7.3
+3.7
+0
+2
+4
+6
+8
+10
+12
+14
+Government/compulsory schemes
+Voluntary schemes/household out-of-pocket payments
+%
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Annual growth in per capita health expenditure and GDP
+Health expenditure
+GDP
+% increases in real terms
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+% 
+Health expenditure as a share of GDP
+France
+Germany
+Italy
+Spain
+EU27
+
+
+## Stran PDF 148
+
+146    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Financing of health expenditure 
+There is a variety of financing arrangements through which individuals or groups of the population obtain healthcare -in some of 
+these arrangements participation is automatic or compulsory, in others it is at people’s discretion. Government financing schemes, 
+on a national or sub-national basis or for specific population groups, entitle individuals to healthcare based on residency. The 
+other main method of financing is some form of compulsory health insurance (managed through public or private entities). 
+Spending by households (out-of-pocket spending), both on a fully discretionary basis and part of some co-payment arrangement, 
+can constitute a significant part of overall health spending. Finally, voluntary health insurance, in its various forms, can also play 
+an important funding role in some countries. 
+Coverage through government schemes or compulsory health insurance forms the bulk of healthcare financing across the EU. 
+Taken together, 81% of total health spending in the EU was financed through these schemes in 2022 (Figure 5.5). Central, 
+regional, or local government schemes in Sweden and Denmark covered around 85% of all health spending in these countries. 
+In Luxembourg, Croatia, Germany, France and the Netherlands, compulsory health insurance financed more than three-quarters 
+of all health spending. 
+Across EU countries, out-of-pocket payments accounted for 15% of all health spending in 2022 on average. However, households 
+had to finance directly more than 30% of all spending in Lithuania, Latvia, Bulgaria and Greece. The reliance on household 
+financing is even higher in some countries outside of the EU. In North Macedonia, Ukraine and Albania, out-of-pocket payments 
+made up 40-60% of all health spending. Meanwhile in Croatia, France and Luxembourg, the share of out-of-pocket spending was 
+below 10%. Yet, the share of out-of-pocket spending is not static, and some countries have made notable progress in reducing 
+the direct health financing burden of households in recent years. Cyprus, for example, has made substantial investment to 
+increase public healthcare coverage and consequently the out-of-pocket share dropped from 44% in 2018 to 15% in 2022 
+(OECD/European Observatory on Health Systems and Policies, 2023[1]). Only in Ireland and Slovenia did voluntary health 
+insurance (VHI) finance slightly more than 10% of health spending, compared to the EU average of 3%. 
+To pay for healthcare services, financing schemes rely on different types of revenues. In 2022, public sources (which includes 
+government transfers and social insurance contributions) funded 77% of all health spending on average across EU countries. 
+Where government financing schemes are the principal financing mechanism, such as in Sweden and Denmark, government 
+transfers fund 85% or more of healthcare expenditure. In countries such as Croatia, Poland, Slovenia and Germany, the majority 
+of public funding refers to social insurance contributions payable by employers and employees. In some countries with social 
+health insurance, government schemes do not play a big role as purchasers of health services but provide transfers and subsidies 
+to other schemes. For example, in Belgium, Czechia and Hungary, government transfers to social health insurance schemes are 
+an important funding source. 
+Public budgets finance many different services and healthcare is competing for funds with other sectors such as education, defence, 
+and housing. Health spending accounted for an average of 15% of total government expenditure across the EU in 2022 (Figure 5.6). 
+In Ireland and Germany, the share of public spending dedicated to healthcare was around 20%, while in Hungary and Greece, it 
+was around 10%. Since 2015, these shares have risen in most EU countries, with the share of total government expenditure 
+allocated to health increasing by around 1.5 percentage points on average. Most notably, Cyprus initiated a reform in 2019 to extend 
+healthcare coverage through a new General Health System, leading to a large increase in public spending on health. 
+While the pandemic exerted major upward pressure on health budgets during 2020, similar pressures were felt in other areas of 
+public spending, so the share of public spending dedicated to health remained unchanged compared to 2019. However, 2021 
+saw a jump in the share of the budget dedicated to health (increasing by 1 percentage point), only dropping marginally in 2022. 
+Definition and comparability 
+The financing of healthcare can be analysed from the point of view of financing schemes (financing arrangements through 
+which health services are paid for and obtained by people such as government schemes, social health insurance, voluntary 
+health insurance, out-of-pocket payments) and types of revenues that financing schemes have to raise to pay for healthcare 
+for the population these schemes are covering (e.g. government transfers, social insurance contributions, private insurance 
+premium payments) (OECD/Eurostat/WHO, 2017[2]) 
+Total government expenditure, as defined in the System of National Accounts, includes as major components: intermediate 
+consumption, compensation of employees, interest, social benefits, social transfers in kind, subsidies, other current 
+expenditure and capital expenditure payable by central, regional and local governments as well as social security funds. 
+ 
+References 
+ 
+OECD/European Observatory on Health Systems and Policies (2023), Cyprus: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/43898784-en. 
+[1] 
+OECD/Eurostat/WHO (2017), A System of Health Accounts 2011: Revised edition, OECD Publishing, Paris, 
+https://doi.org/10.1787/9789264270985-en. 
+[2] 
+  
+
+
+## Stran PDF 149
+
+   147 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 5.5. Health expenditure by type of financing, 2022 (or nearest year) 
+ 
+Note: Countries are ranked by government schemes and compulsory health insurance as a share of health expenditure. The EU average is weighted. The “Other” 
+category refers to charities, employers, foreign and undefined schemes. VHI refers to voluntary health insurance. OOP refers to out-of-pocket payments. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_sha11_hf); WHO Global Health Expenditure Database. 
+StatLink 2  https://stat.link/2jias4 
+Figure 5.6. Health expenditure from public sources as a share of total government expenditure, 2015 and 2022 (or 
+nearest year) 
+ 
+Note: For those countries without information on sources of revenues, data from financing schemes are used. The EU average is unweighted. 
+Source: OECD Health Statistics 2024; OECD National Accounts Database; Eurostat (hlth_sha11_hf). 
+StatLink 2  https://stat.link/59nx42
+12
+7
+86
+11 14
+4
+85
+10
+26 29
+10
+66
+17
+35
+77
+21
+10
+74 70
+11 11 11
+67
+9
+65
+16
+60
+30
+86 85 82
+27
+3
+25
+5
+1
+1
+7
+49
+41
+4
+75 79
+74 71
+80
+75
+55 52
+70
+13
+61
+43
+1
+54
+65
+4
+63 63 61
+57
+48
+2
+32
+48
+66
+43
+62
+61 61 48
+36
+1
+3
+1
+5
+6
+2
+4
+3
+3
+2
+1
+5
+11
+5
+1
+2
+6
+13
+5
+2
+3
+2
+4
+1
+7
+4
+3
+3
+6
+1
+3
+2
+7
+11
+9
+13
+9
+14
+9
+13 10 15 15 19 16 21 16 11
+20 23 23 19 12
+19 24 30 32 31 35 30 34
+14 14 13
+19 31 22
+29 37 38 42
+48
+40 60
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+3
+4
+4
+1
+12
+0
+20
+40
+60
+80
+100
+%
+Government schemes
+Compulsory contributory health insurance schemes
+VHI
+OOP payments
+Other
+22
+20
+19
+18
+18
+17
+16
+16
+16
+15
+15
+15
+15
+15
+15
+15
+15
+14
+13
+13
+12
+12
+12
+11
+11
+11
+10
+10
+20
+18
+17
+12
+10
+0
+5
+10
+15
+20
+25
+%
+2022
+2015
+
+
+## Stran PDF 150
+
+148    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Health expenditure by type of service 
+A variety of factors, including disease burden, system priorities, organisational aspects, and costs, determine the allocation of 
+resources across different types of healthcare services. In EU countries, curative and rehabilitative care services constitute the 
+bulk of health spending, primarily delivered through inpatient and outpatient services, which accounted for nearly 60% of all health 
+expenditures in 2022. About one-fifth of health spending is directed toward medical goods (mostly pharmaceuticals), followed by 
+15% on health-related long-term care. The remaining 9% is spent on collective services such as prevention and public health, as 
+well as the administration of healthcare systems (Figure 5.7). 
+Inpatient care involves a formal admission into a healthcare facility, usually a hospital, for treatment expected to require an 
+overnight stay. In 2022, Cyprus, Romania and Greece reported the highest share of total health spending allocated to inpatient 
+services at around 40%. In contrast, Nordic countries such as Finland and Sweden along with the Netherlands, allocated much 
+less to inpatient services – about 20% of overall health spending. 
+Outpatient care includes services provided to patients who are not formally admitted to a facility and do not stay overnight, and 
+encompasses generalist and specialist outpatient services, dental care, homecare, and ancillary services. Spending on outpatient 
+care services made up around 45% of all health spending in Portugal, Latvia, Estonia and Finland, compared to an EU average 
+of 29%. On the other end of the scale, Romania and Bulgaria allocated less than a fifth of their health spending to outpatient care. 
+Retail medical goods (mainly pharmaceuticals) consumed in outpatient settings represent the third largest category of spending. 
+In 2022, the highest share of medical goods spending was observed in Bulgaria, the Slovak Republic and Greece, where it 
+constituted up to a third of health spending. In contrast, Denmark, Ireland and the Netherlands spent only around 10% of their 
+total health expenditures on medical goods. 
+Spending on long-term care services accounted for 15% of total health spending on average in 2022 across EU countries. The 
+Netherlands, Sweden and Norway – countries with well-established formal long-term care systems – allocated more than a quarter 
+of their health spending to long-term care in 2022. Spending on long-term care was lowest in the Slovak Republic, Greece, Cyprus 
+and Croatia, suggesting the reliance on more informal care arrangements in those countries. 
+The COVID-19 pandemic changed health spending patterns to some degree. Figure 5.8 compares the average annual per capita 
+spending growth rates for key services for the years 2015-19 with 2019-22 across the EU. While average annual spending growth 
+of preventive services increased substantially during the pandemic, for a number of healthcare services including outpatient care 
+and long-term care year-on-year spending growth rates in pre-COVID-19 years were above those recorded throughout the 
+pandemic. Little change can be observed for spending on inpatient care and pharmaceuticals. Their average annual growth rates 
+before and during the pandemic were similar. 
+In the years preceding the COVID-19 crisis, annual spending growth rates were relatively stable and averaged 1-2% per year for 
+pharmaceuticals, while annual increases for long-term care, outpatient care, and prevention stood at 4% or more. On the other 
+hand, the compound annual growth rates during the pandemic hide some important fluctuation between years. Notably, spending 
+on preventive care surged by an average of 50% in 2020 and 2021 as countries allocated significant resources to testing, tracing, 
+surveillance, public information campaigns, and vaccination rollouts. However, this increase was short-lived, with spending on 
+prevention contracting by nearly 20% in 2022. As a result, the share of total health spending allocated to prevention was more 
+than 4% in 2022, up from slightly less than 3% in 2019. Likewise, growth in inpatient care spending reached 9% in 2020 across 
+the EU due to COVID-19-related expenditures, before returning to pre-pandemic levels in 2022. For outpatient care, spending 
+growth was stagnating in 2020 but jumped to 10% in 2021, due to deferrals of visits to outpatient facilities in 2020, before dropping 
+again in 2022. Long-term care and pharmaceutical spending increased slightly during the pandemic as care homes faced higher 
+costs (e.g. for infection control measures, staff illness), and governments purchased COVID-19 masks and personal protective 
+equipment. However, spending growth significantly contracted in 2022 for both functions. 
+Definition and comparability 
+The System of Health Accounts (OECD/Eurostat/WHO, 2017[1]) defines the boundaries of the healthcare system from a 
+functional perspective, with healthcare functions referring to the different types of healthcare services and goods. Current 
+health expenditure comprises personal healthcare (curative and rehabilitative care, long-term care, ancillary services and 
+medical goods) and collective services (prevention and public health services as well as health administration). Curative, 
+rehabilitative and long-term care can also be classified by mode of provision (inpatient, day care, outpatient and home care). 
+In some countries, ancillary services consumed or medical goods used during an inpatient stay may be allocated in to other 
+categories due to data limitations. 
+For the calculation of growth rates in real terms, economy-wide actual individual consumption (AIC) deflators are used. 
+ 
+References 
+ 
+OECD/Eurostat/WHO (2017), A System of Health Accounts 2011: Revised edition, OECD Publishing, Paris, 
+https://doi.org/10.1787/9789264270985-en. 
+[1] 
+  
+
+
+## Stran PDF 151
+
+   149 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 5.7. Health expenditure by type of service, 2022 (or nearest year) 
+ 
+Note: Countries are ranked by curative-rehabilitative care as a share of health expenditure. The EU average is weighted. * Refers to curative-rehabilitative care in 
+inpatient and day care settings. ** Includes home care and ancillary services and can be provided in ambulatory care settings or hospitals. 
+Source: OECD Health Statistics 2024. Eurostat (hlth_sha11_hc). 
+StatLink 2  https://stat.link/wnqzvj 
+Figure 5.8. Average annual growth rates of health expenditure per capita for selected goods and services, EU average, 
+in real terms, 2015-22 
+ 
+Note: The EU average is unweighted. Pharmaceuticals include other medical non-durables (e.g. medical face masks). 
+Source: OECD Health Statistics 2024. 
+StatLink 2  https://stat.link/tlxkbu
+44
+26
+37
+26
+31
+23
+34
+30
+42
+28
+29
+43
+20
+30
+26
+27
+27
+23
+31
+33
+37
+28
+38
+28
+22
+24
+26
+22
+35
+24
+32
+29
+26
+22
+33
+45
+33
+43
+35
+42
+31
+33
+21
+34
+33
+19
+42
+32
+35
+32
+32
+36
+29
+26
+22
+29
+19
+28
+33
+32
+25
+28
+32
+42
+30
+31
+30
+32
+3
+5
+8
+4
+3
+10
+4
+13
+2
+9
+10
+6
+18
+7
+12
+19
+21
+13
+21
+22
+15
+4
+16
+26
+16
+19
+28
+1
+3
+20
+19
+29
+20
+15
+19
+19
+22
+22
+17
+25
+16
+29
+21
+20
+26
+14
+29
+26
+21
+13
+10
+16
+11
+13
+18
+33
+19
+12
+23
+18
+11
+27
+26
+13
+11
+10
+15
+4
+5
+4
+5
+9
+7
+7
+8
+6
+7
+8
+7
+7
+9
+6
+7
+8
+10
+11
+8
+6
+9
+6
+9
+6
+5
+12
+11
+5
+4
+5
+10
+5
+11
+0
+20
+40
+60
+80
+100
+Inpatient care*
+Outpatient care**
+Long-term care (health)
+Medical goods
+Collective services
+%
+3.1
+4.7
+4.0
+1.8
+4.2
+3.1
+3.2
+2.8
+2.7
+1.4
+23.6
+2.3
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Inpatient care
+Outpatient care
+LTC (health)
+Pharmaceuticals
+Prevention
+Administration
+%
+2015-19
+2019-2022
+
+
+## Stran PDF 152
+
+150    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Expenditure on primary healthcare 
+Effective primary healthcare is the cornerstone of an efficient, people-centred, and equitable health system. While the COVID-19 
+pandemic has highlighted the importance of resilient primary healthcare systems, in many EU countries, the potential of primary 
+healthcare has not yet been fully realised (OECD, 2020[5]). 
+In 2022, EU countries allocated an average of 13% of their health budgets to primary healthcare, with this proportion ranging 
+between less than 10% in Luxembourg and the Netherlands and close to 20% in Estonia and Lithuania (Figure 5.9). On average, 
+the share of primary healthcare in overall health spending in 2022 was similar to the one observed in the pre-pandemic period. 
+With the onset of the COVID-19 health emergency, there was an initial drop in the share of spending on primary healthcare partly 
+due to the postponement of service use, in particular for dental care. In 2021, a “catch-up” effect was observed, with the share of 
+overall health spending dedicated to primary healthcare increasing in most EU countries. 
+General outpatient care (e.g. GP visits) is the most important component of primary healthcare spending, accounting for nearly 
+half of all primary healthcare costs in the EU. There is a significant variation in this component across countries, with the share of 
+general outpatient care in total health expenditure exceeding 10% in Poland and Slovenia while being 4% or lower in France, 
+Germany and Luxembourg. Dental care accounts for over one-third of primary healthcare spending on average across the EU 
+and displays a similar variation. Top spenders include Estonia and Lithuania where spending on dental care represents 10% of 
+the overall health budget. This share is significantly smaller in the Netherlands and Spain (3%). The remaining components of 
+primary healthcare are prevention (if provided by ambulatory care providers) and home-based curative care, which both only 
+make up a small proportion, representing on average 11% and 5% of all primary healthcare spending, respectively. 
+The COVID-19 pandemic has had a substantial impact on total preventive spending – referring to preventive services by 
+ambulatory care providers and other providers. While, on average, spending on prevention stood at slightly less than 3% of overall 
+health spending in the EU between 2015 and 2019, the mobilisation of additional funding for COVID-19 public health measures 
+led to a two-step increase of this indicator in 2020 (to 3.3%) and 2021 (to 5.5%). This was the result of the substantial financial 
+resources going into testing programmes to detect the virus, pandemic surveillance, emergency co-ordination, and vaccination 
+campaigns. With the phasing out of many of the pandemic emergency measures in 2022, the share of overall health expenditure 
+allocated to prevention dropped again (to 4.3%) but remained above pre-crisis levels (Figure 5.10). In 2022, the highest spenders 
+on prevention were Germany and Austria who dedicated between 7-8% of their total health budget to it. On the other hand, in 
+2022, preventive spending represented only a relatively small share of the health budget in Poland and the Slovak Republic. 
+To what extent some of the recent investments in prevention and public health interventions go beyond time-limited emergency 
+measures and have a more lasting impact on population health is unknown at this stage. That being said, one important lesson 
+of the COVlD-19 pandemic was that EU health systems were not able to cope with a health emergency of this magnitude. OECD 
+analysis suggests that targeted additional spending on preventive care is needed as one component of a strategy to strengthen 
+countries’ health system resilience and their agility to respond to pandemics and other evolving threats (OECD, 2023[6]). 
+Definition and comparability 
+The OECD has developed a methodological framework based on the System of Health Accounts to estimate primary 
+healthcare spending on which the results presented here are based (Morgan and Mueller, 2018[7]). The following functions are 
+identified as basic care services: (i) General outpatient curative care (e.g. routine visits to a GP or nurse for acute or chronic 
+treatment); (ii) Dental outpatient curative care (e.g. regular control visits as well as more complex oral treatment); 
+(iii) Home-based curative care (mainly referring to home visits by GPs or nurses); (iv) Preventive care services 
+(e.g. immunisation or health check-ups). 
+Where basic care services are provided by ambulatory healthcare providers such as doctors, dentists, ambulatory healthcare 
+centres and home healthcare service providers, this may be considered a proxy for primary healthcare, and this definition is 
+used here. Yet primary healthcare is a complex concept, and no definitive consensus exists on which services or providers 
+should be included. 
+Comparability for this indicator is still limited and primarily depends on countries’ capacity and methods used to distinguish 
+between general outpatient and specialist services. 
+ 
+References 
+ 
+Morgan, D. and M. Mueller (2018), “Deriving preliminary estimates of primary care spending under the SHA 2011 
+framework”, OECD, Paris, https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/health-spending-and-financial-
+sustainability/deriving-preliminary-estimates-of-primary-care-spending-under-the-SHA-2011-framework.pdf. 
+[3] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[2] 
+OECD (2020), Realising the Potential of Primary Health Care, OECD Health Policy Studies, OECD Publishing, Paris, 
+https://doi.org/10.1787/a92adee4-en. 
+[1] 
+  
+
+
+## Stran PDF 153
+
+   151 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 5.9. Spending on primary healthcare services as share of current health expenditure, 2022 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024. 
+StatLink 2  https://stat.link/v1hfy2 
+Figure 5.10. Share of spending on prevention in current health expenditure, 2019-22 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024. 
+StatLink 2  https://stat.link/nbec9v
+19
+19
+18
+17
+17
+16
+16
+14
+13
+13
+13
+13
+13
+12
+12
+12
+12
+11
+11
+10
+10
+10
+9
+9
+18
+15
+15
+12
+8
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+%
+General outpatient care
+Dental care
+Home-based curative care
+Prevention
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+% 
+2019
+2022
+
+
+## Stran PDF 154
+
+152    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Health expenditure by provider 
+Healthcare is delivered by a wide variety of providers ranging from hospitals and medical practices to ambulatory facilities and 
+retailers, which impacts expenditure patterns for various healthcare goods and services. Analysing health spending by provider 
+can be particularly useful when considered alongside the functional breakdown of health expenditure, giving a fuller picture of the 
+organisation of health systems. 
+The way healthcare delivery is organised differs substantially across EU countries, resulting in a wide variation in the distribution 
+of health spending across providers. Hospitals are the healthcare provider that consumes the largest part of the total health budget 
+in the EU. In 2022, they accounted for around 37% of all health spending. This proportion was much higher in Cyprus, Croatia, 
+Czechia and Spain, which allocated over 45% of all health expenditure to hospitals. On the other hand, this share was less than 
+one-third in Lithuania, Luxembourg and Germany (Figure 5.11). 
+With roughly one-fourth of total health spending, the ambulatory sector constituted the second largest group of health providers 
+in the EU in 2022. As in the case of hospitals, the proportion of spending going to ambulatory providers in overall health spending 
+varied significantly between EU countries, ranging from 30% or more in Germany, Luxembourg and Finland to only around 15% 
+in Bulgaria, Greece, Croatia and Romania. 
+The remaining key health provider categories are retailers (primarily pharmacies) and long-term care facilities (predominantly 
+providing inpatient care to dependent people), which accounted for 17% and 9% of the EU’s total health budget in 2022, 
+respectively. 
+Across EU countries, there is a wide variation in the range of activities that may be performed by the same category of provider, 
+reflecting differences in the structure and organisation of health systems. These differences are particularly pronounced in 
+hospitals (Figure 5.12). While hospitals are primarily focused on providing inpatient curative and rehabilitative care, they can also 
+provide outpatient care through emergency departments or specialists. In some countries, such as Bulgaria, Germany and 
+Greece, hospitals are rather mono-functional and primarily geared towards the delivery of inpatient services, accounting for around 
+90% of total hospital spending. In Finland, Croatia and Portugal, on the other hand, the share of inpatient spending is much lower 
+(around 40%). In these countries – but also in Denmark, Sweden and Estonia – a substantial share of hospital budgets is allocated 
+to outpatient care services. Finally, in some EU countries, a significant amount of the total financial resources going to hospitals 
+are spent on day care activity, such as same-day elective surgeries or dialysis. In Belgium, Cyprus and Croatia, almost a quarter 
+of all hospital spending were allocated to this mode of provision. 
+The hospital spending trajectory has been influenced to some extent by the COVID-19 pandemic. Across the EU, the financial 
+resources allocated to hospitals grew by more than 8% (in real terms) in 2020 and by more than 6% in 2021. These increases 
+can be partly explained by the additional resources to build up capacity and treat COVID-19 patients, as well as subsidies going 
+to these facilities (mainly in 2020) and the mobilisation of additional funding to address the backlog of patients (in 2021 in some 
+countries). In 2022, hospital spending dropped by around 2% in the EU as exceptional COVID-19 funding dried up. Yet, the share 
+of hospital spending in overall health spending in 2022 is above the one seen in 2019. 
+Definition and comparability 
+The universe of healthcare providers is defined in the System of Health Accounts (OECD/Eurostat/WHO, 2017[1]) and 
+encompasses primary providers, i.e. organisations and actors that deliver healthcare goods and services as their primary 
+activity, as well as secondary providers for which healthcare provision is only one among a number of activities. 
+The main categories of primary providers are hospitals (acute and psychiatric), residential long-term care facilities, ambulatory 
+providers (practices of GPs and specialists, dental practices, ambulatory healthcare centres, providers of home healthcare 
+services), providers of ancillary services (e.g. ambulance services, laboratories), retailers (establishments whose primary 
+activity is the retail sale of medical goods, e.g. pharmacies), and providers of preventive care (e.g. public health institutes). 
+Secondary providers include residential care institutions whose main activities might be the provision of accommodation but 
+also provide nursing supervision as a secondary activity, supermarkets that sell over-the-counter medicines, or facilities that 
+provide healthcare services to a restricted group of the population such as prison health services. Secondary providers also 
+include providers of healthcare system administration and financing and households as providers of home healthcare. 
+Health facilities are classified into a provider category based on their principal activity. Depending on the organisation of 
+healthcare in a country, there may be challenges to clearly distinguish services provided by outpatient units and inpatient units 
+if they are part of an integrated service delivery model.  
+ 
+References 
+ 
+OECD/Eurostat/WHO (2017), A System of Health Accounts 2011: Revised edition, OECD Publishing, Paris, 
+https://doi.org/10.1787/9789264270985-en. 
+[1] 
+  
+
+
+## Stran PDF 155
+
+   153 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 5.11. Health expenditure by provider, 2022 (or nearest year) 
+ 
+Note: The EU average is weighted. 
+Source: OECD Health Statistics 2024 and Eurostat (hlth_sha11_hp). 
+StatLink 2  https://stat.link/809ism 
+Figure 5.12. Hospital expenditure by type of service, 2022 (or nearest year) 
+ 
+Note: The EU average is weighted. * Refers to curative-rehabilitative care provided to outpatients or at their homes and ancillary services. ** Refers to LTC services 
+for people with LTC needs. *** Includes medical goods and collective health services. 
+Source: OECD Health Statistics 2024. 
+StatLink 2  https://stat.link/jvfwer
+50
+50
+46
+46
+45
+45
+45
+44
+44
+42
+42
+42
+42
+39
+39
+39
+38
+38
+37
+37
+37
+36
+34
+33
+33
+32
+31
+27
+55
+44
+44
+40
+39
+38
+36
+1
+1
+8
+5
+2
+2
+11
+16
+6
+1
+7
+3
+2
+18
+13
+11
+17
+6
+8
+9
+15
+3
+28
+9
+2
+9
+12
+3
+15
+15
+16
+23
+16
+23
+20
+16
+16
+26
+19
+24
+27
+26
+22
+26
+24
+30
+22
+21
+25
+22
+25
+15
+30
+29
+18
+17
+31
+29
+31
+12
+24
+18
+25
+29
+28
+26
+14
+21
+12
+21
+30
+26
+10
+14
+15
+19
+17
+25
+19
+11
+11
+17
+11
+21
+16
+17
+33
+14
+22
+30
+10
+11
+26
+18
+24
+9
+26
+13
+10
+27
+9
+11
+13
+11
+8
+7
+11
+7
+7
+12
+11
+7
+9
+12
+8
+8
+11
+13
+10
+17
+12
+15
+5
+13
+19
+12
+18
+12
+16
+10
+11
+9
+6
+7
+7
+13
+0
+20
+40
+60
+80
+100
+%
+Hospitals
+LTC facilities
+Ambulatory providers
+Retailers
+Other
+94
+92
+88
+86
+79
+77
+74
+73
+73
+71
+70
+66
+64
+63
+62
+61
+60
+59
+58
+57
+52
+51
+49
+46
+46
+41
+40
+39
+82
+67
+62
+60
+56
+49
+6
+4
+2
+5
+5
+18
+4
+23
+7
+4
+9
+23
+10
+6
+19
+11
+5
+5
+5
+7
+10
+16
+23
+4
+9
+4
+10
+6
+4
+6
+13
+19
+16
+16
+18
+18
+27
+22
+12
+22
+18
+26
+20
+24
+34
+43
+49
+41
+24
+38
+43
+34
+55
+17
+15
+23
+35
+30
+44
+3
+7
+4
+2
+6
+4
+4
+4
+3
+4
+9
+4
+4
+3
+9
+8
+7
+5
+20
+14
+0
+20
+40
+60
+80
+100
+Inpatient
+Day care
+Outpatient care*
+LTC (health)**
+Other***
+%
+
+
+## Stran PDF 156
+
+154    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Pharmaceutical expenditure 
+Pharmaceutical care is highly complex and evolves over time as a result of novel medicines entering the market. While new 
+medicines may offer alternatives to existing treatments, and in some cases, the prospect of treating conditions previously 
+considered incurable, costly innovations can have major implications for overall healthcare budgets. Across the EU, spending on 
+retail pharmaceutical spending is generally the third largest cost component – after the inpatient and outpatient sector – accounting 
+for around one-seventh of all health spending. 
+In 2022, EU countries spent on average EUR 500 per capita on retail pharmaceuticals (including other medical non-durables) but 
+with substantial differences across countries (Figure 5.13). A variety of factors influence the level of per capita spending on retail 
+pharmaceuticals, including distribution, prescribing and dispensing; pricing and procurement policies; and patterns of uptake of 
+novel and generic medicines. With EUR 721, pharmaceutical spending per capita was highest in Germany and nearly three times 
+higher than in Denmark (EUR 266). In this latter country, a comparably high proportion of medicines is however dispensed as part 
+of inpatient or outpatient treatments and thus outside traditional retail channels. Other high pharmaceutical spenders are Malta 
+and Switzerland where per capita spending is 30-35% above the EU average. On the other hand, in Poland, the Netherlands and 
+Estonia, per capita pharmaceutical spending is at least one-third below the EU average. 
+Prescription medicines account for three out of every four Euros spent on retail pharmaceuticals (including other medical non-
+durables) in the EU. Over-the-counter medicines (i.e. medicines that do not require a prescription from a physician and are generally 
+paid out of patients’ pockets) and other medical non-durables make up the remaining part. One exception to this spending pattern 
+can be found in Poland, where over-the-counter medicines represent more than half of all retail pharmaceutical spending. 
+Across the EU, retail pharmaceutical spending is predominantly financed by public payers. On average, around 70% of the total 
+pharmaceutical bill in the EU is covered by government and compulsory insurance schemes (Figure 5.14). Public coverage is 
+particularly high in Cyprus where 90% of all pharmaceutical retail spending is financed from the public purse, followed by Germany, 
+France and Ireland with coverage rates of over 80%. However, public coverage is below 40% in Bulgaria and Poland. An exception 
+to EU-wide financing patterns of retail pharmaceuticals can be observed in Slovenia, where voluntary health insurance covers 
+more than one-fifth of the costs. 
+Analysing retail pharmaceutical spending only gives a partial picture of the cost of pharmaceuticals in the health system. Spending 
+on medicines in the hospital sector and other settings can be significant – typically accounting for 20% or more on top of retail 
+spending (Morgan and Xiang, 2022[1]). Over the last decade, hospital pharmaceutical spending has grown substantially, partly 
+due to the advent of new high-cost treatments, particularly in oncology and immunology (IQVIA, 2021[2]). Hospital and other non-
+retail pharmaceutical spending increased more rapidly than retail medicines in most countries, with the highest growth rates in 
+Germany, Spain and Czechia (Figure 5.15). 
+Definition and comparability 
+Pharmaceutical expenditure covers spending on prescription medicines and self-medication (often referred to as over-
+the-counter products). Some countries cannot report a breakdown, and their data may include medical non-durables (such as 
+first aid kits, hypodermic syringes and facemasks). This typically leads to an overestimation by 5-10%, but during the COVID-19 
+pandemic the overestimation might have been higher. Retail pharmaceuticals are those provided outside hospital care, 
+dispensed by a retail pharmacy or bought from a non-specialist retailer such as a supermarket, and the prices should include 
+wholesale and retail margins and value added tax (OECD/Eurostat/WHO, 2017[3]). Comparability issues exist regarding the 
+administration and dispensing of pharmaceuticals for hospital outpatients. In some countries, the costs are included under 
+curative care, in others, under pharmaceuticals. 
+Hospital and other non-retail pharmaceuticals include drugs administered or dispensed during an episode of hospital care or 
+in another healthcare setting. The costs of pharmaceuticals consumed in hospitals and other healthcare settings are reported 
+as part of the costs of inpatient or day-case treatment. Non-retail pharmaceuticals also include the costs of vaccines that are 
+consumed as part of a vaccination campaign and that are not procured via retailers. 
+Total pharmaceutical spending refers to “net” spending: it is adjusted for rebates paid by manufacturers, wholesalers or 
+pharmacies. 
+ 
+References 
+ 
+IQVIA (2021), Drug Expenditure Dynamics 1995–2020: Understanding medicine spending in context, 
+https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/drug-expenditure-dynamics. 
+[2] 
+Morgan, D. and F. Xiang (2022), “Improving data on pharmaceutical expenditure in hospitals and other health care 
+settings”, OECD Health Working Papers, No. 139, OECD Publishing, Paris, https://doi.org/10.1787/6c0d64a2-en. 
+[1] 
+OECD/Eurostat/WHO (2017), A System of Health Accounts 2011: Revised edition, OECD Publishing, Paris, 
+https://doi.org/10.1787/9789264270985-en. 
+[3] 
+  
+
+
+## Stran PDF 157
+
+   155 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 5.13. Expenditure on retail pharmaceuticals* per capita, 2022 (or nearest year) 
+ 
+Note: The EU average is weighted. * Including other medical non-durables. 
+Source: OECD Health Statistics 2024. 
+StatLink 2  https://stat.link/puh73d 
+Figure 5.14. Expenditure on retail pharmaceuticals* by type of financing, 2022 (or nearest year) 
+ 
+Note: The EU average is weighted. * Including other medical non-durables. The category “Other” includes non-profit-schemes, enterprises and rest of the world. 
+Source: OECD Health Statistics 2024. 
+StatLink 2  https://stat.link/jy312b 
+Figure 5.15. Annual average growth in retail and hospital and other non-retail pharmaceutical expenditure, in real 
+terms, selected countries, 2012-22 (or nearest years) 
+ 
+Note: If necessary, growth rates and time periods have been adjusted by the OECD Secretariat to take account of breaks in series. 
+Source: OECD Health Statistics 2024. 
+StatLink 2  https://stat.link/gdp7v8
+721
+639
+562
+559
+557
+538
+510
+500
+500
+484
+480
+474
+430
+421
+418
+416
+414
+412
+407
+406
+401
+398
+374
+361
+331
+315
+299
+266
+669
+409
+384
+354
+351
+254
+0
+200
+400
+600
+800
+Prescribed
+OTC
+Other medical non-durables
+Total (no breakdown)
+EUR PPP
+90
+83
+82
+81
+75
+74
+71
+70
+68
+68
+67
+66
+63
+59
+56
+56
+55
+55
+55
+51
+51
+48
+45
+45
+41
+40
+34
+23
+71
+67
+53
+42
+36
+24
+5
+4
+22
+6
+3
+9
+17
+13
+18
+23
+23
+29
+29
+32
+31
+32
+34
+37
+38
+44
+44
+43
+44
+41
+27
+49
+50
+55
+53
+58
+54
+66
+77
+26
+33
+47
+53
+64
+76
+1
+5
+0
+20
+40
+60
+80
+100
+%
+Government/compulsory schemes
+Voluntary health insurance
+Out-of-pocket payments
+Other
+2.6
+0.7
+-0.5
+0.9
+0.8
+1.6
+-0.3
+3.3
+11.5
+7.9
+6.1
+4.5
+4.0
+3.4
+3.1
+1.2
+-2
+0
+2
+4
+6
+8
+10
+12
+Retail pharmaceuticals
+Hospital and other non-retail pharmaceuticals
+%
+
+
+## Stran PDF 158
+
+
+
+## Stran PDF 159
+
+   157 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+This chapter starts with a broad indicator of avoidable mortality, providing a general 
+assessment of the effectiveness of public health and healthcare systems in reducing 
+premature deaths. Four causes of preventable mortality – COVID-19, lung cancer, 
+ischaemic heart diseases and alcohol-related deaths – accounted for more than half of all 
+preventable deaths in the EU in 2021. Despite renewed emphasis on vaccination, most 
+EU countries have not met targets on childhood immunisation, though HPV vaccine 
+coverage among boys has increased in a number of countries. Cancer mortality can be 
+reduced through better prevention and earlier diagnosis, but cancer screening rates still fall 
+below the EU’s ambitious targets, and population-based screening rates vary widely. 
+Avoidable hospital admissions for chronic conditions have declined steeply following the 
+pandemic, while case fatality rates following hospitalisation for stroke and heart attack have 
+risen in many countries. These two indicators suggest that EU residents may have been 
+less likely to seek care during the pandemic, resulting in fewer, but more severe, cases 
+upon hospital arrival. Quality and safety metrics for acute care, such as the timeliness of 
+hip-fracture surgery and the prevalence of hospital acquired infections, show that there is 
+room for countries to further invest in high-quality and safe care. Surveys of hospital 
+workers identify staffing levels, work pace, and error reporting as areas for improvement. 
+6 Effectiveness: Quality of care and 
+patient experience 
+
+
+## Stran PDF 160
+
+158    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Avoidable mortality (preventable and treatable) 
+Indicators of avoidable mortality provide a starting point for assessing the effectiveness of public health and healthcare systems 
+in reducing premature deaths from causes considered to be avoidable. In 2021, nearly a quarter of deaths (24% or 1.26 million 
+deaths) across the EU were considered avoidable. Of these, more than 860 000 deaths could have been prevented through 
+effective primary prevention or other public health measures (i.e. measures taken before the onset of disease or injury to reduce 
+its occurrence), while nearly 400 000 could have been avoided through more effective and timely healthcare treatment 
+(i.e. measures taken after the onset of diseases, to reduce case-fatality). 
+In 2021, COVID-19 was the largest cause of preventable mortality, accounting for 24% of preventable deaths in people under 
+age 75. The four leading causes of preventable mortality – COVID-19, lung cancer, ischaemic heart diseases and alcohol-related 
+deaths – accounted for more than half (56%) of all preventable deaths in the EU (Figure 6.1). Other major causes of preventable 
+mortality include stroke, accidents, chronic obstructive pulmonary disease (COPD) and suicide. The four most common treatable 
+causes of mortality – ischaemic heart disease, breast cancer, colorectal cancer and stroke –accounted for more than half of all 
+treatable causes of mortality. 
+The rate of preventable mortality in 2021 was lowest in Iceland, Norway, Switzerland and Sweden at less than 120 per 
+100 000 population under age 75. Italy, Luxembourg, Malta and Spain also had low preventable mortality rates, more than 30% 
+lower than the EU average. In contrast, preventable mortality was more than two times higher than the EU average in Bulgaria, 
+Hungary, Romania and Latvia, all above 400 premature preventable deaths per 100 000 population under age 75 (Figure 6.2). 
+Major differences across countries emerged in 2021 due to variations in mortality from COVID-19, ranging from 16 deaths per 
+100 000 population under age 75 in Sweden to 213 deaths in Bulgaria. Other sources of cross-country differences come from 
+differing mortality rates due to lung cancer, ischaemic heart disease and alcohol-specific disorders and poisonings, which are 
+substantially higher in Central and Eastern European countries. Much of this can be attributed to differences in the prevalence of 
+preventable risk factors, such as smoking and alcohol consumption (see indicators on smoking and alcohol consumption among 
+adults in Chapter 4). 
+Preventable mortality in the EU decreased by 13% between 2011 and 2019, largely due to reductions in mortality from lung 
+cancer, ischaemic heart disease and stroke. However, following the emergence of the COVID-19, the EU average rates in 2020 
+and 2021 surpassed the 2011 levels – increasing by 50% or more between 2019 and 2021 in countries such as Bulgaria, Czechia, 
+Latvia, Poland, the Slovak Republic and Romania. 
+Switzerland, Luxembourg, Norway and France had the lowest rates of treatable causes of mortality in 2021, with less than 
+60 deaths per 100 000 population under age 75. Romania, Bulgaria, the Slovak Republic and Latvia had treatable mortality rates 
+more than two times above the EU average. The higher rates in this latter group of countries were mainly driven by higher mortality 
+rates from ischaemic heart disease, stroke and pneumonia. 
+Compared to 2011, the EU average rate of treatable causes of mortality in 2021 has improved by 10%. However, compared to 
+2019, some countries (Slovak Republic, Türkiye, Romania and Bulgaria) saw increases in 2021 of more than 20% in treatable 
+causes of mortality, possibly owing to increases in deaths from pneumonia related to COVID-19 infection and disruptions in 
+healthcare due to the pandemic. 
+Definition and comparability 
+The data are based on the joint OECD and Eurostat lists of avoidable mortality, including a list of preventable and treatable 
+causes of mortality. The age threshold of premature mortality is set at under 75 for all causes. The attribution of causes of 
+death to the preventable or treatable mortality list is based on whether the death could have been avoided predominantly 
+through prevention or healthcare interventions. Causes of death that can be prevented or treated were attributed to the 
+preventable category on the rationale that if these diseases are prevented, there would be no need for treatment. COVID-19 
+was categorised as a preventable cause, as most deaths can be prevented through prevention, such as vaccination or use of 
+protective facemasks. In cases when there was no strong evidence of predominance of preventability or treatability 
+(e.g. ischaemic heart disease, stroke, diabetes, hypertension), the causes were allocated on a 50%-50% basis to the two 
+categories to avoid double-counting the same cause of death (OECD/Eurostat, 2022[1]). 
+ 
+References 
+ 
+OECD/Eurostat (2022), Avoidable mortality: OECD/Eurostat lists of preventable and treatable causes of death, 
+https://www.oecd.org/content/dam/oecd/en/data/datasets/oecd-health-statistics/avoidable-mortality-2019-joint-
+oecd-eurostat-list-preventable-treatable-causes-of-death.pdf. 
+[1] 
+  
+
+
+## Stran PDF 161
+
+   159 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.1. Main causes of avoidable mortality in the European Union, 2021 
+ 
+Note: Data are based on the OECD/Eurostat definitions and lists of preventable and treatable causes of mortality in people under age 75. The lists attribute half of all 
+deaths for some diseases (e.g. ischaemic heart diseases, stroke, diabetes and hypertension) to the preventable mortality list and the other half to treatable causes, so 
+there is no double-counting of the same death. COPD = chronic obstructive pulmonary diseases. 
+Source: Eurostat (hlth_cd_apr). 
+StatLink 2 https://stat.link/vpb7tc 
+Figure 6.2. Mortality rates from avoidable causes, 2021 
+ 
+Note: The EU average is weighted. The data for the United Kingdom relate to 2020 (the rates have been calculated by the OECD based on the European population 
+structure). 
+Source: Eurostat (hlth_cd_apr). 
+StatLink 2 https://stat.link/xp54dy
+COVID-19
+24%
+Lung cancer
+16%
+Ischaemic 
+heart 
+diseases
+10%
+Alcohol-
+related 
+death
+6%
+Stroke
+5%
+Accidents
+5%
+COPD
+4%
+Suicide
+4%
+Other (40 
+diseases and 
+injuries)
+26%
+Preventable causes of mortality
+(861 702 deaths in 2021)
+Treatable causes of mortality
+(399 537 deaths in 2021)
+Ischaemic heart 
+diseases
+21%
+Colorectal cancer
+14%
+Breast cancer
+10%
+Stroke
+10%
+Pneumonia
+8%
+Hypertention
+5%
+Diabetes
+4%
+Other (50 diseases)
+28%
+413
+226
+167
+115
+114
+111
+460
+452
+440
+439
+394
+379
+336
+312
+305
+286
+212
+201
+196
+173
+171
+164
+156
+156
+149
+148
+147
+145
+139
+134
+133
+133
+128
+118
+0
+100
+200
+300
+400
+500
+Serbia
+Türkiye
+United Kingdom
+Switzerland
+Norway
+Iceland
+Bulgaria
+Hungary
+Romania
+Latvia
+Lithuania
+Slovak Republic
+Poland
+Croatia
+Estonia
+Czechia
+Slovenia
+EU27
+Greece
+Austria
+Germany
+Belgium
+Finland
+Portugal
+Denmark
+Ireland
+Netherlands
+France
+Cyprus
+Spain
+Malta
+Luxembourg
+Italy
+Sweden
+Preventable causes of mortality
+Age-standardised rate per 100 000 population under 75
+187
+164
+78
+59
+56
+46
+255
+225
+206
+205
+191
+189
+146
+140
+136
+126
+95
+93
+82
+81
+78
+75
+71
+70
+69
+67
+64
+64
+62
+61
+60
+60
+59
+55
+0
+50
+100
+150
+200
+250
+300
+Serbia
+Türkiye
+United Kingdom
+Iceland
+Norway
+Switzerland
+Romania
+Bulgaria
+Slovak Republic
+Latvia
+Lithuania
+Hungary
+Poland
+Croatia
+Estonia
+Czechia
+Greece
+EU27
+Malta
+Germany
+Cyprus
+Portugal
+Austria
+Finland
+Ireland
+Slovenia
+Italy
+Denmark
+Belgium
+Spain
+Netherlands
+Sweden
+France
+Luxembourg
+Treatable causes of mortality
+Age-standardised rate per 100 000 population under 75
+
+
+## Stran PDF 162
+
+160    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Routine vaccinations 
+All EU countries have established childhood vaccination programmes to reduce the spread of many infectious diseases and 
+related deaths, although the number and type of recommended vaccines vary across countries. The WHO recommends 95% 
+coverage with two doses of measles-containing vaccine and three doses of the hepatitis B vaccine with the first dose at birth 
+(<24 hours). It also recommends reaching 90% coverage of girls aged 9-14 with vaccination against human papillomavirus (HPV) 
+to prevent cervical and other cancers. 
+Global measles incidence increased in 2023, largely attributed to decreased vaccination coverage during the COVID-19 
+pandemic. Among the 18 449 measles cases reported between September 2023 and August 2024, 87% were among 
+unvaccinated people. In this period, measles outbreaks were reported by several countries in Europe, including Romania 
+(accounting for 77.8% of all cases in Europe), Italy (4.9%), Belgium (3.3%), Austria (2.9%) and Germany (2.8%) (ECDC, 2024[1]). 
+The high burden of measles in Romania, associated with low vaccination levels, led the Ministry of Health to declare a national 
+measles epidemic. 
+Vaccination coverage against measles reflects care continuity and access to primary care. In 2023, 88% of children in the EU 
+received two doses of the measles vaccine (Figure 6.3). Only Hungary and Portugal reached the recommended 95% coverage 
+for population-level protection against outbreaks, while the Slovak Republic, Norway and Türkiye were just a percentage point 
+below the recommendation. Vaccination coverage was the lowest (below 80%) in Romania, Bosnia and Herzegovina and Estonia. 
+Compared to 2019, vaccination rates dropped by more than 10 percentage points in several EU countries, including Estonia, 
+Malta and Romania. 
+The hepatitis B virus is transmitted through contact with blood or bodily fluids. Chronic infections can lead to cancer and liver 
+cirrhosis, and children are at high risk of adverse outcomes. Vaccination against hepatitis B is included in childhood vaccination 
+programmes in most EU countries, except for Denmark and Finland, although it is provided to at-risk groups (OECD, 2024[2]). 
+Most countries did not reach the recommended 95% coverage with three doses of the hepatitis B vaccine. On average, 92% of 
+one-year-old children were fully vaccinated in 2023 across those EU countries where it is included in the immunisation programme. 
+Rates ranged from less than 80% in Estonia and Romania to over 95% in Portugal, Malta, Latvia, Belgium, the Slovak Republic, 
+Luxembourg, Greece, France and Cyprus (Figure 6.3). Among non-EU countries, only Türkiye, Albania and Norway reached the 
+recommended coverage. 
+HPV is highly contagious, as most of the sexually active population contracts the virus in their lifetime. In rare cases, a persistent 
+infection with a cancer-causing strain can lead to a variety of cancers in both men and women, notably cervical cancer. Vaccination 
+is the key to prevention, with the nine-strain vaccine estimated to prevent up to 89% of all cervical cancer cases (OECD, 2024[2]). 
+Nearly all EU countries, along with Norway and Iceland, offer HPV vaccinations to both girls and boys in their teens. The last country 
+to not include boys, Bulgaria, plans to start vaccinating them in 2025. The number of doses recommended in the schedule can vary. 
+Some countries provide vaccinations in schools, while others in healthcare facilities (OECD, 2024[2]). In 2023, on average 64% of 
+girls in the EU received all recommended doses of the HPV vaccine by age 15, ranging from 91% in Portugal to 7% in Bulgaria 
+(Figure 6.4). In all countries except for Portugal, Iceland and Norway, coverage fell short of the WHO 2030 target to fully vaccinate 
+90% of girls by 15 years. Vaccination coverage among boys is generally lower than among girls, reflecting their more recent 
+inclusion in the programmes. However, some countries have increased coverage in recent years, with seven countries achieving 
+vaccination rates in boys less than 10 percentage points of girls’ rates. Eight countries (Norway, Portugal, Denmark, Ireland, Finland, 
+Belgium, Hungary and the United Kingdom) vaccinated more than 60% of boys with all doses of the HPV vaccine in 2023. 
+Definition and comparability 
+Measles vaccination coverage refers to the percentage in the target population who have received two doses of the vaccine 
+in a given year. Hepatitis B vaccination coverage refers to those who have received three doses of the vaccine in a given year. 
+Target age groups for the vaccines differ due to different immunisation schedules, specified at https://vaccine-
+schedule.ecdc.europa.eu/. Administrative data refer to doses given as part of the national schedules, while official data refer 
+to the data reported as the most likely true coverage by the national authorities in case of biases in the administrative data. 
+Where unavailable, estimates informed by administrative data, survey data and contextual information are used (calculated by 
+WHO/UNICEF). HPV vaccination coverage is defined as population turning 15 in the reporting year that received the full 
+recommended schedule of HPV vaccine between ages 9-14. The methodology for HPV estimates from administrative data on 
+doses provided is described in Bruni et al. (2021[3]). 
+ 
+References 
+ 
+Bruni, L. et al. (2021), “HPV vaccination introduction worldwide and WHO and UNICEF estimates of national HPV 
+immunization coverage 2010–2019”, Preventive Medicine, Vol. 144, https://doi.org/10.1016/j.ypmed.2020.106399. 
+[3] 
+ECDC (2024), Measles and Rubella monthly report, https://measles-rubella-monthly.ecdc.europa.eu/. 
+[1] 
+OECD (2024), Beating Cancer Inequalities in the EU: Spotlight on Cancer Prevention and Early Detection, OECD 
+Health Policy Studies, OECD Publishing, Paris, https://doi.org/10.1787/14fdc89a-en. 
+[2] 
+  
+
+
+## Stran PDF 163
+
+   161 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.3. Vaccination coverage with recommended doses for measles and Hepatitis B vaccines, 2023 
+ 
+Note: The EU average is unweighted. Coverage refers to the national target population for measles and one-year-olds for Hepatitis B. The Line shows WHO targets of 
+95% for two doses of measles and three doses of Hepatitis B vaccine. Denmark, Finland and Iceland do not include Hepatitis B in the childhood immunisation schedule 
+while Hungary targets adolescents. Measles data for Ireland refer to 2022. Unless noted, data refer to 2023 administrative coverage. 1. Official coverage reported by 
+the country. 2. WHO/UNICEF coverage estimates. 
+Source: WHO/UNICEF. 
+StatLink 2 https://stat.link/xow7z5 
+Figure 6.4. HPV vaccination coverage with all recommended doses by age 15, 2023 
+ 
+Note: The EU average is unweighted. The data refer to coverage estimates in children turning 15 in the reference year calculated by the WHO. The line indicates the 
+WHO minimum target of 90% of girls vaccinated. Coverage of boys in Portugal refers to boys aged 14. 
+Source: WHO/UNICEF, Portugal: General Directorate of Health of Portugal (Annual Vaccination Report, 2024). 
+StatLink 2 https://stat.link/w349fb
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+Measles (2 doses)
+Hepatitis B (3 doses)
+% vaccinated
+91
+85
+85
+83
+82
+76
+76
+76
+75
+72
+71
+67
+65
+64
+64
+54
+53
+52
+46
+45
+43
+43
+7
+96
+93
+70
+65
+47
+38
+29
+20
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Girls
+Boys
+% vaccinated
+
+
+## Stran PDF 164
+
+162    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Cancer screening 
+Officially adopted in 2021, Europe’s Beating Cancer Plan aims to address challenges in prevention, treatment and care for all 
+cancers (European Commission, 2021[1]). In support of these goals, the EU Council Recommendation on Cancer Screening 
+includes the objective that 90% of the EU population who qualify for breast, cervical and colorectal cancer screening are offered 
+services by 2025 (European Commission, 2022[2]). 
+Breast cancer is the most commonly occurring cancer among women, accounting for almost 30% of new cancer cases in 
+EU countries in 2022 (European Union, 2024[3]). Risk factors for breast cancer include age, genetic predisposition, oestrogen 
+replacement therapy, and lifestyle factors such as obesity, physical inactivity, nutrition habits and alcohol consumption. 
+Beginning in the 1980s, most European countries have adopted population-based breast cancer screening programmes to 
+improve early detection rates (OECD, 2024[4]). In 2022, the proportion of women of screening age (usually 50-69 years of age) 
+receiving mammography over the past two years was 57% on average across EU countries (Figure 6.5). The screening rate was 
+below 30% in the Slovak Republic and Hungary. Denmark, Finland and Sweden have the highest screening rates at above 80%. 
+Despite the temporary reduction in breast cancer screening rates during the first year of the pandemic in 2020, the proportion of 
+women screened for breast cancer remained relatively stable between 2019 and 2022 on average across EU countries. 
+Cervical cancer can be almost fully prevented through vaccination or early detection and treatment following screening. Both 
+interventions can greatly reduce the burden of cervical cancer on women and health systems. About three-fourths of EU countries 
+have implemented population-based cervical cancer screening programmes. Over the past 15 years, all EU countries also launched 
+HPV vaccination programmes as a primary prevention of cervical cancer (OECD, 2024[4]) (see indicator “Routine vaccinations”). 
+The incidence of cervical cancer was 12 new cases per 100 000 women in EU countries in 2022 (European Union, 2024[3]). WHO 
+recommends countries to strive to reach an incidence rate of less than 4 new cases of cervical cancer per 100 000 women each 
+year, but no European country has yet achieved this target. To reach this goal, WHO recommends 90% HPV vaccination coverage 
+among girls by age 15, 70% coverage of cervical cancer screening of women between ages 35 and 45, and improvement of the 
+coverage of treatment including treating 90% of women with pre-cancer. 
+In 2022, the proportion of women aged 20-69 who had been screened for cervical cancer within the past three years remained 
+low in many European countries. The EU average was 56%, a reduction from 60% in 2019 (Figure 6.6). The proportion was 
+particularly low in 2022 in Poland (11%) and Hungary (26%). Sweden, Czechia, Ireland, Finland and Slovenia had the highest 
+screening rates (over 70%) among those countries with data available for 2022. Unlike mammography, the average cervical 
+cancer screening rate across EU countries in 2022 is slightly lower than the pre-pandemic level. 
+Colorectal cancer is the second most common cause of cancer death in men (after lung cancer) and the third most common cause 
+(after breast and lung cancers) among women in Europe (see indicator “Cancer Mortality” in Chapter 3). The main risk factors for 
+colorectal cancer include age, long-term inflammation of colon and rectum, family history of colorectal cancer or polyps, and lifestyle 
+factors such as a diet high in fat and low in fibre, physical inactivity, obesity, tobacco and alcohol consumption. Currently, 
+21 EU countries have a national or regional colorectal cancer screening programmes. These programmes typically support faecal 
+testing for people aged 50-74 every two years (OECD, 2024[4]). On average across EU countries, 42% of people in the target age 
+group were screened for colorectal cancer over the past two years in 2022. It varies from a low of 14% in Portugal to a high of 77% 
+in Finland (Figure 6.7). Colorectal cancer screening increased slightly on average across EU countries between 2019 and 2022. 
+ 
+References 
+ 
+European Commission (2022), European Health Union: new approach on cancer screening, 
+https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7548. 
+[2] 
+European Commission (2021), Europe’s Beating Cancer Plan, https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=COM%3A2021%3A44%3AFIN. 
+[1] 
+European Union (2024), ECIS - European Cancer Information System, https://ecis.jrc.ec.europa.eu. 
+[3] 
+OECD (2024), Beating Cancer Inequalities in the EU: Spotlight on Cancer Prevention and Early Detection, OECD 
+Health Policy Studies, OECD Publishing, Paris, https://doi.org/10.1787/14fdc89a-en. 
+[4] 
+  
+Definition and comparability 
+Screening rates are based on programme or survey data. Programme data are collected to monitor national screening 
+programmes, but differences in target age, screening frequency and screening methods may lead to variations in the data 
+reported across countries. Survey data may be affected by recall bias. Data for Czechia refer to people aged 50-54 underwent 
+faecal occult blood test (FOBT) in the year, people aged 55 and over underwent FOBT in the past two years and people 
+aged 50 and over underwent screening colonoscopy during the past ten years. 
+
+
+## Stran PDF 165
+
+   163 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.5. Mammography screening in women aged 50-69 within the past two years, 2019 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted and includes all the countries available in each year. 1. Programme data. 2. Survey data. 
+Source: OECD Health Statistics 2024; EUROSTAT based on the 2019 European Health Interview Survey (hlth_ehis_pa7e). 
+StatLink 2 https://stat.link/auzoce 
+Figure 6.6. Cervical cancer screening in women aged 20-69 within the past three years, 2019 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted and includes all the countries available in each year. 1. Programme data. 2. Survey data. 3. Reimbursement data. 
+Source: OECD Health Statistics 2024; EUROSTAT based on the 2019 European Health Interview Survey (hlth_ehis_pa8e). 
+StatLink 2 https://stat.link/6xalt1 
+Figure 6.7. Colorectal cancer screening in people aged 50-74 within the past two years, 2019 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted and includes all the countries available in each year. 1. Programme data. For data for Czechia, refer to Definition and comparability. 
+2. Survey data. 
+Source: OECD Health Statistics 2024; EUROSTAT based on the 2019 European Health Interview Survey (hlth_ehis_pa5e). 
+StatLink 2 https://stat.link/hux3gk
+83
+82
+81
+78
+74
+70
+70
+63
+62
+61
+60
+58
+57
+57
+54
+52
+52
+50
+48
+41
+35
+30
+30
+29
+76
+65
+54
+50
+31
+7
+6
+0
+20
+40
+60
+80
+100
+2019
+2022 (values shown)
+% of women screened
+79
+74
+73
+72
+71
+68
+64
+61
+60
+60
+58
+56
+55
+55
+47
+46
+46
+40
+26
+11
+71
+70
+62
+31
+8
+6
+4
+0
+20
+40
+60
+80
+100
+2019
+2022 (values shown)
+% of women screened
+77
+68
+66
+61
+59
+56
+55
+52
+42
+40
+34
+34
+34
+32
+31
+29
+24
+19
+16
+14
+51
+15
+2
+0
+20
+40
+60
+80
+100
+2019
+2022 (values shown)
+% of population aged 50-74 screened
+
+
+## Stran PDF 166
+
+164    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Avoidable hospital admissions 
+Asthma, chronic obstructive pulmonary disease (COPD), congestive heart failure (CHF) and diabetes are four of the most common 
+chronic health conditions. Common to these four conditions is the existence of a solid evidence base for effective patient 
+management in primary care. A well-performing primary care system can reduce acute deterioration of people living with asthma, 
+COPD, CHF or diabetes, thereby preventing unwanted and costly avoidable hospital admissions (OECD, 2020[8]). 
+Figure 6.8 shows hospital admission rates for the two chronic respiratory diseases, asthma and COPD. In 2021, the EU average 
+was 117 hospital admissions per 100 000 population, of which 84% were due to COPD. High impact interventions for these 
+conditions, such as pulmonary rehabilitation for COPD, medication optimisation and personalised action plans for people with 
+asthma can improve outcomes and reduce health spending. Admission rates for both conditions varied more than 12-fold across 
+EU countries, with Italy, Croatia and Portugal reporting the lowest rates, and Ireland, Denmark, Norway and the United Kingdom 
+reporting the highest rates. These latter four countries also have among the highest rates of COPD prevalence in Europe (Safiri 
+et al., 2022[9]). Across EU countries, hospital admission rates for asthma and COPD have almost halved between 2019 and 2021 
+after falling by only 12% between 2011 and 2019. This was due at least partly to disruptions in hospital services during the 
+pandemic that resulted in a reduction in most causes of hospitalisations. 
+Hospital admission rates for CHF varied over seven-fold across EU countries in 2021, averaging 225 per 100 000 population 
+(Figure 6.9). Romania, Croatia, the United Kingdom, Belgium and the Netherlands had the lowest rates for this condition – less 
+than 150 hospital admissions per 100 000 population. Poland, the Slovak Republic, Germany and Czechia had rates surpassing 
+350 per 100 000 population. Rates across the EU have declined during the pandemic, falling by 20% between 2019 and 2021, 
+after falling by 17% between 2011 and 2019. 
+Data on avoidable hospital admissions for diabetes also show significant variations in admission rates across countries in 2021, 
+ranging from less than 50 per 100 000 population in Italy, Iceland and the Netherlands up to over 150 per 100 000 population in 
+the Slovak Republic and Germany (Figure 6.10). Avoidable hospital admissions for diabetes have also fallen markedly between 
+2019 and 2021, with 19% fewer admissions per 100 000 population across the EU on average, following a reduction of 24% 
+between 2011 and 2019. 
+The steep reductions in hospital admissions for these four chronic conditions between 2019 and 2021, as well as many other 
+causes of hospitalisations, was largely due to disruptions in hospital services and hesitancy among patients to seek hospital care 
+during the COVID-19 pandemic. 
+Countries are experimenting with integrated models of care in response to the growing number of people living with complex 
+health needs who are at risk of receiving fragmented care. Telemonitoring, teleconsultation, and hospital at home programmes 
+have been shown to reduce CHF-related mortality, reduce the risk of hospitalisation, and improve quality of life for patients with 
+CHF. Virtual care for patients living with COPD has been found to reduce hospitalisations and emergency room visits among 
+severe patients, and reduce exacerbation of the condition (OECD, 2023[10]). 
+Definition and comparability 
+The indicator is defined as the number of hospital admissions with a primary diagnosis of asthma, COPD, CHF or diabetes 
+among people aged 15 years and over. Avoidable admissions for diabetes include admissions for short-term and long-term 
+complications and for uncontrolled diabetes without complications. Rates are age-sex standardised to the 2015 OECD 
+population aged 15 years and over. 
+Disease prevalence and the availability of hospital care may affect variations across countries, while differences in coding 
+practices and data coverage of the national hospital sector may affect the comparability of data. 
+ 
+References 
+ 
+OECD (2023), Integrating Care to Prevent and Manage Chronic Diseases: Best Practices in Public Health, OECD 
+Publishing, Paris, https://doi.org/10.1787/9acc1b1d-en. 
+[3] 
+OECD (2020), Realising the Potential of Primary Health Care, OECD Health Policy Studies, OECD Publishing, Paris, 
+https://doi.org/10.1787/a92adee4-en. 
+[1] 
+Safiri, S. et al. (2022), “Burden of chronic obstructive pulmonary disease and its attributable risk factors in 204 
+countries and territories, 1990-2019: results from the Global Burden of Disease Study 2019”, BMJ, Vol. 378, 
+https://doi.org/10.1136/BMJ-2021-069679. 
+[2] 
+  
+
+
+## Stran PDF 167
+
+   165 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.8. Asthma and COPD hospital admission in adults, 2019 and 2021 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Latest data from 2020 instead of 2021. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/jh2ks6 
+Figure 6.9. Congestive heart failure hospital admission in adults, 2019 and 2021 (or nearest year) 
+ 
+Note: The EU average is unweighted.1. Latest data from 2020 instead of 2021. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/lydkom 
+Figure 6.10. Diabetes hospital admission in adults, 2019 and 2021 (or nearest year) 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/c3159i
+23
+30
+54
+66
+69
+76
+81
+83
+86
+96
+109
+117
+119
+122
+125
+132
+138
+144
+161
+193
+195
+227
+248
+119
+123
+211
+212
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+2019
+2021 (values shown)
+Age-sex standardised rate per 100 000 population
+82
+111
+142
+148
+156
+159
+159
+160
+167
+196
+203
+208
+217
+220
+225
+266
+281
+316
+357
+363
+364
+459
+113
+159
+195
+220
+0
+100
+200
+300
+400
+500
+600
+700
+2019
+2021 (values shown)
+Age-sex standardised rate per 100 000 population
+31
+45
+53
+57
+59
+80
+88
+90
+94
+100
+100
+102
+102
+105
+120
+121
+136
+136
+147
+148
+152
+170
+172
+30
+70
+80
+82
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2019
+2021 (values shown)
+Age-sex standardised rates per 100 000 population
+
+
+## Stran PDF 168
+
+166    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Integrated care 
+People living with chronic conditions often face poor-quality, fragmented care due to the need for multiple interactions with different 
+providers and levels of care. Addressing this requires a shift to people-centred health systems that deliver seamless, integrated 
+care across settings (OECD, 2021[1]). Countries are testing various levels of integration in organisational structures and services 
+to better manage complex health needs, aiming to improve population health, patient experiences, reduce costs, enhance working 
+conditions of health professionals, and promote health equity. However, inconsistent data and varying definitions of “integrated 
+care” make it difficult to inform policy and benchmark progress, despite taxonomies developed by organisations such as the WHO 
+and the EU (OECD, 2023[2]). 
+Policies promoting integrated care can improve patient outcomes and experiences. They also hold the potential to increase value-for-
+money by reducing duplicative and unnecessary care. Key actions to advance integrated care include strengthening the governance 
+of care delivery, developing interoperable information systems and aligning financial incentives across providers. 
+Stressing the need to link electronic health records, the OECD is collecting data to compare post-hospital care performance across 
+countries. Indicators such as mortality rates, readmission rates and medication prescriptions post-hospitalisation offer insight into 
+the effectiveness of care co-ordination between hospital and community settings, particularly when assessed over longer periods 
+following the initial event (Barrenho et al., 2022[3]). Readmissions are a key metric for evaluating integrated care, with higher rates 
+indicating poorer outcomes. 
+Figure 6.11 shows mortality and readmission outcomes in the year after discharge following a hospitalisation for ischaemic stroke 
+or chronic heart failure (CHF). On average, among patients admitted with ischaemic stroke in 2021, 59% had survived and were 
+not readmitted to hospital care, 22% had survived but were readmitted to hospital during this period (4% for stroke-related and 
+18% for other reasons) and 19% had died. For CHF patients admitted the same year, 41% who survived were not readmitted, 
+while 32% survived but were readmitted (10.4% for CHF-related reasons and 21.3% for other reasons), and 27% died. 
+For stroke patients, one-year mortality ranged from below 14% in Slovenia, Sweden and the Netherlands to more than 23% in 
+Estonia, Latvia and Croatia. For CHF patients, one-year mortality varied from below 20% in Slovenia and Lithuania to above 30% 
+in Czechia, Malta and Latvia. Hospital readmissions within one year of stroke ranged from 2% in Lithuania up to 5% in Latvia for 
+stroke-related reasons, and from 12% in Italy to 27% in Malta for other causes. For CHF patients, one-year readmission rates 
+varied from 5% in Latvia to 18% in Slovenia for CHF-related causes and from 15% in Italy to 33% in Malta for other causes. 
+Approximately one in seven ischaemic stroke survivors will experience a second stroke after one year. Clinical guidelines 
+recommend that ischaemic stroke patients receive medications to reduce hypertension and prevent blood clots (antihypertensive 
+and antithrombotic prescriptions) to reduce greatly the risk of future vascular events. The presence of at least one prescription for 
+these medicines within 18 months post-discharge can show appropriate follow up care after discharge for these patients (Barrenho 
+et al., 2022[3]). Figure 6.12 shows that the prescription rate for antihypertensives for patient discharged after an ischaemic stroke 
+ranged from 63% in Austria to 82% in Sweden, while the prescription rate for antithrombotics varied from 33% in Latvia to 94% in 
+Sweden. Comprehensive diagnosis recording practices for stroke has been identified as one of the driving causes of the Swedish 
+good performance in stroke secondary prevention (Dahlgren, 2017[4]). 
+Definition and comparability 
+Indicators refer to people aged 45 years or older presenting an acute episode of care for a first-time event of ischaemic stroke 
+or CHF. A first-time event is defined as patients who had not been admitted to hospitals due to ischaemic stroke or CHF in the 
+previous five years. The data cover the following one year for mortality and readmissions and 18 months for prescriptions. For 
+all countries, data are nationally representative. These indicators require hospital data, death registries and 
+prescribing/reimbursement claim data to be linked with unique patient identifiers. 
+Definitions of acute/urgent care vary across countries. Most countries defined acute/urgent care as hospital admission via 
+emergency/unplanned care or immediate necessary curative care. 
+ 
+References 
+ 
+Barrenho, E. et al. (2022), “International comparisons of the quality and outcomes of integrated care: Findings of the 
+OECD pilot on stroke and chronic heart failure”, OECD Health Working Papers, No. 142, OECD Publishing, Paris, 
+https://doi.org/10.1787/480cf8a0-en. 
+[3] 
+Dahlgren, C. (2017), “Recording a diagnosis of stroke, transient ischaemic attack or myocardial infarction in primary 
+healthcare and the association with dispensation of secondary preventive medication: a registry-based prospective 
+cohort study”, BMJ Open, Vol. 7/9, https://doi.org/10.1136/bmjopen-2016-015723. 
+[4] 
+OECD (2023), Integrating Care to Prevent and Manage Chronic Diseases: Best Practices in Public Health, OECD 
+Publishing, Paris, https://doi.org/10.1787/9acc1b1d-en. 
+[2] 
+OECD (2021), Health for the People, by the People: Building People-centred Health Systems, OECD Health Policy 
+Studies, OECD Publishing, Paris, https://doi.org/10.1787/c259e79a-en. 
+[1] 
+  
+
+
+## Stran PDF 169
+
+   167 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.11. Patients with adverse outcomes within one year of discharge after ischaemic stroke and CHF, 2021 (or 
+nearest year) 
+ 
+Source: OECD HCQO Data Collection on Integrated Care 2022-23. 
+StatLink 2 https://stat.link/05ncjz 
+Figure 6.12. Patients receiving at least one antihypertensive and antithrombotic prescription in the 18 months 
+following discharge after ischaemic stroke, 2020 (or nearest year) 
+ 
+Note: Data for Austria include only prescriptions covered by the Austrian Social Insurance, with medicines priced below the prescription charge (currently EUR 7.10) 
+only partially included. Data for Estonia regarding antithrombotic use is underestimated, as most consumption occurs over-the-counter and is therefore not included. 
+Source: OECD HCQO Pilot Data Collection on Integrated Care 2022-23. 
+StatLink 2 https://stat.link/f1jckp
+0
+20
+40
+60
+Iceland
+Norway
+United Kingdom
+Netherlands
+Slovenia
+Finland
+Lithuania
+Italy
+Sweden
+EU11
+Estonia
+Latvia
+Croatia
+Malta
+Czechia
+Age- and sex-standardised rate per 100 patients
+Ischaemic stroke
+0
+20
+40
+60
+80
+Iceland
+Norway
+United Kingdom
+Lithuania
+Italy
+Netherlands
+Slovenia
+Estonia
+Finland
+EU11
+Sweden
+Croatia
+Latvia
+Czechia
+Malta
+Age- and sex-standardised rate per 100 patients
+Congestive Heart Failure 
+Patients who died from any cause
+Patients who survived readmitted due to primary diagnosis 
+Patients who survived readmitted due to other cause 
+82
+81
+79
+76
+71
+69
+63
+94
+43
+33
+77
+73
+89
+51
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Sweden
+Estonia
+Latvia
+Portugal
+Iceland
+Netherlands
+Austria
+Crude rate per 100 patients
+Antihypertensives
+Antithrombotics
+
+
+## Stran PDF 170
+
+168    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Mortality following acute myocardial infarction (AMI) 
+Mortality due to coronary heart disease has declined substantially over the past decade (see indicator “Mortality from circulatory 
+diseases” in Chapter 3). Nonetheless, acute myocardial infarction (AMI) remains the leading cause of cardiovascular death in 
+many EU countries, highlighting the need for further reductions in risk factors and care quality improvements (OECD/The King's 
+Fund, 2020[1]). The COVID-19 crisis has also revealed the need to maintain access to high-quality acute care for AMI during public 
+health emergencies. 
+Metrics of 30‐day mortality after AMI hospital admission reflect processes of care, such as timely transport of patients and effective 
+medical interventions. However, the indicator is influenced not only by the quality of care provided in hospitals but also by 
+differences in the length of stay and AMI severity across countries. Figure 6.13 shows mortality rates within 30 days of admission 
+to hospital for AMI using unlinked data – that is, only counting deaths that occurred in the hospital where the patient was initially 
+admitted, among patients aged 45 and over. The lowest rates in 2021 were in Iceland, the Netherlands, Norway and Sweden 
+(3.6% or less) while the highest rates were in Latvia (over 15%), followed by Estonia (11.3%) and Lithuania (10.3%). 
+Figure 6.14 shows the same 30-day mortality rate but calculated based on linked data, whereby the deaths are recorded 
+regardless of where they occurred after hospital admission (in the hospital where the patient was initially admitted, after transfer 
+to another hospital, or after being discharged). Based on these linked data, the AMI mortality rates in 2021 ranged from 3.2% in 
+the Netherlands to 17.9% in Latvia. 
+According to both indicators, case fatality rates for AMI increased slightly in most countries between 2019 and 2021, except in 
+Belgium, Iceland and Norway, where they decreased. Across EU countries, the average rate rose from 6.6% to 7.2% for 
+same-hospital deaths and from 9.2% to 10.2% for deaths in and out of hospital. Case fatality rates increased especially in countries 
+that had rates above the EU average before the pandemic. For same-hospital deaths, the increase was marked in Estonia, 
+Türkiye, Latvia and Romania, and a substantial increase was also observed for deaths in and out of hospital in Estonia, the 
+Slovak Republic, Malta and Slovenia. 
+The increasing rate might reflect challenges faced by many health systems in ensuring timely access to acute care during the 
+COVID-19 crisis. In most countries reporting 2021 data, the number of people admitted to hospital due to AMI decreased from 
+2019. A number of studies in EU and other OECD countries point out that, during the pandemic, the average severity of AMI 
+patients admitted to hospital increased due to hesitancy in seeking care, particularly among those with milder conditions. Further, 
+the time from the onset of symptoms to treatment was prolonged due to later patient presentations at hospitals and longer 
+processing time at hospital before initiating a needed procedure. Cross-country analysis of recent 30-day case fatality trends is 
+also challenging because people with underlying cardiovascular conditions tend to be more vulnerable to dying from COVID-19 
+infection, while at the same time COVID-19 infection itself is associated with an increased risk of different types of cardiovascular 
+diseases – both ischaemic heart disease and cerebrovascular diseases (Zuin et al., 2023[2]). 
+While timely provision of high-quality care is required from the onset of AMI, 30-day mortality rates only capture the quality of care 
+provided once patients are admitted to hospital. Pre-hospital access to healthcare such as emergency medical services is also 
+crucial for outcomes of AMI patients. 
+Definition and comparability 
+The case fatality rate measures the percentage of people aged 45 years and over who die within 30 days following hospital 
+admission for a specific acute condition. The linked data-based method requires a unique patient identifier and is considered 
+more robust than the rates based on unlinked data. Rates are age-standardised to the 2013 OECD population aged 45 and 
+over admitted to hospital for AMI, using the International Classification of Diseases, tenth revision (ICD-10) codes I21-I22.  
+ 
+References 
+ 
+OECD/The King’s Fund (2020), Is Cardiovascular Disease Slowing Improvements in Life Expectancy?: OECD and The 
+King’s Fund Workshop Proceedings, OECD Publishing, Paris, https://doi.org/10.1787/47a04a11-en. 
+[1] 
+Zuin, M. et al. (2023), “Increased risk of acute myocardial infarction after COVID-19 recovery: A systematic review and 
+meta-analysis”, International Journal of Cardiology, Vol. 372, pp. 138-143, https://doi.org/10.1016/j.ijcard.2022.12.032. 
+[2] 
+  
+
+
+## Stran PDF 171
+
+   169 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.13. Thirty-day mortality after admission to hospital for acute myocardial infarction based on unlinked data, 
+2019 and 2021 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data for 2020 instead of 2021. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/aqwg7b 
+Figure 6.14. Thirty-day mortality after admission to hospital for acute myocardial infarction based on linked data, 2019 
+and 2021 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data for 2020 instead of 2021. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/nmylhr
+2.9 
+3.6 
+4.3 
+4.8 
+5.1 
+5.2 
+5.4 
+5.8 
+6.2 
+6.5 
+7.2 
+7.3 
+7.4 
+8.0 
+8.6 
+8.8 
+9.1 
+10.3 
+11.3 
+15.9 
+1.7 
+2.6 
+6.0 
+6.7 
+0
+5
+10
+15
+20
+2019
+2021 (values shown)
+Age-sex standardised rate per 100 admissions for people aged 45 years and over
+3.2 
+6.8 
+6.9 
+7.0 
+7.9 
+8.0 
+8.1 
+10.2 
+10.7 
+11.0 
+14.7 
+14.7 
+15.4 
+17.9 
+5.0 
+6.0 
+8.3 
+9.7 
+0
+5
+10
+15
+20
+2019
+2021 (values shown)
+Age-sex standardised rate per 100 patients aged 45 years and over
+
+
+## Stran PDF 172
+
+170    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Mortality following stroke 
+Stroke is a leading cause of death, accounting for 7% of all deaths across the EU in 2021 (see indicator “Main causes of mortality” 
+in Chapter 3). Stroke is a serious life-threatening event that occurs when the blood supply to a part of the brain is interrupted. Of 
+the two types of stroke, about 85% are ischaemic and 15% are haemorrhagic. 
+Figure 6.15 shows mortality rates within 30 days of hospital admission for ischaemic stroke where the death occurred in the same 
+hospital as the initial admission (unlinked data), whereas Figure 6.16 shows mortality rates where deaths are recorded regardless 
+of where they occurred, including in another hospital or outside the hospital (linked data). 
+Using unlinked data, the mortality rates within 30 days of hospital admission for ischaemic stroke were highest in Latvia, Lithuania 
+and Malta, with mortality rates above 15% in 2021. Iceland, Norway, the Netherlands and Denmark reported the lowest rates, 
+below 5%. Generally, countries with lower 30-day mortality rates for ischaemic stroke than the EU average also had lower 30-day 
+mortality rates for acute myocardial infarction (AMI) (see indicator “Mortality following acute myocardial infarction”). This suggests 
+that certain characteristics of acute care delivery have an impact on both stroke and AMI patients’ outcomes. 
+Across countries that reported linked data, the case fatality rates were highest in Latvia, with more than 25% of patients dying 
+within 30 days of being admitted to hospital for stroke. They were lowest in the Netherlands and Norway, where case fatality rates 
+were less than 8%. Case fatality rates using linked data are higher than those based on unlinked data because they capture all 
+deaths, regardless of where they occurred. Generally, countries that show 30-day mortality rates for ischaemic stroke lower than 
+the EU average also tend to show lower 1-year mortality rates for ischaemic stroke (see indicator “Integrated Care”). 
+Treatment for ischaemic stroke has advanced substantially over the last decades, with systems and processes now in place in 
+many European countries to identify suspected stroke patients and to deliver acute reperfusion therapy quickly. Countries can 
+improve the quality of stroke care further through timely transportation of patients and access to high-quality specialised facilities 
+such as stroke units (OECD, 2015[1]). Advances in technology are leading to new models of care to deliver reperfusion therapy 
+even more quickly and efficiently, whether through pre-hospital triage by telephone or administering the therapy in the ambulance. 
+However, between 2019 and 2021, case fatality rates following ischaemic stroke increased on average across EU countries. For 
+same-hospital deaths, the increase was pronounced in Lithuania and Malta, and a substantial increase was also observed for 
+deaths in and out of hospital in Lithuania, Malta and the Slovak Republic. They remained stable in other countries such as the 
+Netherlands, Sweden, Denmark and Finland. During this period, hospital admissions following ischaemic stroke also decreased 
+in most countries. These reductions have been attributed to stroke patients not seeking or receiving hospital care immediately 
+due to a fear of becoming infected with COVID-19, or because pre-hospital triage and ambulance systems did not function as well 
+and as promptly due to surges in demand. A systematic review of evidence found that the ambulance intervals from call to arrival 
+at hospital increased during the pandemic (Burton et al., 2023[2]). As with heart attack (see indicator “Mortality following acute 
+myocardial infarction”), a number of studies conducted in EU and other OECD countries have found that the severity of 
+presentation of stroke patients was higher during the COVID-19 pandemic than beforehand. 
+Definition and comparability 
+The case fatality rate measures the percentage of people aged 45 years and over who die within 30 days following hospital 
+admission for a specific acute condition. The linked data-based method requires a unique patient identifier and is considered 
+more robust than the rates based on unlinked data. Rates are age-standardised to the 2013 OECD population aged 45 and 
+over admitted to hospital for ischaemic stroke, using the International Classification of Diseases, tenth revision (ICD-10) codes 
+I63-I64. 
+ 
+References 
+ 
+Burton, E. et al. (2023), “Effects of the COVID-19 Pandemic on Prehospital Emergency Care for Adults with Stroke and 
+Transient Ischaemic Attack: A Systematic Review and Meta-Analysis”, Prehospital Emergency Care, 
+https://doi.org/10.1080/10903127.2023.2219729. 
+[2] 
+OECD (2015), Cardiovascular Disease and Diabetes: Policies for Better Health and Quality of Care, OECD Health 
+Policy Studies, OECD Publishing, Paris, https://doi.org/10.1787/9789264233010-en. 
+[1] 
+  
+
+
+## Stran PDF 173
+
+   171 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.15. Thirty-day mortality after admission to hospital for ischaemic stroke based on unlinked data, 2019 and 
+2021 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data for 2020 instead of 2021. 2.Break in time-series between 2019 and 2021 as the data source has been changed. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/lsv8xp 
+Figure 6.16. Thirty-day mortality after admission to hospital for ischaemic stroke based on linked data, 2019 and 2021 
+(or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data for 2020 instead of 2021. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/0z3f8c
+4.9 
+4.9 
+5.5 
+6.0 
+6.3 
+6.6 
+6.6 
+8.2 
+9.0 
+9.1 
+9.4 
+9.4 
+9.5 
+9.9 
+10.4 
+11.4 
+12.1 
+15.3 15.4 
+20.5 
+3.1 
+3.1 
+7.6 
+9.0 
+0
+5
+10
+15
+20
+25
+2019
+2021 (values shown)
+Age-sex standardised rate per 100 admissions for people aged 45 years and over
+5.3
+8.7
+9.7
+10.2
+10.3
+14.1
+14.7
+15.4
+15.4
+16.9
+17.0
+18.2
+22.4
+27.4
+7.3
+11.5
+11.5
+20.7
+0
+5
+10
+15
+20
+25
+30
+2019
+2021 (values shown)
+Age-sex standardised rate per 100 patients aged 45 and over
+
+
+## Stran PDF 174
+
+172    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Hip and knee surgery: Outcomes and emergency responsiveness 
+Hip fractures are a common cause of hospitalisation, typically caused by falls particularly among older people who have lost 
+skeletal strength due to osteoporosis. In nearly all instances following a hip fracture, surgical intervention is required to repair or 
+replace the hip joint. There is general agreement that early surgical intervention improves patient outcomes and minimises the 
+risk of complications. For this reason, surgery should occur within two days (48 hours) of hospitalisation. Some national guidelines 
+stipulate an even more rapid intervention. 
+Time to surgery is influenced by many factors, including hospitals’ surgical and staffing capacity and inter-hospital flow and access. 
+According to the most recent data, nearly three out of four patients aged 65 and over on average across EU countries underwent 
+surgery within two days following admission with a hip fracture (Figure 6.17). In Norway and the Netherlands, the proportion of patients 
+operated within two days reached more than 95%. By contrast, less than half of patients aged 65 and over were operated within 
+two days following their admission for a hip fracture in Latvia and Portugal, although this proportion increased between 2019 and 2021. 
+Osteoarthritis is a growing cause of disability in Europe due to population ageing and the growing prevalence of obesity. It often requires 
+hip or knee joint replacement surgery if symptoms persist after exhausting non-surgical management such as physical therapy and 
+weight loss. Patient-reported outcome measures (PROMs), reported directly by the patient without interpretation by a clinician or 
+anyone else, can be used to measure the quality of care by assessing outcomes from the patient’s perspective. Condition-specific 
+PROMs, such as the Oxford Hip/Knee Score measures for joint replacement surgery, assess aspects specific to the condition, while 
+generic tools such as EQ-5D assess general aspects of health that are not specific to a particular disease (Kendir et al., 2022[1]). 
+Figure 6.18 shows pre-operative and post-operative scores on the Oxford Hip/Knee Score reported by patients who have received 
+an elective hip (left) and knee (right) replacement surgery for osteoarthritis. The post-operative scores varied from 44 points in 
+Finland to 39 points in Italy on the 48-point scale on the Oxford Hip Score. The improvement before and after the hip replacement 
+surgery ranged from 25 points in Ireland to 19 points in the Netherlands and Italy. The post-operative scores following knee 
+replacement surgery ranged from 41 points in Finland to 35 points in Italy also on the 48-point scale on the Oxford Knee Score. 
+The average gain in patient-reported scores were slightly lower after knee replacement surgery compared to hip replacement 
+surgery, ranging from 19 points in Ireland to 15 points in the Netherlands and Germany. 
+Figure 6.19 shows pre-operative and post-operative scores on EQ-5D scale reported by patients who have received a hip 
+replacement surgery (left) and knee replacement surgery (right). The post-operative scores after hip replacement surgery varied 
+from 0.89 in Germany to 0.78 in Switzerland on the 1-point scale on EQ-5D. The average change between pre-operative and 
+post-operative scores ranged from 0.50 points in Ireland and the United Kingdom to 0.14 points in Switzerland. The post-operative 
+scores after knee replacement surgery were between 0.83 in the Netherlands and 0.76 in Switzerland, with an average gain in 
+score ranging from 0.34 in the United Kingdom to 0.13 in Switzerland. 
+Definition and comparability 
+The indicator of waiting times for surgery following admission for a hip fracture is defined as the proportion of patients 
+aged 65 years and over admitted to hospital with a diagnosis of upper femur fracture, who had surgery initiated within two 
+calendar days of their admission. While cases where the hip fracture occurred during admission to hospital should be excluded, 
+not all countries have a “present on admission” flag in their datasets to enable them to identify such cases accurately. Rates 
+are age-sex standardised to the 2015 OECD population aged 65 years and over. 
+PROMs are based on data from national or subnational registries collected from patients undergoing elective hip or knee 
+replacement surgery with a principal diagnosis of osteoarthritis. A higher score denotes better outcomes on all these scales 
+(Kendir et al., 2022[1]). Post-operative scores have been adjusted for pre-operative score, age and sex. In addition to variations 
+in the quality of hip and knee replacement surgery across countries, variations in post-operative scores may also be indicative 
+of differences in the socio-demographic and clinical characteristics of patients (Ingelsrud et al., 2022[2]). Sample sizes for Italy 
+and Switzerland for the Oxford Knee Score are below 500 patients. Post-operative data from England and Ireland were 
+collected six months after the surgery while other registries reported 12 months. Given that improvement in the Oxford Hip/ 
+Knee Scores often occurs in the six to 12 month recovery period, the post-operative scores in these countries may be 
+underreported. 
+ 
+References 
+ 
+Ingelsrud, L. et al. (2022), “How do Patient-reported Outcome Scores in International Hip and Knee Arthroplasty 
+Registries Compare?”, Clinical Orthopaedics &amp; Related Research, Vol. 480/10, pp. 1884-1896, 
+https://doi.org/10.1097/corr.0000000000002306. 
+[2] 
+Kendir, C. et al. (2022), “International assessment of the use and results of patient-reported outcome measures for hip 
+and knee replacement surgery: Findings of the OECD Patient-Reported Indicator Surveys (PaRIS) working group on 
+hip and knee replacement surgery”, OECD Health Working Papers, No. 148, OECD Publishing, Paris, 
+https://doi.org/10.1787/6da7f06b-en. 
+[1] 
+  
+
+
+## Stran PDF 175
+
+   173 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.17. Hip fracture surgery initiation for patients aged 65 and over within two days of admission, 2019 and 2021 
+(or nearest year) 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/zyde4w 
+Figure 6.18. Patient-reported outcomes before and after hip and knee replacement surgery, condition-specific 
+measure, 2022 (or nearest year) 
+ 
+1. Data for Italy refer to Tuscany only; for the United Kingdom to England only; for Switzerland to Geneva only; for Finland to Coxa registry; for Germany to Dresden 
+hip and knee registry. 2. Post-operative scores are measured 6 months after the surgery (not 12 months as in other countries). 
+Source: OECD PaRIS Hip and Knee PROMs Pilot Data Collection, 2022-23. 
+StatLink 2 https://stat.link/h03kq5 
+Figure 6.19. Patient-reported quality of life before and after hip and knee replacement surgery, generic measure, 2022 
+(or nearest year) 
+ 
+1. Data for Italy refer to Tuscany only; for the United Kingdom to England only; for Switzerland to Geneva only, for Germany to Dresden hip and knee registry. 2. Post-
+operative scores are measured 6 months after the surgery (not 12 months as in other countries). 
+Source: OECD PaRIS Hip and Knee PROMs Pilot Data Collection, 2022-23. 
+StatLink 2 https://stat.link/ht7zdu
+96
+95
+94
+91
+91
+87
+79
+79
+73
+69
+67
+59
+59
+57
+53
+48
+47
+99
+98
+92
+65
+0
+20
+40
+60
+80
+100
+2019
+2021 (values shown)
+Age-sex standardised rate per 100 patients aged 65 and over
+22
+23
+20
+17
+18
+20
+19
+44
+42
+42
+42
+41
+40
+39
+0
+10
+20
+30
+40
+Pre-operative score
+Post-operative score
+Oxford Hip Score
+Scale (0-48)
+23
+23
+19
+19
+21
+19
+18
+41
+38
+38
+37
+36
+36
+35
+0
+10
+20
+30
+40
+Pre-operative score
+Post-operative score
+Oxford Knee Score
+Scale (0-48)
+0.55
+0.57
+0.36
+0.60
+0.30
+0.51
+0.64
+0.89
+0.86
+0.86
+0.82
+0.80
+0.79
+0.78
+0
+0.2
+0.4
+0.6
+0.8
+1
+Pre-operative score
+Post-operative score
+EQ-5D Scores (hip replacement surgery)
+0.62
+0.59
+0.60
+0.62
+0.37
+0.43
+0.63
+0.83
+0.82
+0.80
+0.80
+0.77
+0.77
+0.76
+0
+0.2
+0.4
+0.6
+0.8
+1
+Pre-operative score
+Post-operative score
+EQ-5D Scores (knee replacement surgery)
+Scale (0-1)
+Scale (0-1)
+
+
+## Stran PDF 176
+
+174    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Healthcare-associated infections 
+Approximately 4.3 million people acquire a healthcare-associated infection (HAI) each year in acute care hospitals in EU countries, 
+Iceland and Norway (ECDC, 2024[1]). HAIs lead to increases in patient morbidity, long-term health complications, extended 
+hospital stays and mortality (WHO, 2022[2]). They also contribute to the unnecessary use of healthcare resources and represent 
+a preventable financial burden on healthcare systems, with related costs representing up to 6% of public hospital budgets 
+(Slawomirski, Auraaen and Klazinga, 2017[3]). 
+On average, 7.1% of patients in the EU acquired an HAI during their hospital stay in 2022–23 (Figure 6.20). The observed rates 
+were lowest in Latvia, Romania and Bulgaria (less than 4% of patients), and highest in Cyprus and Greece (more than 12% of 
+patients), although there are wide confidence intervals around the rate in Cyprus. Prevalence is impacted by differences in 
+diagnostic testing and reporting, as on average, countries with higher testing frequency detected more HAIs. The 2022-23 data 
+showed no general improvement of the situation since 2016-17 as the prevalence of HAIs was similar, leaving aside new inclusions 
+in the survey such as COVID-19 and infections imported from long-term care facilities. 
+The differences between countries narrow when accounting for the selection of hospitals (confidence intervals) and patient 
+characteristics that affect probability of infection (predicted prevalence). The predicted prevalence, though still impacted by testing 
+frequency, ranges from 5% to 6% in Bulgaria, Romania, Latvia, the Slovak Republic and Lithuania, up to 10% in Italy and over 8% 
+in Cyprus, Malta, Portugal and Greece. 
+As shown in Figure 6.21, the most frequently reported types of HAI across the EU were respiratory tract infections (29.3% of the 
+total) including pneumonia (19.0%), COVID-19 (7.0%) and other lower respiratory tract infections (3.3%), urinary tract infections 
+(19.2%), surgical site infections (16.1%), bloodstream infections (11.9%) and gastro-intestinal infections (9.5%). The prevalence 
+of COVID-19 infections varied across countries, linked to the prevalence in the community during the time of the survey. 
+Between 35-70% of HAIs could be avoided through better infection prevention and control (IPC) measures (WHO, 2022[2]). 
+Although most effective when implemented as a comprehensive package of IPC activities, hand hygiene is the most effective 
+single measure to reduce infections with actions such as ensuring access to hand hygiene facilities, training of health personnel, 
+regular audits and feedback, and enhancing environmental hygiene through more effective cleaning practices (OECD, 2023[4]). 
+On average, 55.6% of hospital beds in the EU had alcohol-based handrub dispensers at the point of care, allowing for easy access to 
+sanitary equipment (Figure 6.22). This ranged from under 10% in Romania and Bulgaria to more than 90% in Spain, Hungary, Luxembourg 
+and Portugal. In general, high availability of dispensers was associated with a lower prevalence of antimicrobial-resistant HAIs at the 
+country level, though the actual use of dispensers also matters. For example, although Hungary reported 100% availability of dispensers 
+at the point of care, it ranked lowest in the consumption of alcohol-based handrub, indicating sub-optimal utilisation of the dispensers. 
+Adequate staffing and awareness of infection prevention are essential, and dedicated IPC teams can support IPC education and 
+training activities (OECD, 2023[4]). The average number of IPC nurses (measured in full-time equivalent) per 250 beds was 1.2 in 
+2022-23, ranging from 0 in Lithuania, Latvia and the Slovak Republic to 2.8 in Cyprus and 3.1 in Ireland (Figure 6.22). At the 
+hospital level, high IPC nurse staffing level is associated with higher observed prevalence of HAIs due to better diagnosis and 
+reporting, but with lower prevalence of antimicrobial-resistant HAIs. In 2022-23, most countries reached the WHO target staffing 
+level of 1 IPC nurse per 250 beds. However, only Cyprus and Ireland achieved the updated ECDC target of 2.5 nurses per 
+250 beds. Compared to the 2016-17 survey, the average levels of IPC staffing levels and availability of handrub dispensers have 
+improved, which can in part be attributed to the spotlight on IPC placed by the COVID-19 pandemic (ECDC, 2024[1]). 
+Definition and comparability 
+The data come from the ECDC point prevalence survey of healthcare-associated infections in 2022-23, covering acute care 
+hospitals in all EU countries (except Denmark), Iceland, Norway, Serbia and Montenegro. To account for biases arising from 
+survey design and clustering of HAIs in some hospitals, 95% confidence intervals were reported. The predicted HAI prevalence 
+adjusts for individual patient risk factors (patient age, length of hospital stay, use of invasive medical devices and patient 
+comorbidities) which increase the risk of HAIs. IPC nurse full time equivalent estimations count nurses whose job description 
+includes responsibilities for IPC, attributing a proportion of their worktime to IPC. 
+ 
+References 
+ 
+ECDC (2024), Point prevalence survey of healthcare-associated infections and antimicrobial use in European acute 
+care hospitals 2022-2023. 
+[1] 
+OECD (2023), Embracing a One Health Framework to Fight Antimicrobial Resistance, OECD Health Policy Studies, 
+OECD Publishing, Paris, https://doi.org/10.1787/ce44c755-en. 
+[4] 
+Slawomirski, L., A. Auraaen and N. Klazinga (2017), “The economics of patient safety: Strengthening a value-based 
+approach to reducing patient harm at national level”, OECD Health Working Papers, No. 96, OECD Publishing, Paris, 
+https://doi.org/10.1787/5a9858cd-en. 
+[3] 
+WHO (2022), Global report on infection prevention and control, World Health Organization, 
+https://iris.who.int/handle/10665/354489. 
+[2] 
+  
+
+
+## Stran PDF 177
+
+   175 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.20. Percentage of patients with at least one healthcare-associated infection, 2022-23 
+ 
+Note: Observed refers to measured numbers, with 95% confidence intervals presented to account for the selection of hospitals and clustering of infections. Predicted 
+values refer to the values adjusted based on the case-mix of patients. 
+Source: ECDC 2022-23 Point prevalence survey of healthcare-associated infections. 
+StatLink 2 https://stat.link/fagoxb 
+Figure 6.21. Healthcare-associated infections by type 
+of infection, 2022-23 
+ 
+Note: Data refer to 26 EU countries (all except Denmark), Iceland, Norway. 
+Source: ECDC 2022-23 Point prevalence survey of healthcare-associated 
+infections. 
+StatLink 2 https://stat.link/rqg850 
+Figure 6.22. Infection prevention and control nurse 
+staffing and availability of alcohol-based handrub 
+dispensers, 2022-23 
+ 
+Note: Values refer to medians across hospitals surveyed. 
+Source: ECDC 2022-23 Point prevalence survey of healthcare-associated 
+infections. 
+StatLink 2 https://stat.link/kt1mah
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Observed prevalence of HAIs
+Predicted prevalence based on differences in patient case-mix
+22.1
+29.3
+% of patients with at least one healthcare-associated infection
+Pneumonia, 
+19.0%
+COVID-19, 7.0%
+Other resp., 3.3%
+Urinary tract 
+infection, 
+19.2%
+Surgical site 
+infection, 
+16.1%
+Bloodstream 
+infection, 
+11.9%
+Gastro-intestinal 
+system infection, 
+9.5%
+Other, 14.0%
+Respiratory 
+infections, 29.3%
+AT
+BE
+BG
+HR
+CY
+CZ
+EE
+EU24
+FI
+DE
+EL
+HU
+IE
+IT
+LV
+LT
+LU
+MT
+PL
+PT
+RO
+SK
+SI
+ES
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Infection prevention and control nurses per 250 beds
+% of beds with alcohol-based handrub dispenser at point of care
+EU average: 55.6
+EU average: 1.2
+
+
+## Stran PDF 178
+
+176    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Safe acute care: Workplace culture and patient experiences 
+Patient safety, relating to prevention of harm during healthcare activities, remains a pressing issue with substantial health and 
+economic costs in countries in Europe. It is estimated that up to 13% of health spending goes towards treatment of patients 
+harmed during care, the majority of which could be avoided if appropriate safety protocols and clinical guidelines were adhered 
+to (Slawomirski, Auraaen and Klazinga, 2017[1]). Promoting patient safety culture in healthcare workplaces and capturing the 
+patient voice on patient safety is vital for driving sustainable progress in providing safe care and to meet the goals of WHO’s 
+Global Patient Safety Action Plan 2021-30. 
+Measures of patient safety culture from the perspective of health workers capture aspects of the work environment that facilitate 
+the provision of safe and high-quality care. These measures, along with patient-reported experiences of safety, traditional patient 
+safety indicators and health outcome indicators, provide insights on the safety of health systems from various perspectives. A 
+positive patient safety culture for health workers means there is agreement on the importance of patient safety, transparency and 
+trust, shared responsibility, and confidence in organisational and national safety initiatives. It is associated with better patient 
+outcomes and experiences, as well as improved productivity and staff satisfaction. 
+Figure 6.23 illustrates the domain of the Hospital Survey on Patient Safety Culture relating to the reporting of patient safety events, 
+including mistakes that are caught and corrected before reaching the patient and mistakes that could have harmed the patient but 
+did not. The percentage of health workers who had positive overall perceptions of the reporting of patient safety events ranges 
+from 63% in Türkiye to less than 40% in Poland and Belgium. Staffing and work pace, as it relates to patient safety, means that 
+staff think the procedures and systems at their workplace are good at preventing errors and that there is a lack of patient safety 
+problems. Figure 6.24 shows differences in positive response on this domain by staffing levels. In Türkiye and Portugal, the 
+difference between managers perceptions of safe staffing and work pace and that of physicians differs by at least 14 percentage 
+points, and at least 13 percentage points for nurses. 
+Patient perspectives are also critical to make health systems safer and people-centred. To strengthen health systems based on 
+people’s voices, a number of EU countries have started utilising patient-reported safety indicators systematically to monitor patient 
+harms and improve processes for preventing and reducing harms. Poland uses patient-reported safety measures as part of its provider 
+accreditation mechanism. According to the Commonwealth Fund 2020 survey, the proportion of patients reporting experiences of 
+medical mistakes in the past two years varied between 6% in France and 10% in Germany and Norway in 2020. Among hospitalised 
+patients, the proportion was less than 4% in Italy and Latvia and 8% in Poland, according to national surveys (Figure 6.25). The 
+proportion was much higher in Belgium, which collected these data for the first time through a pilot survey. The response rate was very 
+low at about 5%, so it is possible that the survey was filled more often by patients who had experiences of unsafe care than others. 
+Among different types of patient safety incidents, medication-related errors are most frequently reported across countries. 
+Definition and comparability 
+Health worker perceptions of patient safety are based on the assessment of workers in the hospital setting using the Hospital 
+Survey of Patient Safety Culture (HSPSC). There are currently two versions of the survey, HSPSC 1.0 and HSPSC 2.0, with 
+the latter (released in 2019) being increasingly adopted by OECD countries. Scores on HSPSC 2.0 composite measures and 
+survey items can be expected to be higher than scores on HSPSC 1.0 due to changes in the survey. In addition to the version 
+of the tool used, differences in data reporting across countries may influence the rates. These include differences in the number 
+of survey respondents, types and number of participating hospitals, response rates and obligatory versus voluntary reporting 
+(de Bienassis and Klazinga, 2022[2]; 2024[3]). 
+Patient-reported data from the Commonwealth Fund survey were collected from a sample of population aged 18 and over, 
+whereas national surveys based on the pilot instrument (OECD, 2019[4]) were collected from hospitalised patients aged 18 and 
+over, so they are not directly comparable. 
+ 
+References 
+ 
+de Bienassis, K. and N. Klazinga (2024), “Comparative assessment of patient safety culture performance in OECD 
+countries: Findings based on the Hospital Survey on Patient Safety Culture versions 1 and 2”, OECD Health Working 
+Papers, No. 168, OECD Publishing, Paris, https://doi.org/10.1787/d0552328-en. 
+[3] 
+de Bienassis, K. and N. Klazinga (2022), “Developing international benchmarks of patient safety culture in hospital 
+care: Findings of the OECD patient safety culture pilot data collection and considerations for future work”, OECD 
+Health Working Papers, No. 134, OECD Publishing, Paris, https://doi.org/10.1787/95ae65a3-en. 
+[2] 
+OECD (2019), “Patient-Reported Safety Indicators: Question Set and Data Collection Guidance”, OECD, Paris, 
+https://www.oecd.org/health/health-systems/Patient-reported-incident-measures-December-2019.pdf. 
+[4] 
+Slawomirski, L., A. Auraaen and N. Klazinga (2017), “The economics of patient safety: Strengthening a value-based 
+approach to reducing patient harm at national level”, OECD Health Working Papers, No. 96, OECD Publishing, Paris, 
+https://doi.org/10.1787/5a9858cd-en. 
+[1] 
+  
+
+
+## Stran PDF 179
+
+   177 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 6.23. Health workers’ reporting of patient safety events, 2023 (or nearest year) 
+ 
+1. Data from 2018. 2. Pilot data collection. 
+Source: OECD Data Collections on Patient Safety Culture. 
+StatLink 2 https://stat.link/ht0pvr 
+Figure 6.24. Health workers’ perceptions of adequate staff levels and work pace, by job category, 2023 (or nearest year) 
+ 
+1. Data from HSPSC 1.0 (data for other countries from HSPSC 2.0). 2. Data from 2019 and 2020. 3. Pilot data collection. 
+Source: OECD Data Collections on Patient Safety Culture. 
+StatLink 2 https://stat.link/oz2w0k 
+Figure 6.25. Patients reporting safety incidents during treatment or care, 2020-24 
+ 
+Source: Data for the general population are from the Commonwealth Fund 2020 International Health Policy Survey. Data for the hospitalised patients are from the 
+OECD Pilot Data Collections on Patient-Reported Experience of Safety and based on national surveys. 
+StatLink 2 https://stat.link/cesg9d 
+63
+61
+60
+38
+54
+53
+40
+32
+0
+10
+20
+30
+40
+50
+60
+70
+80
+HSPSC 2.0
+HSPSC 1.0
+% average positive response among staff in hospital settings
+64
+45
+58
+42
+30
+50
+50
+34
+34
+37
+36
+36
+60
+48
+47
+45
+39
+32
+30
+0
+10
+20
+30
+40
+50
+60
+70
+Management
+Physicians
+Nurses
+% of staff in hospital settings with a positive response
+6.0
+6.6
+7.9
+9.6
+9.9
+10.1
+10.2
+3.5
+3.9
+5.2
+8.1
+16.5
+0
+5
+10
+15
+20
+General population
+Hospitalised patients
+% of patients reporting incidents 
+
+
+## Stran PDF 180
+
+
+
+## Stran PDF 181
+
+   179 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Most EU countries have achieved universal coverage for a core set of health services, 
+although the range of services covered and the degree of cost-sharing vary, potentially 
+raising affordability issues for some population groups. Effective access to different types of 
+care can also be restricted due to health workforce shortages, long waiting times or long 
+distance to reach the closest healthcare provider. While unmet medical care needs due to 
+financial, waiting time or geographic barriers remained relatively low in most EU countries in 
+2023, they have increased since 2019. These unmet needs are over three times higher 
+among people in the lowest income group compared to those in the highest income on 
+average in the EU. The pandemic highlighted serious health workforce shortages in most 
+EU countries. Achieving and sustaining universal access to care requires having a sufficient 
+number and proper mix of health workers, with a proper geographic distribution, to respond 
+to the needs of all the population regardless of where they live. 
+7 Accessibility: Affordability, 
+availability and use of services 
+
+
+## Stran PDF 182
+
+180    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Unmet healthcare needs 
+Accessibility to healthcare can be limited for a number of reasons, including cost, distance to the closest health facility and waiting 
+times. The disruption of health services during the pandemic also resulted in unmet healthcare needs as resources were mobilised 
+to address the crisis, and people were encouraged to stay home to reduce virus transmission. Information about unmet healthcare 
+needs can be sought by using different survey instruments that provide different results. The data presented here rely on the 
+annual Eurostat’s EU Statistics on Income and Living Conditions (EU-SILC) survey. 
+Based on EU-SILC, most of the population in EU countries reported that they had no unmet medical care needs for financial 
+reasons, distance or waiting times in 2023. Such unmet medical care needs were reported by 2.4% of the population in the EU, 
+and by less than 2% of population in half of EU countries (Figure 7.1). However, in Estonia, 12.9% of the population reported such 
+unmet medical care needs, mainly due to long waiting times (12.0%). In all EU countries, the burden of unmet needs for medical 
+care falls disproportionally more on people in the lowest income group compared to the people in the highest income group. This 
+is particularly the case in Greece where almost one in four (23.0%) people in the lowest income quintile reported going without 
+some medical care when they needed it in 2023 compared with 3.4% among the highest income quintile. Cost was the main 
+reason for these unmet needs (Figure 7.2). People in the lowest income group in Latvia also reported high unmet medical care 
+needs (13.9%), which was more than three times higher than among the highest income group. 
+Focussing only on the subgroup of population who had some medical care needs (i.e. excluding those who reported not having 
+any care needs) increases the rate of unmet needs in all countries, and sometimes quite substantially. In Greece, over one in five 
+people (21%) who had medical care needs reported that their needs were not met in 2023, and the rate was much higher among 
+people with lower income (at risk of poverty). In Latvia and Finland, over one in ten people with medical care needs reported going 
+without their needs being met in 2023. 
+In most countries, a larger proportion of the population indicates some unmet needs for dental care than for medical care 
+(Figure 7.1). This is mainly because dental care is only partially included (or not included at all) in public schemes in many 
+countries, so it must either be paid out-of-pocket or covered through purchasing private health insurance. In 2023, more than 8% 
+of people in Greece, Latvia, Portugal and Denmark reported unmet needs for dental care for reasons related to the organisation 
+and functioning of healthcare services, mainly for financial reasons. As in the case for medical care, the rate of unmet needs for 
+dental care are higher when only considering those who actually had dental care needs. 
+Unmet needs for medical care and dental care have increased in many EU countries following the pandemic. In the EU as a 
+whole, the unmet medical care needs across the entire population rose from 1.7% in 2019 to 2.0% in 2021 and 2.4% in 2023, 
+whereas it increased from 2.8% in 2019 to 3.1% in 2021 and to 3.4% in 2023 for unmet dental care needs. The main reason for 
+the increase in unmet needs for medical care were long waiting times, while the main reasons for unmet needs for dental care 
+were cost and waiting times. 
+Definition and comparability 
+EU-SILC asks people whether there was a time in the previous 12 months when they felt they needed medical care or dental 
+care but did not receive it, and if so for what main reason. The data presented here considers all population aged 16 and over, 
+including those who did not have any medical or dental care needs, and focus on three reasons: the care was too expensive, 
+the distance to travel too far or waiting times too long. The Eurostat database includes additional data focussing only on those 
+who had care needs, although the data are not available yet for all EU countries (under code hlth_silc_08b, hlth_silc_09b). 
+Some variations in the survey question across countries may affect data comparability. While most countries refer to both a 
+medical examination or treatment, the question in some countries (e.g. Czechia and Spain) only refers to a medical 
+examination/consultation, resulting in lower rates of unmet needs. The question in Germany refers to unmet needs for “severe” 
+illnesses, also resulting in some under-estimation compared to other countries. Income groups are divided by quintile: the first 
+quintile represents the 20% of the population with the lowest income, and the fifth quintile the 20% with the highest income. 
+ 
+
+
+## Stran PDF 183
+
+   181 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.1. Unmet needs for medical and dental examinations due to financial, geographic or waiting time reasons, 2023 
+ 
+Note: The EU average is weighted. 1. Data from 2022. 
+Source: Eurostat, based on EU-SILC (hlth_silc_08 and hlth_silc_09). 
+StatLink 2 https://stat.link/b6wc2e 
+Figure 7.2. Main reasons for reporting unmet needs for medical care, 2023 (or nearest year) 
+ 
+Note: The EU average is weighted. Data refer to 2022 for Montenegro, Switzerland, Serbia and Türkiye. 
+Source: Eurostat, based on EU-SILC (hlth_silc_08). 
+StatLink 2 https://stat.link/0yjv5z
+Estonia
+Greece
+Greece
+Latvia
+Finland
+Portugal
+Latvia
+Denmark
+Romania
+Finland
+Lithuania
+France
+Slovenia
+Romania
+France
+Spain
+Poland
+Slovenia
+Slovak Rep
+EU27
+Portugal
+Belgium
+Denmark
+Estonia
+Ireland
+Sweden
+EU27
+Lithuania
+Sweden
+Slovak Rep
+Spain
+Bulgaria
+Italy
+Ireland
+Belgium
+Italy
+Bulgaria
+Poland
+Croatia
+Luxembourg
+Hungary
+Czechia
+Luxembourg
+Cyprus
+Austria
+Austria
+Czechia
+Hungary
+Netherlands
+Croatia
+Germany
+Netherlands
+Cyprus
+Germany
+Malta
+Malta
+Serbia¹
+Norway
+Montenegro¹
+Switzerland¹
+Norway
+Serbia¹
+Türkiye¹
+Türkiye¹
+Switzerland¹
+Montenegro¹
+0
+5
+10
+15
+20
+25
+Medical examination
+%  of unmet needs
+0
+5
+10
+15
+20
+25
+Dental examination
+%  of unmet needs
+High income
+Low income
+Total population
+0
+2
+4
+6
+8
+10
+12
+14
+Too expensive
+Waiting list
+Too far to travel
+% of population reporting unmet needs
+
+
+## Stran PDF 184
+
+182    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Population coverage for healthcare 
+The share of the population covered by a public or private scheme provides an important measure of access to care and the 
+financial protection against the costs associated with healthcare. The COVID-19 pandemic demonstrated the importance of 
+universal health coverage as a key element for the resilience of health systems, as gaps in insurance coverage and high levels 
+of out-of-pocket payments may deter people from seeking care. Higher population coverage through public and primary private 
+health insurance have been associated with lower COVID-19 death and lower excess mortality in the EU and other 
+OECD countries (OECD, 2023[1]). 
+However, population coverage is only a partial measure of access and coverage: the range of services covered and the degree 
+of cost-sharing for those services also define how comprehensive healthcare coverage is in a country (see indicator “Extent of 
+healthcare coverage”). 
+Most European countries have achieved universal (or near-universal) coverage of the population for a core set of health services, 
+usually including consultations with doctors, tests and examinations, and hospital care (Figure 7.3). Yet, in some countries, 
+coverage of these core services may not be universal. In Ireland, for example, only Medical Card and GP visit card holders, who 
+accounted for about 48% of the population in 2021, were covered for the costs of all GP services (OECD/European Observatory 
+on Health Systems and Policies, 2023[2]). 
+Romania is the only EU country where at least 10% of the population is not covered for healthcare costs. The main groups of 
+uninsured people are Romanians living abroad but still counted as residents; long-term unemployed people; those who chose not 
+to pay health insurance premiums; and people without a valid identity card which is a prerequisite for health insurance registration. 
+This last issue particularly affects the Roma population and undocumented migrants (OECD/European Observatory on Health 
+Systems and Policies, 2023[3]). In general, people without insurance nonetheless have free access to some services, such as 
+care in emergency departments or care during pregnancy, but need to cover all other costs out of pocket. 
+Although basic primary health coverage generally covers a defined set of benefits, in many countries accessing health services 
+entails some degree of cost-sharing for the majority of users. In most countries, additional health coverage can be purchased 
+through private insurance to cover any cost-sharing left after basic coverage (complementary insurance), add additional services 
+(supplementary insurance), or provide faster access or larger choice of providers (duplicate insurance). In most EU countries, 
+only a small proportion of the population has an additional private health insurance, with the exception of Belgium, France, 
+Slovenia, the Netherlands, Luxembourg and Croatia, where more than half of the population has private health insurance coverage 
+(Figure 7.4). 
+Over the last decade, the population covered by additional private health insurance has increased in 14 of 22 EU countries with 
+available data. Several factors determine how additional private health insurance evolves – notably the extent of gaps in access 
+to publicly financed services and government interventions directed at private health insurance markets. 
+Definition and comparability 
+Population coverage for healthcare is defined as the share of the population covered for a set of healthcare goods and services 
+(covering at least hospital care and outpatient medical care) under public programmes and through primary private health 
+insurance. Public coverage refers both to government programmes, generally financed by taxation, and social health 
+insurance, generally financed by payroll taxes. 
+Voluntary private health insurance coverage refers to additional (secondary) insurance. It excludes primary private health 
+insurance, which exists in Germany, Switzerland, Spain and Iceland. 
+ 
+References 
+ 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[1] 
+OECD/European Observatory on Health Systems and Policies (2023), Ireland: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/3abe906b-en. 
+[2] 
+OECD/European Observatory on Health Systems and Policies (2023), Romania: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/f478769b-en. 
+[3] 
+  
+
+
+## Stran PDF 185
+
+   183 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.3. Population coverage for a core set of services, 2022 (or nearest year) 
+ 
+Note: Data include public coverage and primary private health insurance coverage. 
+Source: OECD Health Statistics 2024; European Observatory Health Systems in Transition (HiT) Series for non-OECD countries. 
+Figure 7.4. Private health insurance coverage, 2022 (or nearest year) 
+ 
+Note: These data exclude primary private health insurance. The additional (secondary) private health insurance can be both complementary and supplementary in 
+Denmark, Germany, Luxembourg and Türkiye. Data for France refer to 2019 and data for Spain to 2020. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/3p0xdu
+Most uninsured people are citizens living in another 
+country, long-term unemployed, and people without a 
+valid identity card.
+100
+96.1
+100
+100
+100
+99.9
+100
+100
+99.9
+100
+96.7
+100
+98.9
+100
+100
+98.5
+100
+99.9
+96
+100
+95.3
+100
+100
+99.9
+99.2
+100
+88.5
+93.5
+0 - 90
+90 - 98
+Population coverage for a core set of services, %
+98 - 100
+Most uninsured people are workers in informal, 
+temporary and part-time employment
+100
+100
+100
+91
+98
+95
+Most uninsured people are citizens working in another 
+country
+Most uninsured people are citizens working in another 
+country
+Most uninsured people are citizens working in another 
+country, workers in informal employment, unemployed 
+people not registered for social benefits, and people 
+without a valid identity card
+Most uninsured people are citizens working in another 
+country
+Non-Medical Card or Non-GP card 
+holders not covered for primary care 
+(over half of the population)
+100
+97.4
+96.4
+71
+67.3
+45.3
+27.3
+3.6
+16.1
+83.4
+56.7
+38.1
+23.8
+23.2
+1.4
+28.1
+12.1
+6.4
+47.6
+33.7
+19
+14.6
+7.2
+10.9
+0
+20
+40
+60
+80
+100
+Complementary
+Supplementary
+Duplicate
+% of population
+
+
+## Stran PDF 186
+
+184    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Extent of healthcare coverage 
+In addition to the share of the population entitled to core health services, the extent of healthcare coverage is defined by the range 
+of services included in a publicly defined benefit package and the proportion of costs covered. Figure 7.5 assesses the extent of 
+coverage for key health services by calculating the share of expenditure covered under government schemes or compulsory 
+health insurance. Differences in the extent of coverage across countries can be the result of specific services being included or 
+excluded in the publicly defined benefit package (such as a particular drug or medical treatment), different cost-sharing 
+arrangements, or some services only being covered for specific population groups in a country (such as dental treatment). 
+On average across EU countries, four-fifths of all healthcare costs were covered by government or compulsory health insurance 
+schemes in 2022 (see the indicator “Financing of health expenditure” in Chapter 5). However, financial protection is not uniform 
+across all types of health services, and there is considerable variation across countries. In nearly all EU countries, inpatient 
+services in hospitals are more comprehensively covered than any other type of care, with free access or very limited cost-sharing 
+in many countries. As a result, 90% of all inpatient costs were borne by government or compulsory insurance schemes in 2022. 
+Coverage rates were near 100% in Sweden, Estonia, Romania, Germany and Italy. In Greece, on the other hand, financial 
+coverage for the cost of inpatient care was only around two-thirds of the total costs. Copayments for care delivered in private 
+hospitals contracted by the public single purchaser, and direct payments for non-covered services, explain the low public coverage 
+in Greece (OECD/European Observatory on Health Systems and Policies, 2023[1]). 
+More than three-quarters (77%) of spending on outpatient medical care across the EU was covered by government and 
+compulsory insurance schemes in 2022. Coverage varied from less than 60% in Malta, Portugal, Italy and Latvia to over 90% in 
+the Slovak Republic, Denmark, Czechia and Sweden. Many EU countries (for example Croatia, France, Belgium, Ireland, Spain) 
+use safety nets to protect vulnerable patients from user charges for outpatient care, including exemptions or caps on co-payment 
+charges based on income. Generally, public coverage for outpatient medical care is less comprehensive than for inpatient care. 
+In Belgium, for example, there is relatively little regulation on the supplement fees that practitioners are allowed to charge on top 
+of official tariffs for outpatient care visits, compared with supplements charged for hospital stays. 
+Coverage for dental care costs is far more limited across EU countries. Many countries restrict benefits to specific treatments or 
+age groups, and many services require either substantial cost-sharing or are fully paid out-of-pocket by patients. As a result, only 
+one-third of total costs are borne by government schemes or compulsory insurance across the EU. More than 60% of dental 
+spending is covered in only three EU countries: Croatia, Germany and France. In Romania and Spain, the level of public coverage 
+is very low. Voluntary health insurance is common for dental care, including in Germany, France, the Netherlands and Portugal, 
+providing either full coverage of some services or coverage of cost-sharing obligations. 
+Coverage for pharmaceuticals is also typically less comprehensive than for inpatient and outpatient care. Across the EU, 59% of 
+all pharmaceutical retail spending are financed by government or compulsory insurance schemes. The most generous coverage 
+can be found in Cyprus, Germany, France and Ireland where over 80% of the pharmaceutical costs are covered. Conversely, this 
+share is less than 40% in Bulgaria and Poland. 
+Finally, the extent of coverage for therapeutic appliances, such as glasses and other eye products, hearing aids, and other medical 
+devices, is low across European countries. Government and compulsory insurance schemes cover more than 50% of these 
+expenses in only three EU countries. 
+ 
+References 
+ 
+OECD/European Observatory on Health Systems and Policies (2023), Greece: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/dd530c3e-en. 
+[1] 
+OECD/Eurostat/WHO (2017), A System of Health Accounts 2011: Revised edition, OECD Publishing, Paris, 
+https://doi.org/10.1787/9789264270985-en. 
+[2] 
+  
+Definition and comparability 
+Healthcare coverage is defined by the share of the population entitled to services, the range of services included in a benefit 
+package and the proportion of costs covered by government schemes and compulsory insurance schemes. Coverage provided 
+by voluntary health insurance and other voluntary schemes such as charities or employers is not considered. The core 
+functions analysed here are based on definitions in the System of Health Accounts 2011 (OECD/Eurostat/WHO, 2017[2]). 
+Comparability issues for this indicator may arise when health expenditure reporting is not comprehensive. For example, if 
+some household spending for private inpatient or outpatient treatment is missing from the reported health spending data in a 
+country, the calculated indicators of public financial coverage may be overestimated. 
+
+
+## Stran PDF 187
+
+   185 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.5. Healthcare coverage for selected services, 2022 (or nearest year) 
+Government and compulsory insurance spending as proportion of total health spending by type of services 
+ 
+Note: Outpatient medical services mainly refer to services provided by generalists and specialists in the outpatient sector. Pharmaceuticals include prescribed and 
+over-the-counter medicines as well as medical non-durables. Therapeutic appliances refer to vision products, hearing aids, wheelchairs and other medical devices. 
+N/A means data not available. The EU average is unweighted. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/1ubzf4
+37%
+44%
+45%
+17%
+45%
+15%
+41%
+44%
+34%
+N/A
+69%
+64%
+N/A
+47%
+31%
+15%
+11%
+16%
+46%
+69%
+46%
+39%
+22%
+24%
+29%
+33%
+3%
+36%
+32%
+82%
+41%
+30%
+53%
+15%
+Therapeutic
+appliances
+59%
+67%
+66%
+23%
+75%
+90%
+56%
+40%
+55%
+59%
+82%
+81%
+51%
+45%
+83%
+63%
+41%
+48%
+74%
+55%
+68%
+34%
+55%
+45%
+68%
+51%
+71%
+56%
+36%
+42%
+53%
+24%
+71%
+67%
+Pharmaceuticals
+35%
+48%
+33%
+50%
+62%
+13%
+43%
+35%
+27%
+41%
+67%
+72%
+N/A
+34%
+N/A
+N/A
+12%
+13%
+48%
+12%
+12%
+35%
+N/A
+7%
+46%
+44%
+2%
+43%
+34%
+32%
+27%
+N/A
+8%
+43%
+Dental care
+77%
+84%
+67%
+61%
+88%
+76%
+92%
+93%
+83%
+87%
+85%
+90%
+64%
+67%
+76%
+59%
+59%
+69%
+89%
+58%
+87%
+71%
+56%
+80%
+98%
+78%
+76%
+92%
+83%
+84%
+86%
+66%
+72%
+91%
+Outpatient 
+medical care
+90%
+88%
+77%
+92%
+93%
+91%
+95%
+91%
+99%
+96%
+95%
+97%
+65%
+95%
+79%
+97%
+91%
+92%
+94%
+86%
+91%
+94%
+80%
+99%
+87%
+88%
+89%
+99%
+82%
+99%
+99%
+92%
+83%
+95%
+EU27
+Austria
+Belgium
+Bulgaria
+Croatia
+Cyprus
+Czechia
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovak Republic
+Slovenia
+Spain
+Sweden
+Bosnia and Herzegovina
+Iceland
+Norway
+Serbia
+Switzerland
+United Kingdom
+Inpatient care
+
+
+## Stran PDF 188
+
+186    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Financial hardship and out-of-pocket expenditure 
+Health systems provide adequate financial protection when payments for healthcare do not expose people to financial hardship. 
+A lack of financial protection can reduce access to healthcare, undermine health status, deepen poverty, and exacerbate health 
+and socio-economic inequalities. Exposure to financial hardship for people using health services can also lead to catastrophic 
+health spending, with poorer households and those who must pay for long-term treatment – such as medicines for chronic illness 
+– particularly vulnerable. Financial protection is weakened by a health system’s reliance on out-of-pocket (OOP) payments for 
+healthcare. On average across EU countries, 15% of all spending on healthcare comes directly from patients through OOP 
+payments (see section on “Health expenditure by type of financing” in Chapter 5). 
+The share of household consumption spent on healthcare provides an aggregate assessment of the financial burden of OOP 
+payments. In 2022, around 3% of total household spending was on health services across the EU. This share ranged from less 
+than 2% in Luxembourg and Croatia to 5% in Portugal and nearly 8% in Malta (Figure 7.6). 
+Health systems in EU countries differ in the degree of coverage for different health services (see section on “Extent of healthcare 
+coverage”). Pharmaceuticals and other medical goods are the main driver of household spending in the EU, accounting for 44% 
+of OOP spending on health on average in 2022 (Figure 7.7). In Bulgaria, Romania, Poland and the Slovak Republic, 
+pharmaceuticals accounted for over 60% of OOP spending. Outpatient care accounted for just over a fifth of household spending 
+on healthcare on average, but was especially high in Portugal (52%), Italy (47%) and Ireland (40%), where cost-sharing 
+arrangements for outpatient care are common. Dental care represented 14% of OOP spending on health, and long-term care 
+made up 11% in 2022. Inpatient care played only a minor role (9%) in the composition of OOP spending in EU countries, except 
+for in Greece (32%) and Belgium (27%). 
+The indicator most widely used to measure financial hardship associated with OOP payments for households is the incidence of 
+catastrophic health spending (Cylus, Thomson and Evetovits, 2018[1]). This varies considerably across EU countries, from fewer 
+than 2% of households experiencing catastrophic health spending in Sweden, Ireland, Slovenia and the Netherlands, to 15% of 
+households or more in Latvia, Lithuania and Bulgaria (Figure 7.8) (UHC watch, 2024[2]). Across all countries, poorer households 
+(those in the lowest consumption quintile) are most likely to experience catastrophic health spending. Countries with comparatively 
+high levels of public spending on health and low levels of OOP payments typically have a lower incidence of catastrophic spending 
+(WHO Europe, 2023[3]). 
+However, policy choices are also important, particularly around coverage policy (WHO Europe, 2023[3]). Population entitlement to 
+publicly financed healthcare is a prerequisite for financial protection, but not a guarantee of it. Countries with a low incidence of 
+catastrophic spending on health are more likely to limit the use of co-payments, for example through exemptions for people with 
+low incomes and frequent users of care from co-payments, using low fixed co-payments instead of percentage co-payments, and 
+placing caps on the co-payments a household has to pay over a given time period (for example in Austria, Belgium, Germany, 
+Ireland, Spain and the United Kingdom). 
+Definition and comparability 
+Out-of-pocket (OOP) payments are expenditures borne directly by a person at the time of using any health good or service. 
+They include cost-sharing (co-payments) and other expenditure paid directly by private households. 
+Catastrophic health spending is defined as OOP payments that exceed a predefined percentage of the resources available to 
+a household to pay for healthcare. Household resources available can be defined in different ways, leading to measurement 
+differences. In the data presented here, these resources are defined as household consumption minus a standard amount 
+representing basic spending on food, housing and utilities. The threshold used to define households with catastrophic spending 
+is 40% of household capacity to pay for healthcare. Results are disaggregated into quintiles by consumption per person using 
+the OECD equivalence scale. Microdata from national household budget surveys are used to calculate this indicator. 
+ 
+References 
+ 
+Cylus, S. Thomson and T. Evetovits (2018), “Catastrophic health spending in Europe: equity and policy implications of 
+different calculation methods”, Bulletin of the World Health Organization, Vol. 96/9, 
+https://doi.org/10.2471/BLT.18.209031. 
+[1] 
+UHC watch (2024), “Tracking progress on affordable access to health care in Europe and central Asia [online 
+database]”, https://apps.who.int/dhis2/uhcwatch/#/. 
+[2] 
+WHO Europe (2023), Can people afford to pay for health care? Evidence on financial protection in 40 countries in 
+Europe, World Health Organization Regional Office for Europe, https://iris.who.int/handle/10665/374504. 
+[3] 
+  
+
+
+## Stran PDF 189
+
+   187 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.6. Out-of-pocket spending on health as share of final household consumption, 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024, OECD National Accounts database. 
+StatLink 2 https://stat.link/t8wdya 
+Figure 7.7. Out-of-pocket spending on health, by type of services, 2022 
+ 
+Note: The EU average is unweighted. “Medical Goods” include retail pharmaceuticals and therapeutic appliances. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/1p6bwk 
+Figure 7.8. Share of households with catastrophic health spending by consumption quintile, latest year 
+ 
+Notes: Data in countries on the left of the chart are for 2019 or the latest available year before the COVID-19 pandemic; data in countries on the right of the chart are 
+for 2020 or later. Data for 2020 and 2021 should be interpreted with caution due to shifts in healthcare use and spending during the peak years of the pandemic. 
+Source: WHO Regional Office for Europe 2023 and UHC watch 2024. 
+StatLink 2 https://stat.link/81ipjz
+7.7
+5.0 4.7 4.3 4.3 4.0 4.0 3.6 3.5 3.4 3.3 3.3 3.2 3.1 3.1 2.9 2.7 2.7 2.7 2.4 2.3 2.3 2.2 2.1 2.0 2.0 1.7
+1.2
+5.8 5.3 5.3 5.2
+3.7
+2.6 2.5
+1.3
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+%
+0
+20
+40
+60
+80
+100
+%
+Medical Goods
+Outpatient
+Dental
+LTC
+Inpatient
+Other
+19.2
+15.2
+15.0
+12.5
+12.3
+12.2
+11.6
+10.6
+6.9
+5.1
+5.0
+4.3
+4.2
+3.8
+3.6
+2.7
+2.6
+2.4
+2.1
+1.6
+1.5
+1.2
+0.8
+0.5
+21.4
+17.1
+11.2
+10.7
+9.8
+9.4
+8.7
+8.7
+7.2
+5.2
+4.2
+3.8
+2.9
+0
+5
+10
+15
+20
+25
+%
+Richest
+4th quintile
+3rd quintile
+2nd quintile
+Poorest
+
+
+## Stran PDF 190
+
+188    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Availability of doctors 
+Proper access to medical care requires having a sufficient number of doctors, with a proper mix of generalists and specialists, 
+and a proper geographic distribution to serve the population in the whole country. 
+The number of doctors in EU countries increased from about 1.65 million in 2010 to 1.83 million in 2022. In all EU countries, the 
+number of doctors increased more rapidly than the size of the population since 2010, so on average the number of doctors rose 
+from 3.4 per 1 000 population in 2010 to 4.2 in 2022. However, this does not mean that the shortages of doctors have reduced if 
+the demand for medical care increased more rapidly than the supply, if the average working hours of doctors have reduced, if 
+there is not an appropriate mix of doctors or if there is a more uneven geographic distribution. 
+In 2022, Greece had the highest number of doctors per population followed by Portugal, but the number in these two countries is 
+an over-estimation as it includes all doctors licensed to practice, including retired physicians and those who might have emigrated 
+to other countries but have kept their licence in the country. The number of doctors per population was the lowest in Luxembourg 
+(although the latest data dates back to 2017) and France (although the number does not include physicians-in-training, resulting 
+in an under-estimation compared to other countries). The density of doctors was also relatively low in Slovenia and Latvia, although 
+it increased in these two countries since 2010, particularly in Slovenia (Figure 7.9). 
+One of the main reasons why the overall number of doctors has increased is that the number of female doctors has grown rapidly 
+in many countries, replacing a predominantly male generation of doctors who is gradually retiring. In the EU as a whole, over half 
+(53%) of doctors in 2022 were female doctors, up from 45% in 2010. However, female doctors generally work fewer hours than 
+male doctors, often because they are doing more unpaid work at home. According to the EU Labour Force Survey, female doctors 
+worked about 10% less than male doctors in 2022 (39.4 hours per week compared to 43.0 hours) on average across EU countries. 
+In many countries, the main concern about the shortage of doctors has been about a growing shortage of general practitioners 
+(GPs), particularly in rural and remote areas, restricting access to primary care. Whereas the overall number of doctors per capita 
+has increased in all countries, the share of GPs has come down in most countries. On average across EU countries, only about 
+one in five doctors were GPs in 2022, whereas two-thirds were specialists (Figure 7.10). A few countries such as Portugal, Finland, 
+Belgium and France have been able to maintain a better balance between GPs and specialists, with GPs accounting for at least 
+30% of all doctors. 
+Several countries have increased the number of postgraduate training places in general medicine to address GP shortages. For 
+example, in France, at least 40% of all new postgraduate training places have been allocated to general medicine since 2017. In 
+Belgium, the government has also increased the share of postgraduate training places in general medicine from 39% in 2022 to 
+43% during the period 2023-26. However, many countries are struggling to attract a sufficient number of new medical graduates 
+to fill available places in general medicine because of the lower prestige and remuneration of general practice (see indicator 
+“Remuneration of doctors”). 
+In all countries, the density of physicians is generally greater in urban areas than in rural areas, reflecting the concentration of 
+specialised services such as surgery in urban centres and physicians’ preferences to live and work in cities. Differences in the 
+density of doctors between urban and rural areas are particularly large in Lithuania, Latvia, Hungary, the Slovak Republic, Slovenia 
+and France (OECD, 2023[1]). 
+Following the pandemic, many countries have increased the number of medical students to address current or expected future 
+shortages of doctors (OECD, 2023[2]), although the effect of these decisions will only be felt in a few years’ time as it takes 
+8-12 years to train new doctors. Some countries have also increased the recruitment of doctors from other countries as a quicker 
+way to address current shortages, but this can raise issues about “brain drain” when the recruitment is from lower-income countries 
+that are confronted with even greater shortages of doctors (see Chapter 1). 
+Definition and comparability 
+Practising physicians are defined as doctors who are providing care for patients. In some countries, the numbers also include 
+doctors working in administration, management, academic and research positions (“professionally active” physicians), adding 
+another 5-10% of doctors. Greece and Portugal report all physicians entitled to practice, resulting in an even greater 
+overestimation. Interns and resident physicians who provide services under the supervision of other doctors are included in 
+most countries, but not in France – resulting in an under-estimation. 
+ 
+References 
+ 
+OECD (2023), Health at a Glance 2023: OECD Indicators, OECD Publishing, Paris, https://doi.org/10.1787/7a7afb35-
+en. 
+[1] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[2] 
+  
+
+
+## Stran PDF 191
+
+   189 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.9. Practising doctors per 1 000 population, 2010 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data refer to all doctors licensed to practice, resulting in a large over-estimation of the number of practising doctors. 2. Data 
+include not only doctors providing direct care to patients, but also those working in the health sector as managers, educators, researchers, etc. (adding another 5-10% 
+of doctors). 3. Medical interns and residents are not included. 4. The latest data refer to 2017 only. 5. The data for Belgium starts in 2013 and for Cyprus, Ireland and 
+the Netherlands in 2014 to avoid breaks in time series (the last data point for Ireland relates to 2023 to avoid a break in 2022). 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2); WHO National Health Workforce Accounts for Moldova and Ukraine. 
+StatLink 2 https://stat.link/lavk5u 
+Figure 7.10. Share of different categories of doctors, 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. The category “Other doctors” includes other generalist (non-specialist) medical practitioners not considered GPs, recent 
+medical graduates who have not yet started post-graduate specialty training and other doctors not further defined. 2. In Portugal, only about 30% of doctors employed 
+by the public sector work as GPs in primary care – the other 70% work in hospitals. 3. The data for Luxembourg refer to 2017. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2). 
+StatLink 2 https://stat.link/lbhq6i
+6.6
+5.7
+5.4
+5.2
+4.6 4.5 4.5 4.4 4.4 4.4 4.3 4.3 4.2 4.2
+4.0 3.9 3.9 3.7 3.7 3.6 3.6 3.5 3.5 3.5 3.4 3.4 3.2
+3.0
+4.9
+4.5 4.4
+3.2 3.2 3.1 3.0
+2.8
+2.3
+1
+2
+3
+4
+5
+6
+7
+2010
+2022
+Per 1 000 population
+49
+39
+34
+30
+30
+27
+24
+23
+22
+22
+21
+21
+21
+19
+18
+18
+18
+18
+16
+16
+16
+14
+14
+13
+12
+9
+6
+32
+26
+25
+23
+18
+13
+48
+60
+57
+57
+70
+73
+53
+47
+78
+66
+77
+67
+75
+78
+56
+76
+78
+43
+79
+77
+81
+51
+56
+87
+80
+72
+80
+68
+61
+74
+67
+42
+51
+3
+1
+10
+13
+23
+30
+12
+2
+11
+5
+3
+26
+6
+4
+39
+5
+7
+3
+35
+31
+8
+19
+14
+13
+9
+40
+36
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+General practitioners
+Specialists
+Other doctors¹
+%
+
+
+## Stran PDF 192
+
+190    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Remuneration of doctors (general practitioners and specialists) 
+The remuneration of various categories of doctors affects the financial attractiveness of general practice and different specialties. 
+Differences in remuneration levels of doctors across countries can also act as a “push” or “pull” factor when it comes to physician 
+migration. In many countries, governments can determine or influence the level and structure of physician remuneration by 
+regulating their fees or by setting salaries when doctors are employed in the public sector. 
+In all European countries, the remuneration of doctors (both GPs and specialists) is substantially higher than the average wage 
+of all workers. In most countries, GPs earned two to four times more than the average wage in each country in 2022, while 
+specialists earned two to five times more (Figure 7.11). The earnings of both GPs and specialists in Germany relative to the 
+national average wage are greater than in other countries. 
+In most countries, specialists earned more than GPs, but the gap varies. In Belgium, self-employed specialists earned more than 
+twice as much as self-employed GPs in 2022. In Germany, the difference between self-employed specialists and self-employed 
+GPs is much smaller (about 12%). 
+When comparing doctors’ income, it is important to bear in mind that the remuneration of different categories of surgical or medical 
+specialties can vary widely within a country. For example, in Germany, ophthalmologists and radiologists had on average at least 
+twice the income of paediatricians, neurologists and psychiatrists in 2021 (Destatis, 2023[1]). 
+In most countries, the remuneration of doctors has increased in real terms (adjusted for inflation) since 2012, but at different rates 
+across countries and between GPs and specialists (Figure 7.12). The increase among both specialists and GPs has been 
+particularly strong in Hungary, where doctors and other health professionals have received large wage increases under a new 
+public sector employment contract that was adopted in 2020. In addition, the new medical service contract for doctors working in 
+the public sector in Hungary granted them with a 120% salary increase over three years (between 2021 and 2023), with the largest 
+increases occurring in the first two years, as an incentive to keep on working in the public sector and to reduce informal payments 
+(OECD/European Observatory on Health Systems and Policies, 2023[2]). The remuneration of GPs and specialists has also 
+increased strongly over the past decade in Estonia and Poland. In several countries (e.g. Belgium, Germany, Poland, Spain), the 
+remuneration of GPs has increased faster than that of specialists since 2012, thereby narrowing the remuneration gap. 
+In some countries, like the Netherlands, Portugal, Slovenia and Sweden, the remuneration of both GPs and specialists fell at least 
+slightly in real terms between 2012 and 2022, as inflation rate increased faster than nominal income gains. In the United Kingdom, 
+the remuneration of salaried specialists in hospital also fell in real terms over this past decade, as was also the case for nurses 
+and other NHS staff (IFS, 2024[3]). 
+Definition and comparability 
+The remuneration of doctors refers to average gross annual income and normally excludes practice expenses for self-
+employed doctors (except in Belgium where practice expenses are included). A distinction is made between salaried and self-
+employed doctors, although in some countries this distinction is blurred as some salaried doctors are allowed to have a private 
+practice and some self-employed doctors receive part of their remuneration through salaries. The OECD data also distinguish 
+between GPs and all other specialists combined, although there can be wide differences in the income of different medical 
+and surgical specialists. 
+A number of data limitations result in an underestimation of remuneration in some countries: 1) payments for overtime work, 
+bonuses and other supplementary income are excluded in some countries (in Austria for GPs, in Ireland and Italy for salaried 
+specialists, and in Portugal and Sweden for salaried GPs and specialists); 2) incomes from private practices for salaried doctors 
+are not included in several countries (e.g. Czechia, Iceland, Ireland, Portugal and Slovenia); 3) data in several countries relate 
+only to public sector employees who often earn less than those working in the private sector (Denmark, Greece, Hungary, 
+Iceland, Ireland, Norway, Portugal, the Slovak Republic, Sweden and the United Kingdom); and 4) informal payments, which 
+may be common in certain countries, are not included. 
+The income of doctors is compared to the average wage of full-time employees in all sectors in the country. 
+ 
+References 
+ 
+Destatis (2023), Kostenstrukturstatistik im medizinischen Bereich (Core structure statistics in the medical sector), 
+https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Dienstleistungen/Publikationen/_publikationen-innen-
+statistischer-bericht.html. 
+[1] 
+IFS (2024), Recent trends in public sector pay, lnstitute for Fiscal Studies, https://ifs.org.uk/publications/recent-trends-
+public-sector-pay. 
+[3] 
+OECD/European Observatory on Health Systems and Policies (2023), Hungary: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/8d398062-en. 
+[2] 
+  
+
+
+## Stran PDF 193
+
+   191 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.11. Remuneration of doctors, ratio to average wage, 2022 (or nearest year) 
+ 
+1. Practice expenses of self-employed GPs and specialists are included (resulting in an over-estimation). 2. Data for both salaried GPs and specialists are reported under 
+salaried specialists as it is not possible to separate these two groups. 3. The data relate to 2020 for specialists. The data for both GPs and specialists relate to England only. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/op1h78 
+Figure 7.12. Trends in remuneration of GPs and specialists (in real terms), 2012-22 (or nearest years) 
+ 
+1. Data for Germany and Belgium relate to self-employed GPs and specialists. 2. Data for the Netherlands relate to salaried GPs and specialists. 3. Data for France 
+relate to salaried specialists. 4. Data for the United Kingdom only include England and relate to self-employed GPs and salaried specialists. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/sk9dpr
+Austria
+Belgium¹
+Czechia
+Denmark²
+Estonia
+Finland
+France
+Germany²
+Greece
+Hungary
+Ireland
+Italy
+Netherlands
+Poland
+Portugal
+Slovak Republic²
+Slovenia
+Spain
+Sweden
+Iceland
+Norway²
+Switzerland
+Türkiye
+United Kingdom³
+1.7
+2.1
+3.8
+2.2
+2.3
+2.0
+2.0
+2.5
+2.3
+2.0
+2.2
+1.5
+3.1
+2.5
+3.3
+5.0
+2.9
+2.5
+3.1
+3.3
+0
+2
+4
+6
+Ratio to average wage in each country
+General practitioners (GPs)
+Salaried
+Self-employed
+n.a.
+2.4
+2.4
+2.5
+2.3
+2.6
+2.3
+3.3
+2.6
+5.1
+3.3
+2.5
+3.1
+1.6
+2.1
+2.5
+2.0
+2.8
+2.2
+2.1
+1.8
+3.2
+3.3
+4.5
+5.7
+5.6
+3.3
+3.2
+0
+2
+4
+6
+Ratio to average wage in each country
+Specialists
+Salaried
+Self-employed
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+12.8
+4.3
+4.1
+3.2
+1.4
+0.8
+0.6
+-0.1
+-0.2
+-0.5
+-0.9
+2.6
+0.9
+0.3
+12.4
+3.0
+3.8
+1.6
+1.0
+-0.6
+-0.1
+-1.3
+-0.4
+-0.7
+-0.1
+2.9
+0.9
+3.3
+2.7
+0.8
+-0.6
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+GPs
+Specialists
+Average annual growth rate (%, in real terms)
+
+
+## Stran PDF 194
+
+192    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Availability of dentists and consultations with dentists 
+Dental health is an integral part of general health and quality of life. Access to dental care is often more limited for certain parts of 
+the population, either because dental care is less covered under public health insurance system and therefore less affordable for 
+people with lower income or because of a short supply of dentists in certain areas. In 2023, 6% of people who needed dental care 
+reported some unmet needs because of affordability or accessibility issues according to the EU-SILC survey, but this proportion 
+reached over 12% among people at risk of poverty (see indicator “Unmet healthcare needs”). 
+Dentists play a key role in both preventing and treating oral health problems. In 2022, there were between 0.5 and 1.3 dentists 
+per 1 000 population across EU countries (Figure 7.13). Greece, Cyprus, Portugal, Bulgaria and Romania had the highest 
+numbers of dentists per capita, although the numbers in Greece and Portugal are over-estimated as they include all dentists 
+licensed to practice. In all these countries except Greece, the number of dentists per capita increased greatly between 2010 and 
+2022. On average across EU countries, the number of dentists per 1 000 population increased from 0.7 in 2010 to 0.8 in 2022. 
+Denmark is the only EU country where the number of dentists per population fell during that period. 
+While there is no general consensus about how often people should visit a dentist, the recommendation in several countries is 
+that children should have a visit at least once a year to prevent and treat any problem quickly, while adults without problems may 
+wait as long as two years. On average across EU countries, a person had 1.2 consultations with a dentist in 2022, ranging from 
+0.3 in Romania to 3.3 consultations in the Netherlands. In most EU countries, people had one or two consultations per year 
+Figure 7.14). 
+The markedly low number of consultations in Romania, despite having one of the highest numbers of dentists in the EU, is linked 
+to the high out-out-pocket cost of dental care due to low public coverage. More than 90% of dentists work in private practices 
+where the majority of the population cannot afford dental care. These practices have increasingly leveraged cross-border dental 
+tourism to sustain their activities. On the other hand, some dentists are emigrating to other EU countries due to insufficient activity 
+(European Observatory on Health Systems and Policies, 2022[1]). 
+By contrast, the high number of consultations in the Netherlands can be explained at least partly by the high awareness of people 
+arising from well-established programmes to promote prevention of oral health issues at a young age. The National Dutch 
+programme “Keep your Mouth Healthy” provides oral health education to children and is considered one of the best practices in 
+Europe. Several other European countries also have similar programmes of oral health promotion targeting children. For example, 
+in Croatia, a programme targeting kindergarten and elementary school children promotes effective oral hygiene habits, guiding 
+children to integrate toothbrushing into their daily routines under teacher supervision. 
+The extent of public coverage for dental care costs varies widely across countries and can partly explain some of the cross-country 
+variations in the use of dental care services (see indicator “Extent of healthcare coverage”). In Romania for example, only 7% of 
+dental care spending is publicly funded. By contrast, in France and Germany, more than 65% of dental spending is publicly 
+covered. In the Netherlands, while dental care is not comprehensively covered in the benefit package for adults, voluntary health 
+insurance plays an important role in covering dental care costs. 
+Definition and comparability 
+Data include both salaried and self-employed dentists. In most countries, the data only include dentists providing services to 
+patients, but this is not the case in Greece, Montenegro and Portugal where the data refer to all dentists licensed to practice, 
+resulting in an over-estimation. 
+Dentist consultations include visits at the dentist’s office as well as in outpatient departments in hospital, although the coverage 
+of these settings differ across countries. The data come mainly from administrative sources, although in some countries 
+(Ireland, the Netherlands, Spain and Switzerland) the data come from health interview surveys. Data from administrative 
+sources tend to be higher than those from surveys because of recall problems and non-response rates and also because some 
+surveys only cover adults, resulting in an under-estimation if the number of visits among children is greater. Austria, Hungary, 
+Serbia and the United Kingdom do not cover consultations privately financed or provided in the private sector, resulting in an 
+under-estimation. In Germany, the data refer to the number of dental treatment cases only, resulting in an under-estimation. 
+In Sweden, the data refer only to people aged 24 and over. 
+ 
+References 
+ 
+European Observatory on Health Systems and Policies (2022), Oral health care in Europe: Financing, access and 
+provision, Health Systems in Transition, https://eurohealthobservatory.who.int/publications/i/oral-health-care-in-europe-
+financing-access-and-provision. 
+[1] 
+  
+
+
+## Stran PDF 195
+
+   193 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.13. Practising dentists per 1 000 population, 2010 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data refer to all dentists licensed to practice, resulting in an over-estimation of practising dentists. 2. The latest data refer to 
+2017 only. 3. Data do not include dentists in the private sector, resulting an under-estimation of practising dentists. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2); WHO National Health Workforce Accounts for Moldova and Ukraine. 
+StatLink 2 https://stat.link/hmkflo 
+Figure 7.14. Number of dentist consultations per person, 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. The latest data refer to 2018. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/mwjrah
+1.3
+1.2 1.2
+1.2 1.2
+1.1 1.0
+1.0 1.0 0.9 0.9 0.9 0.8
+0.8 0.8 0.8 0.7 0.7
+0.7 0.7
+0.7 0.7
+0.6 0.6 0.6 0.6 0.5
+0.5
+1.1
+0.9
+0.8
+0.8
+0.5 0.5 0.5
+0.4
+0.3
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+2010
+2022
+Per 1 000 population
+3.3
+1.7
+1.6
+1.5
+1.5
+1.4
+1.4
+1.4
+1.3
+1.2
+1.2
+1.2
+1.1
+1.1
+1.0
+1.0
+0.9
+0.9
+0.8
+0.7
+0.5
+0.4
+0.3
+1.0
+0.6
+0.5
+0.4
+0.3
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+Annual consultations per person
+
+
+## Stran PDF 196
+
+194    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Availability of nurses 
+Nurses make up the most numerous category of health workers in nearly all EU countries. The key role they play in providing care 
+in hospitals, long-term care facilities and the community was highlighted during the COVID-19 pandemic. Pre-existing shortages 
+of nurses were exacerbated during the peaks of the epidemic, particularly in intensive care units and other hospital units as well 
+as in long-term care facilities (OECD, 2023[1]). 
+The demand for nurses is expected to continue to rise in the coming years due to population ageing while about one-fourth of 
+nurses on average across EU countries are aged over 55 and therefore approaching retirement age (see Chapter 1 on health 
+workforce challenges). Increasing the retention rate of nurses in the profession is a growing concern to avoid exacerbating current 
+and future shortages. Concerns about growing shortages have prompted many countries to increase the number of places in 
+nursing education programmes, and the number of new nurse graduates has increased at least slightly over the past decade in 
+most EU countries (see indicator on “medical and nursing graduates in Chapter 8”). However, young people’s interest in pursuing 
+a career in nursing has decreased in many countries following the pandemic (OECD, 2024[2]). 
+On average across EU countries, there were 8.4 nurses per 1 000 population in 2022, a rise from 7.3 in 2010 (Figure 7.15). These 
+include nurses with a level of qualifications meeting the EU Directive on the recognition of professional qualifications (“professional 
+nurses”), as well as other categories of nurses who may have a lower level of qualification (“associate professional”) in those 
+countries where such categories exist. Among EU countries, the number of nurses per capita was highest in 2022 in Finland, 
+Ireland and Germany, with at least 12 nurses per 1 000 population. Outside the EU, the number was highest in Switzerland, 
+Norway and Iceland, with all these countries having at least 14 nurses per 1 000 population. Over one-third of nurses in 
+Switzerland and Iceland are “associate professional” nurses trained at a lower level and therefore performing tasks requiring lower 
+qualifications. In some countries that have below average numbers of nurses such as Italy and Spain, a large number of healthcare 
+assistants (or nursing aids) provide assistance to nurses and patients. Greece has the lowest number of nurses per capita among 
+EU countries, but the data only include nurses working in hospitals. 
+Between 2010 and 2022, the number of nurses per capita has increased at least slightly in most EU countries. However, it has 
+decreased in Latvia and Hungary, two countries that already had a low density in 2010, thereby widening the gap with the EU 
+average. The Hungarian Government has increased substantially the remuneration of nurses in recent years to increase 
+attractiveness and retention in the profession (see indicator “Remuneration of nurses”). 
+The overwhelming majority of nurses in EU countries are women, accounting for over 85% of all nurses in 2022. A few countries 
+have been more successful in attracting more men into nursing. For example, in Italy, nearly one fourth (23%) of nurses in 2022 
+were males. Attracting more males into nursing is a challenge to increase the size of the potential pool of new recruits. It requires 
+addressing the persistent stereotype that views nursing as a profession suited primarily for women and efforts to improve the 
+working conditions and pay rates of nurses (see indicator “Remuneration of nurses”). 
+Nurses greatly outnumber physicians in most EU countries. In 2022, there were more than two nurses per doctor on average 
+across EU countries. The nurse-to-doctor ratio reached nearly four in Finland and Luxembourg, although the data for Luxembourg 
+relate to 2017 only (Figure 7.16). The ratio was much lower in Southern European countries, Latvia and Bulgaria. 
+Several countries have started to implement more advanced roles for nurses to improve access to care, including “nurse 
+practitioners” and “family and community nurses” roles. Evaluations of nurse practitioners in primary care in several countries 
+show that advanced practice nurses can improve access to services and reduce waiting times, while delivering the same quality 
+of care as doctors for a range of patients, including those with minor illnesses and those needing routine follow-ups. These 
+evaluations also find a high patient satisfaction rate (Brownwood and Lafortune, 2024[15]). 
+Definition and comparability 
+The number of nurses includes those providing direct care to patients (“practising”), but in some countries also those working 
+as managers, educators or researchers (“professionally active”). In countries where there are different levels of nurses, the 
+data include both “professional” nurses (including general and specialist nurses meeting the qualification level described under 
+the EU Directive on the recognition of professional qualifications) and “associate professional” nurses who may have a lower 
+level of qualification but are nonetheless recognised as nurses in the country. Healthcare assistants (or nursing aids) who are 
+not recognised as nurses are excluded. Greece reports only nurses working in hospitals (resulting in an underestimation). 
+ 
+References 
+ 
+Brownwood, I. and G. Lafortune (2024), “Advanced practice nursing in primary care in OECD countries: Recent 
+developments and persisting implementation challenges”, OECD Health Working Papers, No. 165, OECD Publishing, 
+Paris, https://doi.org/10.1787/8e10af16-en. 
+[3] 
+OECD (2024), “Fewer young people want to become nurses in half of OECD countries”, OECD Publishing, Paris, 
+https://www.oecd.org/en/publications/fewer-young-people-want-to-become-nurses-in-half-of-oecd-
+countries_e6612040-en.html. 
+[2] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[1] 
+  
+
+
+## Stran PDF 197
+
+   195 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.15. Practising nurses per 1 000 population, 2010 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. The values shown are for 2022. Professional nurses refer to nurses with an education level meeting the EC Directive on the recognition 
+of professional qualifications (minimum of 3 years of postsecondary education for general nurses and at least an equivalent level of education for specialist nurses). Associate 
+professional nurses include other categories of nurses that are recognised in some countries. Some countries are not able to make a clear distinction between these two 
+main categories. 1. The latest data refer to 2017. 2. The data for France and Poland starts in 2013, for the Netherlands in 2014 and for Hungary in 2017. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2); WHO National Health Workforce Accounts for Moldova and Ukraine. 
+StatLink 2 https://stat.link/d7te05 
+Figure 7.16. Ratio of nurses to doctors, 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. For countries that have not provided data for practising nurses and/or practising doctors, the numbers relate to “professionally 
+active” nurses and doctors. 2. The ratio for Portugal is underestimated (professionally active nurses/all doctors licensed to practise). 3. For Greece, the data refer to 
+nurses and doctors employed in hospitals. 4. The data for Luxembourg refers to 2017 only. 5. The data for Ireland refers to 2023 to avoid a break in the series for 
+doctors in 2022. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_prs2); WHO National Health Workforce Accounts for Moldova. 
+StatLink 2 https://stat.link/7vnosp
+14.1
+13.3
+12.0 11.7
+11.5 11.010.9 10.4 10.4
+9.0 8.8 8.4 8.2 7.9 7.7 7.5
+7.5
+6.6 6.5 6.2
+5.7 5.5 5.3 4.3 4.2
+3.9
+18.4
+15.6
+14.9
+8.7
+6.6
+5.0 4.5
+2.9
+11.6
+5.7
+5.9
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Per 1 000 population
+Professional nurses 
+Associate professional nurses
+All nurses (no distinction) (2010)
+All nurses (no distinction)
+3.9 3.9
+3.6
+3.2 3.1
+2.9
+2.8 2.6
+2.5
+2.3 2.2 2.2 2.1 2.0 1.9 1.9
+1.7 1.7 1.6 1.6 1.6 1.5 1.5 1.4 1.3 1.2
+1.0 1.0
+4.1
+3.4
+3.2
+2.7
+2.1 2.1
+1.9
+1.5 1.5
+1.3
+0
+1
+2
+3
+4
+5
+Ratio
+
+
+## Stran PDF 198
+
+196    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Remuneration of nurses 
+The COVID-19 pandemic has brought further attention to the pay rate of nurses and the need to ensure a sufficient remuneration 
+level to attract and retain nurses in the profession. 
+On average across EU countries, the remuneration of hospital nurses in 2022 was about 20% above the average wage of all 
+workers in each country. However, in some countries like Finland, France, Portugal, Sweden and Italy, nurses do not earn more 
+than the average wage of all workers (Figure 7.17). 
+Figure 7.17 compares the remuneration of hospital nurses in Euros adjusted for differences in cost-of-living across countries to 
+provide an indication of the relative economic well-being of nurses and the financial incentives to consider moving to another EU 
+country to obtain better-paid jobs. In 2022, nurses in Luxembourg and Belgium had remuneration levels about three times higher 
+than those working in Portugal and the Slovak Republic. This explains at least partly why Luxembourg and Belgium are able to 
+attract a large number of nurses from other countries. 
+In most countries, the remuneration of nurses increased in real terms in the decade leading up to the pandemic. This was 
+particularly the case in Hungary, Poland, the Slovak Republic and Czechia, where nurses obtained pay rises averaging 4-5% per 
+year in real terms between 2010 and 2019 (Figure 7.18). This helped narrow the gap with other EU countries. 
+In contrast, the remuneration of nurses decreased in real terms between 2010 and 2019 in Greece, Italy, Portugal, Finland and 
+the United Kingdom. In the United Kingdom (England), the income of nurses increased in nominal terms, but it fell by over 3% in 
+real terms between 2010 and 2019, mainly due to public sector pay policies implemented between 2011/12 and 2017/18. 
+Following the pandemic that started in 2020 and rising inflation rates that started to pick up in 2021 and peaked in 2022 in most 
+EU countries, the real wage growth of nurses has varied widely across the EU. In some countries, nurses have obtained 
+substantial pay rises in real terms between 2019 and 2022 – notably in Hungary, Poland, Slovenia and Estonia, and to a lesser 
+extent also in France although the latest data is for 2021 and does not reflect the high inflation rate in 2022. In Hungary, following 
+substantial increases already provided in previous years, the government announced in early 2024 further increases in the 
+remuneration of nurses by 20% in nominal terms, with the aim that the average basic salary of nurses would reach 37% of the 
+average basic salary of doctors. In Poland, health workers including nurses have received substantial pay increases in 2022, 
+reaching close to 30% on average. This includes a higher pay raise for nurses with certain qualifications. Further increases have 
+been granted in 2023 to improve the attractiveness and retention in the occupation (OECD/European Observatory on Health 
+Systems and Policies, 2023[1]). 
+However, in several other countries, the growth in the remuneration of nurses in real terms between 2019 and 2022 was almost 
+nil or negative due to rising inflation rates that eroded nominal wage growth. Nurses were not the only occupation affected by high 
+inflation in recent years. While real wages on average across all occupations have started to rise again in most EU countries in 
+2023 and 2024 following the reduction in inflation rate, they remained in early 2024 below their 2019 level in many countries 
+(OECD, 2024[2]). 
+Definition and comparability 
+The remuneration of nurses refers to average gross annual income, including social security contributions and income taxes. 
+In most countries, the data relate specifically to nurses working in hospitals. Data refer only to “professional” nurses in most 
+countries, except in Switzerland where they also include “associate professional” nurses. The data for some countries 
+(e.g. Portugal and the United Kingdom) include only hospital nurses working in the NHS (public sector). The data for some 
+countries (e.g. Italy and Slovenia) do not include additional income such as overtime payments. Informal payments, which 
+represent a significant part of total income in some countries, are not reported. The data for the United Kingdom cover England 
+only. 
+The income of nurses is compared to the average wage of full-time employees in all sectors in the country. It is also compared 
+across countries based on a common currency (Euros) and adjusted for cost-of-living (purchasing power parity or PPP).  
+ 
+References 
+ 
+OECD (2024), OECD Employment Outlook 2024: The Net-Zero Transition and the Labour Market, OECD Publishing, 
+Paris, https://doi.org/10.1787/ac8b3538-en. 
+[2] 
+OECD/European Observatory on Health Systems and Policies (2023), Poland: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/f597c810-en. 
+[1] 
+  
+
+
+## Stran PDF 199
+
+   197 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.17. Remuneration of hospital nurses, 2022 (or nearest year) 
+ 
+1. The data also include “associate professional” nurses who have lower qualifications and revenues. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/xgnz6m 
+Figure 7.18. Trends in remuneration of hospital nurses (in real terms), 2010-22 
+ 
+1. Data for Portugal and the United Kingdom (England) include only hospital nurses working in the NHS (public sector). 2. The latest data for Spain covers the period 2019-23. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/gswb61
+0.8
+0.9
+1.0
+1.0
+1.2
+0.9
+1.0
+1.0
+1.0
+1.0
+1.1
+1.1
+1.1
+1.1
+1.2
+1.2
+1.2
+1.2
+1.3
+1.3
+1.4
+1.4
+1.4
+1.4
+1.6
+1.6
+0
+0.5
+1
+1.5
+2
+Switzerland¹
+United Kingdom
+Iceland
+Norway
+Türkiye
+Finland
+France
+Portugal
+Sweden
+Italy
+Denmark
+Croatia
+Ireland
+Estonia
+Germany
+Netherlands
+Slovak Republic
+EU20
+Czechia
+Hungary
+Spain
+Slovenia
+Greece
+Luxembourg
+Poland
+Belgium
+Ratio to average wage in each country
+Ratio to average wage
+27.9
+32.7
+44.7
+46.1
+50.1
+22.7
+24.3
+26.1
+26.6
+26.8
+26.8
+31.4
+32.6
+34.1
+34.2
+37.6
+39.8
+41.3
+41.5
+42.1
+46.1
+46.3
+49.0
+54.3
+72.0
+79.2
+0
+20
+40
+60
+80
+Türkiye
+United Kingdom
+Switzerland¹
+Norway
+Iceland
+Portugal
+Slovak Republic
+Greece
+Hungary
+Estonia
+Croatia
+Czechia
+Italy
+France
+Finland
+Sweden
+EU20
+Spain
+Ireland
+Poland
+Slovenia
+Denmark
+Germany
+Netherlands
+Belgium
+Luxembourg
+EUR PPP, thousands
+EUR PPP
+7.5
+7.4
+7.0
+6.9
+3.5
+2.4
+2.3
+2.0
+1.8
+1.2
+1.1
+1.0
+0.8
+0.5
+0.4
+0.3
+0.1
+0.0
+-0.9
+-1.0
+-1.3
+0.6
+0.5
+-0.3
+-1.0
+-1.8
+-5
+-3
+-1
+1
+3
+5
+7
+9
+2010-2019
+2019-2022
+%
+
+
+## Stran PDF 200
+
+198    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Use of diagnostic technologies 
+Modern diagnostic technologies play an important role in health systems, allowing physicians to better diagnose health issues. 
+However, they are also a major cost driver in health systems, particularly if they are overused. This section focuses on the use of 
+three diagnostic imaging technologies that can help diagnose different health issues: computed tomography (CT), magnetic 
+resonance imaging (MRI) and positron emission tomography (PET) exams. CT and MRI exams both show images of internal 
+organs and tissues, while PET scans show other information and problems at the cellular level. Unlike more traditional radiography 
+and CT scanning, MRI and PET exams do not expose patients to ionising radiation, which can increase the risk of cancer if the 
+exposition of radiation is not properly managed. CT exams were first introduced in the 1970s, MRI exams in the 1970s and the 
+1980s, while PET exams were introduced around the year 2000. 
+Government authorities and medical societies in some countries are working together to promote a more effective use of MRI, 
+CT, PET and other medical imaging exams. For instance, in Belgium, the Federal Public Service Health is launching several 
+actions to support doctors and the general public in making more informed decisions. The National Health Insurance, the Federal 
+Public Service and the Belgian Medical Imaging Platform are working together to integrate evidence-based decision rules in 
+physicians’ electronic prescribing so that they are supported when choosing whether a radiological exam is necessary and, if so, 
+which one would be most appropriate for the patient. Citizens will also be informed about situations in which a scan is not 
+necessary, for example for back pain (Sciensano, 2024[1]). 
+Before the pandemic, the use of the CT, MRI and PET diagnostic exams taken together was increasing in all EU countries. 
+Between 2012 and 2019, the number of these exams increased on average across EU countries by over 40%, from 162 exams 
+per 1 000 population in 2012 to 229 exams in 2019. In 2020, diagnostic activities as many other health services were disrupted 
+and sometime temporarily suspended to divert efforts towards COVID-19 patients and avoid people getting infected while seeking 
+diagnostics or care. On average, diagnostic exams decreased by 12% across EU countries in 2020 compared to 2019. 
+Most EU countries then quickly restored diagnostic activities during the second year of the pandemic in 2021, with most countries 
+reaching higher numbers of diagnostic exams in 2021 than in 2019 partly to catch up the reduction in 2020. This surge was 
+supported in several countries by creating diagnostic dedicated hubs and performance monitoring (OECD, 2023[2]). 
+In 2022, the use of the CT, MRI and PET exams further increased in most countries. On average, 247 exams per 1 000 population 
+were performed across EU countries, 12% more than before the pandemic (Figure 7.19). The use of these three diagnostic exams 
+taken together was highest in Austria, France and Luxembourg, with utilisation rate at least 50% higher than the EU average. The 
+utilisation rate was lowest in Bulgaria, Finland and Romania, with rates less than half the EU average, although in Finland this is 
+partly due to underreporting of exams in the National Capital Region. 
+Figure 7.20 highlights the large variation in the use of MRI exams between Western European countries and Central and Eastern 
+European countries. While the use of MRI exams has increased over the past two decades in all countries, there was still more 
+than a five-fold difference in their use in 2022 between the three countries that used them the most (Austria, Germany and France) 
+and those that used them the least (Bulgaria and Romania, as well as Serbia and Northern Macedonia). 
+Definition and comparability 
+An exam is defined as a medical imaging session to study one (or more than one) body part that yields one or more views for 
+diagnostic purposes. While data in most countries cover CT, MRI and PET exams in hospitals and in the ambulatory sector, 
+the data coverage is more limited in some countries. CT, MRI and PET exams performed outside hospitals are not included in 
+Portugal, Switzerland and the United Kingdom, while exams performed during inpatient stays in hospitals are not included in 
+Norway and Cyprus. Serbia only reports data on the public sector and the Netherlands only report publicly financed exams.  
+ 
+References 
+ 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[2] 
+Sciensano (2024), For a healthy Belgium: Medical imaging, https://www.healthybelgium.be/en/key-data-in-
+healthcare/general-hospitals/quality-and-innovation/medical-imaging. 
+[1] 
+  
+
+
+## Stran PDF 201
+
+   199 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.19. CT, MRI and PET exams per 1 000 population, 2019 and 2022 
+ 
+Note: The EU average is unweighted. Any exams conducted outside hospitals are not included in Portugal, Switzerland and the United Kingdom. Any exams conducted 
+during inpatient stays in hospitals are not included in Norway and Cyprus. Data in Finland are underreported in the National Capital Region. Data for the United Kingdom 
+refer to 2019 instead of 2022 while data for North Macedonia refer to 2021. Data for Serbia include only the public sector and for the Netherlands only publicly financed 
+exams. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_co_exam). 
+StatLink 2 https://stat.link/1rlybt 
+Figure 7.20. MRI exams per 1 000 population, 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. Exams conducted outside of hospitals are not included in Portugal, the United Kingdom and Switzerland. Exams conducted 
+during inpatient stays in hospitals are not included in Norway and Cyprus. Data in Finland are underreported in the National Capital Region. Data refer to 2021 for North 
+Macedonia, 2020 for Iceland, and 2019 for the United Kingdom. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_co_exam).
+381 379 375 359
+346 334
+319
+299
+280
+261 252 250 247
+224
+218 207 205 199 197 197 193 192 179
+123 110 104
+242 237
+175
+113
+49
+0
+50
+100
+150
+200
+250
+300
+350
+400
+CT exams (2022)
+MRI exams (2022)
+PET exams (2022)
+Total (2019)
+Per 1 000 population
+0 - 74
+MRI exams, per 1 000 population
+74
+88
+114
+143
+156
+75
+59
+87
+57
+141
+81
+110
+70
+163
+56
+117
+74
+114
+108
+57
+91
+33
+19
+75 - 100
+100 +
+77
+EU25: 86
+n.a.
+n.a.
+n.a.
+97
+20
+n.a.
+10
+79
+104
+68
+45
+n.a
+
+
+## Stran PDF 202
+
+200    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Hospital beds and discharges 
+The COVID-19 pandemic highlighted the need to have a sufficient number of hospital beds and flexibility in their use to address 
+any unexpected surge in demand. Still, adequate staffing was more of a pressing constraint than bed numbers (OECD, 2023[1]). 
+Across EU countries, there were on average 4.7 hospital beds per 1 000 population in 2022 (Figure 7.21). Yet, the variation across 
+countries is large. Bulgaria, Germany, Romania, Austria and Hungary had over 40% more beds per population than the EU average, 
+while some of the Nordic countries (Sweden, Denmark, Finland) and the Netherlands had over 40% less beds than average. 
+Over the past decade, the number of hospital beds per capita has decreased in nearly all EU countries due partly to the growing 
+use of day care and the reduction in average length of stays. On average, the number of hospital beds per capita fell by 10% 
+between 2012 and 2022. The largest reduction occurred in Finland with a fall of over 50%. This was mainly due to a reduction in 
+long-term care and psychiatric care beds, but the number of acute care beds also fell in Finland as a result of the centralisation 
+of specialist care leading to mergers of hospitals and closures of some smaller hospitals (OECD/European Observatory on Health 
+Systems and Policies, 2023[2]). The number of hospital beds per population also came down markedly in Lithuania, the 
+Netherlands, Estonia and Luxembourg, despite most of these countries having already lower than the EU average number of 
+beds per population. In Luxembourg, this reduction was driven mainly by strong population growth with the absolute number of 
+beds remaining fairly stable. In contrast, the number of beds increased noticeably in Bulgaria and Romania. 
+Looking at hospital activities, there were 155 hospital discharges per 1 000 population on average across the EU countries in 
+2022. Hospital discharges were generally the highest in those countries that also had among the highest number of beds – 
+Bulgaria, Germany and Austria (Figure 7.22). They were the lowest in the Netherlands, Italy and Portugal. These variations in 
+hospital stays reflect to a large extent differences in the supply of beds, clinical practices, and payment systems that can provide 
+incentives for hospitals to encourage bed usage. 
+Hospital discharges have fallen in recent years in most countries, falling on average across EU countries by 12% between 2019 
+and 2022. Discharges decreased in all EU countries during the pandemic in 2020 and 2021, as non-urgent services were disrupted 
+to avoid people being infected and hospitals becoming overwhelmed. In 2022, Hungary, Lithuania and Romania still had discharge 
+rates lower by around 25% than in 2019, while other countries such as Bulgaria, Portugal and Spain returned to discharge rates 
+closer to their 2019 rates. 
+Bed occupancy rates provide an indication of any spare capacity in hospitals to admit additional patients if needed. Although there 
+is no general consensus about the optimal occupancy rate, an occupancy rate of about 85% is often considered as a maximum 
+to reduce the risk of bed shortages when there is a sudden increase in need for admissions as was the case during the pandemic 
+(NICE, 2018[3]). Before the pandemic, bed occupancy rate in curative care units was fairly stable in EU countries, reaching 74% 
+on average during the period 2012-19. During the first year of the pandemic, the EU average bed occupancy rate decreased 
+sharply to 63% in 2020, as non-urgent hospital care was suspended or slowed down during the early stages of the pandemic. The 
+EU average rate recovered slightly in 2021 (65%) and in 2022 (66%), but remained well below the pre-pandemic level. This was 
+the case in all EU countries for which data are available (Figure 7.23). Ireland and Portugal had bed occupancy rates of 80% or 
+higher in 2022, the highest among the EU countries. In contrast, Hungary, Cyprus, Bulgaria, Lithuania and the Slovak Republic 
+had bed occupancy rates below 60% in 2022, indicating ample spare capacity. 
+Definition and comparability 
+Hospital beds include all available beds occupied and unoccupied, in general hospitals, mental health and other specialty 
+hospitals. However, data for some countries do not cover all hospitals (e.g. in Belgium some specialty hospitals, in Sweden 
+privately financed private hospitals, in the United Kingdom all private hospitals, in the Netherlands long-term care psychiatric 
+beds and in Ireland long-term care private hospitals). In Austria, beds for same-day care are included. 
+Discharge is defined as the release of a patient who has stayed at least one night in hospital. It includes deaths in hospitals following 
+inpatient care. Same-day discharges are excluded. Healthy babies born in hospitals are excluded from hospital discharge rates in 
+most countries except otherwise indicated (these comprise between 3% and 10% of all discharges). Data for the Netherlands 
+include only acute care, resulting in some under-estimation. In the United Kingdom, data are restricted to public hospitals. 
+The occupancy rate for curative (acute) care beds is calculated as the number of hospital bed-days related to curative care, 
+divided by 365, and divided by the number of available curative care beds. 
+ 
+References 
+ 
+NICE (2018), “Emergency and acute medical care in over 16s: service delivery and organisation”, in NICE guideline 
+94, NICE, https://www.nice.org.uk/guidance/ng94/. 
+[3] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[1] 
+OECD/European Observatory on Health Systems and Policies (2023), Finland: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, https://doi.org/10.1787/e7af1b4d-en. 
+[2] 
+  
+
+
+## Stran PDF 203
+
+   201 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.21. Hospital beds per 1 000 population, 2012 and 2022 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_rs_bds1). 
+StatLink 2 https://stat.link/2r1y6c 
+Figure 7.22. Hospital discharges per 1 000 population, 2019 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data for 2019 include healthy newborns (between 3-10% of all discharges), for Denmark and Türkiye also in 2022. 2. Data 
+exclude activity in private hospitals. 3. Data include only discharges for curative (acute) care. Data for Denmark and Malta refer to 2021 instead of 2022. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_co_disch2). 
+StatLink 2 https://stat.link/kjwp09 
+Figure 7.23. Occupancy rate of curative (acute) care beds, 2019 and 2022 
+ 
+Note: The EU average is unweighted. Data for 2019 for Ireland exclude activity in private hospitals. 1. Data for 2019 include healthy newborns (between 3-10% of all 
+discharges), for Türkiye also in 2022. 2. Data refer to 2021 instead of 2022. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_co_bedoc). 
+StatLink 2 https://stat.link/2l5ogb
+8.2
+7.7
+7.3
+6.7
+6.7
+6.5
+6.1
+5.8
+5.7
+5.7
+5.5
+5.5
+5.0
+4.7
+4.3
+4.2
+4.1
+4.1
+4.0
+3.5
+3.1
+3.1
+3.0
+2.9
+2.6
+2.5
+2.5
+1.9
+5.8
+4.4
+3.4
+3.1
+2.5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2022
+2012
+Per 1 000 population
+331
+259 213 209 166 164 164 162 155 155 153 152 150 150 148 147 141 139 134 132 129 127 116 108 103
+97
+77
+161 155 152 117 104 103
+0
+50
+100
+150
+200
+250
+300
+350
+2022
+2019
+Per 1 000 population
+81
+80
+73
+73
+73
+72
+70
+69
+68
+68
+67
+66
+62
+62
+62
+61
+61
+59
+58
+57
+55
+53
+81
+81
+80
+61
+58
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2022
+2019
+% of available beds
+
+
+## Stran PDF 204
+
+202    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Volumes of hip and knee replacements 
+Hip and knee replacements are amongst the most frequent elective (non-urgent) surgical procedures in the EU. In 2022, nearly 
+1 million hip replacements were performed across EU countries (up by about 20% since 2012), and 680 000 knee replacements 
+(up by 30% since 2012). The main indication for hip and knee replacement is osteoarthritis, which leads to reduced function and 
+quality of life and is one of the main contributors to years lived with disability among musculoskeletal conditions (WHO, 2024[1]). 
+Before the pandemic, hip and knee replacement rates were steadily growing, driven by increases in osteoarthritis and other types 
+of arthritis caused by ageing populations and growing obesity rates. 
+In 2022, 202 hip replacements per 100 000 population and 134 knee replacements per 100 000 population were performed across 
+EU countries on average (Figure 7.24 and Figure 7.25). Germany, Austria and Denmark had the highest rates of hip and knee 
+replacements among EU countries. Together with Belgium, these countries had hip replacement rates at least 40% higher than 
+the EU average in 2022, while these three countries and Finland had knee replacements at least 50% higher. Outside the EU, 
+Switzerland had even higher rates of hip and particularly knee replacements. Differences in the population structure and the share 
+of older populations explain part of the variation across countries, but earlier OECD work has shown that large differences persist 
+even after age standardisation and the country ranking does not change significantly (McPherson, Gon and Scott, 2013[2]). 
+During the first year of the pandemic in 2020, the volume of hip and knee replacements fell sharply in most EU countries as 
+elective surgery was suspended for many weeks to free up resources to deal with COVID-19 patients and avoid people being 
+infected while seeking care. The total volume of hip and knee replacements fell by more than 25% in 2020 compared to 2019 in 
+countries such as Malta, Hungary, Romania, Lithuania and Belgium. Outside the EU, the drop was even larger in the 
+United Kingdom (56% for the total of hip and knee replacements) (Figure 7.24 and Figure 7.25). In 2021, almost two-thirds of 
+EU countries continued to have lower volumes of hip replacement and almost all EU countries still had lower levels of knee 
+replacement than before the pandemic. These reductions in the volume of orthopaedic procedures during the first two years of 
+the pandemic generated a backlog of patients waiting for treatment and an increase in waiting times in several countries (see 
+indicator “Waiting times for elective surgery”). 
+In 2022, hip and knee replacement volumes rebounded in many countries, returning at least to their pre-pandemic levels. On 
+average across EU countries, the hip replacement rate was 7% higher in 2022 than in 2019, while the knee replacement was 
+about the same in 2022 as in 2019. However, to address the backlog generated during the pandemic, it may not have been 
+sufficient to simply return to pre-pandemic activity levels. Countries such as Bulgaria, Lithuania, Croatia, Romania and Portugal 
+had hip replacement volumes at least 10% higher in 2022 compared to 2019, being on a good trajectory to address the pandemic 
+backlogs (without making prejudice to the overall existing waiting times in the country). 
+Czechia and Estonia were the only countries where hip replacements did not reduce during the pandemic. In 2022, Czechia 
+performed about 50% more hip replacements and knee replacements compared to before the pandemic in 2019. This significant 
+increase in orthopaedic surgery was due to lifting reimbursement limits for providers of these treatments as part of a wider 
+reimbursement reform to avoid lengthening waiting times, which were reportedly long already before the pandemic. Czechia is 
+now among the EU countries with the higher volume of orthopaedic surgery. 
+Many countries have taken actions to reduce backlogs of elective surgery created during the pandemic by providing additional 
+funding to boost supply and/or contracting private providers in countries where public and private systems co-exist 
+(OECD/European Union, 2022[3]). 
+Definition and comparability 
+While most countries include both total and partial hip replacements, some countries only include total replacements. Data for 
+some countries do not cover all hospitals: In some countries, data exclude activity in private hospitals or privately funded 
+activities, thereby underestimating the total number of procedures.  
+ 
+References 
+ 
+McPherson, K., G. Gon and M. Scott (2013), “International Variations in a Selected Number of Surgical Procedures”, 
+OECD Health Working Papers, No. 61, OECD Publishing, Paris, https://doi.org/10.1787/5k49h4p5g9mw-en. 
+[2] 
+OECD/European Union (2022), Health at a Glance: Europe 2022, OECD Publishing, https://doi.org/10.1787/507433b0-
+en. 
+[3] 
+WHO (2024), Osteoarthritis, Fact Sheet, World Health Organisation, http://www.who.int/news-room/fact-
+sheets/detail/osteoarthritis. 
+[1] 
+  
+
+
+## Stran PDF 205
+
+   203 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.24. Hip replacement, 2020 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data refer to 2021 instead of 2022. 2. Data exclude activity in private hospitals. 3. Data exclude privately funded activities. 
+Source: OECD Health Statistics 2024; Eurostat (hlth_co_proc3). 
+StatLink 2 https://stat.link/j5hb6s 
+Figure 7.25. Knee replacement, 2020 and 2022 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. Data refer to 2021 instead of 2022. 2. Data exclude activity in private hospitals. 3. Data exclude privately funded activities.   
+Source: OECD Health Statistics 2024; Eurostat (hlth_co_proc3). 
+StatLink 2 https://stat.link/54x2gm
+326
+302
+283 283
+265 261 256 255 252 241
+224 214 212 209 209 202
+184
+166 157 152 140 138 133 123 114
+87
+78
+338
+277
+184 175
+134
+68
+63
+0
+50
+100
+150
+200
+250
+300
+350
+400
+2022
+2020
+Per 100 000 population
+231 228
+213
+209
+186 181 177
+159 158 157 155 146 144 135 134 128
+114 109 101
+93
+86
+85
+80
+74
+69
+49
+25
+304
+123 116 114
+21
+17
+0
+50
+100
+150
+200
+250
+300
+350
+2022
+2020
+Per 100 000 population
+
+
+## Stran PDF 206
+
+204    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Waiting times for elective surgery 
+Long waiting times for elective (non-urgent) surgery have been a longstanding issue in many European countries dating back well 
+before the pandemic, but the disruption of elective care during the pandemic exacerbated waiting times as many non-urgent 
+interventions were suspended, generating more backlogs of patients on waiting lists. Long waiting times generate dissatisfaction 
+for patients because the health benefits from treatment are postponed, patients can experience pain and discomfort while waiting, 
+and the wait may worsen health outcomes for patients before and after the intervention. 
+The data presented in this section focus on waiting times for three high-volume surgical procedures: cataract surgery, hip 
+replacement and knee replacement. They review the experience of patients who have been treated after waiting for a certain 
+period of time and those who were still on the waiting lists. In several countries, the waiting times for patients still on waiting lists 
+have increased more than for those who were treated. 
+Compared with the situation before the pandemic, the mean waiting times for people who had a cataract surgery in 2023 was 
+close to 2019 in several countries (e.g. Hungary, Italy and Sweden) while it remained slightly higher than before the pandemic in 
+the Netherlands and Spain (Figure 7.26, left panel). For patients still on waiting lists, the proportion who had been waiting for over 
+three months increased in most countries between 2019 and 2023, with the exception of Portugal and Poland where it increased 
+slightly in 2020 but then fell sharply between 2020 and 2023 (Figure 7.26, right panel). The increase between 2019 and 2023 of 
+patients on waiting lists for over three months for a cataract surgery was particularly marked in Iceland and the United Kingdom, 
+although the latest data for the United Kingdom relate to 2022 only. In Hungary, there was also a marked increase in the proportion 
+of patients on waiting times for more than three months in 2020; while this proportion then fell to some extent, it remained higher 
+than before the pandemic in 2023. 
+In Poland, waiting times for both patients who have been treated and those still on the waiting lists for cataract surgery have fallen 
+sharply since 2019. This reflects the priority in recent years in Poland to reduce waiting times for cataract surgery as well as for 
+hip and knee replacement for patients receiving these operations in the public system. In 2019, changes were introduced in the 
+financing of cataract surgery to provide unlimited financing, meaning that the National Health Fund pays for all cataract operations. 
+For hip replacement, the mean waiting times for patients treated in 2023 was also close to 2019 levels in several countries 
+(e.g. Netherlands, Denmark, Italy and Portugal), although it remained higher than before the pandemic in Finland, Lithuania, 
+Norway, Spain, Hungary and Sweden (Figure 7.27, left panel). For patients still on the waiting lists, the proportion waiting for a 
+hip replacement for over three months increased markedly in several countries in 2020. By 2023, it had returned back to 
+pre-pandemic levels in some countries such as Ireland and Portugal, but remained well above 2019 levels in Hungary, the 
+United Kingdom and Sweden (Figure 7.27, right panel). 
+The cross-country variations and trends over time in waiting times for knee replacement are fairly similar to those for hip 
+replacement, although in most countries the waiting times are generally longer for a knee than a hip replacement. The mean 
+waiting times to get treatment increased greatly between 2019 and 2023 in Lithuania and to a lesser extent in Finland, Hungary, 
+Norway, Spain and Sweden, while it fell in Poland following the priority to reduce waiting times for both knee and hip replacements 
+for public sector patients (Figure 7.28, left panel). For patients still waiting for a knee replacement, the proportion waiting for more 
+than three months increased in nearly all countries in 2020, but then reduced except in Sweden and the United Kingdom where 
+this proportion continued to increase up to 2022 (Figure 7.28, right panel). 
+Many EU countries have taken actions to address the backlogs and longer waiting lists for elective care that were generated by 
+the disruption of services during the pandemic. Most of these policies have focussed on providing additional funds to boost the 
+supply of surgical operations (OECD/European Union, 2022[1]); Chapter 2). For example, the largest share of health investments 
+of the EU-funded Recovery and Resilience Plan in Finland is dedicated to reducing waiting times for hospital as well as primary 
+care services (OECD/European Observatory on Health Systems and Policies, 2023[2]). 
+Definition and comparability 
+Two different measures of waiting times are presented in this section: 1) from the time that a specialist adds a patient to the 
+waiting list for an operation to the time that the patient receives the operation; 2) the waiting times for patients who are still on 
+the waiting lists at a given point in time. Waiting times for the first measure are reported as the mean number of days, while 
+the second measure is reported as a proportion of those who have been waiting for over three months. 
+The data come from national administrative databases.  
+ 
+References 
+ 
+OECD/European Observatory on Health Systems and Policies (2023), Finland: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, https://doi.org/10.1787/e7af1b4d-en. 
+[2] 
+OECD/European Union (2022), Health at a Glance: Europe 2022, OECD Publishing, https://doi.org/10.1787/507433b0-
+en. 
+[1] 
+  
+
+
+## Stran PDF 207
+
+   205 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 7.26. Waiting times for cataract surgery, 2019, 2020 and 2023 (or nearest years) 
+ 
+Note: The latest year for Croatia, Finland, Italy and the United Kingdom is 2022 instead of 2023. In Norway, waiting times are overestimated due to an earlier starting point. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/yih4e3 
+Figure 7.27. Waiting times for hip replacement, 2019, 2020 and 2023 (or nearest years) 
+ 
+Note: The latest year for Croatia, Finland, Italy and the United Kingdom is 2022 instead of 2023. In Norway, waiting times are overestimated due to an earlier starting point. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/se5v0p 
+Figure 7.28. Waiting times for knee replacement, 2019, 2020 and 2023 (or nearest years) 
+ 
+Note: The latest year for Croatia, Finland, Italy and the United Kingdom is 2022 instead of 2023. In Norway, waiting times are overestimated due to an earlier starting point. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/xr6ucf
+0
+50
+100
+150
+200
+250
+Waiting times from specialist assessment to treatment (mean number of days)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Waiting times of patients on the list (% waiting more than 3 months)
+2023 
+2020
+2019
+0
+50
+100
+150
+200
+250
+300
+350
+Waiting times from specialist assessment to treatment (mean number of days)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Waiting times of patients on the list (% waiting more than 3 months)
+2023
+2019
+2020
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+Waiting times from specialist assessment to treatment (mean number of days)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Waiting times of patients on the list (% waiting more than 3 months)
+2023
+2019
+2020
+
+
+## Stran PDF 208
+
+
+
+## Stran PDF 209
+
+   207 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+This chapter presents indicators related to health system resilience – the ability to prepare 
+for, absorb, recover from and adapt to shocks. While the COVID-19 pandemic is the largest 
+recent shock European health systems have faced, other challenges, such as antimicrobial 
+resistance and climate change, also require resilience capacity. The pandemic highlighted 
+the life-saving efficacy of vaccines, with countries with high vaccination coverage 
+experiencing lower excess mortality. Vaccination against COVID-19 was particularly crucial 
+for older people; by the end of 2021, nearly 90% of people aged 60 and above in the EU 
+had completed their primary vaccination course. However, uptake of the booster dose in 
+2022 was more variable, with countries with higher coverage of the primary course 
+experiencing smaller declines in uptake. Influenza vaccination coverage rates among older 
+people also increased in many countries during the first year of the pandemic, but declined 
+thereafter and remained well below the 75% target in most countries. Teleconsultations 
+were pivotal for safe care delivery during pandemic peaks, but their volumes have since 
+decreased in many countries. Going forward, countries will need to integrate 
+teleconsultations and other telemedicine options efficiently and equitably. Population ageing 
+will drive growing healthcare and long-term care needs in the coming years. Recent 
+projections from the European Commission indicate that public spending on long-term care 
+is projected to grow faster than public spending on healthcare in the coming decades, 
+highlighting the importance of finding innovative ways to meet these needs efficiently within 
+the constraints of human resources and budgets. 
+8 Resilience: Crisis preparedness, 
+response capacity and fiscal 
+sustainability 
+
+
+## Stran PDF 210
+
+208    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Crisis preparedness and public trust in institutions 
+The COVID-19 pandemic has exposed vulnerabilities in European public health systems, highlighting the importance of 
+strengthening crisis preparedness capacities to protect public health and minimise disruption. When asked about which risks they 
+feel personally mostly exposed to in 2024, 27% of EU citizens reported feeling exposed to human health emergencies – the 
+second-most frequently reported risk after extreme weather events (38%) (European Commission, 2021[1]). The pandemic has 
+also raised awareness of the growing risks posed by global environmental changes, such as climate change, which in turn increase 
+the likelihood of zoonotic infections spilling over from animals to humans. Strengthening crisis preparedness capacities is thus 
+essential to bolster European countries’ response capacity to future pandemics and mitigate the impact of other looming threats. 
+In this context, the WHO International Health Regulations (IHR) serve as the cornerstone of global efforts to enhance public health 
+emergency preparedness and response worldwide. Amended in 2022 in response to the pandemic, the IHR provide a legal 
+framework for countries to build and maintain minimum capacities to detect, assess and respond to public health threats. Countries 
+must annually assess their capacities using the IHR States Parties Self-Assessment Annual Reporting Tool (SPAR), which covers 
+15 core capacities for effective public health emergency management (WHO, 2021[2]). 
+In 2023, EU countries had on average a self-assessed IHR score of 75 out of 100, consistent with the average score reported in 
+2020. Capacity-specific scores showed that surveillance, laboratory capacity and human resources were the highest-ranked 
+capacities on average across EU countries. Conversely, the lowest scores were recorded in risk communication and community 
+engagement, radiation emergencies and chemical events. Compared to 2020, the average EU IHR score for human resource 
+capacities improved significantly (+18%), while chemical events (-23%), radiation emergencies (-21%) and zoonotic diseases 
+(-16%) saw the largest average declines. Scandinavian countries reported the highest total IHR scores, indicating near full 
+compliance with IHR standards. France, Lithuania and Germany followed closely, with average IHR scores of 85 out of 100 or 
+higher. Conversely, Romania (61), Greece (60) and the Slovak Republic (50) self-reported the lowest IHR scores in the EU. 
+Between 2020 and 2023, Poland reported the largest overall IHR score increase (+46%) followed by Czechia and Malta (+13%), 
+while Italy (-14%), Luxembourg (-29%) and the Slovak Republic (-31%) reported the largest declines (Figure 8.1). It is worth noting 
+that these changes may not exclusively reflect actual changes in a country's capacities, but also be due to changes in reporting 
+methodologies or the stringency of self-assessments. 
+Public trust in government institutions is a key determinant of the effectiveness of crisis preparedness and response efforts by 
+countries. High levels of trust can promote public compliance with health measures and social cohesion during crises. Conversely, 
+a lack of public trust can undermine the legitimacy and efficacy of public health interventions, leading to lower adherence to 
+guidelines, increased social tensions and poorer health outcomes. The OECD Trust Survey 2023 provides insights into public 
+perceptions of government institutions’ capacity to protect people’s lives. On average across the 19 EU countries with available 
+data, more than half of survey respondents expressed confidence in their governments’ capacity to protect the population in the 
+event of a large-scale emergency, while 31% believed they would not be capable (Figure 8.2). Public trust in government 
+institutions’ crisis management capacity was highest in Finland (82%), the Netherlands (68%) and Denmark (66%), and lowest in 
+Latvia (35%), Portugal (33%) and Greece (30%). These large differences in trust levels can be attributed to several factors, 
+including historical crisis management performance, the strength of social welfare systems, satisfaction with key public services, 
+assessments of a country’s resources and cultural predispositions to trust institutions in general. 
+Definition and comparability 
+The SPAR framework encompasses 15 capacities and 35 indicators on a 1-5 scale, aggregated into capacity scores (0-100) 
+and a national score. When comparing SPAR data across nations or over time, various aspects must be considered: the self-
+assessment nature of the tool introduces self-reporting bias, which can lead to countries overestimating their capacities. The 
+SPAR indicators often blend qualitative and quantitative metrics, and the lack of external validation might lead to inconsistent 
+scoring. SPAR focusses on capacity rather than actual implementation or performance, which may restrict its ability to reflect 
+a country’s true preparedness to respond to public health emergencies. Changes to the scoring system should be considered 
+when making temporal comparisons. 
+The indicator on government preparedness for large-scale emergencies is based on responses to a question in the 2023 OECD 
+Trust Survey. Responses may be influenced by recent experiences and cultural differences in interpreting the response scale. 
+ 
+References 
+ 
+European Commission (2021), Disaster risk awareness and preparedness of the EU population, 
+https://europa.eu/eurobarometer/surveys/detail/3228. 
+[1] 
+OECD (2024), OECD Survey on Drivers of Trust in Public Institutions – 2024 Results: Building Trust in a Complex 
+Policy Environment, OECD Publishing, Paris, https://doi.org/10.1787/9a20554b-en. 
+[3] 
+WHO (2021), State party self-assessment 2005, World Health Organization, https://iris.who.int/handle/10665/350218. 
+[2] 
+  
+
+
+## Stran PDF 211
+
+   209 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.1. International Health Regulations capacity scores, 2023 and 2020 (or nearest year) 
+ 
+Note: The EU average is unweighted. 1. The average capacity score from 2020 refers to data from 2019. 
+Source: WHO IHR States Parties Self-Assessment Annual Reporting (SPAR) Tool 2024. 
+StatLink 2 https://stat.link/z043p7 
+Figure 8.2. Public level of confidence in institutional emergency preparedness capacity, 2023 
+ 
+Note: This figure is based on responses to the question: “How likely do you think government institutions would be ready to protect people’s lives in a large-scale 
+emergency?” Responses are categorised as “Likely” (scores 6-10), “Neutral” (score 5), “Unlikely” (scores 0-4), and “Don’t know.” The EU average is unweighted. 
+Source: OECD (2024[3]), OECD Survey on Drivers of Trust in Public Institutions – 2024 Results: Building Trust in a Complex Policy Environment,, 
+https://doi.org/10.1787/9a20554b-en. 
+StatLink 2 https://stat.link/kj5297
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Average capacity score - 2023
+Average capacity score - 2020
+10%
+17%
+21%
+23%
+22%
+29%
+28%
+26%
+27%
+26%
+31%
+32%
+32%
+36%
+40%
+37%
+41%
+49%
+45%
+54%
+28%
+34%
+38%
+8%
+12%
+10%
+14%
+13%
+11%
+12%
+14%
+14%
+15%
+14%
+16%
+16%
+15%
+11%
+17%
+16%
+13%
+19%
+14%
+12%
+12%
+13%
+82%
+68%
+66%
+61%
+61%
+60%
+59%
+57%
+54%
+54%
+52%
+49%
+49%
+47%
+46%
+44%
+42%
+35%
+33%
+30%
+59%
+50%
+47%
+0%
+20%
+40%
+60%
+80%
+100%
+Don't Know
+Unlikely
+Neutral
+Likely
+Likely
+Neutral
+Unlikely
+Don't know
+
+
+## Stran PDF 212
+
+210    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Public health laboratory and critical care capacities 
+Infectious diseases, including novel pathogens and resistance to antimicrobials, are major and growing global public health 
+threats. Resilient health systems depend on the timely and accurate detection of emerging and re-emerging diseases to control 
+outbreaks at national and international level and to reduce the impact of public health emergencies on healthcare systems, as 
+well as having a sufficient capacity to provide critical care when needed. 
+Public health preparedness requires adequate capacity of microbiology laboratories to: 1) ensure rapid infection diagnostics to 
+guide treatment, detect and control epidemics; 2) characterise infectious agents for designing effective vaccines and control 
+measures; and 3) monitor the impact of prevention of infections and containment of antimicrobial resistance (AMR). Since 2013, 
+the ECDC is operating the EULabCap (European Laboratory Capability Monitoring System) to assess whether laboratory systems 
+in EU/EEA countries possess key public health microbiology service capacities for EU surveillance and epidemic preparedness 
+for communicable diseases and antimicrobial resistance (ECDC, 2023[1]). 
+In 2021, the EULabCap Index average for EU countries was 7.9 on a maximum scale of 10, a 5% improvement from the 2018 
+score (7.5). Of the 29 EU/EEA countries surveyed, 17 demonstrated high performance in public health laboratory capacity (score 
+> 8.0), while 11 demonstrated intermediate performance (score 6.0-7.9) and one country (Malta) had a low performance 
+(Figure 8.3). The average EU score was graded high across the three dimensions of primary diagnostic testing (8.0), national 
+reference laboratory services (8.0), and laboratory surveillance and outbreak response support (8.3). These results indicate that 
+the EU has strong public health microbiology services that largely meet communicable disease surveillance and response 
+requirements (ECDC, 2023[1]). 
+The average EU/EEA index score indicated high performance across 10 out of 12 target areas, with intermediate performance in 
+diagnostic test utilisation and antimicrobial resistance monitoring. The increase in the EULabCap Index and narrowing score range 
+between countries indicate convergence towards more harmonised laboratory capacities across EU/EEA countries. However, 
+some gaps and inefficiencies remain on developing clinical guidance for adequate utilisation of diagnostic tests, upgrading 
+surveillance programmes to integrate genomic surveillance and improving connectivity with public health monitoring systems. 
+The emergence of novel pathogens or threats from chemical, nuclear or biological hazards also poses a substantial risk to health 
+services, in particular hospitalisations in intensive care units (ICU). The COVID-19 pandemic in 2020/21 severely tested, and at 
+times exceeded, the capacity of hospital systems to absorb and scale up ICU bed capacity while maintaining essential medical 
+and surgical care. In response to the pandemic, most EU countries increased critical care capacity through temporary facilities 
+and surge capacity. However, the initial response was hampered by capacity constraints in equipment and, more critically, in 
+trained ICU workforce (OECD, 2023[2]). 
+In 2022, there remained wide variation between countries in the availability of ICU beds, with a near ten-fold difference between 
+Czechia (44.9 beds per 100 000 population) and Sweden (4.5 beds) (Figure 8.4). On average across EU countries with available 
+data, ICU bed capacity only increased marginally from 18.2 beds per 100 000 population in 2019 to 18.4 per 100 000 population 
+in 2022. Notable exceptions were Latvia, where ICU bed capacity doubled from 11.1 to 24.0 beds per 100 000 population, and 
+Spain, where capacity increased from 10.4 to 18.8 ICU beds per 100 000 population. While physical capacity is important, resilient 
+health systems must have the flexibility to meet critical care demand by ensuring that sufficient trained staff are available to match 
+the number of available ICU beds. 
+Definition and comparability 
+Laboratory Capacity data are derived from the EULabCap monitoring surveys conducted by ECDC jointly with National 
+Microbiology Focal Points in EU countries, Iceland and Norway. The EULabCap Index is a composite index composed of 60 
+technical indicators of laboratory structure, service range and outputs across 12 public health targets, covering primary 
+diagnostic testing, national reference laboratory services and laboratory surveillance and epidemic response support. The 
+target measures are aggregated into the EULabCap Index, which has a maximum score of 10. Detailed methodology and 
+limitations are described in the EULabCap report (ECDC, 2023[1]). Data completeness is robust, with 29 EU/EEA countries 
+reporting 98% of indicators. 
+ICU bed capacity data come from national sources and were collected through the OECD/Eurostat Joint Questionnaire on 
+Non-Monetary Health Care Statistics. ICU beds are typically classified into three levels, with Level 3 providing the most intense 
+care. The data cover all three levels, except in Ireland, Italy, Latvia and the Netherlands, which include only critical care beds 
+at Levels 2 and 3. Data for Ireland excludes ICU beds in private sector hospitals. Most countries report adult ICU beds only, 
+although some (e.g. Estonia) also include neonatal and paediatric ICU beds. 
+ 
+References 
+ 
+ECDC (2023), EU Laboratory Capability Monitoring System (EULabCap) Report on 2021 survey of EU/EEA country 
+capabilities and capacities, European Centre for Disease Prevention and Control, Stockholm. 
+[1] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[2] 
+  
+
+
+## Stran PDF 213
+
+   211 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.3. Composite index of national public health laboratory capacities, 2021 
+ 
+Note: The maximum EULabCap index score is 10. The data for the United Kingdom pertain to 2018. 
+Source: European Centre for Disease Prevention and Control (ECDC). 
+Figure 8.4. Adult intensive care beds available in 2019 and 2022 
+ 
+Note: The EU average is unweighted. 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/o9zjy4
+Low (0 – 5.9)
+Levels of system capability/capacity: 
+High (8.0 – 10.0)
+Intermediate (6.0 – 7.9)
+5.6
+44.9
+39.6
+28.1
+27.2
+24.0
+21.8
+21.1
+20.9
+20.4
+18.8
+18.4
+17.1
+11.8
+10.6
+10.3
+10.0
+7.5
+5.7
+5.7
+4.5
+9.2
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+2022
+2019
+Per 100 000 population
+
+
+## Stran PDF 214
+
+212    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Antimicrobial resistance and safe antibiotic prescribing 
+Antimicrobial resistance (AMR) occurs when bacteria develop the ability to survive the effects of antimicrobial drugs, rendering 
+them ineffective. Although AMR is a natural process, human activities – such as the misuse of antibiotics and inadequate infection 
+control in healthcare settings, especially hospitals – significantly accelerate its development. AMR constitutes a major public health 
+threat in Europe and at a global level (OECD, 2023[1]). Estimates indicate that over 800 000 antibiotic-resistant infections occur 
+annually in the EU, Iceland and Norway, with more than 70% being healthcare-associated, resulting in approximately 
+35 000 deaths every year. AMR’s economic impact is equally significant, with direct costs of treating resistant infections estimated 
+at EUR 6.6 billion annually (ECDC, 2023[2]). 
+Measuring AMR is complex due to the diversity of micro-organisms and antibiotics involved and the difficulty of establishing 
+comprehensive surveillance. An effective approach measures the prevalence of resistance for specific pathogen-antibiotic 
+combinations selected on the basis of their clinical importance and public health impact. The ECDC’s Composite AMR Index, 
+combining data on five key bacteria-antibiotic pairs, provides a comprehensive overview of AMR in European hospitals. Data from 
+2022-23 indicate that, overall, 32% of reported bacterial isolates were resistant to first-level AMR markers, a proportion consistent 
+with levels observed in 2016-17. However, this EU/EEA average masks significant cross-country variations and trends, with 
+Northwestern European countries generally reporting significantly lower AMR rates than southeastern ones. Malta, Sweden and 
+Finland demonstrated the lowest AMR index scores (<12%), while in Romania, Greece, Cyprus and Bulgaria over 50% of isolates 
+exhibited resistance. Between 2016-17 and 2022-23, Cyprus, Lithuania and Estonia experienced the largest increases in their 
+AMR index scores, while Malta, Ireland and Portugal reported the most significant reductions (Figure 8.5). 
+Antibiotic consumption in the community, accounting for nearly 90% of total antibiotic consumption in the EU/EEA, is a key driver 
+of AMR. In 2022, average antibiotic consumption stood at 17 defined daily doses (DDD) per 1 000 inhabitants per day, 20% higher 
+than during the first two years of the COVID-19 pandemic, when containment measures led to reduced transmission of respiratory 
+pathogens and fewer antibiotic prescriptions in the community (OECD, 2023[1]). Despite this recent increase, the average 
+consumption level in 2022 still represented a significant decrease of approximately 10% over the past decade. Half of the 
+EU countries reported consumption levels between 13.5 and 21.5 DDD per 1 000 inhabitants per day, ranging from 8.3 DDD per 
+1 000 inhabitants per day in the Netherlands to in excess of 30 in Greece. While consumption levels alone do not indicate 
+prescribing appropriateness, the wide cross-country variation suggests factors beyond infection prevalence influence antibiotic 
+use, highlighting opportunities for improved antimicrobial prescribing and stewardship in several countries. 
+In addition to consumption volumes, examining the ratio of broad-spectrum to narrow-spectrum antibiotic use across countries 
+provides valuable insights into the appropriateness of prescribing practices and their contribution to AMR. In 2022, the average 
+EU/EEA ratio stood at 4:1, an increase from the relatively stable pre-pandemic ratio of approximately 3.2:1. Variation was 
+significant, with half of the EU countries reporting ratios ranging from 1.2 to 5.5. In addition to below-average consumption levels, 
+Nordic countries reported ratios below 0.5, reflecting strong antibiotic stewardship. In contrast, Malta, the Slovak Republic and 
+Hungary reported the highest broad-spectrum to narrow-spectrum antibiotic consumption ratios, indicating a pattern of usage that 
+potentially increases the risk of accelerating the emergence and spread of antibiotic-resistant bacterial strains (Figure 8.6). In 
+June 2023, the Council of the European Union adopted a recommendation on stepping up EU actions to combat AMR under a 
+One Health approach, which includes five AMR reduction targets to be achieved by 2030 (European Council, 2023[3]). 
+Definition and comparability 
+The composite index of antimicrobial resistance (AMR) is calculated as the share of resistant bacterial isolates for the selected 
+“first level” AMR markers divided by the total number of isolates for which antimicrobial susceptibility testing results were 
+reported. 
+First-level 
+markers 
+include 
+methicillin-resistant S. aureus, 
+vancomycin-resistant 
+Enterococci, 
+selected 
+Enterobacterales resistant to third-generation cephalosporins, and P. aeruginosa and A. baumannii resistant to carbapenems. 
+The comparability of the composite index between countries and over time may be affected by differences in laboratory 
+methods used for antimicrobial susceptibility testing, patient case mix, completeness of reporting and changes in surveillance 
+systems over time.  
+ 
+References 
+ 
+ECDC (2023), Antimicrobial consumption in the EU/EEA (ESAC-Net), European Centre for Disease Prevention and 
+Control, https://www.ecdc.europa.eu/sites/default/files/documents/AER-antimicrobial-consumption.pdf. 
+[2] 
+European Council (2023), Combating antimicrobial resistance in a ‘one health’ approach, Council recommendation, 
+2023/C 220/01. 
+[3] 
+OECD (2023), Embracing a One Health Framework to Fight Antimicrobial Resistance, OECD Health Policy Studies, 
+OECD Publishing, Paris, https://doi.org/10.1787/ce44c755-en. 
+[1] 
+  
+
+
+## Stran PDF 215
+
+   213 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.5. AMR Composite Index: Isolates resistant to key antimicrobials, 2022-23 and 2016-17 
+ 
+Notes: The EU average is unweighted. 1. Country representativeness of the data was poor in 2016/17; 2. Country representativeness of the data was medium in 
+2022/23. 
+Source: ECDC Point Prevalence Surveys, 2022-23 and 2016-17. 
+StatLink 2 https://stat.link/ljuor9 
+Figure 8.6. Community antibiotic consumption and broad-spectrum to narrow-spectrum ratio, 2022 
+ 
+Note: The EU/EEA average is weighted, based on data from the 23 EU/EEA countries with consistent reporting of community consumption. Community consumption 
+data for Cyprus is unavailable, and the ratio for Czechia refers to 2021. Broad-spectrum antibiotics include penicillins, cephalosporins (except some 1st generation), 
+macrolides (excluding erythromycin), and fluoroquinolones. Narrow-spectrum antibiotics include certain penicillins, 1st generation cephalosporins and erythromycin. 
+Source: ECDC (2023[2]), Antimicrobial consumption in the EU/EEA (ESAC-Net) - Annual Epidemiological Report 2022, https://www.ecdc.europa.eu/sites/default/files/
+documents/AER-antimicrobial-consumption.pdf. 
+StatLink 2 https://stat.link/29gzk8
+ 0
+ 10
+ 20
+ 30
+ 40
+ 50
+ 60
+ 70
+ 80
+%
+Resistant isolates - 2022/2023
+Resistant isolates - 2016/2017
+AT
+BE
+BG
+HR
+CZ
+DK
+EE
+FI
+FR
+DE
+EL
+HU - 24.7
+IS
+IE
+IT
+LV
+LT
+LU
+MT - 24.5
+NL
+NO
+PL
+PT
+RO
+SK - 14.1
+SI
+ES
+SE
+EU/EEA
+0
+2
+4
+6
+8
+10
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+Antibiotic consumption in the community (DDD per 1 000 inhabitants per day)
+Community antibiotic consumption ratio: broad-spectrum to narrow-spectrum (DDD per 1 000 inhabitants per day)
+High consumption
+Low broad-spectrum use
+Low consumption
+Low broad-spectrum use
+High consumption
+High broad-spectrum use
+Low consumption
+High broad-spectrum use
+
+
+## Stran PDF 216
+
+214    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Public health measures: Vaccination to protect older people 
+Vaccination is a cornerstone of primary prevention, aiming to prevent disease and reduce severity when illness occurs. It is 
+especially critical for older adults, who are more vulnerable to severe complications from vaccine-preventable illnesses. Ensuring 
+high vaccination coverage among older populations is thus vital for reducing illness and alleviating pressure on healthcare systems. 
+The COVID-19 pandemic has served as a stark real-world, large-scale demonstration of the life-saving efficacy of vaccines, with 
+countries that achieved higher vaccination rates experiencing markedly lower excess mortality (OECD, 2023[1]). Vaccination was 
+especially crucial for people over 60, who accounted for 93% of all COVID-19 deaths in the EU in 2020-21. By the end of 2021, nearly 
+90% of people aged 60 and above in the EU had completed their primary vaccination course, with all countries except three reaching 
+at least 75% coverage. Denmark, Belgium and Ireland achieved 100% coverage in this age group. As evidence emerged on the 
+waning effectiveness of vaccines (Menni et al., 2022[2]), European countries began administering booster doses in October 2021. 
+By mid-2022, 83% of individuals aged 60 and above in the EU had received a booster shot. Booster uptake showed greater 
+variation across countries compared to the primary vaccination course. All countries except Italy experienced lower booster uptake 
+rates levels, with countries that had higher primary course coverage generally experiencing smaller declines in booster uptake. 
+Declines were particularly significant in Croatia, Bulgaria, Latvia and Romania, where fewer than 50% of people aged 60 and over 
+received a COVID-19 booster dose. With the emergence of new COVID-19 variants, all EU countries began administering a 
+second set of bivalent booster vaccines in September 2022. However, uptake dropped significantly compared to the first booster, 
+with less than 30% of people aged 60 and over receiving it by the end of 2022. Denmark, Ireland, Portugal, Sweden, Belgium and 
+the Netherlands achieved the highest coverage rates of over 70%, while in Central and Eastern European countries less than 
+25% of the population aged 60 and above received a second vaccine booster dose (Figure 8.7). 
+Similar to their approach to COVID-19 vaccination, all European countries have national recommendations to promote influenza 
+vaccination among older people. During the 2019/20 flu season (pre-pandemic), 44% of EU residents aged 65 and older received 
+the flu vaccine. However, vaccination rates varied significantly across regions. Western and Southern European countries saw 
+higher uptake, with Greece, the Netherlands and Malta achieving over 66% coverage. In contrast, Central and Eastern European 
+countries such as Czechia, Hungary, Romania and Lithuania had rates below 25%. 
+The start of the pandemic spurred public health efforts to prevent simultaneous outbreaks of influenza and COVID-19, leading to 
+a 16% increase in flu vaccination rates in the EU. The 2020/21 season saw average uptake reach 51%, with Denmark meeting 
+the WHO’s 75% coverage target while Spain, Romania, Ireland, Estonia and Italy increased their rates by over 10 percentage 
+points year-on-year. In 2021/22, as influenza virus activity in the EU resumed following the relaxation of COVID-19 measures, 
+average vaccination uptake slightly decreased to 48% but remained over 4 percentage points above the pre-pandemic level 
+(Figure 8.7). Denmark, Portugal, Ireland and the United Kingdom attained over 75% coverage, while Latvia, Estonia and Ireland 
+maintained significant increases from their respective 2019/20 rates. Conversely, nine EU countries experienced declines below 
+pre-pandemic levels, with Croatia, Slovenia, Malta and the Slovak Republic seeing particularly sharp declines exceeding 25%. 
+To varying degrees in different EU countries, vaccine hesitancy remains an obstacle to achieving high vaccination rates among 
+at-risk populations. Pre-pandemic confidence in vaccines was relatively high in the EU, with nearly 82% of the population 
+considering vaccines to be safe in 2018 and only five countries with less than 75% of their citizens agreeing on the safety of 
+vaccines. The onset of the pandemic did not substantially alter overall EU perceptions of vaccine safety by 2022. However, 
+variation across countries increased, with Poland and France seeing increases of over 10% in the proportion of their populations 
+agreeing on the safety of vaccines, while the Netherlands, Slovenia and the Slovak Republic witnessed declines exceeding 15% 
+(Figure 8.8). Public perception of vaccine safety strongly correlated with both influenza and COVID-19 vaccine uptake among 
+older adults, with the latter showing an even stronger association. This highlights the importance of transparent communication 
+by health authorities to build public trust and address misconceptions about vaccine safety and efficacy. 
+Definition and comparability 
+COVID-19 vaccination coverage is based on ECDC data collected through the European Surveillance System, measuring 
+vaccinated doses per target population. Two doses are considered as completing the primary vaccination course, except for 
+the Janssen vaccine. 
+Influenza vaccination coverage rates typically refer to the proportion of people aged 65 and over who receive an annual 
+vaccination, though some countries use data for those aged 60 and over.  
+ 
+References 
+ 
+Menni, C. et al. (2022), “COVID-19 vaccine waning and effectiveness and side-effects of boosters: a prospective 
+community study from the ZOE COVID Study”, The Lancet Infectious Diseases, Vol. 22/7, pp. 1002-1010, 
+https://doi.org/10.1016/s1473-3099(22)00146-3. 
+[2] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[1] 
+  
+
+
+## Stran PDF 217
+
+   215 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.7. Vaccination rates in older people 
+ 
+Notes: The data for 2019/20 refer to the flu vaccination campaign from fall 2019 to winter 2020, as do the data for the 2021/22 campaign. 1. The 2019/20 data refer to 
+the 2018/19 flu season. 
+Source: ECDC COVID-19 Vaccine Tracker 2024, OECD Health Statistics and Eurostat (hlth_ps_immu). 
+StatLink 2 https://stat.link/x1h6tp 
+Figure 8.8. Proportion of the population agreeing that vaccines are safe, 2018 and 2022 
+ 
+Source: De Figueiredo, A. (2022), State of vaccine confidence in the European Union, https://doi.org/10.2875/188426. 
+StatLink 2 https://stat.link/93cpx2
+0%
+20%
+40%
+60%
+80%
+100%
+Denmark
+Ireland
+Belgium
+Portugal
+Netherlands
+Sweden
+Finland
+Spain
+Malta
+Luxembourg
+Austria
+Germany
+France
+Italy
+Cyprus
+EU27
+Greece
+Czechia
+Hungary
+Estonia
+Poland
+Slovenia
+Lithuania
+Slovak Rep
+Croatia
+Latvia
+Bulgaria
+Romania
+Iceland
+Norway
+COVID-19 primary and booster vaccination rates,
+people aged 60 and over, 2021 and 2022
+Q4 '21 - primary
+Q2 '22 - booster #1
+Q4 '22 - booster #2
+48%
+78%
+76%
+75%
+70%
+70%
+68%
+66%
+60%
+58%
+57%
+56%
+43%
+43%
+42%
+42%
+32%
+29%
+25%
+22%
+22%
+21%
+19%
+17%
+10%
+9%
+6%
+82%
+63%
+60%
+14%
+14%
+11%
+7%
+0%
+20%
+40%
+60%
+80%
+100%
+Denmark
+Portugal
+Ireland
+Sweden
+Spain
+Netherlands
+Greece
+Finland
+Italy
+France
+Belgium
+EU27
+Luxembourg
+Germany
+Malta
+Cyprus
+Estonia
+Croatia
+Czechia
+Hungary
+Romania
+Lithuania
+Slovenia
+Latvia
+Bulgaria
+Poland¹
+Slovak Rep
+Austria¹
+United Kingdom
+Norway
+Iceland
+Serbia
+Montenegro
+Türkiye¹
+North Macedonia¹
+Vaccination against influenza,
+people aged 65 and over, 2019/20 to 2021/22
+2019/2020
+2021/2022
+ 40
+ 50
+ 60
+ 70
+ 80
+ 90
+ 100
+%
+2018
+2022
+
+
+## Stran PDF 218
+
+216    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Use of teleconsultations 
+Consultations with doctors are the most frequent contact most people have with health services and provide an entry point for 
+subsequent medical treatment. Consultations can take place in different settings and during the COVID-19 pandemic the use of 
+teleconsultations was crucial to continue to deliver care safely. On average across EU countries, in-person consultations fell by 
+almost 20% in 2020, but the declines were almost completely offset by increasing numbers of teleconsultations in some countries 
+such as Belgium, Croatia, Czechia, Estonia, Portugal and Spain. 
+At the beginning of the pandemic, governments acted rapidly to promote the use of teleconsultations by introducing enabling 
+legislation and revising laws. After the pandemic started, at least four EU countries that previously allowed only in-person 
+consultations (Estonia, Hungary, Ireland and Luxembourg) dropped this restriction. France and Lithuania relaxed their prerequisite 
+that patients were only allowed to have teleconsultations with doctors they had already consulted in person. Additionally, volume 
+restrictions on physicians providing remote consultations were lifted in Germany and Sweden. Governments also promoted the 
+use of telemedicine through changes in providers’ payment systems. At least six EU countries began covering teleconsultations 
+through government/compulsory schemes (Belgium, Czechia, Estonia, Hungary, Latvia and Luxembourg) (OECD, 2023[1]). 
+Even before the start of the COVID-19 pandemic, teleconsultations between doctors and patients were used extensively in 
+countries such as Denmark. These teleconsultations were made possible through different options such as the national “My 
+Doctor” mobile application that was set-up as part of Denmark’s Digital Health Strategy 2018-22. Since 1 January 2022, video 
+consultations have become a permanent consultation option (OECD/European Observatory on Health Systems and Policies, 
+2023[2]). 
+In 2022, teleconsultations accounted for an average of 16% of all doctor consultations across 16 EU countries with available data 
+(Figure 8.9). Spain, Portugal, Estonia and Denmark reported the highest rates, with over 25% of all doctor consultations being 
+conducted remotely. While teleconsultations increased during the pandemic in Belgium, France, Germany and Luxembourg, they 
+only comprised 2% to 6% of all doctor consultations in these countries in 2022. 
+Looking at trends between 2018 and 2022, in many countries the volume of teleconsultations reached a peak during the first 
+two years of the pandemic in 2020 and 2021, and then started to decrease in 2022, but nonetheless remained higher than 
+pre-pandemic levels. Croatia, Estonia, Portugal and Spain had among the largest increases in 2020 and 2021, followed by a 
+subsequent decline in 2022 except in Estonia where the volume remained stable (Figure 8.10; left panel). The volume of 
+teleconsultations also increased substantially in Belgium and Czechia in 2020 and 2021, followed by a reduction in 2022. The 
+growth in 2020, 2021 and 2022 was relatively more modest in France and Germany (Figure 8.10; right panel). 
+Across the EU, patients who used teleconsultations and other telemedicine services during the pandemic were overwhelmingly 
+satisfied. There is ample evidence that telemedicine services can save patients money and time. Doctors had more mixed views 
+of the importance of teleconsultations and other remote care services, and some physicians expected to reduce their provision of 
+telemedicine services or even stop providing them altogether following the peak of the pandemic in 2020 and 2021. Access to 
+telemedicine among certain groups of patients also remains a key concern in several countries (OECD, 2023[1]). 
+While the pandemic required the urgent expansion of telemedicine as a substitute for in-person care, three gaps in implementation 
+might have limited the potential impact of telemedicine services. First, there has been a significant gap in measurement and 
+evaluation, hindering the ability to understand patient usage patterns, access barriers, outcomes and the overall effectiveness of 
+telemedicine. Second, existing payment mechanisms might not have effectively incentivised cost-effective utilisation of 
+telemedicine services, leading to uncertainties around value for money. Third, the fragmentation of care services between in-
+person and remote services presents challenges in providing seamless and integrated care pathways for patients. In the post-
+pandemic period, countries need to explore further how to integrate telemedicine into routine care pathways responsibly and use 
+evidence to shape policies for the sustainable and equitable delivery of healthcare in-person and through telemedicine. 
+Definition and comparability 
+Data on doctor consultations in person and through teleconsultations are based mainly on administrative data. They include 
+consultations with generalist and specialist doctors. Teleconsultations cover all technologies used (notably phone and video 
+calls). 
+ 
+References 
+ 
+OECD (2023), The COVID-19 Pandemic and the Future of Telemedicine, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/ac8b0a27-en. 
+[1] 
+OECD/European Observatory on Health Systems and Policies (2023), Denmark: Country Health Profile 2023, State of 
+Health in the EU, OECD Publishing, Paris, https://doi.org/10.1787/e4f0bee3-en. 
+[2] 
+  
+
+
+## Stran PDF 219
+
+   217 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.9. Doctor consultations, in-person and teleconsultations, 2022 
+ 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/78j5bg 
+Figure 8.10. Evolution in the volume of teleconsultations, selected EU countries, 2018-22 
+ 
+Source: OECD Health Statistics 2024. 
+StatLink 2 https://stat.link/nx9up4
+10.8
+10.3
+9.8
+8.9
+8.5
+8.0
+7.9
+7.9
+7.2
+7.1
+6.3
+6.2
+5.6
+5.3
+5.1
+4.4
+3.1
+3.8
+0
+2
+4
+6
+8
+10
+12
+Annual consultations per person
+In-person consultations
+Teleconsultations
+0
+0.3
+0.6
+0.9
+1.2
+1.5
+2018
+2019
+2020
+2021
+2022
+Belgium
+Czechia
+France
+Germany
+Annual teleconsultations per person
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+2018
+2019
+2020
+2021
+2022
+Croatia
+Estonia
+Portugal
+Spain
+Annual teleconsultations per person
+Countries with relatively high 
+teleconsultation rates in 2022
+Countries with relatively low 
+teleconsultation rates in 2022
+
+
+## Stran PDF 220
+
+218    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Digital health readiness 
+Electronic health records (EHRs) are a key component of health systems’ digital transformation, but their successful 
+implementation requires comprehensive technical, legal, and operational preparedness. This includes ensuring patient-provider 
+accessibility, establishing standardized data sharing protocols and implementing secure information management systems. 
+In 2023, EU countries have made significant investments to ensure reliable nationwide access to EHRs, with the average 
+availability of online digital health services (expressed by the Digital Economy and Society Index) rising by 8 percentage points 
+from 2022 to reach an average of 79% (Figure 8.11) (European Commission, 2024[1]). The Slovak Republic, France and Portugal 
+demonstrated significant progress in expanding their digital health services, as evidenced by substantial improvements in their 
+digital health scores. Ireland also made noteworthy advancements, with its score increasing from 0% to 11% in 2023 following the 
+implementation of Electronic Health Record (EHR) access in a major private hospital group (European Commission, 2024[2]). As 
+of 2023, all Belgian residents have access to their electronic health records (EHRs), and core functionalities such as unique patient 
+identification, allergy lists and e-prescriptions have been implemented in all general hospitals. At the same time, some 
+EU countries saw lower scores following strategies revisions or deficiencies in technology infrastructure. For example, Finland’s 
+score dropped by 9 percentage points due to more accurate reporting mechanisms, while Cyprus’ score declined by 3 percentage 
+points because of shortcomings in authentication technologies and accessibility standards (European Commission, 2024[2]). 
+Health systems resilience is also determined by accessible, linkable health datasets. Such data integration enhances patient 
+safety, strengthens public health preparedness and healthcare management (OECD, 2023[3]). At least 15 European countries 
+report having available health datasets, with Denmark and Norway guaranteeing full availability across all ten key health dataset 
+types while Austria, Estonia, France, the Netherlands, and Sweden follow closely with 92% availability and linkability for secondary 
+use. Several technical factors influence record linkage capacity, including the availability and consistent use of a unique ID as well 
+as the regularity of dataset linkages. Czechia, Finland, Denmark and Sweden use a unique patient/person identifier for linking 
+over 90% of their national health datasets, while Estonia, France, Latvia, Luxembourg, the Netherlands, Norway and Slovenia 
+use this ID for over 60%. Czechia, Denmark, Finland, France, Latvia, the Netherlands, Norway, Slovenia and Sweden regularly 
+link most of their national datasets, but in Austria, Belgium, Estonia and Luxembourg, linkages are limited to a few datasets, and 
+none are regularly conducted in Germany or Ireland (Figure 8.12) (Oderkirk, 2021[4]). 
+Building on these national efforts, in 2024 the European Parliament and the European Council approved the establishment of a 
+European Health Data Space (EHDS), aimed at empowering EU citizens with greater control over their health data and enabling 
+secure, efficient data exchange for healthcare providers, researchers and policy makers. The EHDS sets rules for both primary 
+use (patient care) and secondary use (research, innovation, policy making). Implementation is phased, with primary use 
+exchanges set to begin by 2026 and secondary use rules effective from 2028 (European Commmission, 2024[5]). 
+Definition and comparability 
+Electronic Health Records (EHRs) are digital versions of patients’ medical histories, maintained over time and across different 
+healthcare providers. They typically include key clinical data such as demographics, progress notes, medications, past medical 
+history, immunisations, laboratory results, discharge and radiology reports. 
+Citizens’ online access to EHRs is one of the indicators within the Digital Economy and Society Index (DESI) dashboard. The 
+indicator is measured through two main components: i) the nationwide availability of online access to EHRs (via a patient portal 
+or a patient mobile app), and ii) the percentage of individuals that have the ability to obtain or make use of their own minimum 
+set of health-related data currently stored in public and private EHR systems. 
+Available key national health datasets include the following ten datasets: hospital in-patient data, mental hospital in-patient 
+data, emergency care data, primary care data, prescription medicines data, cancer registry data, diabetes registry data, CVD 
+registry data, mortality data and long-term care data. The ability to regularly link datasets is assessed based on a set of 
+technical factors related to capacity for record linkages, including the availability of a unique ID, consistency of the use of 
+unique IDs and the regularity of conducting dataset linkages (Oderkirk, 2021[4]). 
+ 
+References 
+ 
+European Commission (2024), 2024 digital decade ehealth indicator study – Annex – Country factsheets, Publications 
+Office of the European Union,, https://data.europa.eu/doi/10.2759/276133. 
+[2] 
+European Commission (2024), The Digital Economy and Society Index (DESI), https://digital-
+strategy.ec.europa.eu/en/policies/desi. 
+[1] 
+European Commmission (2024), European Health Data Space, https://health.ec.europa.eu/ehealth-digital-health-and-
+care/european-health-data-space_en. 
+[5] 
+Oderkirk, J. (2021), “Survey results: National health data infrastructure and governance”, OECD Health Working 
+Papers, No. 127, OECD Publishing, Paris, https://doi.org/10.1787/55d24b5d-en. 
+[4] 
+OECD (2023), Health at a Glance 2023: OECD Indicators, OECD Publishing, Paris, https://doi.org/10.1787/7a7afb35-
+en. 
+[3] 
+  
+
+
+## Stran PDF 221
+
+   219 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.11. Access to electronic health records, 2022 and 2023 
+ 
+Source: European Commission (2024[1]), Digital Economy and Society Index (DESI). 
+StatLink 2 https://stat.link/jhuo5p 
+Figure 8.12. Percentage of key national health datasets available and regularly linked for monitoring and research, 
+2019-20 
+ 
+Source: Oderkirk (2021[4]), Survey results: National health data infrastructure and governance, https://doi.org/10.1787/55d24b5d-en. 
+StatLink 2 https://stat.link/4qgrw8
+100
+98
+98
+95
+90
+88
+88
+88
+87
+86
+86
+86
+85
+85
+83
+83
+79
+79
+78
+77
+76
+74
+72
+68
+66
+59
+51
+11
+0
+20
+40
+60
+80
+100
+2022
+2023
+Score (0 - 100)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+%
+% of key national health datasets available
+% of available health datasets regularly linked for research, statistics and/or monitoring
+
+
+## Stran PDF 222
+
+220    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Medical and nursing graduates 
+Ensuring a sufficient supply of doctors and nurses is essential for high-quality healthcare delivery, particularly for ageing 
+populations. In this context, the number of new medical and nursing graduates is a key indicator of the potential influx of new 
+health professionals into health systems. While most EU countries have expanded medical and nursing education programs post-
+COVID-19, the effect of these changes on the influx of new doctors and nurses will only become apparent after several years due 
+to the length of medical and nursing degree programmes. 
+The number of medical graduates across the EU increased over the last decade at an average annual rate of over 3.5%, rising 
+from about 48 900 in 2012 to 69 300 in 2022. In contrast, the number of nursing graduates increased at a slower rate of about 
+0.5% per year, from approximately 159 000 in 2012 to 167 300 in 2022. In 2022, there were 15.5 medical graduates and 37.5 
+nursing graduates per 100 000 population in the EU as a whole, up from 11.1 medical graduates and 36.0 nursing graduates per 
+100 000 population in 2012. Defining an optimal target for new medical or nursing graduates is complex; the need for new doctors 
+and nurses is influenced by retention rates within the profession (with higher early departure rates increasing replacement needs) 
+as well as evolving demand for health services due to factors such as population ageing and changing disease burden. 
+In 2022, the number of new medical graduates per 100 000 population varied significantly across EU countries, ranging from 
+about 12 in Slovenia, Estonia and Germany to over 25 in Ireland, Romania, Latvia, Malta and Bulgaria (Figure 8.13). Between 
+2012 and 2022, nearly all EU countries saw an increase in medical graduate numbers, with rates more than doubling in Bulgaria, 
+Latvia, and France. Countries leading in medical graduates per capita, such as Bulgaria, Romania and Ireland, largely reflect 
+international student enrollment. Medical schools in Bulgaria and Romania have become leaders in Europe in the share of foreign 
+students in medical education programmes; in 2021/22, nearly 60% of medical students in Bulgaria were foreign nationals 
+(Government of Bulgaria, 2023[1]). This internationalisation of medical education has been facilitated by the EU Directive on the 
+recognition of professional qualifications. However, most international graduates leave these countries after graduation due to 
+limited training opportunities or better career prospects elsewhere (OECD, 2019[2]). 
+The number of new nursing graduates varied widely across EU countries in 2022. Cyprus and Bulgaria – which also have among 
+the lowest numbers of practising nurses – had the fewest graduates at less than 10 per 100 000 population. Romania and Greece 
+topped the ranking with rates over 100 graduates per 100 000 population, though about 90% of these completed vocational 
+training programmes below the EU Professional Qualifications Directive’s minimum requirements for general nurses (Figure 8.14). 
+Finland, Croatia and the Netherlands followed with more than 60 graduates per 100 000 population. Between 2012 and 2022, 
+approximately half of EU countries experienced an increase in nursing graduate numbers. The largest growth was observed in 
+Greece, the Netherlands, Czechia and Lithuania, where the number of new nursing graduates rose by more than 70% over the 
+past decade. Conversely, Cyprus, the Slovak Republic and Malta saw their annual nursing graduate output decline by over 40%. 
+A significant obstacle to expanding nursing student enrolment across EU countries is the persistent difficulty in attracting male 
+candidates to the profession. This challenge is rooted in enduring societal stereotypes that predominantly associate nursing with 
+female practitioners, hindering efforts to boost recruitment through increased diversification. This challenge is further compounded 
+by a broader trend of diminishing interest in nursing careers among secondary school students across several European countries 
+between 2018 and 2022, which was especially pronounced in Norway, Denmark, Ireland and the United Kingdom (OECD, 2024[3]). 
+Despite efforts to promote gender diversity in nursing education, the profession remains predominantly female. In the majority of 
+EU countries, female students constitute at least 80% of applicants and admitted students to nursing programmes. 
+Definition and comparability 
+Medical graduates are defined as students who have graduated from medical schools in a given year. They include both 
+domestic students and international students. 
+Nursing graduates are defined as students who have obtained a recognised qualification required to become a nurse. They 
+include graduates from education programmes deemed to meet the EU Professional Qualifications Directive for general nurses 
+as well as lower-level (vocational training) nursing programmes in countries where these exist. They exclude graduates from 
+master’s or doctorate degrees in nursing to avoid double-counting nurses acquiring further qualifications. 
+ 
+References 
+ 
+Government of Bulgaria (2023), National map of higher education in Republic of Bulgaria, 
+https://www.strategy.bg/StrategicDocuments/View.aspx?lang=bg-BG&Id=1600. 
+[1] 
+OECD (2024), “Fewer young people want to become nurses in half of OECD countries”, OECD Publishing, Paris, 
+https://www.oecd.org/en/publications/fewer-young-people-want-to-become-nurses-in-half-of-oecd-
+countries_e6612040-en.html. 
+[3] 
+OECD (2019), Recent Trends in International Migration of Doctors, Nurses and Medical Students, OECD Publishing, 
+Paris, https://doi.org/10.1787/5571ef48-en. 
+[2] 
+  
+
+
+## Stran PDF 223
+
+   221 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.13. Medical graduates, 2012 and 2022 (or nearest year) 
+ 
+Note: The EU average is weighted. A large number of medical graduates are international students in some countries (e.g. Bulgaria, Romania, Ireland, Slovak Republic, 
+Czechia and Hungary). 
+Source: OECD Health Statistics 2024 and Eurostat (hlth_rs_grd, hlth_rs_grd2). 
+StatLink 2 https://stat.link/f4lrz2 
+Figure 8.14. Nursing graduates, 2012 and 2022 (or nearest year) 
+ 
+Note: The EU average is weighted (based on OECD calculations). 
+Source: OECD Health Statistics 2024 and Eurostat (hlth_rs_grd, hlth_rs_grd2). 
+StatLink 2 https://stat.link/l3dbin
+11.1
+29.5
+27.7
+27.5
+26.1
+25.7
+21.6
+21.2
+19.1
+16.9
+16.8
+16.7
+16.6
+16.2
+16.0
+15.7
+15.5
+15.1
+15.1
+14.4
+14.1
+13.9
+13.3
+13.3
+13.1
+12.4
+12.2
+11.4
+17.1
+16.6
+14.9
+13.7
+13.6
+13.3
+10.3
+6.5
+0
+5
+10
+15
+20
+25
+30
+35
+2012
+2022
+Per 100 000 population
+100.3
+100.2
+67.0
+64.5
+62.1
+46.2
+45.8
+45.4
+44.4
+42.2
+37.5
+35.9
+34.7
+32.7
+32.6
+29.7
+29.3
+27.6
+26.0
+24.7
+24.4
+23.5
+19.6
+16.6
+16.4
+10.4
+9.2
+7.9
+111.8
+78.5
+71.9
+56.4
+43.2
+18.5
+0
+20
+40
+60
+80
+100
+120
+2022 - Professional nurses
+2022 - Associate professional nurses
+2012
+Per 100 000 population
+
+
+## Stran PDF 224
+
+222    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Capital expenditure in the health sector 
+Adequate infrastructure, encompassing both physical facilities and equipment such as diagnostic and therapeutic equipment as 
+well as digital and information technology (IT) tools, is vital for the resilience and long-term productivity of any health system. In 
+this regard, the COVID-19 pandemic highlighted how sufficient equipment in intensive care units and other healthcare facilities 
+can mitigate crucial delays in diagnosis and treatment (OECD, 2023[1]). While an optimal level of capital investment in the health 
+sector is challenging to define and is subject to many country-specific factors, it is of critical importance for countries to maintain 
+their ability to address future crises, as insufficient investment can overextend service provision and may even lead to system 
+failure. In the long-term, persistent underinvestment combined with deteriorating equipment and facilities can impact day-to-day 
+service delivery and lead to higher overall costs. 
+Capital investment levels in healthcare tend to fluctuate more from year to year compared to current health expenditure, as they 
+are often subject to complex, long-term plans that are influenced by political priorities and aligned with prevailing economic 
+conditions. Capital expenditure can also be affected by the needs to respond to acute and unforeseen events, such as a pandemic. 
+In 2022, EU countries allocated an average of 0.6% of their GDP to capital expenditure in health, equivalent to about 6% of current 
+health expenditure (Figure 8.15). Both in terms of GDP share and overall health spending, European countries report widely 
+varying levels of capital investment in their healthcare systems. Germany led with 1.3% of GDP allocated to capital spending in 
+the health sector, followed by Portugal at 1.2%. Romania reported the highest capital expenditure on health relative to total health 
+expenditure at 15%. Both in terms of GDP and health expenditure shares, Bulgaria, Czechia and Malta displayed the lowest levels 
+of capital spending in 2022. For some countries, a significant proportion of their 2022 capital spending levels may reflect 
+emergency investments necessitated by the pandemic rather than sustained capital expenditure. 
+Following a plateau in investment from 2015 to 2017, average capital spending grew by around 20% in real terms across the EU 
+in the years just prior to the pandemic, mirroring to some extent the overall growth in current health spending during the same 
+period. Capital spending has since stalled, not displaying any noticeable growth since the beginning of the pandemic in 2020 
+(Figure 8.16). 
+Germany has followed average EU trends in capital spending in the health sector, especially in recent years, while Austria has 
+been experiencing consistent negative growth since 2018. On the other hand, capital spending in Spain has increased significantly 
+faster than the EU average between 2019 and 2022, reaching almost double its 2015 level in real terms. In Denmark, investments 
+in the health sector have jumped by around 25% in the first year of the pandemic but dropped again in 2021. Though France has 
+run behind the EU average since 2018, a growth of 10% from 2020 to 2022 has narrowed this gap. 
+The European Union contributes to its Member States’ flows of capital investment in health via the Cohesion Policy funds, aimed 
+at reducing health inequalities and increasing the effectiveness and accessibility of national health systems (European 
+Commission, 2024[2]). In the wake of the pandemic, the EU committed to significantly strengthen its investment support in health. 
+This includes initiatives such as the over EUR 800 billion “Next Generation EU” recovery package, as well as programmes such 
+as “EU4Health 2021-27”, which seek to build stronger, more resilient and more accessible health systems. 
+Definition and comparability 
+Capital expenditure in the health sector, also referred to as gross fixed capital formation, represents the total value of the fixed 
+assets acquired by health providers during the accounting period, less the value of the asset disposals, and that are used for 
+more than one year in the production of health services. The breakdown includes infrastructure and equipment, as well as 
+software and databases. 
+Many countries report gross fixed capital formation in health under the System of Health Accounts (SHA). It is also included in 
+National Accounts data, broken down by industrial sector according to the International Standard Industrial Classification (ISIC) 
+Rev. 4. To estimate capital investment in health, either section Q: Human health and social work activities, or Division 86: 
+Human health activities can be used. The former typically covers a broader scope than the SHA, while the latter is more 
+narrowly defined. 
+In countries such as Ireland and Luxembourg, where a significant portion of GDP is composed of profits that are repatriated 
+and not available for domestic use, Gross National Income (GNI) may provide a more accurate reflection of economic capacity. 
+However, for the sake of international comparability, GDP remains the standard metric employed across countries. 
+Comparability of capital expenditure data can also be affected by variations in reporting coverage. While some countries 
+include only public sector investments, others may have incomplete data on private sector spending, which can limit cross-
+country comparisons. 
+ 
+References 
+ 
+European Commission (2024), Cohesion Open Data Platform, 2021-2027 funding period, [2], 
+https://cohesiondata.ec.europa.eu/cohesion_overview/21-27. 
+[2] 
+OECD (2023), Ready for the Next Crisis? Investing in Health System Resilience, OECD Health Policy Studies, OECD 
+Publishing, Paris, https://doi.org/10.1787/1e53cf80-en. 
+[1] 
+  
+
+
+## Stran PDF 225
+
+   223 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.15. Capital expenditure on health as a share of GDP and in relation to current health expenditure, 2022 (or 
+nearest year) 
+ 
+Note: The EU average is weighted. 1. Refers to gross fixed capital formation in ISIC 86: Human health activities (ISIC Rev. 4). 2. Refers to gross fixed capital formation 
+in ISIC Q: Human health and social work activities (ISIC Rev. 4). 
+Source: OECD Health Statistics 2024; OECD National Accounts; Eurostat Database. 
+StatLink 2 https://stat.link/cblj8f 
+Figure 8.16. Changes in capital expenditure, in real terms, selected countries, 2015-22 
+ 
+Note: The EU average is unweighted. The value in 2015 is set as 100. 
+Source: OECD Health Statistics 2024; OECD National Accounts; Eurostat Database. 
+StatLink 2 https://stat.link/egau9l
+0.0
+2.5
+5.0
+7.5
+10.0
+12.5
+15.0
+0.00
+0.25
+0.50
+0.75
+1.00
+1.25
+Share of GDP
+Share of current health expenditure
+% of GDP
+% of CHE
+50
+100
+150
+200
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Germany
+France
+Italy
+Spain
+EU21
+Index (2015=100)
+50
+100
+150
+200
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Denmark
+Ireland
+Austria
+Sweden
+EU21
+Index (2015=100)
+
+
+## Stran PDF 226
+
+224    
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Public expenditure projections for health and long-term care 
+With over 80% of health spending in the EU being publicly financed, the ability to forecast future budgetary pressures, such as 
+the magnitude and growth of health expenditure, is essential for fiscal sustainability. In this context, the ageing EU population is 
+a primary concern, as this demographic shift leads to increased health and long-term care needs, a rise in chronic conditions and 
+comorbidities and a smaller proportion of working-age individuals contributing to the tax base that funds health and long-term care 
+services. Additionally, the high cost of innovative medications, particularly in areas like oncology, further strains healthcare 
+budgets. While investing in more resilient health systems and embracing technological advancements can improve the cost-
+effectiveness of healthcare services, these pursuits can also lead to additional fiscal pressures. 
+Tracking long-term budgetary constraints through long-term projections enables decision-makers to plan ahead and 
+accommodate potential financial needs arising from the health and long-term care sector. The Ageing Working Group of the 
+Economic Policy Committee (AWG), using the European Commission services’ models, regularly conducts projections of public 
+expenditure on both health and long-term care (European Commission, 2024[1]). By varying demographic and economic 
+determinants, their 2024 projections produce a number of scenarios assessing their impact on the evolution of public healthcare 
+and long-term care spending over the 2022-70 period. 
+The data presented is based on the 2024 baseline scenario (formerly known as “AWG reference scenario”), which models the 
+impact of ageing populations on public budgets. Key assumptions include that: i) half of the projected gains in life expectancy are 
+spent without disability, and ii) the income elasticity of healthcare spending converges linearly from 1.1 in 2022 to 1.0 in 2070. 
+According to this model, the 2024 projections indicate a public spending on healthcare potential average increase of 
+0.5 percentage points of GDP across the 27 EU countries by 2070 (Figure 8.17). These projections encompass expected 
+increases of 1.6 percentage points in the Slovak Republic, 1.5 percentage points in Ireland and 1.2 percentage points in Spain 
+and Luxembourg. Projected increases are more modest for Germany (0.1 percentage points), Italy (0.1 percentage points), and 
+Bulgaria (0.2 percentage points). Latvia is projected to experience a slight 0.2 percentage point decline in the proportion of GDP 
+absorbed by public healthcare spending during the same period, from 6.0% to 5.8%. 
+Spending on long-term care is another aspect of public spending that is becoming increasingly crucial with population ageing. 
+Following the same baseline scenario, public long-term care expenditure is projected to increase its share of GDP by an average 
+of 0.9 percentage points across the 27 EU countries by 2070 (Figure 8.18), rising from 1.7% to 2.6%. The projected increase is 
+expected to be highest in Denmark (3.3 percentage points), with comparatively small changes in Italy and Germany 
+(0.5 percentage points). Some countries with relatively low public expenditure on long-term care in absolute terms are projected 
+to experience modest increases in such spending. Nevertheless, these increments represent significant proportional increases 
+relative to their current expenditure levels as a share of GDP. For example, Romania’s public spending on long-term care as a 
+share of GDP is projected to increase by 0.4 percentage points, which represents more than a doubling from its 2022 level of 
+long-term care spending as a share of GDP (0.3% in 2022). 
+While these projections assume the alignment of budgetary policies with future financial challenges and ensure fiscal 
+sustainability, it can be difficult to mobilise adequate funds to do so in the current economic context – even to maintain historical 
+trends in health spending. Competing priorities on government and household finances are examples of external factors that 
+reduce the ability of countries to inject further economic support into health and long-term care systems. However, investments in 
+health system resilience can eventually lead to savings down the line that offset long-term health expenditure trends (OECD, 
+2024[2]). 
+Definition and comparability 
+The healthcare and long-term care (health) expenditure projections are based on data, methodology, and assumptions detailed 
+in the 2023 report jointly prepared by the European Commission’s Directorate-General for Economic and Financial Affairs (DG 
+ECFIN) and the Economic Policy Committee’s Ageing Working Group. The baseline scenario is used when calculating the 
+overall budgetary impact of ageing. The EU averages are weighted according to GDP. 
+ 
+References 
+ 
+European Commission (2024), 2024 ageing report – Economic & budgetary projections for the EU Member States 
+(2022-2070), Publications Office of the European Union, https://data.europa.eu/doi/10.2765/022983. 
+[1] 
+OECD (2024), Fiscal Sustainability of Health Systems: How to Finance More Resilient Health Systems When Money Is 
+Tight?, OECD Publishing, Paris, https://doi.org/10.1787/880f3195-en. 
+[2] 
+  
+
+
+## Stran PDF 227
+
+   225 
+ 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Figure 8.17. Public spending on healthcare as a percentage of GDP, 2022-70 – baseline scenario 
+ 
+Notes: The EU total is weighted by GDP. Latvia is projected to decrease public spending on healthcare by 0.3%. 
+Source: European Commission and EPC-AWG (2024). 
+StatLink 2 https://stat.link/0m2hgy 
+Figure 8.18. Public spending on long-term care as a percentage of GDP, 2022-70 – baseline scenario 
+ 
+Note: The EU average is weighted by GDP. 
+Source: European Commission and EPC-AWG (2024). 
+StatLink 2 https://stat.link/01bq87
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+% GDP
+2022
+Changes from 2022 to 2070
+0
+1
+2
+3
+4
+5
+6
+7
+8
+% GDP
+2022
+Change from 2022 to 2070
+
+
+## Stran PDF 228
+
+
+
+## Stran PDF 229
+
+   227 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Annex A. Statistical annex 
+
+
+## Stran PDF 230
+
+228    
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Table A A.1. Total population on 1 January, 1960 to 2023 
+  
+1960 
+1970 
+1980 
+1990 
+2000 
+2010 
+2015 
+2020 
+2023 
+Austria 
+7 030 
+7 455 
+7 546 
+7 645 
+8 002 
+8 352 
+8 585 
+8 901 
+9 105 
+Belgium 
+9 129 
+9 660 
+9 855 
+9 948 
+10 239 
+10 840 
+11 237 
+11 522 
+11 743 
+Bulgaria 
+7 829 
+8 464 
+8 846 
+8 767 
+8 191 
+7 422 
+7 030 
+6 569 
+6 448 
+Croatia 
+4 127 
+4 403 
+4 598 
+4 773 
+4 498 
+4 303 
+4 181 
+3 934 
+3 851 
+Cyprus 
+ 572 
+ 612 
+ 506 
+ 573 
+ 690 
+ 819 
+ 847 
+ 888 
+ 921 
+Czechia 
+9 638 
+9 906 
+10 316 
+10 362 
+10 278 
+10 462 
+10 538 
+10 694 
+10 828 
+Denmark 
+4 565 
+4 907 
+5 122 
+5 135 
+5 330 
+5 535 
+5 660 
+5 823 
+5 933 
+Estonia 
+1 206 
+1 352 
+1 472 
+1 571 
+1 401 
+1 333 
+1 315 
+1 329 
+1 366 
+Finland 
+4 413 
+4 614 
+4 771 
+4 974 
+5 171 
+5 351 
+5 472 
+5 525 
+5 564 
+France 
+45 465 
+50 528 
+53 731 
+56 577 
+60 545 
+64 659 
+66 458 
+67 474 
+68 173 
+Germany 
+55 257 
+61 195 
+61 439 
+62 679 
+82 163 
+81 802 
+81 198 
+83 167 
+84 359 
+Greece 
+8 300 
+8 781 
+9 584 
+10 121 
+10 776 
+11 119 
+10 858 
+10 719 
+10 414 
+Hungary 
+9 961 
+10 322 
+10 709 
+10 375 
+10 222 
+10 014 
+9 856 
+9 770 
+9 600 
+Ireland 
+2 836 
+2 943 
+3 393 
+3 507 
+3 778 
+4 549 
+4 678 
+4 964 
+5 271 
+Italy 
+50 026 
+53 685 
+56 388 
+56 694 
+56 924 
+59 690 
+60 295 
+59 641 
+58 997 
+Latvia 
+2 104 
+2 352 
+2 509 
+2 668 
+2 382 
+2 121 
+1 986 
+1 908 
+1 883 
+Lithuania 
+2 756 
+3 119 
+3 404 
+3 694 
+3 512 
+3 142 
+2 948 
+2 812 
+2 857 
+Luxembourg 
+ 313 
+ 339 
+ 363 
+ 379 
+ 434 
+ 502 
+ 563 
+ 626 
+ 661 
+Malta 
+ 327 
+ 303 
+ 315 
+ 352 
+ 389 
+ 414 
+ 440 
+ 515 
+ 542 
+Netherlands 
+11 417 
+12 958 
+14 091 
+14 893 
+15 864 
+16 575 
+16 901 
+17 408 
+17 811 
+Poland 
+29 480 
+32 671 
+35 413 
+38 038 
+38 263 
+38 023 
+38 006 
+37 958 
+36 754 
+Portugal 
+8 826 
+8 698 
+9 714 
+9 996 
+10 249 
+10 573 
+10 375 
+10 296 
+10 517 
+Romania 
+18 319 
+20 140 
+22 133 
+23 211 
+22 455 
+20 295 
+19 871 
+19 329 
+19 055 
+Slovak Republic 
+3 970 
+4 537 
+4 963 
+5 288 
+5 399 
+5 390 
+5 421 
+5 458 
+5 429 
+Slovenia 
+1 581 
+1 718 
+1 893 
+1 996 
+1 988 
+2 047 
+2 063 
+2 096 
+2 117 
+Spain 
+30 327 
+33 588 
+37 347 
+38 853 
+40 470 
+46 487 
+46 450 
+47 333 
+48 085 
+Sweden 
+7 471 
+8 004 
+8 303 
+8 527 
+8 861 
+9 341 
+9 747 
+10 328 
+10 522 
+EU27 (total) 
+354 532 
+384 327 
+405 467 
+418 031 
+428 474 
+440 660 
+443 667 
+447 320 
+448 754 
+Albania 
+1 584 
+2 111 
+2 645 
+3 287 
+3 058 
+2 919 
+2 886 
+2 846 
+2 762 
+Iceland 
+ 174 
+ 204 
+ 227 
+ 254 
+ 279 
+ 318 
+ 329 
+ 364 
+ 388 
+Moldova 
+.. 
+.. 
+.. 
+.. 
+3 644 
+3 564 
+3 555 
+2 685 
+2 513 
+Montenegro 
+.. 
+.. 
+.. 
+.. 
+ 603 
+ 619 
+ 622 
+ 622 
+ 617 
+North Macedonia 
+1 384 
+1 617 
+1 878 
+1 873 
+2 022 
+2 053 
+2 069 
+2 076 
+1 830 
+Norway 
+3 568 
+3 863 
+4 079 
+4 233 
+4 478 
+4 858 
+5 166 
+5 368 
+5 489 
+Serbia 
+.. 
+.. 
+.. 
+.. 
+7 528 
+7 307 
+7 114 
+6 927 
+6 641 
+Switzerland 
+5 296 
+6 169 
+6 304 
+6 674 
+7 164 
+7 786 
+8 238 
+8 606 
+8 815 
+Türkiye 
+27 120 
+34 881 
+44 021 
+55 495 
+66 889 
+72 561 
+77 696 
+83 155 
+85 280 
+Ukraine 
+.. 
+.. 
+.. 
+.. 
+49 115 
+45 783 
+42 760 
+41 733 
+.. 
+United Kingdom 
+52 200 
+55 546 
+56 285 
+57 157 
+58 785 
+62 510 
+64 853 
+67 026 
+.. 
+Note: Data for 2023 are provisional and subject to revisions. Population figures for Germany prior to 1991 refer to West Germany. 
+Source: Eurostat (demo_pjan). Data extracted in July 2024. 
+StatLink 2 https://stat.link/khdfcl 
+
+
+## Stran PDF 231
+
+   229 
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Table A A.2. Share of the population aged 65 and over, 1 January, 1960 to 2023 
+  
+1960 
+1970 
+1980 
+1990 
+2000 
+2010 
+2015 
+2020 
+2023 
+Austria 
+12.1 
+14.0 
+15.5 
+14.9 
+15.4 
+17.6 
+18.5 
+19.0 
+19.6 
+Belgium 
+12.0 
+13.3 
+14.3 
+14.8 
+16.8 
+17.2 
+18.1 
+19.1 
+19.7 
+Bulgaria 
+7.4 
+9.4 
+11.8 
+13.0 
+16.2 
+18.2 
+20.5 
+22.9 
+23.5 
+Croatia 
+.. 
+.. 
+.. 
+.. 
+.. 
+17.8 
+19.0 
+21.6 
+22.7 
+Cyprus 
+.. 
+.. 
+.. 
+10.8 
+11.2 
+12.5 
+14.6 
+16.3 
+16.6 
+Czechia 
+9.5 
+11.9 
+13.6 
+12.5 
+13.8 
+15.3 
+17.8 
+19.9 
+20.4 
+Denmark 
+10.5 
+12.2 
+14.3 
+15.6 
+14.8 
+16.3 
+18.6 
+19.9 
+20.5 
+Estonia 
+10.5 
+11.7 
+12.5 
+11.6 
+14.9 
+17.4 
+18.8 
+20.0 
+20.2 
+Finland 
+7.2 
+9.0 
+11.9 
+13.3 
+14.8 
+17.0 
+19.9 
+22.3 
+23.3 
+France 
+11.6 
+12.8 
+14.0 
+13.9 
+15.8 
+16.6 
+18.4 
+20.4 
+21.2 
+Germany 
+10.8 
+13.0 
+15.6 
+15.3 
+16.2 
+20.7 
+21.0 
+21.8 
+22.1 
+Greece 
+9.4 
+11.1 
+13.1 
+13.7 
+17.3 
+19.0 
+20.9 
+22.3 
+23.0 
+Hungary 
+8.9 
+11.5 
+13.5 
+13.2 
+15.0 
+16.6 
+17.8 
+19.8 
+20.5 
+Ireland 
+11.1 
+11.1 
+10.7 
+11.4 
+11.2 
+11.2 
+12.9 
+14.4 
+15.2 
+Italy 
+9.3 
+10.8 
+13.1 
+14.7 
+18.1 
+20.4 
+21.9 
+23.2 
+24.0 
+Latvia 
+.. 
+11.9 
+13.0 
+11.8 
+14.8 
+18.1 
+19.4 
+20.5 
+21.0 
+Lithuania 
+.. 
+10.0 
+11.3 
+10.8 
+13.7 
+17.3 
+18.6 
+19.6 
+20.0 
+Luxembourg 
+10.8 
+12.5 
+13.7 
+13.4 
+14.3 
+14.0 
+14.2 
+14.5 
+14.9 
+Malta 
+.. 
+.. 
+8.4 
+10.4 
+11.8 
+14.9 
+18.0 
+18.1 
+18.6 
+Netherlands 
+8.9 
+10.1 
+11.5 
+12.8 
+13.6 
+15.3 
+17.8 
+19.5 
+20.2 
+Poland 
+5.8 
+8.2 
+10.2 
+10.0 
+12.1 
+13.6 
+15.4 
+18.2 
+19.9 
+Portugal 
+7.8 
+9.2 
+11.2 
+13.2 
+16.0 
+18.3 
+20.4 
+22.7 
+23.9 
+Romania 
+.. 
+8.5 
+10.3 
+10.3 
+13.2 
+16.1 
+17.0 
+18.9 
+19.7 
+Slovak Republic 
+6.8 
+9.1 
+10.6 
+10.3 
+11.4 
+12.4 
+14.0 
+16.6 
+17.9 
+Slovenia 
+.. 
+.. 
+.. 
+10.6 
+13.9 
+16.5 
+17.9 
+20.2 
+21.4 
+Spain 
+8.2 
+9.5 
+11.1 
+13.4 
+16.5 
+16.8 
+18.4 
+19.5 
+20.1 
+Sweden 
+11.7 
+13.6 
+16.2 
+17.8 
+17.3 
+18.1 
+19.6 
+20.0 
+20.4 
+EU27 (total) 
+.. 
+.. 
+.. 
+.. 
+16.0 
+17.6 
+19.1 
+20.6 
+21.3 
+Albania 
+.. 
+.. 
+.. 
+.. 
+.. 
+10.7 
+12.4 
+14.8 
+16.5 
+Iceland 
+8.0 
+8.8 
+9.8 
+10.6 
+11.6 
+12.0 
+13.5 
+14.4 
+15.0 
+Moldova 
+.. 
+.. 
+.. 
+.. 
+.. 
+10.1 
+10.3 
+13.8 
+16.1 
+Montenegro 
+.. 
+.. 
+.. 
+.. 
+12.2 
+12.9 
+13.7 
+15.6 
+16.4 
+North Macedonia 
+.. 
+.. 
+.. 
+.. 
+9.8 
+11.6 
+12.7 
+14.5 
+17.7 
+Norway 
+10.9 
+12.8 
+14.7 
+16.3 
+15.3 
+14.9 
+16.1 
+17.5 
+18.4 
+Serbia 
+.. 
+.. 
+.. 
+.. 
+16.0 
+17.0 
+18.5 
+21.0 
+22.1 
+Switzerland 
+10.2 
+11.2 
+13.8 
+14.6 
+15.3 
+16.8 
+17.8 
+18.7 
+19.2 
+Türkiye 
+3.5 
+4.4 
+4.7 
+4.3 
+5.4 
+7.0 
+8.0 
+9.1 
+9.9 
+Ukraine 
+.. 
+.. 
+.. 
+.. 
+.. 
+15.7 
+15.6 
+17.1 
+17.4 
+United Kingdom 
+11.7 
+12.8 
+15.0 
+15.7 
+15.8 
+16.4 
+17.8 
+18.6 
+18.8 
+Note: Population figures for Germany prior to 1991 refer to West Germany. The EU average for the year 2000 refers to 2001 data. 
+Source: Eurostat (demo_pjanbroad). Data extracted in October 2024. 
+StatLink 2 https://stat.link/rg1uy0 
+
+
+## Stran PDF 232
+
+230    
+HEALTH AT A GLANCE: EUROPE 2024 © OECD/EUROPEAN UNION 2024 
+  
+Table A A.3 Total fertility rate, number of children per women aged 15-49, 1960 to 2022, or nearest year 
+  
+1960 
+1970 
+1980 
+1990 
+2000 
+2010 
+2015 
+2020 
+2022 
+Austria 
+2.69 
+2.29 
+1.65 
+1.46 
+1.36 
+1.44 
+1.49 
+1.44 
+1.41 
+Belgium 
+2.54 
+2.25 
+1.68 
+1.62 
+1.67 
+1.86 
+1.7 
+1.55 
+1.53 
+Bulgaria 
+2.31 
+2.17 
+2.05 
+1.82 
+1.26 
+1.57 
+1.53 
+1.56 
+1.65 
+Croatia 
+1.46 
+1.55 
+1.4 
+1.48 
+1.53 
+Cyprus 
+2.41 
+1.64 
+1.44 
+1.32 
+1.36 
+1.37 
+Czechia 
+2.09 
+1.92 
+2.08 
+1.9 
+1.15 
+1.51 
+1.57 
+1.74 
+1.64 
+Denmark 
+2.57 
+1.95 
+1.55 
+1.67 
+1.77 
+1.87 
+1.71 
+1.68 
+1.55 
+Estonia 
+1.98 
+2.17 
+2.02 
+2.05 
+1.36 
+1.72 
+1.58 
+1.58 
+1.41 
+Finland 
+2.72 
+1.83 
+1.63 
+1.78 
+1.73 
+1.87 
+1.65 
+1.37 
+1.32 
+France 
+2.73 
+2.47 
+1.95 
+1.78 
+1.89 
+2.03 
+1.96 
+1.83 
+1.79 
+Germany 
+1.38 
+1.39 
+1.5 
+1.53 
+1.46 
+Greece 
+2.23 
+2.4 
+2.23 
+1.39 
+1.25 
+1.48 
+1.33 
+1.39 
+1.32 
+Hungary 
+2.02 
+1.98 
+1.91 
+1.87 
+1.32 
+1.25 
+1.45 
+1.59 
+1.56 
+Ireland 
+3.78 
+3.85 
+3.21 
+2.11 
+1.89 
+2.05 
+1.85 
+1.63 
+1.54 
+Italy 
+2.4 
+2.38 
+1.64 
+1.33 
+1.26 
+1.44 
+1.36 
+1.24 
+1.24 
+Latvia 
+1.25 
+1.36 
+1.7 
+1.55 
+1.47 
+Lithuania 
+2.4 
+1.99 
+2.03 
+1.39 
+1.5 
+1.7 
+1.48 
+1.27 
+Luxembourg 
+2.29 
+1.97 
+1.5 
+1.6 
+1.76 
+1.63 
+1.47 
+1.36 
+1.31 
+Malta 
+1.99 
+2.02 
+1.68 
+1.36 
+1.37 
+1.13 
+1.08 
+Netherlands 
+3.12 
+2.57 
+1.6 
+1.62 
+1.72 
+1.79 
+1.66 
+1.54 
+1.49 
+Poland 
+2.06 
+1.37 
+1.41 
+1.32 
+1.39 
+1.29 
+Portugal 
+3.16 
+3.01 
+2.25 
+1.56 
+1.55 
+1.39 
+1.31 
+1.41 
+1.43 
+Romania 
+2.43 
+1.83 
+1.31 
+1.59 
+1.62 
+1.8 
+1.71 
+Slovak Republic 
+3.04 
+2.41 
+2.32 
+2.09 
+1.3 
+1.43 
+1.4 
+1.59 
+1.57 
+Slovenia 
+ 
+ 
+ 
+1.46 
+1.26 
+1.57 
+1.57 
+1.59 
+1.55 
+Spain 
+2.22 
+1.36 
+1.22 
+1.37 
+1.33 
+1.19 
+1.16 
+Sweden 
+1.92 
+1.68 
+2.13 
+1.54 
+1.98 
+1.85 
+1.67 
+1.53 
+EU27 (total) 
+1.43 
+1.57 
+1.54 
+1.51 
+1.46 
+Albania 
+1.63 
+1.59 
+1.34 
+1.21 
+Iceland 
+2.81 
+2.48 
+2.3 
+2.08 
+2.2 
+1.8 
+1.72 
+1.59 
+Moldova 
+1.3 
+Montenegro 
+1.7 
+1.74 
+1.75 
+1.78 
+North Macedonia 
+1.88 
+1.56 
+1.5 
+1.31 
+1.58 
+Norway 
+2.5 
+1.72 
+1.93 
+1.85 
+1.95 
+1.72 
+1.48 
+1.41 
+Serbia 
+1.48 
+1.4 
+1.46 
+1.48 
+1.59 
+Switzerland 
+2.44 
+2.1 
+1.55 
+1.58 
+1.5 
+1.52 
+1.54 
+1.46 
+1.39 
+Türkiye 
+2.04 
+2.14 
+1.88 
+1.63 
+Ukraine 
+1.43 
+1.36 
+United Kingdom 
+  
+  
+1.9 
+1.83 
+1.64 
+1.92 
+1.81 
+1.56 
+  
+Source: Eurostat (demo_find). Data extracted in July 2024; data for the United Kingdom is taken from OECD Statistics. 
+StatLink 2 https://stat.link/n1o3a9
+ 
+
+
+## Stran PDF 233
+
+Health at a Glance: Europe 2024
+STATE OF HEALTH IN THE EU CYCLE
+The 2024 edition of Health at a Glance: Europe examines the major challenges facing European health systems 
+in the aftermath of the COVID‑19 pandemic. The report includes two thematic chapters. The first chapter 
+provides a comprehensive examination of health workforce shortages in Europe, a long‑standing problem 
+exacerbated by the immense strain the pandemic placed on health systems. It explores the factors behind 
+these shortages and proposes policy strategies to attract, train and retain the workforce needed to build 
+resilient health systems. The second chapter reviews the most recent trends in the health of Europe’s ageing 
+population. With life expectancy continuing to rise and the share of the population over 65 growing steadily, 
+the chapter discusses priorities to promote healthy longevity to reduce demands on health and long‑term 
+care systems. The remaining chapters provide a comparative overview of the latest data on health status, risk 
+factors and health system performance across the 27 EU member states, 9 EU candidate countries, 3 European 
+Free Trade Association countries and the United Kingdom. Health at a Glance: Europe 2024 is the first step 
+in the State of Health in the EU cycle.
+PRINT ISBN 978-92-64-80445-6
+PDF ISBN 978-92-64-58300-9
+9HSTCQE*iaeefg+

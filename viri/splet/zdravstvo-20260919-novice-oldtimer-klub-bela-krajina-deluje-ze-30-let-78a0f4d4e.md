@@ -1,0 +1,52 @@
+---
+url: "https://www.radio-odeon.com/novice/oldtimer-klub-bela-krajina-deluje-ze-30-let/"
+naslov: "Oldtimer klub Bela krajina deluje že 30 let"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2025-02-05T14:00:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Oldtimer klub Bela krajina deluje že 30 let
+
+## Zajeto besedilo
+
+Oldtimer klub Bela krajina deluje že 30 let
+sre., 05.02.2025 ob 14:00
+V soboto, 1. februarja, smo se zbrali in obeležili izjemen mejnik v zgodovini našega kluba – 30 let delovanja, predanosti, strasti in ljubezni do starodobnih vozil. Ta trenutek ni bil le čas, da smo se ozrli nazaj in obudili spomine na vse, kar smo skupaj dosegli, ampak tudi priložnost, da se zavedamo, koliko bomo še lahko ustvarili in kaj bomo še prispevali k ohranjanju teh dragocenih kosov zgodovine.
+Ko so leta 1995 ustanovili Oldtimer klub Bela krajina, si morda ustanovitelji niso povsem predstavljali, kako dolgo bomo vztrajali in kako bogata bo naša skupnost. Danes pa lahko s ponosom rečemo, da smo postali pomemben del te lepe pokrajine, hkrati pa tudi dragocen del slovenske starodobne skupnosti saj je trenutno v klub včlanjenih
+222
+članov. S svojo strastjo do starodobnih vozil, raziskovanjem zgodovine in ohranjanjem teh znamenitih avtomobilov in motorjev smo se povezali s podobnimi klubi doma in tudi izven meja Slovenije.
+V teh tridesetih letih smo se srečali z različnimi izzivi, a kljub temu vztrajali. Vsak nov projekt, vsaka nova razstava, vsaka vožnja in vsak dogodek je bil priložnost za rast, za krepitev prijateljskih vezi in za širjenje ljubezni do starodobnih vozil.
+Ponosni smo na vsakega posameznika, ki je del naše skupnosti, saj brez truda, znanja, izkušenj in predanosti ta pot ne bi bila mogoča. Zato se iskreno zahvaljujemo vsem, ki ste pripomogli k temu, da je Oldtimer klub Bela krajina to, kar je danes.
+Ob tem prazničnem dnevu pa ni treba pozabiti na našo prihodnost. Zavedamo se, da so pred nami še številni izzivi, vendar smo prepričani, da bomo s takšnim izjemnim moštvom, s strastjo, predanostjo in spoštovanjem do tradicije, še naprej uspešno ohranjali in širili kulturo starodobnih vozil.
+V prihodnosti nas čakajo nove poti, nova spoznanja in nova prijateljstva. Ponosno bomo ohranjali te lepe avtomobile in motorje, jih skrbno obnavljali in delili svojo strast z novimi mlajšimi generacijami. Naša naloga je, da tudi prihodnjim generacijam omogočimo dostop do teh dragocenih zgodovinskih zakladov in jih učimo spoštovanja do zgodovine, kulture in dediščine.
+Oldtimer klub Bela krajina je ljubiteljski klub, ki se osredotoča na zbiranje, obnavljanje in ohranjanje starodobnih vozil. Klub deluje v Beli in Suhi krajini, na Dolenjskem se pravi v jugovzhodnem delu Slovenije, kjer smo člani strastni zbiratelji in restavratorji vozil, ki predstavljamo pomemben del zgodovine industrije.
+Klub je bil ustanovljen leta 1995, z namenom ohranjanja kulturne dediščine, povezane s starodobnimi vozili. Prva pobudnika za ustanovitev kluba sta bila Branko Križan, ki ima največ zaslug in Erik Doltar, oba iz Gradca. Tako je prišlo do prve ustanovne skupščine kluba v juniju prej omenjenega leta. Pred ustanovno skupščino pa je na pobudo pobudnikov gospoda Križana in gospoda Doltarja prišlo do prvega srečanja starodobnikov v Beli krajini.
+Ustanovni člani kluba so bili: Branko Križan, Erik Doltar, Alojz Malenšek, Leopold Bahor, Branko Jurejevčič, Jože Pezdirec, Martin Pezdirec, Stanko Janez Pezdirc, Vekoslav Vinko Čarman, Jakob Stariha, Vilko Ovniček, Sabina Ovniček, Anton Brinc, Toni Brinc, Stanko Pezdirec, Matjaž Dim, Julijan Kavšek, Anton Weiss in Ivan Kambič. Za prvega predsednika je bil imenovan g. Alojz Malenšek, za blagajnika g. Vekoslav Vinko Čarman in za tajnika g. Branko Križan.
+Do uradne registracije ni prišlo vse do leta 1997. In ker je zapisnik iz leta 1995 zastaral, so morali ponovno sklicati ustanovno skupščino in 13.06. 1997 potrdili, da je sprejet sklep o ustanovitvi društva Oldtimer klub Bela krajina. In prvi uradno izvoljeni predsednik je postal g. Ivan Kambič. Iz navedenega je razvidno, da je klub uradno dve leti starejši od dejanskega nastanka, zato tudi praznujemo obletnico, ki je iz leta 1995.
+Člani kluba smo ljubitelji teh avtomobilov, motorjev in drugih prevoznih sredstev, ki so v preteklosti zaznamovala tehnološki napredek in razvoj transporta. Poleg zbirateljskih in restavratorskih dejavnosti klub organizira različne dogodke kot so razstave, tekmovanja, reliji, izleti in druge dejavnosti, kjer si člani in obiskovalci lahko ogledamo obnovljena vozila in spoznamo zgodovino prevoznih sredstev.
+Cilji kluba
+vključujejo ohranjanje in obnovo starodobnih vozil, izobraževanje in širjenje znanja o zgodovini motornih vozil, ter spodbujanje druženja in povezovanja ljubiteljev starodobnih avtomobilov v Sloveniji in tujini. Poleg tega klub skrbi za povezovanje med različnimi klubi in ljubitelji starodobnih vozil ter aktivno sodeluje pri različnih prireditvah in tekmovanjih, ki so namenjena ljubiteljem teh vozil.
+Aktivnosti kluba
+vključujejo organizacijo različnih prireditev kot so:
+Oldtimer reliji
+so tekmovanja ali vožnje, ki vključujejo starodobna vozila, kjer člani pokažemo svoje avtomobile in motorje ter se preizkusimo v različnih spretnostnih nalogah. Največkrat smo se zbrali v Beli krajini, gostovali smo tudi v Žužemberku, Dolenjskih Toplicah, Prečni in v Šentjerneju.
+Razstave in sejmi
+so prireditve, kjer člani predstavimo svoja obnovljena vozila in delimo svoje izkušnje z drugimi ljubitelji. Zadnja tri leta se družimo v takoimenovanem S.K.O.K-u (starodobniški klepet ob kavi), ki ga izvedemo v začetku meseca aprila.
+Izleti in druženja
+: Člani kluba se pogosto udeležujemo izletov saj smo obiskali že tovarno Mercedes in njihov muzej, Alfa Romeo muzej v Aresseju v pokrajini Milano, Škoda na Češkem, Zastava v Kragujevcu, tovarno traktorjev Antonio Carraro, Muzej Ducattija in Ferrarija, Porschejev muzej, muzej VESP in BMW-jev prav tako v Beogradu, ki je v zasebni lasti, REVOZ in IMV-jev muzej v Novem mestu, Letalski muzej v Beogradu, Vojaški muzej v Pivki, muzej lokomotiv v Budimpešti, tovarna eksotičnih avtomobilov Paggani, Tehnični muzej v Zagrebu, v Krapini smo obiskali delavnico, ki je v lasti gospoda Presečkega in bili na sejmu starodobnikov v Salzburgu, Miljah in v Padovi. Vedno se držimo pravil, da morajo biti ekskurzije poučne, zabavne in da se vrnemo z novimi spoznanji domov.
+Imamo tudi druženje v obliki piknika, kjer si izmenjujemo izkušnje, in se posladkamo z jagenjčkom.
+Izobraževanje
+: V klubu imamo štiri tehnične komisarje, ki skrbijo o evidentiranju in ocenjevanju starodobnih vozil za izkaznico starodobnika, ki velja pet let. Komisarji se vsako leto udeležujejo izobraževanj, ki jih organizira Zveza SVS.
+Dobrodelnost
+: Na srečanjih smo tudi dobrodelni saj s prispevki pomagamo društvu Sožitje Bela krajina, prav tako smo na lanskoletnem srečanju imeli dobrodelno prireditev za Društvo Viljem Julijan - za pomoč otrokom z redkimi boleznimi, za 5-letno deklico Karolino, ki ima smrtonosno redko genetsko bolezen Cockayne sindrom – tip B. Zanjo smo zbirali sredstva za razvoj genskega zdravljenja, s katerim bi ji lahko rešili življenje in zbrali za 450 evrov prostovoljnih prispevkov.
+Ob 30. obletnici obstoja kluba so se v ospredje postavili dosežki, ki smo jih člani dosegli skozi leta, hkrati pa smo se zahvalili vsem, ki so prispevali k njegovemu uspehu. Klubi te vrste so pomembni, saj pomagajo ohranjati del zgodovine in kulture, ki bi sicer lahko izginila iz spomina prihodnjih generacij.
+Oldtimer klub Bela krajina tako predstavlja srce in dušo ljubiteljev starodobnih vozil v tem delu Slovenije, saj združuje ljudi različnih starosti, ozadij in interesov, ki jih povezuje strast do avtomobilskih klasikov.
+Hvala vsem, ki ste v preteklih letih dali svoj pečat temu klubu. Vaša prisotnost in podpora nas napolnjujeta z energijo in motivacijo za nadaljnje delo. Upamo, da bomo skupaj še naprej potovali po tej čudoviti poti, ki jo ponuja svet starodobnih vozil.
+Naj živi Oldtimer klub Bela krajina in naj bo njegov uspeh vir navdiha za vse nas!
+Hvala in čestitke ob 30. obletnici! Naj se vrti!
+
+## Strojni datumi
+{"time": ["2025-02-05T14:00:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Oldtimer klub Bela krajina deluje \\u017ee 30 let\",\"datePublished\":\"2025-02-05T14:00:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/00dsc_0910.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0820.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0865.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0813.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0817.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0868.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0897.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0915.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0830.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0917.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0788.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0776.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0790.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/98390\\/dsc_0773.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Franci Mravinec, predsednik Oldtimer kluba Bela krajina\"}}"]}

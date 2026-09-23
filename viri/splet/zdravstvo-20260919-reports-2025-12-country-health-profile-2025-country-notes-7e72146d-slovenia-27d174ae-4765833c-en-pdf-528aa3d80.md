@@ -1,0 +1,2894 @@
+---
+url: "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/country-health-profile-2025-country-notes_7e72146d/slovenia_27d174ae/4765833c-en.pdf"
+naslov: "Slovenia (EN)"
+izdajatelj: "OECD / European Observatory"
+dostopano: "2026-09-19"
+datum objave: "2025"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "primarni vir; izvirni dokument ali uradni povzetek"
+---
+
+# Slovenia (EN)
+
+## Zajeto besedilo
+
+## Stran PDF 1
+State of Health in the EU 
+Slovenia
+Country Health Profile 2025 
+
+
+## Stran PDF 2
+The Country Health Profiles series
+The State of Health in the EU’s Country Health Profiles provide a 
+concise and policy-­relevant overview of health and health systems 
+in the EU/European Economic Area. They emphasise the particular 
+characteristics and challenges in each country against a backdrop of 
+cross-­country comparisons. The aim is to support policy makers and 
+influencers with a means for mutual learning and knowledge transfer. 
+The 2025 edition of the Country Health Profiles includes a special 
+section dedicated to pharmaceutical policy.
+The profiles are the joint work of the OECD and the European 
+Observatory on Health Systems and Policies, in co-­operation with 
+the European Commission. The team is grateful for the valuable 
+comments and suggestions provided by the Observatory’s Health 
+Systems and Policy Monitor network, the OECD Health Committee 
+and the EU Expert Group on Health Systems Performance 
+Assessment (HSPA).
+Demographic and socioeconomic context in Slovenia, 2024
+Demographic factors
+Slovenia
+EU
+Population size
+2 123 949
+449 306 184
+Share of population over age 65
+22 %
+22 %
+Fertility rate 20231
+1.5
+1.4
+Socioeconomic factors
+ 
+GDP per capita (EUR PPP)2
+36 089
+39 675
+At risk of poverty or social exclusion rate3
+14.4 %
+20.9 %
+1.	 Number of children born per woman aged 15-­49.
+2.	 Purchasing power parity (PPP) is defined as the rate of currency conversion that equalises the purchasing power of different currencies by 
+eliminating the differences in price levels between countries.
+3.	 At risk of poverty or social exclusion (AROPE) is the percentage of people who are either at risk of poverty, severely materially and socially 
+deprived, or living in a household with very low work intensity.
+Source: Eurostat Database.
+Disclaimers: For the OECD, this work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and 
+arguments employed herein do not necessarily reflect the official views of the Member countries of the OECD. The views and opinions expressed 
+in European Observatory on Health Systems and Policies publications do not necessarily represent the official policy of the Participating 
+Organizations. 
+This work was produced with the financial assistance of the European Union. The views expressed herein can in no way be taken to reflect the 
+official opinion of the European Union. 
+The names and representation of countries and territories used in this joint publication follow the practice of the WHO. This document, as well 
+as any data and map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of international 
+frontiers and boundaries and to the name of any territory, city or area. Specific territorial disclaimers are applicable to the OECD and can be 
+found at the following link: https://www.oecd.org/en/about/terms-conditions/oecd-disclaimers.html. Additional disclaimers for WHO apply.
+© OECD and World Health Organization (acting as the host organisation for, and secretariat of, the European Observatory on Health Systems 
+and Policies) 2025
+Data and information sources
+The data and information in the Country Health Profiles are based 
+mainly on national official statistics provided to Eurostat and the 
+OECD, which were validated to ensure the highest standards of data 
+comparability. The sources and methods underlying these data are 
+available in the Eurostat Database and the OECD Health Database. 
+Some additional data also come from the Institute for Health Metrics 
+and Evaluation (IHME), the European Centre for Disease Prevention 
+and Control (ECDC), the Health Behaviour in School-­Aged Children 
+(HBSC) surveys, the Survey of Health, Ageing and Retirement in 
+Europe (SHARE), the European Cancer Information System (ECIS), 
+the World Health Organization (WHO), as well as other national 
+sources. 
+The calculated EU averages are weighted averages of the 27 Member 
+States unless otherwise noted. These EU averages do not include 
+Iceland and Norway.
+This profile was finalised in September 2025, based on data that were 
+accessible as of the first half of September 2025.
+Contents
+1 
+Highlights
+1
+2 Health in Slovenia
+2
+3 Risk factors
+4
+4 The health system
+6
+5 Performance of the health system
+8
+6 Spotlight on pharmaceuticals
+17
+7 
+Key findings
+20
+
+
+## Stran PDF 3
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  1
+ 1  Highlights
+Health Status
+Slovenia’s life expectancy at birth has been consistently above the EU average for 
+the past decade. Following the EU average trend, life expectancy at birth declined 
+during the COVID-­19 pandemic, but rebounded and reached a new all-­time high 
+of 82.3 years in 2024. The leading causes of death in 2023 were cardiovascular 
+diseases and cancer.
+Risk Factors
+Alcohol consumption among adults has remained fairly constant, and is close 
+to the EU average. Although Slovenians are more physically active than the EU 
+average, overweight and obesity are major public health concerns. Almost one 
+fifth of the adult population was obese in 2022. This risk factor, along with poor 
+diet, contributes to Slovenia’s high incidence rates for cardiovascular diseases.
+The Health System
+Health expenditure has increased steadily in Slovenia, reaching EUR 3 121 per capita 
+in 2023, but has consistently remained below the EU average. Public spending 
+accounted for 74 % of health spending, with out-­of-­pocket payments accounting for 
+12 % – below the EU average of 16 % – and voluntary health insurance accounting for 
+the remaining 14 %. This distribution is expected to change following the abolition, in 
+2024, of complementary voluntary health insurance that covered copayments.
+Health System Performance
+Effectiveness
+Despite lower health spending per 
+capita, most Slovenians reported positive 
+experiences in the OECD Patient-­
+Reported Indicator Survey – particularly for 
+experience of quality of care and person-­
+centred care, and trust in the primary care 
+system. National patient experience surveys 
+also highlight positive experiences with 
+healthcare services among the adult and 
+paediatric populations.
+Accessibility
+Slovenia reported relatively high unmet 
+medical needs in 2024, at 4.6 % of the 
+population who had a healthcare need, 
+compared to the EU average of 3.6 %. 
+However, the gap in reported unmet 
+needs between people at risk of poverty 
+and the rest of the population with 
+healthcare needs was smaller than the 
+EU average. Unmet medical needs were 
+mostly driven by long waiting times.
+Resilience
+Controlling antibiotic use and tackling 
+antimicrobial resistance supports health 
+system resilience. Slovenia has among the 
+lowest consumption rates of antibiotics in 
+the EU. Like most other EU Member States, 
+consumption gradually climbed after a 
+decline during the pandemic years. The 
+One Health Strategy aims to strengthen 
+antimicrobial resistance stewardship and 
+support achievement of the country’s 
+2030 antibiotic reduction targets.
+Spotlight: pharmaceuticals
+Pharmaceutical spending in Slovenia has increased steadily, especially in the retail sector. While expenditure on retail pharmaceuticals 
+decreased after the COVID-­19 pandemic in most EU countries, it increased steeply in Slovenia. Increased use of outpatient treatments 
+and longer treatment duration, combined with the increased consumption of innovative and expensive medicines in the hospital sector, 
+drove up expenditure on pharmaceuticals over the past decade. The new Slovenian Quality Health Care Agency aims to mitigate spending 
+surges and to promote value-­based innovations through active use of health technology assessments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+					
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+	
+
+
+			
+
+
+
+
+
+
+		
+       
+
+
+
+
+     
+
+
+
+	
+
+
+		
+
+
+
+
+
+
+
+
+	
+
+
+
+
+## Stran PDF 4
+2  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+2  Health in Slovenia
+Life expectancy in Slovenia has reached a new all-­
+time high
+Following a reduction caused by the COVID-­19 pandemic, life 
+expectancy at birth in Slovenia started to rebound in 2022. In 
+2024, it reached an all-­time high of 82.3 years, which is higher 
+than the EU average (Figure 1). As in other countries, women 
+in Slovenia tend to live longer lives than men, and the gender 
+gap in life expectancy (5.3 years) remained slightly higher 
+than the EU average (5.2 years).
+Figure 1. Slovenia’s life expectancy is higher than the EU average
+Notes: The EU average is weighted. Data for Ireland refer to 2023.
+Source: Eurostat (demo_mlexpec).
+Cardiovascular diseases and cancer were the two 
+leading causes of death in 2023
+In 2023, the leading causes of death in Slovenia were 
+cardiovascular diseases (CVDs) and cancer, which together 
+accounted for almost 70 % of all deaths (Figure 2). External 
+causes (including suicides, falls and other accidents) 
+also accounted for a large number of deaths, followed by 
+respiratory and digestive diseases. Following high rates of 
+COVID-­19 mortality in 2022, COVID-­19 accounted for only 
+3 % of all deaths in Slovenia in 2023.
+Most Slovenians report being in good health, but 
+large disparities exist by gender and income level
+In 2024, 66 % of Slovenians reported being in good or very 
+good health – a proportion slightly lower than the EU average 
+(68 %). As in other countries, Slovenian women were less 
+likely than men to report good health (63 % compared to 
+70 %). The gap was even more pronounced by income level: 
+only 47 % of women in the lowest income quintile reported 
+being in good health compared to 78 % of those in the 
+highest quintile (Figure 3). For both genders, these income 
+gaps are greater than the EU average gaps.
+Although healthy life expectancy at age 65 is high, 
+around one third of older people report chronic 
+conditions and disabilities
+As in most countries across the EU, the share of the Slovenian 
+population aged 65 and over has increased over the past two 
+decades, from 14 % in 2000 to 22 % in 2024, and is projected 
+to reach 31 % by 2050.
+In 2022, life expectancy for men and women aged 65 was 
+comparable to the EU average, with Slovenian men’s life 
+expectancy (17.8 years) lower than women’s (21.5 years) 
+(Figure 4). The number of healthy life years for men and 
+women at age 65 in Slovenia was slightly higher than the EU 
+average. This is linked to the smaller share of Slovenians over 
+that age who report multiple chronic conditions or limitations 
+in daily activities. Nonetheless, according to data from the 
+SHARE survey, over a third of Slovenian men and women 
+aged over 65 report having multiple chronic conditions, and 
+nearly one third of Slovenian women aged over 65 report 
+limitations in daily activities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+	
+
+
+
+
+
+
+ 
+­
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+	
+
+	
+
+­
+
+­
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+## Stran PDF 5
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  3
+Slovenia
+An estimated 28 000 new cases of cardiovascular 
+disease were diagnosed in 2021
+CVDs are not only one of the leading causes of death in 
+Slovenia but also among the leading causes of morbidity 
+and disability, mirroring patterns observed across the EU. 
+According to estimates from the Institute for Health Metrics 
+and Evaluation (IHME), approximately 28 000 new cases 
+of CVDs were diagnosed in Slovenia, and 290 000 people 
+were living with a CVD in 2021, which represents about 13 % 
+of the Slovenian population (Figure 5). This corresponds 
+to an age-­standardised incidence rate of 1 240 cases per 
+100 000 population – about 7 % higher than the EU average, 
+while the prevalence rate is identical to the EU average. CVDs 
+also accounted for 11 % of all hospital admissions in 2022.
+Ischaemic heart disease (also known as coronary artery 
+disease) was the most frequent CVD, with an estimated 
+12 000 new cases each year, representing almost half of all 
+CVDs. Launched in 2001, Slovenia’s National Programme 
+for Primary Prevention of Cardiovascular Disease began 
+with a screening initiative to identify CVD risk factors, and 
+has since evolved into an integrated approach to managing 
+chronic conditions, offering structured care, lifestyle 
+counselling and health promotion workshops within primary 
+healthcare facilities.
+In 2020, an estimated 99 000 people in Slovenia 
+were living with cancer
+According to the European Cancer Information System 
+(ECIS), almost 14 000 new cases of cancer were estimated 
+to have been diagnosed in 2022 in Slovenia, and around 
+99 000 people were estimated to be living with cancer in 
+2020 (Figure 6). Compared to the EU averages, the age-­
+standardised incidence rate of cancer in 2022 in Slovenia 
+was 6 % higher and the 2020 prevalence rate was 5 % lower. 
+This pattern suggests less favourable cancer survival in 
+Slovenia – probably reflecting higher mortality after diagnosis. 
+In 2022, the cancer incidence rate was estimated to be 18 % 
+higher among men than among women – a gender gap 
+slightly smaller than the EU average gap of 20 %. The most 
+commonly newly diagnosed cancers in 2022 among men 
+were prostate, lung and colorectal cancer; among women 
+they were breast, lung and colorectal cancer.
+Figure 2. Cardiovascular diseases and cancer accounted for over two thirds of all deaths in 2023
+Note: IHD = ischaemic heart disease; COPD = chronic obstructive pulmonary disease.
+Source: Eurostat (hlth_cd_aro); data refer to 2023.
+
+
+
+
+
+
+	
+
+
+
+		
+
+	 	
+
+­
+	
+
+
+
+
+ 	
+	
+
+
+
+	
+
+	
+
+
+	
+
+		
+­
+	
+
+
+
+	
+­
+	
+
+	
+
+	
+­
+	
+		
+
+	
+
+
+Figure 3. Inequalities in self-­reported health are 
+large across gender and income groups
+Note: Low income refers to adults in the bottom 20 % (lowest quintile) of 
+the national equivalised disposable income distribution, while high income 
+refers to adults in the top 20 % (highest quintile).
+Source: Eurostat based on EU-­SILC (hlth_silc_10); data refer to 2024.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+ 
+
+
+## Stran PDF 6
+4  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+Figure 4. Healthy life expectancy at age 65 is higher in Slovenia than the EU average
+Sources: Eurostat for healthy life years (tespm120, tespm130) and SHARE survey (for chronic conditions and limitations in daily activities); data refer to 
+2022 and 2021‑22, respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+
+Figure 5. About 13 % of people in Slovenia live with a cardiovascular disease
+Source: IHME, Global Health Data Exchange; estimates refer to 2021.
+
+
+
+		
+
+
+
+		
+
+		
+
+
+Figure 6. Slovenia has higher incidence but lower prevalence of cancer than the EU averages
+Notes: These are estimates that may differ from national data. Cancer incidence includes all cancer sites except non-­melanoma skin cancer.
+Source: European Cancer Information System; estimates refer to 2022 for incidence and 2020 for prevalence.
+
+
+
+
+			
+
+
+
+
+
+
+			
+
+3  Risk factors
+Behavioural and environmental risk factors account 
+for over one third of all deaths
+According to estimates from IHME, about 5 700 deaths in 
+Slovenia in 2021 can be attributed to behavioural risk factors, 
+such as tobacco smoking, dietary risks, alcohol consumption 
+and low physical activity. Another 900 deaths can be 
+attributed to air pollution in the form of fine particulate matter 
+(PM2.5) and ozone exposure alone, mainly related to CVDs, 
+
+
+## Stran PDF 7
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  5
+Slovenia
+respiratory diseases and some types of cancer. Together, 
+these behavioural and environmental risk factors accounted 
+for 29 % of all deaths in Slovenia in 2021, which was similar to 
+the EU average.
+Overweight and obesity rates in Slovenia are higher 
+than the EU average
+In 2022, 18 % of Slovenian adults were obese – above the EU 
+average of 15 % – with higher rates among men (22 %) than 
+women (14 %). Among 15-­year-­olds, overweight and obesity 
+rates have remained above the EU average for two decades, 
+rising from 13 % in 2002 to 25 % in 2022. Poor diet and 
+insufficient physical activity are key contributors. Only 44 % of 
+Slovenian adults reported low physical activity levels (exercising 
+fewer than three times per week), which was well below the 
+EU average of 69 %. In parallel, 17 % of 15-­year-­olds reported 
+moderate daily activity – slightly above the EU average of 15 %. 
+Daily fruit and vegetable consumption among adults was 
+relatively high in 2022 (69 % for fruit, 70 % for vegetables), 
+exceeding the EU averages. However, among 15-­year-­olds, 
+daily consumption was only 29 % for fruit and 32 % for 
+vegetables – similar to levels across the EU (see Figure 7). 
+Slovenia’s National Nutrition and Physical Activity Strategy 
+2015-­25 remains in progress, with the Ministry of Health 
+leading its evaluation. A new multisectoral strategy is being 
+developed to build on this work, expanding its focus to 
+include sleep behaviours as part of a broader healthy 
+lifestyle approach.
+Figure 7. Overweight and obesity are important public health issues, particularly among adolescents
+Notes: The closer the dot is to the centre, the better the country performs compared to other EU countries. No country is in the white “target area” as there 
+is room for progress in all countries in all areas.
+Sources: OECD calculations based on HBSC survey 2022 for adolescents indicators; Eurostat based on EU-­SILC 2022 and OECD Data Explorer for adult 
+indicators (2022 or nearest available year).
+Stagnant daily smoking rates among women have 
+slowed overall reductions in adult smoking
+Daily smoking among Slovenian adults declined from 19 % in 
+2014 to 17 % in 2019, remaining below the EU average (19 %). 
+However, progress has been uneven: while smoking rates 
+among men fell to 19 % (below the EU average of 23 %), rates 
+among women stagnated at 16 %, exceeding the EU average 
+of 14 % in 2019. Among adolescents, smoking dropped from 
+22 % in 2014 to 14 % in 2022, which is also below the EU 
+average (17 %). However, e-­cigarette use is rising: 19 % of 
+15-­year-­olds reported using them in the past month in 2022, 
+just under the EU average of 21 %. Nicotine-containing and 
+nicotine-free e-cigarettes, heated tobacco products, herbal 
+products for smoking and nicotine pouches are regulated 
+similarly to traditional tobacco products under Slovenia’s 
+Restriction on the Use of Tobacco and Related Products Act.
+Alcohol consumption among adults has remained stable at 
+around 10 litres per capita annually, which is close to the EU 
+average (9.8 litres). Among adolescents, 23 % of 15-­year-­olds 
+reported having been drunk at least twice in their lives in 
+2022, aligning with the EU average (see Section 5.1).
+Unlike other health risks, smoking is not more 
+common among those with lower education levels
+As in most countries, people with lower education levels in 
+Slovenia are more likely to be obese and physically inactive 
+than those with higher education levels. This is particularly 
+striking for obesity, where the rate was more than twice as 
+high among adults with lower (26 %) than higher (11 %) 
+education levels (Figure 8). However, smoking rates show little 
+difference by education level. In 2019, only slightly more adults 
+with higher education levels (17 %) reported daily smoking 
+than those with lower education levels (16 %) – a pattern that 
+is unusual in the EU.
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+	
+
+
+## Stran PDF 8
+6  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+4  The health system
+Slovenia’s social health insurance system delivers 
+care through a mix of public and privately 
+contracted providers
+Slovenia’s health system operates under statutory, 
+employment-­based, social health insurance, and offers 
+universal health coverage. Complementary voluntary health 
+insurance (VHI) was historically a key feature of the health 
+system used by most of the population who were liable for 
+copayments. However, this was abolished in 2024, along 
+with copayments, and replaced by a fixed compulsory 
+contribution, which is paid in addition to social health 
+insurance contributions (see Section 5.2). Supplementary VHI 
+remains available to cover additional specialist care or access 
+to private providers.
+The health system is relatively centralised, with the Health 
+Insurance Institute serving as the single purchaser. Primary 
+healthcare delivery is driven by municipal, multidisciplinary, 
+community-­based primary healthcare centres. These facilities 
+typically employ teams that include general practitioners 
+(GPs), nurses and other allied health professionals. GPs 
+coordinate access to secondary and tertiary care, acting 
+as gatekeepers. Some private providers, operating under 
+contracts with the Health Insurance Institute, deliver care 
+within the public system. Secondary care is largely the 
+domain of state-­owned hospitals, although some private 
+providers also deliver inpatient services, and certain 
+secondary-­level outpatient services are delivered within 
+primary healthcare centres and independent clinics.
+The distribution of health financing is expected to 
+change following the abolition of complementary 
+voluntary health insurance
+While Slovenia’s total health spending has grown in recent years, 
+particularly during the first two years of the COVID-­19 pandemic, 
+it remains below the EU average. In 2023, health expenditure 
+reached 9.3 % of GDP – lower than the EU average of 10.0 %. On 
+a per capita basis, Slovenia spent EUR 3 121 on health (adjusted 
+for differences in purchasing power), compared to the EU 
+average of EUR 3 832 (Figure 9).
+Public sources accounted for 74 % of current health 
+expenditure in 2023, which was lower than the EU average of 
+80 %. Private sources made up the remaining 26 %, of which 
+VHI – historically driven by complementary VHI to cover 
+copayments – represented 14 %. Household out-­of-­pocket 
+(OOP) spending on health accounted for 12 %, well below 
+the EU average of 16 %. These OOP payments were primarily 
+direct outlays for services outside the statutory benefits 
+package. The impact of moving from complementary VHI that 
+covers copayments to a fixed compulsory contribution has not 
+yet been reflected in the available health expenditure data, but 
+the spending distribution is likely to change from 2024.
+The highest share of health expenditure is dedicated 
+to outpatient care
+In line with overall health spending, Slovenia spent less per 
+capita than the EU averages on all healthcare functions 
+(Figure 10). However, in 2023, per capita spending on 
+outpatient care was 33 % of current health expenditure – 
+well above the EU average of 28 %. This is partly the result 
+of reforms over the past decade that incentivised shifting 
+patients out of hospital settings. Additionally, inpatient care 
+Figure 8. Socioeconomic inequalities in obesity are larger in Slovenia than the EU average
+Notes: Low education is defined as the population with no more than lower secondary education (ISCED levels 0-­2), whereas high education is the 
+population with tertiary education (ISCED levels 5-­8). Low physical activity is defined as people doing physical activity three times or fewer per week.
+Sources: Eurostat based on EHIS 2019 for smoking (hlth_ehis_sk1e) and EU-­SILC 2022 for physical activity and obesity (ilc_hch07b, ilc_hch10).
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Stran PDF 9
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  7
+Slovenia
+absorbed 28 % of current health spending (equal to the EU 
+average), followed by pharmaceuticals and other medical 
+non-­durables, along with medical devices (22 %), long-­term 
+care (12 %) and prevention (3 %). While the share dedicated 
+to long-­term care was still below the EU average of 18 %, it 
+has grown amid intensified efforts to strengthen social and 
+healthcare support for older populations. Implementation of 
+the latest Long-­term Care Act is due to be completed by the 
+end of 2025.
+Recent policy developments aim to tackle primary 
+care and hospital workforce shortages
+The density of medical doctors in Slovenia reached 3.5 per 
+1 000 population in 2023 – below the EU average of 4.3 per 
+1 000 and among the lowest levels in the EU. GPs constituted 
+19 % of all practising physicians, which was close to the 
+EU average (20 %). There has been an almost continuous 
+increase in the density of family doctors over the last decade 
+(Figure 11), and national data from the Institute of Public 
+Health indicate that the number of primary care doctors 
+in Slovenia had grown to 1 450 in 2024, reaching a density 
+of 0.65 per 1 000 population. Further, to address persistent 
+medical workforce shortages in primary care, recent policy 
+developments have included a new payment model in 
+primary care for GPs and paediatricians (introduced in 
+February 2025), adoption of financial incentives for new 
+graduates choosing family medicine as their specialisation, 
+and measures to enhance task-­shifting and implement new 
+care models. Slovenia also launched public scholarships in 
+healthcare for the 2025/26 academic year for medical doctors, 
+nurses and pharmacy students.
+In contrast, the nurse workforce stood at 10.5 practising 
+nurses per 1 000 population in 2023, surpassing the EU 
+average of 8.5 per 1 000 (Figure 12). However, it should be 
+Figure 9. Slovenia spends less per capita on health than the EU average
+Notes: The EU average is weighted (calculated by the OECD).
+Sources: OECD Data Explorer (DF_SHA); Eurostat (demo_gind); data refer to 2023.
+
+
+
+
+
+
+
+
+			
+
+			
+
+
+
+
+ 
+
+
+ ­
+
+
+ 
+ 
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+ 
+
+	
+­
+
+	
+
+
+
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+Figure 10. Slovenia currently spends approximately half the EU average on long-­term care per capita
+Notes: 1. Includes home care and ancillary services (e.g. patient transportation); 2. Includes curative-­rehabilitative care in hospital and other settings; 3. 
+Includes only the outpatient market; 4. Includes only the health component; 5. Includes only spending for organised prevention programmes; 6. Includes 
+health system governance and administration and other spending. The EU average is weighted (calculated by the OECD).
+Source: OECD Data Explorer (DF_SHA); data refer to 2023.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+		
+
+
+
+
+ 
+ ­
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+## Stran PDF 10
+8  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+emphasised that this graph encompasses both registered 
+nurses and vocationally trained nursing assistants, which 
+goes beyond the categories of nurses included in the EU 
+Directive on the Recognition of Professional Qualifications. 
+These assistant nurses make up over half of the nursing 
+workforce in Slovenia. Furthermore, despite the relatively 
+high density of nurses, hospitals still record shortages, partly 
+attributable to salary imbalances and challenging working 
+conditions. A new payment model for public employees, 
+which came into effect in 2025 and applies to most healthcare 
+workers, aims to increase the attractiveness of public 
+sector employment for young people through increasing 
+transparency of the wage system, salary rises and an 
+improved system of other financial rewards (see Section 5.2). 
+This measure is complemented by the introduction of new 
+specialisations for registered nurses, which enhance their role 
+and professional autonomy.
+Figure 12. Slovenia has fewer medical doctors than many other EU countries
+Notes: The EU average is unweighted. The data on nurses include all categories of nurses (not only those meeting the EU Directive on the Recognition 
+of Professional Qualifications). In Portugal and Greece, data refer to all doctors licensed to practise, resulting in a large overestimation of the number of 
+practising doctors. In Greece, the number of nurses is underestimated as it only includes those working in hospitals.
+Source: OECD Data Explorer (DF_PHYS, DF_NURSE); data refer to 2023 or nearest available year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+ ­ 			­
+
+ ­­  			­
+
+	
+	
+
+
+
+
+
+
+
+
+Figure 11. The density of general practitioners in 
+Slovenia has been rising steadily, but remains 
+below the EU average
+Note: The EU average is unweighted.
+Source: OECD Data Explorer (DF_PHYS_CAT).
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5  Performance of the health system
+5.1 Effectiveness
+Preventable mortality declined in 2022 but 
+remained higher than pre-­pandemic levels
+As in most EU Member States, overall avoidable mortality 
+in Slovenia decreased slightly in 2022, but stayed close 
+to the EU average (Figure 13). After the pandemic-­led rise 
+that spiked to 212 deaths per 100 000 population in 2021, 
+mortality from preventable causes declined to 189 deaths 
+per 100 000 in 2022, remaining higher than pre-­pandemic 
+levels (173 deaths per 100 000 in 2019). COVID-­19 was still 
+the leading cause of preventable mortality, followed by lung 
+cancer (Figure 13).
+
+
+## Stran PDF 11
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  9
+Slovenia
+Figure 13. In 2022, the preventable mortality rate in Slovenia was higher than the EU average, while 
+mortality from treatable causes was lower
+Notes: Preventable mortality is defined as death that can be mainly avoided through public health and primary prevention interventions. Treatable (or 
+amenable) mortality is defined as death that can be mainly avoided through healthcare interventions, including screening and treatment. Both indicators 
+refer to premature mortality (under age 75). The lists attribute half of all deaths from some diseases (e.g. ischaemic heart disease (IHD), stroke, diabetes 
+and hypertension) to the preventable mortality list and the other half to treatable causes, so there is no double-­counting of the same death.
+Source: Eurostat (hlth_cd_apr); data refer to 2022.
+Numerous programmes for smoking prevention, exposure 
+reduction and cessation have been systematically 
+implemented, and smoking rates in Slovenia have been slowly 
+declining overall. Past and ongoing measures include the 
+enactment of the Use of Tobacco and Related Products Act 
+in 2017 and its recent amendment in 2024, which introduces 
+a ban on flavours in nicotine-containing and nicotine-free 
+electronic cigarettes and their liquids, except for the taste 
+or smell of tobacco, and a strict ban on using tobacco and 
+related products in smoking rooms in enclosed public places 
+and workplaces (from January 2026), as well as the adoption 
+of the Strategy for Decreasing the Consequences of Tobacco 
+Use for a Tobacco-­Free Slovenia 2021-­30 to further guide 
+national efforts. 
+Alcohol-­related causes were responsible for 15 % of 
+preventable deaths. To further reduce the harmful 
+consequences of alcohol consumption, Slovenia approved a 
+new programme for 2025-­26 (Box 1).
+Suicide rates are particularly high in Slovenia, at 15 deaths 
+per 100 000 population, making it the fifth leading cause of 
+preventable death (8 %). In 2022, men were nearly four times 
+more likely to die by suicide than women (23 compared 
+to 6 per 100 000). With the implementation of the National 
+Mental Health Programme 2018-­28, community-­based 
+mental health centres were established to strengthen cross-­
+sectoral co-­operation. The number of psychiatrists has slowly 
+increased but remains below the EU average (17 compared to 
+20 per 100 000 population).
+Ischaemic heart disease remains the leading cause 
+of mortality from treatable causes
+For almost a decade, treatable mortality in Slovenia has been 
+decreasing steadily – much faster than the EU average – 
+reaching 64 deaths per 100 000 population in 2022. Ischaemic 
+heart disease remained the leading cause of treatable deaths 
+in 2022 (see Figure 13), followed by colorectal and breast 
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+ 
+­
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+­
+	
+
+
+
+
+
+
+
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Stran PDF 12
+10  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+cancers, which together accounted for almost a quarter 
+of treatable deaths. Slovenia’s National Cancer Control 
+Programme is a comprehensive, population-­based strategy 
+aimed at reducing the cancer burden through prevention, 
+early detection, standardised treatment and equitable access 
+to high-­quality oncology care.
+Influenza vaccine uptake has decreased in recent 
+years among older people
+Although the uptake of influenza vaccines among people 
+aged 65 and over had been growing before the pandemic, 
+the COVID-­19 pandemic contributed to a subsequent decline, 
+with only 17.6 % of people vaccinated in the winter period 
+2022/23 (Figure 14). However, despite growing vaccine 
+hesitancy across Europe, vaccination rates among children 
+remained high. Measles vaccine uptake was maintained at 
+around 95 % of children aged under 1 year throughout the 
+pandemic, and has been slightly above the EU average for 
+the past five years. Human papillomavirus (HPV) vaccination 
+uptake kept rising in 2024, reaching 61 % of 15-­year-­old girls, 
+and closing the gap with the EU average (63 %).
+Figure 14. Immunisation coverage shows different trends for different age groups
+Note: The EU average is weighted for influenza (calculated by Eurostat) and unweighted for measles and HPV.
+Sources: Eurostat (hlth_ps_immu) and WHO/UNICEF Joint Reporting Form on Immunization (JRF).
+Screening programmes for breast, cervical and 
+colorectal cancers in Slovenia are well established
+In 2023, Slovenia’s breast, cervical, and colorectal cancer 
+screening rates were 15-­20 percentage points above the 
+EU averages (Figure 15). Cervical cancer screening reached 
+74.4 % and colorectal cancer screening 60.8 %. The breast 
+cancer screening rate was 78 % – down slightly from previous 
+years. Cementing the success of these programmes, Slovenia 
+established a National Committee for Cancer Screening in 
+2020 to guide evidence-­based early detection efforts. The 
+possible introduction of new screening programmes, for lung 
+and prostate cancers and for gastric cancer prevention, is 
+currently under review (Tomšič, Ramroop & Litvinova, 2025).
+Slovenia reports mixed results for quality indicators 
+in primary care and hospital care
+Avoidable hospital admission for people with chronic 
+conditions can be used as a marker of access to, and 
+quality of, primary care delivery, as these conditions can 
+be successfully managed in ambulatory settings. In 2023, 
+Slovenia reported lower avoidable hospital admission rates 
+than the EU averages for several chronic conditions, including 
+asthma and chronic obstructive pulmonary disease (COPD) 
+(103 compared to 158 per 100 000 population), congestive 
+heart failure (205 compared to 239 per 100 000), and 
+diabetes (94 compared to 116 per 100 000). While admissions 
+for asthma and COPD have increased slightly since the 
+pandemic, they remain below pre-­pandemic levels. 
+In contrast, diabetes-­related admissions have remained 
+relatively stable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+
+
+							
+
+
+				
+
+Box 1. Tackling alcohol harm: Slovenia’s 2025-­26 strategy
+Slovenia’s Programme for Limiting Alcohol Consumption and Reducing Harm (2025-­26) aims to reduce the health, social and 
+economic impacts of alcohol use, aligning with WHO and international strategies. Key measures include improving access to 
+prevention and treatment services, enhancing early detection through alcohol screening and community interventions, and 
+running public awareness and mass media campaigns – especially for vulnerable groups. A central focus is strengthening 
+intersectoral co-­operation across health, education, social services, local communities and non-­governmental organisations. 
+The programme also incorporates evidence-­based policies on alcohol pricing, availability and labelling.
+
+
+## Stran PDF 13
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  11
+Slovenia
+Hospital care quality indicators show mixed progress. The 
+30-­day mortality rate for acute myocardial infarction among 
+patients aged over 45 declined slightly over the past decade, 
+reaching 5.7 per 100 patients in 2023 – below the EU average 
+of 6.1 per 100. However, mortality from ischaemic stroke 
+remained flat and above the EU average (11.7 compared to 
+9.5 per 100 patients).
+To improve care quality, Slovenia adopted the National 
+Strategy for Quality and Safety in Healthcare (2021-­31) 
+and passed the Healthcare Quality Assurance Act in 
+November 2024. This legislation defined stakeholder roles 
+and supported the creation of the Slovenian Quality Health 
+Care Agency in March 2025 (see Section 6). Established 
+to serve as the central institution for improved quality and 
+safety in healthcare and evidence-­based decision making, 
+the Agency holds a wide range of responsibilities, including 
+providing oversight on quality improvement efforts through 
+standards and guidelines; developing digital tools for quality 
+management; contributing to health professionals’ training; 
+overseeing and managing safety warnings and adverse 
+events, accreditations and registries; and monitoring of 
+performance indicators.
+Slovenia scores well on patient-­reported 
+experience measures
+Slovenia was among the countries that participated in the first 
+wave of the OECD Patient-­Reported Indicator Survey (PaRIS) 
+initiative in 2023-­24, collecting and reporting patient-­reported 
+experience measures (PREMs). Despite comparatively lower 
+than average health spending per capita (see Section 4), 
+most Slovenians reported a positive experience with quality 
+of care (89 %) and person-­centred care (85 %). Other 
+scores were 63 % for trust in the health system, 61 % for 
+confidence to manage own health and 57 % on experience 
+of care coordination (Figure 16), all of which are similar to 
+the averages among the 10 participating EU countries. In the 
+PREMs surveys conducted by the National Institute of Public 
+Health, patients from the paediatric and adult populations 
+generally reported positive experiences with healthcare 
+services, although findings also identify areas of improvement 
+for the overall quality of care (NIJZ, 2024; 2025).
+5.2 Accessibility
+Slovenia has higher rates of unmet medical needs 
+than the EU average, but the rate among those at 
+risk of poverty is lower
+According to the EU-­SILC survey, among those who reported 
+medical care needs, self-­reported unmet needs due to costs, 
+waiting times or distance to travel were higher in Slovenia in 
+2024 (4.6 %) than the EU average (3.6 %) (Figure 17), while 
+self-­reported unmet needs for dental examination among the 
+population who expressed a dental health need (6.4 %) were 
+similar to the EU average (6.3 %).
+However, for both medical and dental examinations, reported 
+unmet needs were lower among people at risk of poverty in 
+Slovenia than the EU averages. In Slovenia, 5.0 % of people 
+at risk of poverty reported unmet medical needs in 2024 
+(compared to a 6.0 % EU average) and 9.7 % reported unmet 
+dental needs (compared to a 13.6 % EU average).
+Figure 15. Slovenia records significantly higher rates of breast, cervical and colorectal cancer screening 
+than the EU averages
+Notes: All data refer to programme data. Colorectal programme data are based on national programmes that may vary in terms of age group and 
+frequency. The EU average is unweighted.
+Sources: OECD Data Explorer (DF_KEY_INDIC) and Eurostat (hlth_ps_prev).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+Figure 16. Slovenian patients report positive 
+experiences with the quality of primary care and 
+person-­centred services
+Note: Values refer to the percentage of people reporting 
+positive experiences.
+Source: OECD PaRIS 2024 Database; data refer to 2023-­24.
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+## Stran PDF 14
+12  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+Survey data highlight variations in unmet needs for 
+primary care
+Higher levels of unmet needs are reported in the Eurofound 
+Living and Working in the EU survey for more specific 
+types of care, such as primary care and mental healthcare.1 
+According to this survey, the share of adults reporting unmet 
+needs for primary care in Slovenia spiked in 2023, reaching 
+5 % of respondents, to drop back to the EU average of 
+3 % in 2024 (Figure 18). The reasons for these variations 
+are unclear, and may be region-­dependent. Nevertheless, 
+challenges in access to GPs were a strong public concern in 
+the aftermath of the pandemic, which led to the establishment 
+of additional GP offices, as well as various measures to 
+tackle the administrative burden of primary care doctors – 
+such as recruitment of healthcare administrators, increased 
+digitalisation of community health centres and simplification 
+of prescribing procedures – in addition to measures to 
+increase the attractiveness of primary healthcare professions 
+(see Section 4). To facilitate collaboration and coordination 
+within primary healthcare and strengthen its accessibility, 
+Slovenia established the Institute of Family Medicine (which 
+1 The data from the Eurofound survey are not comparable to those from the EU-­SILC survey because of differences in methodologies.
+supports primary healthcare professionals), upgraded the 
+payment model of family medicine clinics and integrated 
+model practices with family medicine clinics.
+Despite high suicide rates (see Section 5.1), the share of adults 
+reporting unmet needs for mental healthcare in 2024 was 
+much lower in Slovenia (2 %) than across the EU (7 %) 
+(Figure 18).
+The impacts of the abolition of complementary 
+health insurance in 2024 remain to be seen
+In 2023, the share of public spending on outpatient medical 
+care in Slovenia was similar to the EU average, but the 
+proportion was lower for hospital care and pharmaceuticals 
+(Figure 19), which was reflected in the high share of OOP 
+payments for pharmaceuticals. The share of public spending on 
+dental care was substantially higher in Slovenia (47 %) than the 
+EU average (35 %), which may contribute to Slovenia’s lower 
+unmet dental needs among those at risk of poverty.
+In 2024, complementary health insurance, which was used by 
+a vast majority of the population to cover copayments, was 
+abolished (see Section 4). Reimbursement of services in the 
+statutory benefits package was extended to full coverage, and 
+the complementary VHI was replaced by a fixed compulsory 
+health contribution set at EUR 37.17 per month in 2025, raised 
+on all incomes and payable in addition to already existing 
+social health insurance contributions which are set on the 
+basis of contribution rates (although children and students 
+up to the age of 26 are exempted from the fixed compulsory 
+health contribution). The compulsory health contribution is 
+re-evaluated yearly according to the rate of average salary 
+increase in the previous year. The state budget ensures 
+funding for the contributions related to socially vulnerable 
+and other designated population groups. This change had 
+long been debated in Slovenia, and was also a response to a 
+large increase in complementary VHI premiums in 2023, but 
+Figure 17. Self-­reported unmet needs for medical 
+care are higher in Slovenia than the EU average
+Notes: The EU average is weighted. Data refer only to individuals who 
+reported having medical care needs. People at risk of poverty are defined 
+as those with an equivalised disposable income below 60 % of the 
+national median disposable income.
+Source: Eurostat (hlth_silc_08b); data refer to 2024.
+
+
+
+
+
+
+	
+	
+	
+
+
+	
+
+
+
+
+
+ 
+­
+
+	
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 18. The share of adults reporting unmet 
+needs for mental healthcare is much lower in 
+Slovenia than across the EU
+Note: Primary care includes access to a GP/family doctor or a 
+health centre.
+Source: Eurofound’s Living and working in the EU survey (2025).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+## Stran PDF 15
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  13
+Slovenia
+there are still some concerns that this reform might challenge 
+equity in the affordability and accessibility of services. The 
+real-­life impact of the change will become evident in the next 
+few years when data from 2024 onwards become available.
+Slovenia records particularly low rates of 
+catastrophic health spending, with a relatively small 
+gap between the poorest and the richest groups
+In 2023, OOP payments represented 12 % of health spending 
+in Slovenia, which was well below the EU average (16 %) 
+(Figure 20). Pharmaceuticals are responsible for almost 
+two fifths of OOP payments in Slovenia (38 %), followed by 
+2 Catastrophic expenditure is defined as household OOP spending exceeding 40 % of total household spending net of subsistence needs (i.e. food, housing 
+and utilities).
+3 Waiting times data are based on first available appointments and should be interpreted with caution as they may not reflect, for example, that necessary tests 
+need to occur before an appointment.
+outpatient care (26 %) and dental care (11 %). In 2023, OOP 
+payments in Slovenia included both copayments for services 
+that are included in the benefits package and direct payments 
+for services that are outside the benefits package. The role 
+of OOP spending in health expenditure and for different 
+types of services may be affected by the recent abolition of 
+complementary VHI. Historically, the catastrophic impact of 
+OOP payments has been very low in Slovenia: in 2022, only 
+0.7 % of households in the poorest income quintile faced 
+catastrophic health spending2 in Slovenia (compared to a 4 % 
+EU average), which was only 0.4 percentage points higher 
+than the share in the richest quintile.
+Figure 20. Pharmaceuticals are a key driver of OOP payments in Slovenia
+Notes: VHI also includes other voluntary prepayment schemes. The EU average is weighted.
+Source: OECD Data Explorer (DF_SHA); data refer to 2023.
+Critical shortages among the health workforce 
+continue to hamper service availability
+Unmet needs for medical examination among the general 
+population due to waiting times have remained high in Slovenia 
+since 2017. Although they slightly decreased in 2022, reaching 
+3.6 % compared to 4.7 % in 2021, this may partly reflect the 
+impact of the pandemic in 2021. The level in Slovenia remained 
+far higher than the EU average (0.9 % in 2022).
+In 2024, 90.6 % of patients waited more than three months 
+for cataract surgery, and almost all patients waited over three 
+months for hip replacement (98.6 %) and knee replacement 
+(99.3 %) surgery.3 Slovenia is upgrading its centralised 
+digital waiting lists platform to enhance transparency and 
+data accuracy. Availability gaps are partly due to personnel 
+shortages – especially critical shortages of primary care 
+physicians, outpatient specialists and hospital nurses. 
+Measures that address staff shortages and strengthen the 
+healthcare workforce (see Section 4) are expected to also 
+improve waiting times.
+The Health Insurance Institute has modified the payment model 
+for primary care delivery. Moreover, a Renewed Health Service 
+Act, passed in April 2025, set clearer rules on the careers of 
+
+
+
+	
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+	
+	
+
+ ­
+
+
+	
+	
+	­­
+
+ 
+ 
+
+
+	
+
+ 
+
+	
+
+
+Figure 19. Slovenia provides a high share of public funding for most areas of healthcare
+Notes: Outpatient medical services mainly refer to services provided by generalists and specialists in the outpatient sector. Pharmaceuticals include 
+prescribed and over-­the-­counter medicines and medical non-­durables. N/A means data not available. The EU average is weighted.
+Source: OECD Data Explorer (DF_SHA); data refer to 2023.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+## Stran PDF 16
+14  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+health professionals, limiting the circumstances under which 
+public employees can also work for private health providers. The 
+objective is to strengthen the public healthcare system, where 
+most healthcare professionals are employed, although critics 
+point to the risk that many professionals may opt to leave the 
+public system for the private one. This legislation also introduces 
+performance-­based payment models for public servants and 
+the obligation for public healthcare institutions to better monitor, 
+plan and report the workload of their healthcare staff. Finally, 
+the National Strategy for the Management and Development of 
+Healthcare Workers 2025-­35 is in preparation; it aims to reinforce 
+the sustainability of the healthcare workforce through measures 
+that do not focus solely on financial incentives (see Section 4) 
+but also support enhanced training, skills and responsibilities 
+expansion, as well as qualification recognition.
+5.3 Resilience
+Health system resilience – the ability to prepare for, manage 
+(absorb, adapt and transform) and learn from shocks and 
+structural changes – has become central to policy agendas. 
+Key priorities include easing pressures on service delivery, 
+strengthening health infrastructure and workforce capacity, 
+adapting crisis preparedness strategies, supporting digital 
+innovation, and safeguarding long-­term sustainability.
+The density of hospital beds in Slovenia is far below 
+the EU average
+Hospital infrastructure in Slovenia has been shaped by 
+policies favouring outpatient over inpatient care. For the past 
+15 years, the number of hospital beds per 1 000 population 
+has been decreasing steadily, reaching 4.0 beds per 1 000 in 
+2023. This rate was below the EU average of 5.1 beds per 
+1 000 (Figure 21) and the rates of most of Slovenia’s 
+neighbours – including Austria (6.6 per 1 000), Hungary 
+(6.5 per 1 000) and Croatia (5.7 per 1 000) – although it 
+remains higher than the rate in Italy (3.0 per 1 000). The 
+majority of hospital beds are dedicated to somatic care 
+(85 %), while the remaining are psychiatric beds. Although the 
+declining trend in hospital bed numbers in Slovenia was not 
+particularly affected by the COVID-­19 crisis, the pandemic had 
+a clear impact on occupancy rates and the number of hospital 
+discharges per 100 000 population – similar to trends in other 
+EU countries. The number of hospital discharges declined in 
+Slovenia from 17 000 per 100 000 population in 2019 to around 
+14 300 per 100 000 in 2020, increasing thereafter to 15 098 per 
+100 000 in 2023, which is below the EU average. The hospital 
+occupancy rate declined from 69 % in 2019 to 60 % in 2020, 
+increasing slightly to 62 % in 2023 – below the EU average 
+of 68 %.
+Figure 21. The number of hospital beds has been consistently below the EU average
+Note: The EU averages are weighted.
+Sources: Eurostat (hlth_rs_bds1) and OECD Data Explorer (DF_KEY_INDIC).
+Elective surgery volumes have picked up again 
+following the COVID-­19 pandemic
+Early implementation of pandemic contingency measures 
+partly explains the drop in inpatient usage in Slovenia, as 
+many non-­urgent elective procedures were postponed. 
+Volumes of elective hip replacement, knee replacement 
+and repair of inguinal hernia fell between 2019 and 2020, 
+with yearly numbers decreasing by over 35 procedures 
+per 100 000 population for all three types of surgery 
+(Figure 22). As in other EU countries, volumes have increased 
+again, with repair of inguinal hernia (214 procedures per 
+100 000 population), hip (270 per 100 000) and knee 
+replacement (169 per 100 000) exceeding pre-­pandemic levels 
+in Slovenia in 2023. However, waiting times remain long, and 
+almost all patients wait more than three months for hip or 
+knee replacement surgery (see Section 5.2).
+Since the pandemic, public spending on health in 
+Slovenia has remained high, and investments are 
+supported by EU funds
+Since 2018, the growth in public spending on health per 
+capita (based on 2015 constant prices) has been higher in 
+Slovenia than the EU average (Figure 23). However, while 
+the EU average has declined since 2021, Slovenia’s growth 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+## Stran PDF 17
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  15
+Slovenia
+rate in per capita public spending on health has continued 
+to increase slightly. This level of spending is equal to the 
+projected growth trajectory of public spending on health 
+based on the trend established prior to 2019. Moreover, 
+government health spending as a percentage of total 
+government spending returned to pre-­pandemic levels in 
+2023 (16 %). Investment in the health system is also derived 
+from EU funding instruments (Box 2).
+4 Low education is defined as the population with no more than lower secondary education (ISCED levels 0-­2), whereas high education is the population with 
+tertiary education (ISCED levels 5-­8).
+Efforts to improve the digitalisation of healthcare in 
+Slovenia are ongoing
+Investments in health information and communication 
+technologies in Slovenia have been consistently below 
+the EU average for the past 10 years, but increased 
+substantially following the pandemic – from EUR 1.19 million 
+per 100 000 population in 2019 to EUR 1.96 million per 
+100 000 in 2024, supported by Recovery and Resilience Fund 
+investments (see Box 2).
+The number of teleconsultations per capita in Slovenia has 
+grown strongly, and surpassed the EU averages in 2022 and 
+2023 (Figure 24). In 2024, the shares of people using the 
+internet to seek health information (56.4 %) and to access 
+health records (26.9 %) were similar to the EU averages. 
+In particular, accessing electronic health records online 
+surged in Slovenia during the COVID-­19 pandemic, rising 
+from just 6.2 % in 2020 to 31.0 % in 2022; this reflects not 
+only the shift to more online activities but also the issuance 
+of digital COVID-­19 certificates through the eZvem portal, 
+where citizens access their personal health records. After 
+dropping to 24.7 % in 2023 following the pandemic, data from 
+the Statistical Office of Slovenia show a steady, incremental 
+growth in online access to health records, reaching 27.4 % in 
+2025. The share of people who used the internet to make an 
+appointment in 2024 (33 %) remained below the EU average 
+(40 %) but has more than doubled since 2018 (15 %).
+As in many other EU countries, Slovenia records important 
+gaps in use of the internet for various health-­related activities 
+between users with high or low education levels, and 
+between age groups. People with lower education levels4 
+and people aged over 64 consistently report lower use of the 
+internet for health-­related activities.
+Figure 22. Volumes of elective surgeries in Slovenia are similar to volumes in the EU overall
+Note: The EU average is unweighted.
+Sources: Eurostat (hlth_co_proc3), OECD Data Explorer (DF_SURG_PROC).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+Figure 23. Slovenia’s public spending on health 
+remained high in 2022 and 2023
+Notes: The EU average is weighted (calculated by the OECD). The dashed 
+line represents the projected trend based on pre-­pandemic (2015-­19) data.
+Source: OECD Data Explorer (DF_SHA).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+ ­
+
+
+
+
+## Stran PDF 18
+16  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+Slovenia’s antibiotic consumption remains among 
+the lowest across the EU, but it has increased 
+since 2021
+Curbing excessive antibiotic use is fundamental to tackling 
+antimicrobial resistance, making it crucial to monitor 
+consumption – particularly to track progress in meeting 
+the EU Council’s 2030 targets that were adopted in 2023.6
+5 
+Slovenia is among the EU Member States with the lowest 
+consumption rates of antibiotics (13.4 defined daily doses 
+5 Recovery and Resilience Fund data are based on the information available as of 20 September 2025; potential future amendments may affect these figures.
+6 Council Recommendation on stepping up EU actions to combat antimicrobial resistance in a One Health approach, 2023/C 220/01.
+per 1 000 population per day in 2023), but it has followed 
+the trend across the EU, with antibiotic consumption that 
+surpassed its 2019 pre-­pandemic level in 2023 (Figure 25). 
+Based on the current trend, a change in prescribing patterns 
+will be required to return to the reduction target pathway. The 
+2019-­24 One Health Strategy, adopted for the surveillance, 
+detection and reporting of antimicrobial-­resistant pathogens, 
+aims to strengthen antimicrobial resistance stewardship in 
+the country.
+Box 2. Along with other EU programmes, the Recovery and Resilience Fund and the EU’s Cohesion 
+Policy support a number of investments in Slovenia’s health system
+Public investment in the health sector is supported by the EU’s Recovery and Resilience Fund,5 which encompasses 
+funding of EUR 167 million for Slovenia’s health system – equivalent to 7.5 % of its total EUR 2.2 billion funding for Slovenia. 
+Key areas of investment are for the effective treatment of communicable diseases and the digital transformation of 
+healthcare. Complementing the Recovery and Resilience Fund, the EU Cohesion Policy (2021-­27) dedicates approximately 
+EUR 98 million (EU co-­financed share) to healthcare in Slovenia, with over one third of this funding allocated to enhancing 
+the accessibility, effectiveness and resilience of the health system, over a quarter to active and healthy ageing, another 
+quarter to upgrading health equipment, and the remainder to digitalisation in healthcare.
+Additionally, until mid-­September under the EU4Health work programmes (2021-­25), Slovenian beneficiaries received 
+funding via joint actions, action grants and direct grants amounting to nearly EUR 39 million, which was dedicated to 
+cancer initiatives (44 %), crisis preparedness (26 %), health promotion and disease prevention (13 %), health systems and 
+health workforce measures (9 %), and digitalisation of healthcare (7 %). Finally, with a total EU budget of EUR 3.8 million, 
+the Technical Support Instrument (TSI) (2021-­27) supports closed and ongoing health reforms on patient safety and 
+quality of care, cancer screening, healthcare digital transformation, access to EU funds for investments in primary care, 
+health technology assessment, mental health and physical activity among young people, and long-­term care.
+Figure 24. The numbers of teleconsultations per capita are now higher in Slovenia than across the EU
+Note: The EU19 average is weighted (calculated by the OECD).
+Source: OECD Data Explorer (DF_CONSULT).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Stran PDF 19
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  17
+Slovenia
+6  Spotlight on pharmaceuticals
+Pharmaceutical spending in Slovenia is among the 
+highest across EU countries
+In 2023, expenditure on retail pharmaceuticals per capita in 
+Slovenia (EUR 552, adjusted for differences in purchasing 
+power) was higher than the EU average (EUR 510) and 
+also represented a higher share of total health spending 
+(18 % in Slovenia compared to 13 % in the EU) (Figure 26). 
+Pharmaceutical spending in the retail sector accounted for 
+over two thirds (65 %) of total spending on pharmaceuticals 
+in 2023, which was slightly higher than the average of EU 
+countries with available data (59 %).
+Figure 26. Slovenia’s spending on retail pharmaceuticals is among the highest across the EU
+Note: This figure represents expenditure on pharmaceutical dispensed through retail pharmacies for outpatient use only. It excludes medications 
+administered in hospitals, clinics or physician offices.
+Source: OECD Data Explorer (DF_SHA); data refer to 2023, except for Norway (2022).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+			
+	 	­	
+
+		
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+	
+	­
+
+
+
+
+
+	
+	
+	
+	
+­
+	
+
+Figure 25. Slovenia’s antibiotic consumption in 2023 was slightly above its 2030 reduction target pathway
+Notes: The EU average is weighted. The chart shows antibiotic consumption in hospitals and the community. The dashed line illustrates the policy target 
+pathway to meet the 2030 reduction targets.
+Source: ECDC ESAC-­Net.
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Stran PDF 20
+18  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+Although, in general, outpatient pharmaceuticals represent 
+the highest share of health expenditure in Slovenia, spending 
+on pharmaceuticals in the hospital sector is particularly high 
+(equivalent to EUR 245 in constant prices per capita in 2022) 
+compared to other EU countries with reported data, and has 
+been increasing steadily since 2017. As in other EU countries, 
+this trend can be explained by the increase in consumption of 
+innovative and more expensive medicines in inpatient settings 
+(ESIP & MEDEV, 2024).
+To mitigate the spending surge on innovative pharmaceuticals, 
+Slovenia established the Slovenian Quality Health Care Agency, 
+whose mandate includes quality-­specific roles (see Section 5.1), 
+as well as evidence-­based evaluations to support pricing and 
+reimbursement decision making through health technology 
+assessment (HTA). Following the adoption of its statutes 
+(Official Gazette of the Republic of Slovenia, 2025) and the 
+nomination of an interim director in April 2025, the new Agency 
+became operational in July 2025. HTA is expected to actively 
+inform pricing and reimbursement decision making, as well 
+as investment decisions in Slovenia, in line with the EU’s HTA 
+Regulation (PPRI, 2025). The Agency is actively participating 
+in implementation of the Regulation at the EU level, taking 
+part in joint clinical assessments. Drafting of national bylaws 
+and HTA methodology is ongoing. The Agency is also building 
+its capacity in HTA with the technical support of the EU 
+through the TSI (see Box 2). To curb expenditure on off-­patent 
+medicines, a generic reference pricing system was introduced 
+in 2003 (ESIP & MEDEV, 2024).
+Historically, government funding for retail 
+pharmaceuticals as well as out-­of-­pocket spending 
+have been below the EU averages
+In 2023, the share of government funding for retail 
+pharmaceuticals in Slovenia was 51 %, which is much 
+lower than the EU average of 62 % (Figure 27). However, 
+OOP payments also represented a lower share of total 
+retail pharmaceutical expenditure (27 %) than the EU 
+average (36 %), which is explained by the substantial role of 
+VHI (22 %).
+OOP payments for pharmaceuticals represented 38 % of total 
+OOP expenditure for health in 2023. Although this makes 
+them a key driver of OOP spending, overall OOP spending 
+in Slovenia is low, as is household catastrophic health 
+spending (see Section 5.2). Nevertheless, in 2022, medicines 
+were still linked to 18 % of catastrophic health spending in 
+the lowest income quintile and 16 % in the second lowest 
+quintile, while they have a much smaller effect – ranging from 
+3 % to 9 % – in the higher income quintiles (WHO Regional 
+Office for Europe, 2025). This may be due in part to the role 
+of complementary health insurance: while most people are 
+covered, about 5 % of the population had low incomes, 
+lacked VHI coverage and were not exempt from copayments. 
+The recent abolition of complementary health insurance 
+and removal of copayments (see Sections 4 and 5.2) may 
+contribute to tackling these inequalities.
+Figure 27. In 2023, only half of retail pharmaceutical expenditure in Slovenia was covered through 
+government schemes
+Note: The EU average is unweighted.
+Source: OECD Data Explorer (DF_SHA); data refer to 2023, except for Norway (2022).
+Slovenia matches the EU average in new medicine 
+availability, but faces longer delays
+Two of the indicators most commonly used to assess the 
+timelines and breadth of access to new medicines are the 
+average time elapsed between EU marketing authorisation 
+and public reimbursement, and the proportion of centrally 
+approved medicines available nationally. Both metrics are 
+reported in the European Federation of Pharmaceutical 
+Industries and Associations’ Patients WAIT Indicator Survey 
+(Newton et al., 2025). While neither indicator comprehensively 
+measures meaningful patient access to effective treatments, 
+they provide a foundational basis for discussion. Of 
+173 products that received EU approval between 2020 and 
+2023, Slovenia had 86 available, which is slightly above the 
+EU average (80 products). It took an average of 610 days in 
+Slovenia for new medicines to become available – a month 
+longer than the EU average (578 days). The upcoming 
+integration of HTA into pricing and reimbursement decisions, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+	
+	
+ 	­
+
+
+
+
+ ­	
+
+	
+
+
+	
+
+
+		­
+
+
+
+
+
+	­
+
+
+
+
+
+	
+
+	­
+
+
+
+
+
+
+## Stran PDF 21
+State of Health in the EU  |  Country Health Profile 2025: Slovenia  |  19
+Slovenia
+along with the new timelines set by the EU’s HTA Regulation, 
+are likely to influence both the timing and extent of access to 
+new medicines.
+Uptake of generics is slowly growing while 
+biosimilar uptake has improved significantly
+The share of generics in the total volume of medicines 
+dispensed in community pharmacies in Slovenia has been 
+increasing for the past decade, and is consistently above the 
+EU average. In 2023, it reached 57 % of the pharmaceutical 
+market, compared to 51 % on average across the EU 
+(Figure 28). In recent years, the share of biosimilars has 
+improved significantly. For example, in 2023, it reached 68 % 
+of reimbursed cancer medicines in Slovenia, which was above 
+the EU average (65 %) (OECD/European Commission, 2025). 
+Furthermore, pricing and funding mechanisms for biological 
+medicines ensure reasonable prices, which contribute to 
+containing pharmaceutical expenditure.
+Slovenia’s investment per capita in pharmaceutical 
+industry research and development is high
+Slovenia is among Europe’s leading drug manufacturing 
+countries, serving as a key hub for generic pharmaceutical 
+production, and becoming a rapidly growing export sector 
+(EFPIA, 2023). The country’s skilled workforce, strong 
+research and development (R&D) infrastructure, and 
+supportive regulatory environment continue to attract major 
+investments, including for advanced biopharmaceuticals.
+In 2022, Slovenia’s R&D investment per capita in the 
+pharmaceutical industry was the third highest in the EU 
+(EUR 158 per capita, adjusted to constant 2022 prices), behind 
+Belgium (EUR 227 per capita) and Denmark (EUR 171 per 
+capita). This is more than four times higher than the EU 
+average of EUR 35 per capita in 2022, but also significantly 
+higher than the level in countries with high-­performing 
+economies such as Germany (EUR 59 per capita) and 
+neighbouring countries such as Hungary (EUR 40 per capita) 
+(Figure 29).
+According to OECD Intellectual Property Statistics, nine 
+patent applications filed under the Patent Co-­operation Treaty 
+(PCT) in 2022 originated from applicants based in Slovenia – 
+equivalent to 4.2 patent applications per million people. This 
+is on a par with the EU average and similar to pre-­pandemic 
+levels (OECD, 2025). In 2024, Slovenia conducted 18 clinical 
+trials per million population – also close to the EU average. 
+Only 37 % were industry sponsored, which is well below the 
+EU average of 52 %, and this share has not exceeded that 
+level since 2019. Slovenia also lags in early-­phase (phase I 
+and II) trials, which made up just 33 % of total trials compared 
+to 44 % across the EU. Slovenia seems slightly better 
+embedded in global studies: nearly half (45 %) of Slovenia’s 
+clinical trials in 2024 were multi-­country, approaching the EU 
+average of 51 %.
+Figure 29. Slovenia’s research and development 
+investment per capita in the pharmaceutical 
+industry is one of the highest in the EU
+Note: The EU average is weighted (calculated by the OECD).
+Source: OECD Data Explorer (DF_ANBERDi4).
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+
+
+
+
+ 
+Figure 28. The consumption of generics in Slovenia 
+is above the EU average
+Note: The EU average is weighted.
+Source: OECD Data Explorer (DF_GEN_MRKT).
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+		
+			
+		
+		
+
+
+
+	
+ 
+­
+­
+	­
+­
+­
+­
+­
+­
+­
+­
+
+
+## Stran PDF 22
+20  |  State of Health in the EU  |  Country Health Profile 2025: Slovenia
+Slovenia
+7  Key findings
+	
+●
+Life expectancy at birth and age 65 is high, 
+and most Slovenians report being in good 
+health. However, health disparities by gender 
+and income are higher in Slovenia than the EU 
+averages, with fewer women and low-­income 
+groups reporting good or very good health.
+	
+●
+Cardiovascular disease and cancer incidence 
+rates are higher in Slovenia than on average 
+across the EU. These rates are influenced by 
+behavioural and environmental risk factors, 
+which contribute to nearly a third of all deaths. 
+Overweight and obesity – especially among 
+adolescents – are major public health concerns. 
+While overall adult smoking rates have fallen, the 
+daily smoking rate among women has stagnated. 
+Alcohol consumption has remained stable and is 
+close to the EU average.
+	
+●
+Overall health spending in Slovenia has been 
+increasing steadily over the past decade, but has 
+consistently remained below the EU average. In 
+2023, almost three quarters of health spending 
+was publicly funded, while complementary 
+voluntary health insurance drove just over half of 
+private spending. The majority of the population 
+who were liable for copayments took out such 
+insurance, contributing to historically low levels 
+of out-­of-­pocket spending in Slovenia. The 
+2024 abolition of complementary voluntary 
+health insurance covering copayments, and 
+the shift to a fixed compulsory contribution 
+under the public health insurance scheme to 
+accompany the removal of copayments, will alter 
+expenditure dynamics.
+	
+●
+Although mortality from preventable causes 
+declined in 2022, it was higher than pre-­
+pandemic levels and above the EU average. 
+COVID-­19 remained a leading cause of 
+preventable mortality in Slovenia, along with lung 
+cancer and alcohol-­related causes. In contrast, 
+treatable mortality rates have been decreasing 
+steadily, and are consistently below the EU 
+average. Along with ischaemic health disease, 
+colorectal and breast cancers accounted for 
+almost a quarter of treatable deaths. Screening 
+programmes for major cancers are in place, 
+with plans to expand to gastric, lung and 
+prostate cancers.
+	
+●
+Slovenia reports mixed results on quality 
+indicators, but scores highly on patient-­reported 
+experience measures. Although results from 
+quality indicators for primary healthcare and 
+hospital care are better than the EU averages, 
+improvements have been gradual. The National 
+Strategy for Quality and Safety in Healthcare 
+aims to integrate quality monitoring better, 
+supported by the new Slovenian Quality Health 
+Care Agency, which will serve as the central 
+institution for improved healthcare quality 
+and safety.
+	
+●
+While Slovenia reports higher unmet needs 
+for medical examinations than the EU average, 
+mainly due to long waiting times, these needs 
+are lower than the EU average among people 
+at risk of poverty. The health system remains 
+relatively centralised, with most professionals 
+in the public sector, but workforce shortages 
+in both primary and hospital care contribute to 
+delays in accessing care. A comprehensive set 
+of policies aims to improve workforce retention 
+and sustainability, including financial and non-­
+financial incentives for health professionals and 
+students, new payment models for healthcare 
+workers and primary healthcare clinics, 
+increased funding and training opportunities, 
+and task-­shifting measures. Other policies have 
+expanded the number of general practitioner 
+offices and increased digitalisation of community 
+health centres to aid accessibility.
+	
+●
+Pharmaceuticals accounted for over a third 
+of household out-­of-­pocket payments. Until 
+2024, the substantial role of voluntary health 
+insurance helped to keep these costs relatively 
+low compared to the EU average. Medicines 
+still contribute to a relatively significant share 
+of catastrophic health spending for those in 
+the lowest income quintile. The removal of 
+copayments in 2024 for services covered under 
+the public benefits package aims to mitigate 
+these inequalities. Pharmaceutical spending 
+in Slovenia has been rising steadily, especially 
+in the retail sector, which the upcoming health 
+technology assessment activities of the new 
+Slovenian Quality Health Care Agency aim to 
+tackle through evidence-­based pricing and 
+reimbursement evaluations.
+
+
+## Stran PDF 23
+Key sources
+Albreht T et al. (2021), Slovenia: Health system review, Health 
+Systems in Transition. Copenhagen, European Observatory on 
+Health Systems and Policies, WHO Regional Office for Europe, 
+23(1): i–188, https://iris.who.int/handle/10665/330245.
+OECD/European Commission (2024), Health at a Glance: Europe 
+2024 – State of Health in the EU Cycle. Paris, OECD Publishing, 
+https://doi.org/10.1787/b3704e14-­en.
+References
+EFPIA (2023), The pharmaceutical industry in figures: key data 
+2023. Brussels, https://www.efpia.eu/media/rm4kzdlx/the-­
+pharmaceutical-­industry-­in-­figures-­2023.pdf.
+ESIP, MEDEV (2024), Trends in pharmaceutical expenditure: 
+October 2024. Brussels, https://esip.eu/publications/
+health_positions/2024-­10_ESIP-­MEDEV-­Report_Trends-­in-­
+Pharmaceutical-­Expenditure.pdf.
+Newton M et al. (2025), EFPIA Patients WAIT Indicator 
+2024 Survey. Brussels, European Federation of Pharmaceutical 
+Industries and Associations, https://efpia.eu/media/oeganukm/
+efpia-­patients-­wait-­indicator-­2024-­final-­110425.pdf.
+NIJZ (2024), Experiences of paediatric patients with hospital 
+treatment 2023/2024. Qualitative analysis report. Ljubljana, 
+https://nijz.si/wp-­content/uploads/2024/09/Porocilo-­
+kvalitativne-­analize-­raziskave-­o-­izkusnjah-­otrok-­z-­bolnisnicnim-­
+zdravljenjem-­2023_2024.pdf [in Slovenian].
+NIJZ (2025), PREMS – My experience, our healthcare. Results 
+of a national survey on patients’ experiences in outpatient 
+specialist healthcare. Ljubljana, https://nijz.si/wp-­content/
+uploads/2025/04/Rezultati-­raziskave-­PREMs-­v-­specialisticnih-­
+ambulantah-­2024.pdf [in Slovenian].
+OECD (2025), Intellectual property statistics, http://oe.cd/ipstats.
+OECD/European Commission (2025), EU Country Cancer 
+Profile: Slovenia 2025, EU Country Cancer Profiles. Paris, OECD 
+Publishing, https://doi.org/10.1787/980619b4-­en.
+Official Gazette of the Republic of Slovenia (2025), 650. Decision 
+on the establishment of the Public Agency of the Republic of 
+Slovenia for Quality in Healthcare, page 1947. No. 18/2025 of 
+21 March 2025, https://www.uradni-­list.si/glasilo-­uradni-­list-­rs/
+vsebina/2025-­01-­0650/sklep-­o-­ustanovitvi-­javne-­agencije-­
+republike-­slovenije-­za-­kakovost-­v-­zdravstvu [in Slovenian].
+PPRI (2025), PPRI posters, https://ppri.goeg.at/ppri_posters.
+Tomšič S, Ramroop D, Litvinova Y (2025), Slovenian National 
+Committee for Cancer Screening streamlines cancer early 
+detection improvements. Copenhagen, European Observatory on 
+Health Systems and Policies, WHO Regional Office for Europe, 
+https://eurohealthobservatory.who.int/monitors/pace/case-­
+studies/pace/pace-­slovenia-­2025/slovenian-­national-­committee-­
+for-­cancer-­screening-­streamlines-­cancer-­early-­detection-­
+improvements.
+WHO Regional Office for Europe (2025), UHC watch, 
+https://apps.who.int/dhis2/uhcwatch/#/country-
+page?country=PY4aKgi30fr.
+Country abbreviations
+Austria
+AT
+Czechia
+CZ
+Germany
+DE
+Italy
+IT
+Netherlands
+NL
+Slovakia
+SK
+Belgium
+BE
+Denmark
+DK
+Greece
+EL
+Latvia
+LV
+Norway
+NO
+Slovenia
+SI
+Bulgaria
+BG
+Estonia
+EE
+Hungary
+HU
+Lithuania
+LT
+Poland
+PL
+Spain
+ES
+Croatia
+HR
+Finland
+FI
+Iceland
+IS
+Luxembourg
+LU
+Portugal
+PT
+Sweden
+SE
+Cyprus
+CY
+France
+FR
+Ireland
+IE
+Malta
+MT
+Romania
+RO
+
+
+## Stran PDF 24
+The Country Health Profiles are a key 
+element of the European Commission’s 
+State of Health in the EU cycle, a 
+knowledge brokering project developed 
+with financial support from the 
+European Union.
+These Profiles are the result of a 
+collaborative partnership between the 
+Organisation for Economic Co-­operation 
+and Development (OECD) and the 
+European Observatory on Health Systems 
+and Policies, working in tandem with 
+the European Commission. Based on 
+a consistent methodology using both 
+quantitative and qualitative data, the 
+analysis covers the latest health policy 
+challenges and developments in each 
+EU/EEA country.
+The 2025 edition of the Country Health Profiles 
+provides a synthesis of various critical aspects, 
+including:
+•	 the current state of health within the country;
+•	 health determinants, with a specific focus on 
+behavioural risk factors;
+•	 the structure and organisation of the health system;
+•	 the effectiveness, accessibility and resilience of the 
+health system;
+•	 an account of the pharmaceutical sector and 
+policies within the country.
+Complementing the key findings of the Country 
+Health Profiles is the Synthesis Report.
+For more information, please refer to: 
+https://health.ec.europa.eu/state-­health-­eu_en
+State of Health in the EU
+Country Health Profiles 2025 
+Please cite this publication as: OECD/European Observatory on Health Systems and Policies 
+(2025), Country Health Profile 2025: Slovenia. State of Health in the EU, OECD Publishing, Paris/
+European Observatory on Health Systems and Policies, Brussels.
+

@@ -1,0 +1,53 @@
+---
+url: "https://www.radio-odeon.com/novice/90-let-pgd-adlesici/"
+naslov: "90 let PGD Adlešiči"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2024-08-06T15:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# 90 let PGD Adlešiči
+
+## Zajeto besedilo
+
+90 let PGD Adlešiči
+tor., 06.08.2024 ob 15:00
+Korak za korakom smo z veliko mero odgovornosti, povezanosti, vztrajnosti in predvsem predanosti gasilski dejavnosti ustvarili sedanje jedro društva.
+Da to opazijo tudi številni gasilci in gasilke, krajani ter ostali podporniki in prijatelji, smo lahko videli v soboto na slovesnosti ob 90-letnici društva, ko so nas počastili s svojo prisotnostjo. V čast praznovanja društva se je udeležilo 26 praporjev in 188 gasilcev iz Gasilske zveze Črnomelj, pobratenih in sosednjih društev.
+Na slovesnosti, ki jo je povezoval
+Jaka Birkelbach
+, so nastopili učenci
+Podružnične šole Adlešiči, Adlešički tamburaši
+in
+Godba na pihala Črnomelj
+. Presenečenje večera pa je bil
+Magnifico
+, ki je s svojo karizmo in energičnostjo zaključil slovesnost.
+Prisotne so nagovorili predsednik PGD Adlešiči
+Niko Milič
+, predsednica KS Adlešiči
+Urška Kuzma
+, predsednik GZ Črnomelj
+Boris Kambič
+, črnomaljski župan
+Andrej Kavšek
+, in podpredsednik GZ Slovenije
+Martin Lužar
+.
+V nadaljevanju je župnik, g.
+Vinko Guna
+blagoslovil sliko sv. Florijana, zavetnika gasilcev, ki krasi pročelje gasilskega doma. Sliko je narisal akademski slikar
+Robert Lozar
+. In kot se za jubilejno leto spodobi smo podelili tudi priznanja in odlikovanja. Priznanja si zaslužijo vsi, a vendar so člani, ki so s svojim delom izstopali. Najvišje podeljeno priznanje posamezniku je bilo odlikovanje za posebne zasluge, ki jo je prejel tovariš
+Alojz Jankovič
+. S svojo požrtvovalnostjo, prizadevanji in dosežki je zaslužen za krepitev društva.
+Praznovanje ob jubileju gasilskega društva se je nadaljevalo z veselico pod šotorom, kjer so za zabavo pozno v noč poskrbeli člani ansambla
+Novi spomini
+.
+Zahvalili bi se vsem članom in članicam PGD Adlešiči, donatorjem in sponzorjem, tudi posameznikom, ki so finančno ali materialno pripomogli, da smo slovesnost in veselico organizirali ter jo izpeljali na takšnem nivoju.
+In nenazadnje hvala vsem obiskovalcem. Takšna množica ljudi nam daje veliko motivacije za delo naprej.
+
+## Strojni datumi
+{"time": ["2024-08-06T15:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"90 let PGD Adle\\u0161i\\u010di\",\"datePublished\":\"2024-08-06T15:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/01-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/02-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/03-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/04-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/05-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/06-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/07-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/08-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/09-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/10-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/11-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/12-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/13-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/14-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/15-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/16-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/17-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/18-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/19-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/20-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/21-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/22-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/23-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/24-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/25-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/26-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/27-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/28-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/29-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/30-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/31-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/32-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/33-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/34-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/35-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/36-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/37-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/38-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/39-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/40-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/41-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/42-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/43-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/44-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/45-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/46-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/47-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/48-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/49-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/50-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/51-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/52-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/53-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/54-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/55-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/56-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/57-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/58-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/59-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/60-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/61-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/62-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/63-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/64-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/65-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/66-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/67-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/68-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/69-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/70-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/71-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/72-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/73-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/74-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/75-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/76-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/77-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/78-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/79-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/80-90pgdadlesisi06082024.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/91079\\/81-90pgdadlesisi06082024.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"PGD Adle\\u0161i\\u010di, foto: Jani Pavlin\"}}"]}

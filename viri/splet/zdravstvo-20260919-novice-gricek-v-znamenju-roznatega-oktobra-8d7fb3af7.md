@@ -1,0 +1,32 @@
+---
+url: "https://www.radio-odeon.com/novice/gricek-v-znamenju-roznatega-oktobra/"
+naslov: "Griček v znamenju rožnatega oktobra"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2022-10-20T11:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Griček v znamenju rožnatega oktobra
+
+## Zajeto besedilo
+
+Griček v znamenju rožnatega oktobra
+čet., 20.10.2022 ob 11:00
+Oktober je mednarodni mesec ozaveščanja o raku dojk, rožnati oktober, ki so ga včeraj s prireditvijo obeležili tudi na Gričku v Črnomlju.
+Prireditev o osveščanju in pomenu zdravja ter zgodnjega odkrivanja raka dojk, kot ključno sporočilo rožnatega oktobra v Črnomlju, je z obiskom podprlo veliko Belokranjcev. Osrednji mestni park so popestrili rožnati baloni. Program je bil namenjen otrokom in starejšim, osrednja misel pa zdrav življenjski slog.
+O pomenu ustne higiene je spregovorila dr. dent. med.
+Urška Šavli
+, osnovne tehnike oživljanja in način uporabe defibrilatorja pa je prikazal
+Peter Binder
+, vodja nujne medicinske pomoči v Zdravstvenem domu Črnomelj.
+Sončen popoldan na Gričku so z nastopom popestrili tudi otroci iz Vrtca Čardak, ki so veselo telovadili pod vodstvom kineziologa
+Zorana Šuteja
+iz Centra za krepitev zdravja ZD Črnomelj.
+Program prireditve je povezovala
+Vesna Gregorič
+, prostovoljka in članica Združenja Europa Donna Slovenija.
+
+## Strojni datumi
+{"time": ["2022-10-20T11:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Gri\\u010dek v znamenju ro\\u017enatega oktobra\",\"datePublished\":\"2022-10-20T11:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/0img-dca2aee386406ff399efa2388437bec9-v.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/312450904_3376400652579888_8497923729091349991_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/312412642_3376400709246549_382004718781516343_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/img-42175bc24a48aba2f60e4c846e150210-v.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/312455397_3376400729246547_2646210860353276280_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/312355160_3376400629246557_5578095727611622719_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/img-562300e041de6fb4361c0565b4cda4d6-v.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/img-1f385e42cff44cd5f93983d77de11a6f-v.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/312364711_3376400815913205_4870652287133837370_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/312221927_3376400665913220_5417265816277930899_n.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66380\\/312447114_3376400875913199_9006916431498427906_n.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Aleksander Rizni\\u010d\"}}"]}

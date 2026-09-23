@@ -1,0 +1,34 @@
+---
+url: "https://www.radio-odeon.com/nasveti/zeleno-ki-te-ljubim-zeleno/brsljan-izjemna-zimzelena-pregrada/"
+naslov: "Bršljan, izjemna zimzelena pregrada"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2022-09-19T09:15:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Bršljan, izjemna zimzelena pregrada
+
+## Zajeto besedilo
+
+Bršljan, izjemna zimzelena pregrada
+pon., 19.09.2022 ob 09:15
+Navadni bršljan (Hedera helix) je do 20 m dolga zimzelena lesnata ovijalka. Njegovi listi so različnih oblik. Na poganjkih, ki ne cveto, so listi 3-5 krpi in imajo belo in pahljačasto žilno mrežo. Te liste se nabira za zeliščne pripravke, in sicer v spodnjem delu rastline, od pomladi pa vse do jeseni. Na cvetočih poganjkih pa so listi jajčasto, rombaste oblike ali suličasti. Cvetovi so rumeno zeleni in združeni v kobulasta socvetja. Zrel plod je črna jagoda, ki dozori spomladi.
+Raste v raznih gozdnih združbah in tudi drugje, kjer ima pogoje. Tako ga srečamo tudi ob drevesih v parkih in sadovnjakih in na senčnih legah. S posebnimi koreninicami se oprijemlje podlage in pleza po drevesih, skalah in zidovih navzgor. Najdemo ga od nižin do gorskega pasu; raste v Evropi in jugozahodni Aziji.
+Ljudsko zdravilstvo že stoletja z bršljanom zdravi kronične katarje, beli tok, kožne bolezni (npr. glivice) in tudi rane, ki se težje celijo., npr. golenske razjede in opekline. Kot čaj poparek se notranje lahko uporablja tudi pri revmatizmu. Kot čaj prevretek pa se lahko uporablja zunanje za odpravljanje uši, garij in sora.
+Po slovenski odredbi o razvrstitvi zdravilnih rastlin spada bršljan v kategorijo tistih zdravilnih rastlin, katerih zdravilska uporaba zahteva nadzor. Ker je rastlina strupena, jo smemo uporabljati le v majhnih količinah in krajše časovno obdobje, še posebej, če jo uporabljamo notranje. Tudi že sam stik s svežimi bršljanovimi listi ali sokom lahko povzroči rdečino in mehurčke na koži obraza, dlani in rok, zato velja previdnost. Plodov bršljana, jagod, se ne sme uporabljati za zdravljenje.
+V sodobnem času, ko so na voljo »zelena zdravila«, so na trgu mnogi pripravki iz bršljana, ki pa so namenjeni notranji uporabi. Za izkašljevanje in pomirjanje dušečega kašlja ob katarju gornjih dihalnih poti in za simptomatično zdravljenje kroničnega vnetja sapnic. V glavnem so ti pripravki narejeni kot izvlečki iz droge, redkeje so narejeni iz celotne droge ali kot čajne mešanice, ki bi med drugimi vsebovale bršljanove liste.
+Pomoč pri otiščancih in trdi koži na podplatih
+Sveže liste bršljana dobro potolcite, da se zmehčajo. Nato jih namočite v kis, ki ste ga predhodno solili. Zvečer, pred počitkom, vzemite list ali več skupaj in položite na otiščanec ali kurje oko. Prevežite z obvezo in pustite preko noči. Če je potrebno, postopek ponovite. Kmalu boste opazili, da se vam bo otrdela koža odluščila.
+Bršljanove kopeli in obloge proti celulitu
+Neprijeten pojav, ploščate maščobne obloge pod kožo, imenovane celulit, se pojavijo na nekaterih predelih telesa, (stegna, zadnjica, roke, trebuh), predvsem pri ženskah. Vzrok za »pomarančasto kožo« pripisujejo oslabeli mišični napetosti pod kožo, ki je lahko posledica debelosti in/ali premajhne telesne dejavnosti, živčnih pretresov in nepravilne prehrane. Nekateri povezujejo celulitis tudi s hormoni in neustreznim delovanjem limfnega sistema, nekateri njegov nastanek pripisujejo tudi dednim dejavnikom.
+Celulitis ni opredeljen kot huda bolezen, velja bolj za estetsko pomanjkljivost. Za uspešno zmanjšanje celulitisa se priporoča počasno hujšanje, masaža, sprostitev in dieta, ki pomaga izločiti strupe iz telesa. Predvsem pa dejavna krepitev mišic z gibajočim delom in zmernim športom. Pa tudi spodnji napotki vam lahko pomagajo.
+Kopel iz bršljana
+si pripravite tako, da 40 g listov bršljana prelijete z 1 l vrele vode in počakate 15 minut. Nato poparek izlijte v kad. V tej kopeli se namakajte vsaj 20 minut.
+Za
+bršljanovo oblogo
+pa lahko uporabite manjšo dozo zeli, približno 10 g na pol litra vrele vode. Nekoliko ohlajen in do videza kaše zdrobljen zeliščni pripravek pritrdite na prizadeto mesto s pomočjo gaze in ovijte z bombažno ruto. Naj deluje več ur, lahko preko noči.
+
+## Strojni datumi
+{"time": ["2022-09-19T09:15:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Article\",\"headline\":\"Br\\u0161ljan, izjemna zimzelena pregrada\",\"datePublished\":\"2022-09-19T09:15:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/65009\\/0000zelenosplosna.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Minka Ko\\u010devar\"}}"]}

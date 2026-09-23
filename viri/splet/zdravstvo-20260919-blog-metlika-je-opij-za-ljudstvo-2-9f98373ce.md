@@ -1,0 +1,60 @@
+---
+url: "https://www.radio-odeon.com/blog/metlika-je-opij-za-ljudstvo-2/"
+naslov: "Metlika je opij za ljudstvo (2)"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2022-02-22T08:30:00+0100"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Metlika je opij za ljudstvo (2)
+
+## Zajeto besedilo
+
+Metlika je opij za ljudstvo (2)
+tor., 22.02.2022 ob 08:30
+Republika Zlovenija
+Jugoslavije ni več, Jugoslavije ni več, zdaj gre za brezpravno tranzicijsko divjo privatizacijo in legalizacijo diskriminacije! Srečna in vesela trideseta obletnica zločinskih temeljev samostojne in oh in sploh suverene Republike Slovenije!
+Zdaj, ko sem si nakopal dovolj zamer lahko začnemo z vsebino. V soboto bomo obeležili obletnico administrativnega izbrisa 25.671 oseb, med katerimi je bilo tudi 5.360 mladoletnih. 26. februarja 1992 so državni uslužbenci množici državljanov drugih republik Jugoslavije s stalnim naslovom v Republiki Sloveniji po navodilu Ministrstva za notranje zadeve samovoljno izbrisali naslov, odvzeli pravni status in pravice stalnih prebivalcev. Posledično je bilo njihovo bivanje v Sloveniji ilegalizirano: izgubili so dostop do legalnega trga dela ter bili izključeni iz sistemov zdravstvenega in socialnega zavarovanja ter izobraževanja.
+Mitologizacija tega zgodovinskega zločina se je začela še preden se je proces izbrisa končal, najdejavnejšo vlogo v prodajanju
+mud za bubrege
+so odigrali takratni oblastniki, prva vlada samostojne Slovenije združena v koalicijo Demos pod vodstvom Lojzeta Petrleta, izstopala pa sta predvsem takratni minister za notranje zadeve Igor Bavčar in minister za obrambo, danes pa zaenkrat še vedno predsednik vlade, Janez Janša. Takratna vlada se je zagotovo zavedala pravne nedoločenosti zakona o tujcih, o čemer priča pismo Igorja Bavčarja, ki ga je 4. junija 1992 poslal vladi in izpostavil dve nasprotujoči si pravni stališči. Prvo stališče temelji na inštituta »pridobljenih pravic« in predvideva ohranitev pravnega položaja stalnih prebivalcev. Drugo stališče pa zahteva striktno upoštevanje zakona o tujcih, ki je bilo Bavčarju veliko bolj povšeči in je vladi priporočal, da naj prvo stališče kar pozabi.
+A če so se oblastniki v trenutkih pred in tik po izbrisu še vsaj navidezno poskušali ukvarjati s pravnim vidikom tega političnega zločina, se je mit o izbirsanih skozi leta preoblikoval v demagogijo najčistejše oblike. Te dni tako lahko na družbenih omrežjih beremo predvsem pavšalne ocene, da so si izbrisani čisto sami krivi, saj so pač imeli možnost v danem roku zaprositi za slovensko državljanstvo. Ali če uporabimo kar brezsramno laž Janeza Janše na seji Državnega zbora februarja 2004:
+˝Izbrisani so bili vojaki in nekaj nepismenih snažilk, ki so rekle, da pač niso vedele, da je treba to urediti. In zdaj se vseh teh deset in več tisoč tistih, ki so odšli s poraženo vojsko, skriva za hrbti teh˝
+.
+A zgodba izbrisa še zdaleč ni tako enostavna. Izbris je doletel osebe, ki v času osamosvajanja za slovensko državljanstvo niso zaprosile oziroma je bila njihova prošnja zavrnjena. Po osamosvojitvi so z zakonom o državljanstvu Republike Slovenije državljani s slovenskim republiškim državljanstvom novo državljanstvo pridobili avtomatično. Za državljane drugih republik, ki so stalno prebivališče prijavili pred datumom plebiscita, torej pred 23. decembrom 1990, pa je bila predvidena oddaja prošnje za pridobitev slovenskega državljanstva. Za oddajo vloge je veljal šestmesečni rok, ki je potekel 26. decembra 1991.
+Slovenska oblast je sicer en dan po sprejetju Deklaracije o neodvisnosti, torej 26. junija 1991, že izvedla izbris pred izbrisom. Status je bil namreč samovoljno odvzet osebam, ki so imele le začasno prebivališče oziroma so stalno prebivališče prijavile po 23. decembru 1990. Začasna dovoljenja so imeli številni delavci, ki so živeli v prebivališčih, za katere prijava stalnega naslova ni bila mogoča, kot so samski domovi ali barakarska naselja. Status jim je bil začasno vrnjen z Brionsko deklaracijo, ki je ustavila oborožene spopade na ozemlju Slovenije in za tri mesece zamrznila osamosvojitvene aktivnosti.
+V predpisanem roku je vlogo za pridobitev slovenskega državljanstva oddalo okoli 170.000 oseb, od katerih je večina prejela pozitivne odločbe. Osebe, ki do 26. decembra 1991 niso oddale prošnje za državljanstvo ali pa jim je bilo državljanstvo zavrnjeno, pa je doletel administrativni izbris iz registra stalnih prebivalcev. Sistematično in množično dejanje odvzema pravnega statusa je bilo mogoče zaradi pravne praznine zakona o tujcih. Zakon namreč ni natančneje urejal položaja teh oseb, razen da za njih začnejo veljati določbe zakona o tujcih. Kot pravi 81. člen tega zakona:
+“Za državljane SFRJ, ki so državljani druge republike, ki ne zaprosijo za državljanstvo Republike Slovenije v roku iz prejšnjega odstavka ali jim je izdana negativna odločba, začnejo veljati določbe tega zakona dva meseca po preteku roka, v katerem bi lahko zaprosili za sprejem v državljanstvo Republike Slovenije, oziroma od izdaje dokončne odločbe.”
+Ustavno sodišče je leta 1999 ugotovilo, da izbris ni imel pravne podlage, vendar je ravno ta pravna praznina omogočila, da je državna oblast v tistem trenutku položaj oseb urejala s podzakonskimi akti, kot so pravilniki o centralnem registru, v katerih je bilo po novem zapisano, da so v evidenci stalnega prebivalstva vpisani zgolj slovenski državljani.
+Ključne pri procesu izbrisa so bile depeše ministrstva za notranje zadeve pod vodstvom Igorja Bavčarja. Depeša z navodili o poteku izbrisa, je bila poslana 27. februarja 1992, torej prvi dan po poteku dvomesečnega obdobja po roku za oddajo vloge. V depeši je bilo zapisano, da se prične
+»urejanje njihovega statusa«
+in
+»prečiščevanje evidenc«
+, kar ni pomenilo nič drugega kot naročilo za izbris. Konkretno se je izbris izvedel s spremembo v računalniški evidenci. Leta 1991 je Slovenija z osamosvojitvijo v sistem uvedla dve novi funkciji, in sicer SPT ali sprememba tujca in VNT ali vnos tujca.
+V primeru izbrisanih so uradniki uporabili funkcijo SPT, ki se sicer uporablja v primerih, ko oseba ne živi na stalnem naslovu, kjer je prijavljena, in uradnik sproži postopke za odpravo neskladja. Z uporabo te funkcije so uradniki osebam izbrisali stalni naslov in v evidenco običajno zapisali,
+»da od 26. februarja 1992 prebivališče ni znano«
+. Osebe, ki jim je bilo tako izbrisano prebivališče, so bile premeščene iz registra stalnih prebivalcev v register prebivalcev brez urejenega statusa v Republiki Sloveniji. Prebivališče izbrisanih oseb seveda ni bilo neznano, vendar so z izbrisom iz registra stalnih prebivalcev izgubili pravice, ki izhajajo iz stalnega prebivališča.
+V depeši se ponovi tudi navodilo s posveta predstavnikov upravnih enot o uničenju javnih listin izbrisanih oseb, četudi so bile te še veljavne. Poleg tega depeša predvideva uporabo 28. člena zakona o tujcih za izbrisane osebe, ki določa obravnavo oseb, katerih vstop ali bivanje v Republiki Sloveniji je nezakonito. Slednje pomeni, da za izbrisane velja ukrep izgona iz države na način, da osebo
+»pooblaščena uradna oseba ONZ – organa za notranje zadeve – privede do državne meje in ga napoti čez državno mejo, brez kakršnekoli odločbe upravnega organa«
+.
+To pomeni, da so bili izbrisani prepuščeni nadzoru policije in soočeni z grožnjo izgona v takratna vojna ali od vojne opustošena območja. Izgoni niso bili redkost; po večini naj bi policija zaradi vojnih razmer v sosednji Hrvaški osebe izgnala na Madžarsko, vendar pa so izgoni potekali tudi preko južne meje in so v vsaj nekaterih primerih zaradi vojnih razmer zahtevali smrtne žrtve.
+Kot smo ugotovili v prejšnjem blogu noben zgodovinski mit ne obstaja brez funkcije, ki jo opravlja v sedanjosti. Te ni težko poiskati - glede na diskurzivni mentalni obrat, torej prenašanje odgovornosti za administrativni zločin na posamezne oškodovance, ki vedno služi krepitvi neoliberalne individualizacije, gre za krepitev in reprodukcijo ekonomskega sistema. To tudi pojasni razloge za tem, da se s problemom izbrisanih ni ukvarjala nobena oblast - ne desna, ne liberalna - če odštejemo nekaj poskusov moralne podpore posameznim izbrisanim. Podpora se navadno izteče v prizadevanje za
+˝opravičilo države˝
+, ki pa glede na posledice, ki jih je izbirs povzročil deluje precej cinično, enako kot ideje o simboličnih odškodninah za izbrisane. Z
+˝oprosti˝
+in tridesetimi evri pač ni mogoče nadoknaditi izgube državljanskih pravic in s tem ogroženega obstoja.
+A mit o izbrisanih gre še globlje, v real politiki podpira prakse diskreditacije političnih nasprotnikov na podlagi porekla - seveda, če je to poreklo geografsko postavljeno južneje od Koupe. Zdi se, da tak način diskreditacije uspeva le nacionalističnim javnim osebnostim, ki se s ksenofobijo družijo že vsaj od propada bivše skupne države, a ob tem ne smemo pozabiti enako obliko diskreditacije s skoraj identično vsebino, ko pride do deklarirano levih političnih predstavnikov. Vsak dan lahko tako na družabnih omrežjih poleg prenašanja krivde za zločin slovenske države na posameznike, ki predstavljajo Drugega; beremo tudi o bojda albanskem poreklu Janeza Janše. Kot da je pri Janši najbolj sporno kje in komu se je rodil, ne pa njegovo avtokratsko in plenilsko razumevanje oblasti.
+Kljub temu ne bomo zaključili z Janšo, saj se ksenofobija in relativiziranje izbrisa lepo sklada s politično usmeritvijo Slovenske demokratske stranke oziroma Socialdemokratsko stranko Slovenije, kot se je SDS imenoval ob izbrisu in preden je Janša izigral zaupanje svojega takratnega strankarskega rivala in ustanovitelja stranke Jožeta Pučnika, ki so ga po smrti začeli v SDS kovati v nebo. Ne, 30 let ignoriranja problema administrativnega zločina, ki je v socialno in eksistencialno krizo pahnila več kot 25 tisoč prebivalcev Slovenije in vztrajno postavljanje istih izbrisovalcev na oblast, je obtožnica zoper celotno slovensko družbo.
+Dodatno branje/poslušanje/gledanje
+Prosto dostopne publikacije
+Depeše glede izbrisa
+Zradirani (Dimitar Anakiev)
+Karavana izbrisanih (Dražena Perić)
+Poslednji dani Ace Todorovića (Dimitar Anakiev)
+* foto:
+Arhiv Mladine
+
+## Strojni datumi
+{"time": ["2022-02-22T08:30:00+0100"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Metlika je opij za ljudstvo (2)\",\"datePublished\":\"2022-02-22T08:30:00+01:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/59236\\/t-izbrisani-donators_1.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Jaka Virant\"}}"]}

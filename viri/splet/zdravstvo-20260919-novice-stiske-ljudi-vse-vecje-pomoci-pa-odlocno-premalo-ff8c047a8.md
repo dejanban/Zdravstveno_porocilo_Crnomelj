@@ -1,0 +1,39 @@
+---
+url: "https://www.radio-odeon.com/novice/stiske-ljudi-vse-vecje-pomoci-pa-odlocno-premalo/"
+naslov: "Stiske ljudi vse večje, pomoči pa odločno premalo"
+izdajatelj: "Radio Odeon"
+dostopano: "2026-09-19"
+datum objave: "2022-10-29T09:00:00+0200"
+metoda zajema: "WebFetch (requests; javna stran)"
+vrsta: "sekundarni vir"
+---
+
+# Stiske ljudi vse večje, pomoči pa odločno premalo
+
+## Zajeto besedilo
+
+Stiske ljudi vse večje, pomoči pa odločno premalo
+sob., 29.10.2022 ob 09:00
+Šola za župane v Beli krajini je sinoči v prostorih Mladinskega centra BIT v Kreativni hiši mladih združila politične kandidate/ke na letošnjih lokalnih volitvah in predstavnike nevladnih organizacij ter javnih ustanov v skupnem premisleku, kako občanom/kam (po)nuditi čim več kakovostne in pravočasne pomoči, ko jo potrebujejo.
+Dogodka v organizaciji Regijskega NVO centra – stičišča nevladnih organizacij JV Slovenije so se med drugimi udeležili županski kandidati Darko Zevnik (SD) in Martina Legan Janžekovič (neodvisna ob podpori Liste za povezovanje in razvoj) iz občine Metlika, Andrej Kavšek (Lista za razvoj) in Mojca Čemas Stjepanovič (Gibanje Svoboda) iz občine Črnomelj, pa tudi kandidati/ke za občinske svete: iz Črnomlja Renata Butala, Krunoslav Bošnjak in Anita Matkovič (vsi Gibanje Svoboda) ter Gregor Šmalcelj (Lista za razvoj), iz Metlike pa še Ana Logar (Glas neodvisnih).
+Od predstavnikov/ic vrste organizacij, kot so Društvo življenje brez nasilja, črnomaljske enote Ozare Slovenija, Mladinskega centra BIT, črnomaljske enote Centra za socialno delo Dolenjske in Bele krajine ter Centra za krepitev zdravja Zdravstvenega doma Črnomelj, so uvodoma izvedeli, s kako hudimi stiskami se srečuje vse več mladih in z njimi družine, kako morajo na pomoč kliničnega psihologa čakati tudi več kot dve leti, kako imajo drugod po državi na voljo veliko več programov pomoči, tudi t. i. centre za duševno zdravje itd.
+Omenjene organizacije med seboj že sodelujejo, a so na Šoli za župane poudarile, da je JV Slovenija, še bolj pa prav Bela krajina, glede na dostopnost ustrezne pomoči ob različnih stiskah ljudi »žalostna siva cona«.
+»V Črnomlju psihiatra sploh nimamo, v Metliko prihaja na 14 dni, medtem ko jih ima Sevnica pet,« je opozorila koordinatorka obravnave v skupnosti
+Mateja Malnarič
+iz CSD Dolenjske in Bele krajine. »V Beli krajini nimamo kliničnega psihologa, pedopsihiatra, niti psihoterapevta. Tudi psihologov na šoli primanjkuje glede na potrebe mladih,« je dodala
+dr. Sabina Prah
+iz Centra za krepitev zdravja, obe pa sta z ostalimi predstavili več raziskav NIJZ in drugih, ki kažejo na vse večje stiske mladih.
+Zato je smotrno, da ukrepa že lokalna skupnost, saj je pri reševanju stisk ključna pravočasna strokovna pomoč. Javni sistemi že sodelujejo tudi z nevladnim sektorjem, v Beli krajini denimo deluje Svetovalnica za žrtve nasilja, v Črnomlju pri duševnih stiskah pomaga Ozara, v Metliki Šent, pri težavah z vsemi vrstami odvisnosti regijo obiskuje društvo Srečanje. A je po besedah vseh tega glede na potrebe ljudi odločno premalo.
+»Če se nekdo pravočasno, ob prvi stiski vključni v naše programe pomoči, mu tudi lažje pomagamo in marsikdaj se zadeve uredijo tako, da v nadaljevanju zdravniške pomoči niti ne potrebuje. Tako tudi društva pomagamo javnemu sistemu, saj ga razbremenimo,« je dejala
+Karmen Žunič
+iz Ozare. Kako pomembno je, da je pomoč na voljo v lokalnem okolju in ne zgolj v Novem mestu ali celo Ljubljani, potrjuje Društvo življenje brez nasilja. »Pomembne spremembe smo zaznali leta 2019, ko je društvo odprlo enoto v Beli krajini. Takrat se je povečalo število uporabnikov od tu na 92 na leto, ti so predstavljali približno tretjino vseh ljudi, ki so v tistem letu poiskali pomoč v našem društvu. Pred tem jih je bilo iz Bele krajine okoli 15 na leto,« je orisala vodja Svetovalnice za žrtve nasilja
+Simona Lovšin
+in dodala, da pa v celotni regiji ni niti enega programa za povzročitelje nasilja, ki bi bistveno pripomogel k preprečevanju nasilja v bodoče.
+A še bolj kot to, kako hudo je, je Šola za župane v Beli krajini po dveurnem delu vseh prisotnih ponudila veliko konkretnih ukrepov, ki bi jih lahko omenjene organizacije (ali kakšne nove) izvedle ob podpori vseh treh belokranjskih občin (kandidatka Polona Kambič je odsotnost opravičila; op.av.). Med njimi so bile zamisli o financiranju preventivnih delavnic po šolah, o boljši informiranosti vseh občanov, kam se lahko obrnejo po pomoč, o finančni in kadrovski okrepitvi sektorja ter še tesnejšem povezovanju javnih ustanov z nevladniki, odprtju t. i. SOS točk v prostorih za mlade in vzpostavitvi SOS kombija, s katerim bi dosegli še bolj oddaljene kraje ...
+Na koncu so skupaj oblikovali 11 zavez (
+v priponki
+) in vse kandidate/ke pozvali, da posamično podpišejo tiste, za katere se bodo zavzemali v svojem bodočem političnem delovanju.
+Šola za župane je sicer skupna akcija 12 regionalnih stičišč nevladnih organizacij, zbranih v mreži ZaNVO. Njen namen je prispevati h kakovostni predvolilni debati, ki obsega teme, pomembne za razvoj lokalne skupnosti v prihajajočem mandatu. Dogodek sofinancira Ministrstvo za javno upravo iz Sklada za razvoj NVO.
+
+## Strojni datumi
+{"time": ["2022-10-29T09:00:00+0200"], "json_ld": ["{\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Stiske ljudi vse ve\\u010dje, pomo\\u010di pa odlo\\u010dno premalo\",\"datePublished\":\"2022-10-29T09:00:00+02:00\",\"image\":[\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/01-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/02-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/03-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/04-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/05-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/06-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/07-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/08-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/09-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/10-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/11-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/12-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/13-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/14-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/15-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/16-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/17-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/18-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/19-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/20-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/21-solazazupane29102022.jpg\",\"https:\\/\\/www.radio-odeon.com\\/site\\/assets\\/files\\/66804\\/22-solazazupane29102022.jpg\"],\"author\":{\"@type\":\"Person\",\"name\":\"Mirjana Martinovi\\u010d\"}}"]}
