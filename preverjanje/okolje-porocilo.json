@@ -1,0 +1,36 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "scroll": 1440
+    },
+    {
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "width": 360,
+      "scroll": 360
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "references": 127,
+  "pdf_pages": 69,
+  "rendered_pages": [
+    18,
+    19,
+    20,
+    22,
+    23,
+    27
+  ]
+}

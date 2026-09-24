@@ -1,0 +1,86 @@
+[
+  {
+    "datoteka": "podatki/okolje/tabela-01.csv",
+    "stolpci": [
+      "Dejavnik",
+      "Verjetna pot vpliva in dokazna podlaga",
+      "Kaj lahko sklepamo za Črnomelj"
+    ],
+    "vrstice": 7
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-02.csv",
+    "stolpci": [
+      "Leto meritev",
+      "Kaj je bilo mogoče preveriti",
+      "Pomembna omejitev ali odstopanje"
+    ],
+    "vrstice": 17
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-03.csv",
+    "stolpci": [
+      "Datum odvzema",
+      "Mesto",
+      "Ugotovitev poročila"
+    ],
+    "vrstice": 5
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-04.csv",
+    "stolpci": [
+      "Obdobje",
+      "PM10: letno povprečje (µg/m³)",
+      "Dnevi PM10 nad 50 µg/m³",
+      "PM2,5: letno povprečje (µg/m³)",
+      "Razlaga"
+    ],
+    "vrstice": 4
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-05.csv",
+    "stolpci": [
+      "Mesec",
+      "PM10 2024, ZD (µg/m³)",
+      "PM10 2025, lokacija se spremeni (µg/m³)",
+      "PM10 2026, Loka (µg/m³)"
+    ],
+    "vrstice": 12
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-06.csv",
+    "stolpci": [
+      "Problem",
+      "Kaj je potrjeno in kaj ostaja odprto"
+    ],
+    "vrstice": 5
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-07.csv",
+    "stolpci": [
+      "Za koga",
+      "Vprašanje in zahtevani dokaz"
+    ],
+    "vrstice": 30
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-08.csv",
+    "stolpci": [
+      "Problem in rok",
+      "Ukrep in odgovorni",
+      "Viri in možna sredstva",
+      "Korist, tveganje in kazalnik"
+    ],
+    "vrstice": 9
+  },
+  {
+    "datoteka": "podatki/okolje/tabela-09.csv",
+    "stolpci": [
+      "Merilo",
+      "Voda",
+      "Zrak",
+      "Življenjske razmere"
+    ],
+    "vrstice": 9
+  }
+]

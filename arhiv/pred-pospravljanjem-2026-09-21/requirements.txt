@@ -1,9 +1,0 @@
-# Osnovna gradnja in preverjanje poročila (Python 3.11)
-requests
-openpyxl
-beautifulsoup4
-Markdown
-PyMuPDF
-playwright
-# Po namestitvi: python -m playwright install chromium
-# Izračun GPX poti (neobvezno, glej requirements-poti.txt): shapely, pyproj, numpy
