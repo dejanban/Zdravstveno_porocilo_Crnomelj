@@ -1,0 +1,280 @@
+# Življenjske razmere, pitna voda in zrak
+
+## Povzetek
+
+Višji in varnejši dohodki, kakovostno bivanje, dostopne storitve ter manj dolgotrajnega stresa lahko izboljšajo zdravje. Podeželski značaj občine in domača pridelava hrane sama zase ne dokazujeta boljšega zdravja. Lokalna dokaza, ki zahtevata pozornost, sta pojav enteroparazitov na območju Adlešičev v letu 2025 in visoka izpostavljenost delcem ter benzo(a)pirenu na merilnem mestu Črnomelj v letu 2024. [1] [2] [3]
+
+Presek raziskave je 24. september 2026. Pregled vode zajema vsako objavljeno letno poročilo 2011–2025 ter objavljene izvide VS Črnomelj za leto 2026. Za starejša leta obstajajo grafični prikazi, ne pa v tem pregledu preverjena izvorna letna števila. Pri zraku so lokalni podatki potrjeni za 2024, 2025 in del 2026. To ni popolna evidenca vseh meritev, vseh zasebnih vodnih virov ali vseh naselij v občini.
+
+## Trenutno stanje
+
+### Kako življenjske razmere vplivajo na zdravje
+
+| Dejavnik | Verjetna pot vpliva in dokazna podlaga | Kaj lahko sklepamo za Črnomelj |
+|---|---|---|
+| Razvitost in javne storitve | Stanovanjske razmere, izobrazba, delo, socialna varnost in dostop do kakovostne hrane pomembno oblikujejo zdravstvene razlike. [1] | Koeficient razvitosti občine ni zdravstvena diagnoza. Za presojo so potrebni tudi podatki o revščini, dostopu in porazdelitvi koristi razvoja. |
+| Dohodki | Višji razpoložljivi dohodek lahko izboljša možnosti za primerno bivanje, ogrevanje, prehrano in prevoz. Povezanost dohodka z zdravjem ne pomeni, da je mogoče iz občinske povprečne plače izračunati zdravstveni učinek. [1] | SURS za 2024 navaja povprečno bruto plačo 2.016,60 EUR v občini in 2.394,92 EUR v Sloveniji; neto 1.306,78 in 1.526,02 EUR. To ni dohodek vseh gospodinjstev ali vseh prebivalcev. [4] |
+| Manj dolgotrajnega stresa | Dolgotrajni stres lahko poslabša spanje, obstoječe zdravstvene težave in duševno zdravje ter spremljajoča vedenja. [5] | Trditev, da je življenje v Črnomlju manj stresno, ostaja hipoteza. Potrebna je primerljiva anketa; naravno okolje ne izključi stresa zaradi dela, finančnih težav ali prevozov. |
+| Vrtnarjenje in samooskrba | Randomizirana raziskava 291 odraslih v ZDA je zaznala ugodnejše spremembe vnosa vlaknin, gibanja, stresa in tesnobe; ni dokazala sprememb BMI, obsega pasu ali skupnega vnosa sadja in zelenjave. To ni dokaz preprečenih bolezni. [6] | Prostor za vrt je možnost, ne meritev prehrane. Učinek je odvisen od dejanskega uživanja pridelkov, dostopa do zemlje, časa, vode in znanja. Raziskava skupnostnih vrtov ni neposredna ocena domače pridelave v Beli krajini. |
+| Kakovost hrane | Zdravstvena vrednost je odvisna od sestave prehrane, raznovrstnosti in varnosti, ne samo od lokalnega izvora. [7] | Domače ne pomeni samodejno bolj zdravo ali brez onesnaževal. Potrebni so varna voda, primerna tla, pravilna uporaba sredstev ter varno ravnanje in shranjevanje. To so načrtovalna merila, ne ugotovitev onesnaženosti lokalnih pridelkov. |
+| Varna voda | Mikrobiološko onesnažena voda lahko prenaša okužbe; pomembna sta tudi kemijska varnost in neprekinjena oskrba. [8] | Presojati moramo pripravljeno vodo pri uporabniku, surovi vir in stanje omrežja ločeno. Letna ocena ne zagotavlja ustreznosti vsake pipe vsak dan. |
+| Čistejši zrak | Onesnažen zunanji zrak je dejavnik tveganja za srčno-žilne in dihalne bolezni ter pljučnega raka. [9] | Zeleno okolje ne zagotavlja nizkih zimskih koncentracij. Lokalna merilna postaja opisuje svojo lokacijo; iz nje ne moremo izračunati izpostavljenosti vseh prebivalcev. |
+
+## Ključna dejstva
+
+### Pitna voda: vir Dobliče ni enako voda iz pipe
+
+Vodovodni sistem Črnomelj uporablja vodni vir Dobličica oziroma zajetje Dobliče. Poročila ločujejo surovo vodo na zajetju, vodo po pripravi na Griču ter vzorce v vodohranih, omrežju in pri uporabnikih. V letu 2025 so bili vsi štirje običajni mikrobiološki vzorci na zajetju neustrezni, 108 vzorcev po pripravi in v omrežju pa ustreznih po parametrih tabele 2. Dodatne analize parazitov so kljub temu odkrile neskladnosti v Adlešičih. [2]
+
+**Kakovost reke Dobličice ni s tem v celoti ocenjena.** Analize zajetja niso ocena ekološkega in kemijskega stanja celotnega vodotoka, meritve pretoka pa niso meritve pitnosti. V tem dopolnilu ni preverjene neprekinjene časovne vrste ARSO za stanje reke; te vrzeli ne nadomeščamo z oceno vodovoda.
+
+| Leto meritev | Kaj je bilo mogoče preveriti | Pomembna omejitev ali odstopanje |
+|---|---|---|
+| 1996–2010 | Poročilo za 2021 vsebuje zgodovinski graf 1996–2021. [10] | Izvirnih letnih tabel za ta leta nismo pridobili. Deležev ne odčitavamo navidezno natančno iz slike; to so manjkajoči podatki, ne nič neskladnosti. |
+| 2011 | VS Črnomelj: objavljenih 116 mikrobioloških, 36 kemijskih in 1 preiskava na parazite; upravljavec navaja zdravstveno ustreznost. [11] | Vinica je še imela težave z vonjem, okusom in motnostjo ter priporočilo prekuhavanja. Splošna letna ocena zato ne izbriše opisanih težav. |
+| 2012 | VS Črnomelj: 116 mikrobioloških, 42 kemijskih in 1 preiskava na parazite; vsi objavljeni rezultati ocenjeni ustrezno. [12] | Še opisane težave na takrat ločenem sistemu Vinica in ob dežju na sistemu Semič. |
+| 2013 | VS Črnomelj: 116 mikrobioloških, 44 kemijskih in 3 preiskave na parazite; ocena ustrezno. [13] | Povzetek še opisuje težave Vinice; ne enačimo ocene Črnomlja z neprekinjeno ustreznostjo vseh sistemov. |
+| 2014 | VS Črnomelj: 116 mikrobioloških, 44 kemijskih in 3 preiskave na parazite; ocena ustrezno. [14] | V drugi polovici leta se je območje Vinice začelo oskrbovati iz Dobličice. Sprememba vira omejuje neposredno primerjavo. |
+| 2015 | VS Črnomelj: 132 mikrobioloških, 54 kemijskih in 4 preiskave na parazite; po pripravi objavljena skladnost vseh vzorcev. [15] | Ne gre za dokaz, da je bila tudi surova izvirska voda pitna. |
+| 2016 | VS Črnomelj: 129 mikrobioloških, 49 kemijskih in 3 preiskave na parazite; letna ocena ustrezno. [16] | Kratek povzetek, brez posameznih koncentracij in vseh imenovalcev po odvzemnih mestih. |
+| 2017 | VS Črnomelj: 133 mikrobioloških, 51 kemijskih in 2 preiskavi na parazite; letna ocena ustrezno. [17] | Letna zdravstvena ocena ni isto kot objavljena tabela vseh posameznih rezultatov. |
+| 2018 | VS Črnomelj: 122 mikrobioloških in 41 kemijskih vzorcev; 3 mikrobiološka in 1 kemijsko odstopanje, kontrolni vzorci po ukrepih skladni. [18] | V povzetku so odstopanja pretežno pripisana hišnim napeljavam. Opisano je tudi onesnaženje surove vode vrtine Damelj; ne mešamo ga z omrežjem Črnomelj. |
+| 2019 | VS Črnomelj: 131 mikrobioloških in 47 kemijskih vzorcev; 3 mikrobiološka in 1 kemijsko odstopanje, kontrolni vzorci skladni. [19] | Letna ocena je ustrezno kljub posamičnim odstopanjem. Podobno besedilo poročil 2018 in 2019 ni dodatna neodvisna verifikacija vzrokov. |
+| 2020 | VS Črnomelj: 122 mikrobioloških, 46 kemijskih in 2 preiskavi na parazite; objavljena skladnost vseh preskušanih vzorcev. [20] | Obseg povzetka ni enak podrobnejšim tabelam od 2021. |
+| 2021 | Surovo zajetje: 7/7 rutinskih mikrobioloških vzorcev neustreznih; po pripravi in v omrežju 109/109 ustreznih. [10] | 5. 10. zaznan Cryptosporidium na zajetju; kontrolna vzorca na Griču in v VVO Čardak 21. 10. brez zaznave. PDF vsebuje dvakrat istih osem strani; ne štejemo dvakrat. |
+| 2022 | Surovo zajetje: 9/9 neustreznih; po pripravi in v omrežju 111/111 ustreznih. Pet preiskav na parazite brez zaznave. [21] | Na dolgih krakih Črnomelj–Dobliče je bilo približno 25 % meritev klordioksida pod priporočeno vrednostjo. |
+| 2023 | Surovo zajetje: 5/5 neustreznih; po pripravi in v omrežju 94/94 ustreznih. Štiri preiskave na parazite brez zaznave. [22] | V poročilu je navedenih 27 % meritev klordioksida pod priporočeno vrednostjo. Podatek 5/5 E. coli je ob napačno izpisanih 89 % računsko 100 %. |
+| 2024 | Surovo zajetje: 5/5 neustreznih; po pripravi in v omrežju 114/114 ustreznih. Štiri preiskave na parazite brez zaznave. [23] | Ena od treh kemijskih analiz surovega zajetja neustrezna zaradi motnosti; kemijski vzorci po pripravi skladni. |
+| 2025 | Surovo zajetje: 4/4 neustreznih; po pripravi in v omrežju 108/108 rutinskih mikrobioloških vzorcev ustreznih. [2] | Dodatne analize v Adlešičih 6. in 16. oktobra pozitivne na enteroparazite. Letno poročilo izrecno izvzema območje Adlešičev iz splošne ocene ustreznosti. |
+| 2026 do 2. 9. | Pregledan seznam 88 povezav do izvidov VS Črnomelj: 86 različnih številk vzorcev, odvzemi 8. 1.–2. 9. 2026. [24] | Nepopolno leto in samo ta sistem; ne izračunavamo letnega deleža za občino. Izvid 26/89747, Griblje OŠ, 2. 9.: Giardia in Cryptosporidium 0 v 100 L. [25] |
+
+Števila od 2011 do 2020 so prepis objavljenega obsega preskušanja VS Črnomelj. Od 2021 ločeno seštevamo vrstice »po pripravi«, »VH in omrežje upravljavca« in »omrežje« v tabeli 2. Analize različnih parametrov lahko zadevajo isti odvzem: mikrobioloških, kemijskih in parazitoloških preiskav ne seštevamo v število različnih dogodkov. Delež 100 % pri rutinskih analizah ne vključuje samodejno dodatnih analiz na parazite.
+
+### Kaj se je zgodilo v Adlešičih leta 2025
+
+| Datum odvzema | Mesto | Ugotovitev poročila |
+|---|---|---|
+| 6. 10. 2025 | Adlešiči KZ | Giardia 1, Cryptosporidium 1; neskladno. |
+| 16. 10. 2025 | Hidrant med OŠ in KZ | Giardia 1, Cryptosporidium 0; neskladno. |
+| 16. 10. 2025 | VH Grič, VH Čudno Selo, VH Bedenj | Obe preiskavi brez zaznave. |
+| 28. 10. 2025 | Isti hidrant v Adlešičih in VH Zilje | Obe preiskavi brez zaznave. |
+| 6. 11. 2025 | VH Zilje | Obe preiskavi brez zaznave. |
+
+Vir je tabela 3 letnega poročila; v tej tabeli volumen vzorca ni naveden, zato navedenih števil ne pretvarjamo v koncentracijo. [2] Poznejši negativni vzorci so pomembni, vendar sami ne dokazujejo vzroka in trajne sanacije. Poročilo ne dokazuje izbruha bolezni med prebivalci. Brez evidence ukrepov tudi ne sklepamo, da omejitev uporabe velja še danes. Javni izvid za Adlešiči KZ s časom odvzema 31. 8. 2026 navaja skladne rutinske mikrobiološke parametre; ne vsebuje preiskave na enteroparazite. Datum ob povezavi je 7. 9., zato je odločilen datum v izvidu. [26]
+
+### Drugi sistemi in kakovost dokumentacije
+
+V letu 2025 tabela notranjega nadzora za Semič–Črnomelj navaja en neustrezen mikrobiološki vzorec od 26 na omrežju, brez E. coli. Državni monitoring za Potoki–Rožni Dol navaja en neskladen od dveh vzorcev zaradi števila kolonij pri 22 °C. Zato niti ocena največjega sistema niti skupna uvodna ocena ne nadomesti branja vseh tabel. Kemijski rezultati in spremljani stranski produkti dezinfekcije so v poročilu za 2025 ocenjeni skladno. [2]
+
+Za zajetje Rožni Dol tabela 2024 vsebuje medsebojno nezdružljive števce in odstotke; teh ne popravljamo z ugibanjem. Poročilo 2022 nadgradnjo priprave na Griču datira v 2022, poročili 2023 in 2024 pa v 2023. To je odprto dokumentacijsko neskladje, ki ga mora razjasniti upravljavec z zapisnikom o prevzemu. [21] [22] [23]
+
+### Zrak: lokalne meritve in prelom lokacije
+
+| Obdobje | PM10: letno povprečje (µg/m³) | Dnevi PM10 nad 50 µg/m³ | PM2,5: letno povprečje (µg/m³) | Razlaga |
+|---|---:|---:|---:|---|
+| Pred 2024 | Ni potrjenega lokalnega niza | Ni podatka | Ni podatka | Poročilo ARSO 2024 opisuje na novo uvedene enoletne meritve pri ZD; pregledani letni poročili 2022 in 2023 ne dajeta primerljivega niza za Črnomelj. [3] |
+| 2024, Črnomelj ZD | 24 | 39 izmerjenih; 34 po odštetju naravnega prispevka | 19 | ARSO: 99 % razpoložljivost podatkov za obe frakciji. Benzo(a)piren 2,6 ng/m³, nad letno ciljno vrednostjo 1 ng/m³. [3] |
+| 2025, Črnomelj; selitev februarja | 19 | 10 | 15 | Letni pregled v decembrskem biltenu. Podatkov ne razlagamo kot čisto meritev izboljšanja na istem mestu. [27] |
+| 2026, januar–julij | Letnega povprečja še ni | Objavljenih 10*, podatki niso dokončno potrjeni | Letnega povprečja še ni | Januar je označen z nezadostnim številom veljavnih meritev. Ne primerjamo delnega leta s celim letom. [28] [29] |
+
+Postaja ob ZD je bila ob začetku gradnje prizidka februarja 2025 ukinjena; meritve na Loki ob stadionu so se začele 21. februarja 2025. Spremenila sta se lokacija in izplen meritev. Razlika med 2024 in 2025 zato sama ne dokazuje učinka občinskih ukrepov ali trajnega trenda. [30]
+
+Pravna presoja in zdravstvena presoja nista ista stvar. Pri PM10 je ARSO za Črnomelj v 2024 od 39 preseganj odštel pet zaradi puščavskega prahu; 34 je pod dovoljenimi 35 dnevi. Delci, ki jih prebivalci vdihujejo, s tem niso izginili. Povprečji PM10 24 in PM2,5 19 µg/m³ sta bili pod tedanjima letnima zakonskima mejama 40 in 20, a nad priporočiloma WHO 2021 za letno povprečje 15 in 5 µg/m³. [3] [31]
+
+| Mesec | PM10 2024, ZD (µg/m³) | PM10 2025, lokacija se spremeni (µg/m³) | PM10 2026, Loka (µg/m³) |
+|---|---:|---:|---:|
+| Januar | 45 | 31 | 50* |
+| Februar | 37 | 34* | 23 |
+| Marec | 28 | 18 | 20 |
+| April | 16 | 14 | 14 |
+| Maj | 13 | 9 | 9 |
+| Junij | 15 | 12 | 12 |
+| Julij | 15 | 10 | 12 |
+| Avgust | 15 | 16 | Ni podatka |
+| September | 14 | 14 | Ni podatka |
+| Oktober | 22 | 18 | Ni podatka |
+| November | 37 | 25 | Ni podatka |
+| December | 41 | 36 | Ni podatka |
+
+Mesečna povprečja niso primerljiva z letno mejno vrednostjo ali z dnevno mejo kot testom skladnosti. Zvezdica pomeni premalo veljavnih meritev, informativni podatek. Viri: tabela 7.4 poročila 2024 ter mesečni tabeli ARSO za december 2025 in julij 2026, objavljeni 3. 2. in 31. 8. 2026. [3] [32] [28]
+
+### Benzo(a)piren in kovine
+
+Povprečni benzo(a)piren 2,6 ng/m³ v letu 2024 je posebej pomemben signal: ARSO ga povezuje predvsem z nepopolnim zgorevanjem, zlasti v malih kurilnih napravah, ter navaja rakotvornost. Visoke vrednosti v kurilni sezoni podpirajo prednostno obravnavo ogrevanja; ne dokazujejo prispevka vsakega lokalnega vira. Povprečne letne vrednosti kovin na isti postaji so bile arzen 0,26, nikelj 0,58, kadmij 0,18 in svinec 4,2 ng/m³; poročilo jih ocenjuje pod ustreznimi ciljnimi oziroma mejnimi vrednostmi. [3]
+
+Za 2025 je arhivirana tudi dnevna tabela benzo(a)pirena. Vsebuje vrednosti pod mejo določanja, podvojeno vrstico za 6. 8. 2025 in še podatke januarja 2026. Brez določitve obravnave teh zapisov in potrditve reprezentativnosti iz nje ne objavljamo uradnega letnega povprečja. Odsotnost agregata ni dokaz odsotnosti tveganja. [33] Za ozon, NO₂ in druge pline ta pregled nima primerljive lokalne časovne vrste; podatkov iz Novega mesta ne predstavljamo kot meritev Črnomlja.
+
+## Viri
+
+Prednost imajo uradna poročila NLZOH, objavljena pri Komunali, ARSO in SURS. Kratka obvestila Komunale 2011–2020 imajo srednjo zanesljivost za natančno rekonstrukcijo vzorčenj; podrobni laboratorijski izvidi in merilne tabele visoko za konkretne vzorce oziroma postaje. Viri WHO povzemajo širše dokaze; lokalnega učinka ne merijo. Randomizirana raziskava vrtov ima omejeno prenosljivost v Črnomelj. Celotne prenesene datoteke, izvlečki in SHA-256 so shranjeni lokalno. Arhiviranje ni sinonim za ročno validacijo vsake laboratorijske številke.
+
+## Identificirani problemi
+
+| Problem | Kaj je potrjeno in kaj ostaja odprto |
+|---|---|
+| Nepopolna zgodovina in neenaka kakovost zapisov | Kratki povzetki starejših let, grafi brez izvornih tabel, tipkarske napake ter podvojeni PDF in vzorci omejujejo letno primerjavo. |
+| Varovanje virov in nadzor omrežja | Surovo zajetje je mikrobiološko obremenjeno; poročila navajajo težave z ostankom razkužila in priporočila obnov. Ustreznost pripravljene vode je treba dokazovati ločeno. |
+| Dogodek Adlešiči | Pozitivni vzorci 2025 in poznejši negativni vzorci so dokumentirani; vzrok, obseg obveščanja in dokaz trajne odprave v tej raziskavi niso potrjeni. |
+| Zimska izpostavljenost zraku | Lokalni signal PM in benzo(a)pirena je potrjen; sprememba merilne lokacije ovira trend, prostorska pokritost pa ne zadošča za vsa naselja. |
+| Domneve o socialnih prednostih podeželja | Ni lokalne meritve manj stresa ali zdravstvenega učinka samooskrbe. Povprečna plača ne razkrije revščine in dostopa gospodinjstev. |
+
+## Kritična vprašanja
+
+| Za koga | Vprašanje in zahtevani dokaz |
+|---|---|
+| Komunala in NLZOH | Katere izvorne letne tabele obstajajo za 1996–2010? Predložiti števce, imenovalce, odvzemna mesta in metode. |
+| Komunala | Kako so odpravljena neskladja odstotkov v tabelah 2023–2024? Objaviti popravljeno različico z revizijsko sledjo. |
+| Komunala in NLZOH | Kaj je bil ugotovljeni vzrok parazitov v Adlešičih 2025? Predložiti zapisnik preiskave in rezultate kontrol. |
+| Komunala | Kdaj in komu je bilo ob dogodku izdano obvestilo ter kdaj preklicano? Predložiti časovnico z besedili in območjem veljavnosti. |
+| Komunala in zdravstveni inšpektorat | Katere zahteve za pripravo vode so bile preverjene po dogodku? Predložiti odločitve, izvedene ukrepe in meritve. |
+| Komunala | Koliko meritev na končnih krakih ostaja pod priporočilom razkužila? Objaviti lokacije po območjih, število meritev in mesečni delež. |
+| Občina in upravljavec | Kdaj je bila prevzeta nadgradnja Grič, 2022 ali 2023? Predložiti prevzemni zapisnik in opis faz. |
+| Občina in pristojni organi za vode | Kako se nadzorujejo vodovarstvena območja? Predložiti načrt, izvedene preglede in ukrepe. |
+| Komunala in občina | Kakšna je varnost gospodinjstev zunaj javnega sistema? Predložiti agregiran popis sistemov in režim nadzora brez osebnih podatkov. |
+| ARSO | Katere meritve Dobličice so primerne za presojo reke, zajetja in podzemne vode? Predložiti šifre mest, obdobja, parametre in meje določanja. |
+| ARSO | Ali obstajajo lokalne meritve zraka pred 2024? Predložiti arhiv postaj, trajanje meritev in validirane nize. |
+| ARSO | Kako selitev ZD–Loka vpliva na primerljivost 2024–2025? Predložiti metapodatke, izplen in morebitne vzporedne meritve. |
+| ARSO | Kakšen je potrjen letni benzo(a)piren 2025? Predložiti agregat, pravilo za LOQ in pojasnilo podvojene vrstice 6. avgusta. |
+| ARSO | Kako je bilo določenih pet naravnih preseganj v 2024? Predložiti datume in izračun prispevka. |
+| Občina in ARSO | Katera naselja so z merilno postajo slabo predstavljena? Predložiti načrt dodatnih zimskih meritev. |
+| Občina | Kolikšen delež kurišč je zastarel in kateri ukrepi so izvedljivi? Predložiti anonimiziran popis in stroške variant. |
+| Občina in Eko sklad | Kako bodo lahko ukrepali energetsko revni? Predložiti pogoje dostopa, pomoč pri prijavi in spremljanje zavrnjenih vlog; ne domnevamo odprtega razpisa. |
+| Šole in ZD | Ali obstaja protokol aktivnosti ob epizodah delcev? Predložiti protokol, odgovorne osebe in evidenco obveščanja. |
+| Občina in upravljavci cest | Kje se prekrivata prometna izpostavljenost in pot otrok? Predložiti prometne podatke in meritve, ne samo ocene. |
+| NIJZ | Kako spremljati zdravstvene izide brez pripisovanja občinskih nihanj enemu viru? Predložiti načrt s primerjalnimi območji in starostno standardizacijo. |
+| SURS in občina | Kateri podatki opisujejo dohodke prebivalcev in ne samo delovnih mest? Predložiti definicije, leta in agregate gospodinjstev. |
+| Občina in CSD | Katere skupine imajo težave s prevozom, ogrevanjem in prehrano? Predložiti anonimizirano oceno potreb in pokritosti pomoči. |
+| CKZ | Ali je stres lokalno izmerjen z veljavno lestvico? Predložiti vzorčenje, odzivnost in rezultate po skupinah brez razkrivanja oseb. |
+| Delodajalci | Kako merijo delovne obremenitve in dostop do preventivnih ukrepov? Predložiti agregirane rezultate in načrt sprememb. |
+| Občina in kmetijska svetovalna služba | Koliko gospodinjstev dejansko prideluje hrano zase? Predložiti način ocene, površine in deleže po naseljih. |
+| Občina | Ali imajo do vrta dostop najemniki in gospodinjstva brez zemlje? Predložiti evidenco potreb ter pregleden način dodelitve. |
+| CKZ in šole | Ali program vrtnarjenja spreminja prehrano in gibanje po 6 in 12 mesecih? Predložiti meritve pred in po ter podatke o osipu. |
+| Kmetijska svetovalna služba in NIJZ | Kako zagotoviti varno vodo, tla in uporabo sredstev na vrtovih? Predložiti program podpore ter merila za ciljno vzorčenje. |
+| Občina in društva | Kako vključiti starejše, gibalno ovirane in ljudi brez prevoza? Predložiti prilagoditve, dostopnost in strošek na udeleženca. |
+| Občinski svet | Kako se bodo predlogi primerjali z drugimi naložbami? Predložiti stroške, koristi, tveganja in poročanje po 12 mesecih. |
+
+## Tveganja
+
+Največji interpretacijski tveganji sta enačenje ustreznih rutinskih vzorcev z odsotnostjo vseh nevarnosti ter razglasitev čistega zraka na podlagi podeželske pokrajine. Socialni programi lahko izključijo ljudi brez zemlje, časa, denarja ali prevoza. Ukrepi za kurišča brez finančne podpore lahko povečajo energetsko revščino. Pridelava hrane lahko doda obremenitev, če postane pričakovana obveznost. Zdravstvenih izidov ne pripisujemo samooskrbi, dohodku, CKZ ali eni naložbi brez ustrezne primerjave.
+
+## Možne rešitve
+
+Vse ocene virov spodaj so **načrtovalne ocene**, ne ponudbe ali zagotovljeno financiranje. Za večje gradbene posege se znesek določi po projektiranju. Možni financerji pomenijo možnosti za preverbo, ne trditve o odprtih razpisih.
+
+| Problem in rok | Ukrep in odgovorni | Viri in možna sredstva | Korist, tveganje in kazalnik |
+|---|---|---|---|
+| Voda, 0–12 mesecev | Komunala in NLZOH: enoten javni register vzorcev, pojasnilo Adlešičev in popravki tabel. | 15–30 delovnih dni; proračun upravljavca/občine. | Boljša sledljivost; tveganje napačnega štetja. V 6 mesecih vsak zapis z ID, datumom odvzema, mestom in ukrepom; v 12 mesecih izmerjen čas obveščanja. |
+| Voda, 1–3 leta | Upravljavec in občina: na podlagi ocene tveganja izboljšati pripravo, nadzor dolgih krakov in obnovo. | 20–50 strokovnih dni za oceno in načrt; investicije po projektu. Lastna sredstva, občina, preverba državnih/EU možnosti. | Manj obratovalnih tveganj; tveganje stroška za odjemalce. Letno spremljati izpade, delež nizkega ostanka razkužila in dodatne kontrole parazitov. |
+| Voda, 3–10 let | Občina in pristojni organi: zaščita zaledja, sistematična obnova omrežja in varnost virov zunaj javnega sistema. | Večletni načrt na podlagi popisa; investicije po projektu. | Odpornost ob nalivih/suši; varovati dostopnost za oddaljene uporabnike. Letni pregled izvedbe, izgub vode, prekinitev in pokritosti nadzora. |
+| Zrak, 0–12 mesecev | ARSO in občina: ohraniti meritve, objaviti metapodatke selitve, pripraviti zimski protokol in ciljni popis kurišč. | 10–25 strokovnih dni; občina/ARSO v okviru dogovora. | Jasnejša izpostavljenost; tveganje stigmatizacije naselij. Po 6/12 mesecih poročati o izplenu, pokritosti in dosegu obvestil. |
+| Zrak, 1–3 leta | Občina s svetovalnimi službami: ciljno pomagati pri učinkovitejšem ogrevanju in prenovah. | 0,2–0,5 FTE koordinacije; subvencije in prenove po popisu. Preveriti Eko sklad, državo, lastna sredstva. | Znižanje izpustov; brez prisile v nevzdržne stroške. Spremljati zamenjave, strošek ogrevanja ranljivih in vremensko prilagojene koncentracije. |
+| Zrak, 3–10 let | Občina: povezati energetski, prometni in prostorski načrt s cilji kakovosti zraka. | Investicijski program po variantah; občina ter možna državna/EU sredstva. | Trajnejše zmanjšanje izpostavljenosti; tveganje počasnega izvajanja. Letno spremljati PM in BaP, po 3–5 letih presoditi trend na primerljivih postajah. |
+| Življenjske razmere, 0–12 mesecev | Občina, CSD, CKZ: ocena potreb, stresa in dostopa do zdrave hrane; prostovoljen pilot dostopnih vrtov. | 15–30 strokovnih dni; pilot 5.000–15.000 EUR, občina in partnerji. | Identifikacija ovir; tveganje samoizbora. Po 6/12 mesecih izmeriti vključevanje, osip, stres in prehrano z vnaprej določenimi merili. |
+| Življenjske razmere, 1–3 leta | Občina, šole, CKZ: dostopni vrtovi, znanje o varni pridelavi in povezava s prehransko/prevozno podporo. | 0,2–0,5 FTE koordinacije; oprema in dostopnost po načrtu. Občina, partnerji, preverba javnih pozivov. | Koristi tudi brez lastništva zemlje; tveganje izključevanja in stigme. Letno poročati po območjih in o pokritosti ranljivih skupin, ne samo številu dogodkov. |
+| Življenjske razmere, 3–10 let | Občina, delodajalci in država: kakovostna delovna mesta, dostopno bivanje, prevoz in socialna infrastruktura. | Večletni program z ločenimi stroški in odgovornostmi. | Manj strukturnih ovir; tveganje neenake porazdelitve koristi. Spremljati dohodke gospodinjstev, stanovanjsko breme, dostop in zdravstvene neenakosti; brez obljube učinka ene naložbe. |
+
+### Uredniška ocena javno dokumentiranega stanja
+
+Lestvica: 1 = velika nedokumentirana vrzel, 2 = večje vrzeli, 3 = delna pokritost, 4 = dobro dokumentirano, 5 = celovito in preverljivo spremljanje. Enake uteži: po 1/7 za sedem ocenjenih meril. Stroški in učinkovitost niso ocenjeni zaradi manjkajočih primerljivih podatkov; ne štejejo kot nič. Ocene so raziskovalna presoja dokumentacije in izvedljivosti predlaganih ukrepov, ne klinična, akreditacijska ali stroškovna ocena izvajalcev.
+
+| Merilo | Voda | Zrak | Življenjske razmere |
+|---|---|---|---|
+| Preglednost rezultatov | 4: letna poročila in izvidi, napake ostajajo | 4: javni podatki, prelom lokacije | 3: SURS obstaja, lokalna anketa manjka |
+| Dostop in razpoložljivost | 4: široka javna oskrba, zasebni viri odprti | 3: ena lokalna lokacija | 3: možnosti obstajajo, dostop do zemlje neizmerjen |
+| Ujemanje s potrebami | 4: konkretne nevarnosti in ukrepi | 4: PM in BaP sta pomembna lokalna signala | 3: utemeljene poti vpliva, potrebe niso popisane |
+| Dokazi in spremljanje | 3: kontrole so objavljene, vzrok dogodka ni potrjen | 3: kratka in prekinjena lokalna serija | 2: ni meritev lokalnega učinka |
+| Pravičnost in doseg | 3: oddaljeni kraki in zasebni viri zahtevajo pregled | 2: prostorski in socialni doseg izpostavljenosti manjka | 2: ni meritev dostopa ranljivih |
+| Stroški in učinkovitost | Ni ocene | Ni ocene | Ni ocene |
+| Trajnost | 3: potrebne obnove in zaščita virov | 3: potreben večletni program | 3: odvisno od trajne podpore |
+| Izvedljivost ukrepov | 4: znani odgovorni in postopki | 3: potreben dogovor več deležnikov | 3: izvedljiv pilot, širitev zahteva oceno |
+| Izračun in status | 25/7 = 3,57; ⚠️ | 22/7 = 3,14; ⚠️ | 19/7 = 2,71; ⚠️ |
+
+Status pri vodi ne pomeni potrjene današnje nevarnosti: dogodek 2025 je dokumentiran, poznejši kontrolni vzorci negativni, trajna odprava pa ni potrjena. Pri zraku je presežena ciljna vrednost BaP potrjena za 2024, tekoče letno stanje ni zaključeno. Pravila za samodejni status ❌ zaradi potrjenega trenutno nerešenega tveganja zato ne uporabljamo zgolj iz zgodovinskih meritev; odprto vprašanje jasno ohranimo.
+
+## Primerjave
+
+Plače so primerjane s Slovenijo za isto leto in po isti objavi SURS. Pri zraku primerjava s priporočili uporablja isto frakcijo in letni čas povprečenja. Novo mesto v letnem pregledu 2025: PM10 14 in PM2,5 12 µg/m³; Črnomelj 19 in 15 µg/m³. To je primerjava merilnih mest mestnega ozadja, ne povprečij celotnih občin. [4] [27]
+
+Za JV Slovenijo, EU/OECD in podobne občine potrebujemo primerljive podatke o izpostavljenosti, dohodkih gospodinjstev, stresu in samooskrbi ter pri vodi enak način vzorčenja. Brez njih ne izdelamo lestvice občin ali trditve, da podeželje izravna nižje dohodke. Raziskava vrtov je primer intervencije z evalvacijo, ne primerljiva občinska zdravstvena statistika. [6]
+
+## Odprta vprašanja
+
+Manjkajo izvorne tabele vode pred 2011, popolna razlaga dogodka Adlešiči, primerljiva časovna vrsta stanja reke Dobličice, potrjen agregat BaP za 2025 ter meritve stresa, samooskrbe in dostopa do zemlje. Leto 2026 ostaja delno. Predlagana naslednja raziskava je povezava teh evidenc po enotnih definicijah, brez povezovanja osebnih zdravstvenih podatkov.
+
+## Povezane strani
+
+Poglavji poročila »Okolje in življenjske razmere« in »Otroci, prehrana in alkohol«; [[../../analysis/synthesis/pregled-za-kandidata.md]]; [[../../sources/source-summaries/okolje-voda-zrak-20260924.md]].
+
+## Zadnja posodobitev
+
+24. september 2026. Števila pomenijo leto meritev oziroma navedeno obdobje; datum objave in dostopa sta ločena.
+
+
+## Literatura
+
+[1] »Social determinants of health,« WHO, 6. maj 2025. [Na spletu]. Dostopno: https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-who-determinante.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/who-determinante.html]].
+
+[2] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2025,« NLZOH / Komunala Črnomelj, 2026. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Letno%20poro%C4%8Dilo%20za%20vodo/Komunala%20%C4%8Crnomelj%20poro%C4%8Dilo%202025_compressed.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2025-15.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2025-15.pdf]].
+
+[3] »Kakovost zraka v Sloveniji v letu 2024,« ARSO, 2025. [Na spletu]. Dostopno: https://www.arso.gov.si/zrak/kakovost%20zraka/poro%c4%8dila%20in%20publikacije/Letno_porocilo_2024_za_splet.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-zrak-2024.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/zrak-2024.pdf]].
+
+[4] »Črnomelj: Slovenske regije in občine v številkah, podatki za 2024,« SURS, b.d.. [Na spletu]. Dostopno: https://www.stat.si/obcine/sl/Municip/GroupedAll/24. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-surs-crnomelj-2024.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/surs-crnomelj-2024.html]].
+
+[5] »Stress,« WHO, 30. marec 2026. [Na spletu]. Dostopno: https://www.who.int/news-room/questions-and-answers/item/stress. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-who-stres.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/who-stres.html]].
+
+[6] »Effects of a community gardening intervention on diet, physical activity, and anthropometry outcomes in the USA (CAPS): an observer-blind, randomised controlled trial,« J. S. Litt in sod., The Lancet Planetary Health, 2023. [Na spletu]. Dostopno: https://pmc.ncbi.nlm.nih.gov/articles/PMC9936951/. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-vrtovi-rct.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/vrtovi-rct.html]].
+
+[7] »Healthy diet,« WHO, b.d.. [Na spletu]. Dostopno: https://www.who.int/news-room/fact-sheets/detail/healthy-diet. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-who-prehrana.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/who-prehrana.html]].
+
+[8] »Drinking-water,« WHO, b.d.. [Na spletu]. Dostopno: https://www.who.int/news-room/fact-sheets/detail/drinking-water. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-who-pitna-voda.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/who-pitna-voda.html]].
+
+[9] »Ambient (outdoor) air pollution,« WHO, b.d.. [Na spletu]. Dostopno: https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-who-zrak.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/who-zrak.html]].
+
+[10] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2021,« NLZOH / Komunala Črnomelj, 2022. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/PV-Crnomelj-2021.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2021-11.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2021-11.pdf]].
+
+[11] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2011,« Komunala Črnomelj, 2012. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne%20vode_v_letu_2011.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2011-1.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2011-1.pdf]].
+
+[12] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2012,« Komunala Črnomelj, 2013. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2012.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2012-2.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2012-2.pdf]].
+
+[13] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2013,« Komunala Črnomelj, 2014. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2013.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2013-3.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2013-3.pdf]].
+
+[14] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2014,« Komunala Črnomelj, 2015. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2014.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2014-4.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2014-4.pdf]].
+
+[15] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2015,« Komunala Črnomelj, 2016. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2015.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2015-5.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2015-5.pdf]].
+
+[16] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2016,« Komunala Črnomelj, 2017. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2016.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2016-6.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2016-6.pdf]].
+
+[17] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2017,« Komunala Črnomelj, 2018. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2017.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2017-7.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2017-7.pdf]].
+
+[18] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2018,« Komunala Črnomelj, 2019. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2018.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2018-8.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2018-8.pdf]].
+
+[19] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2019,« Komunala Črnomelj, 2020. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/Kakovost_pitne_vode_v_letu_2019.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2019-9.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2019-9.pdf]].
+
+[20] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2020,« Komunala Črnomelj, 2021. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/Kakovost_pitne_vode_v_letu_2020.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2020-10.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2020-10.pdf]].
+
+[21] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2022,« NLZOH / Komunala Črnomelj, 2023. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/PV-Crnomelj-2022.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2022-12.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2022-12.pdf]].
+
+[22] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2023,« NLZOH / Komunala Črnomelj, 2024. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Komunala%20%C4%8Crnomelj_poro%C4%8Dilo%20za%20leto%202023.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2023-13.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2023-13.pdf]].
+
+[23] »Kakovost pitne vode v občinah Črnomelj in Semič v letu 2024,« NLZOH / Komunala Črnomelj, 2025. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Letno%20poro%C4%8Dilo%20za%20vodo/Komunala%20%C4%8Crnomelj_%20poro%C4%8Dilo%20za%20leto%202024_compressed.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-voda-2024-14.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/voda-2024-14.pdf]].
+
+[24] »Rezultati vzorčenj VS Črnomelj,« Komunala Črnomelj, b.d.. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/novica/rezultati-vzorcenj-vs-crnomelj. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-komunala-vzorci-crnomelj.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/komunala-vzorci-crnomelj.html]].
+
+[25] »Poročilo o izvedeni nalogi: vzorec 26/89747, Griblje OŠ, odvzem 2. 9. 2026,« NLZOH / Komunala Črnomelj, 8. september 2026. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-89747_Pitna-voda---Griblje-OS.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-vzorec-2026-1.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/vzorec-2026-1.pdf]].
+
+[26] »Poročilo o izvedeni nalogi: vzorec 26/88801, Adlešiči KZ, odvzem 31. 8. 2026,« NLZOH / Komunala Črnomelj, 7. september 2026. [Na spletu]. Dostopno: https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88801_Pitna-voda---Adlesici-bife-KZ.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-vzorec-2026-8.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/vzorec-2026-8.pdf]].
+
+[27] »Naše okolje, december 2025: letni pregled kakovosti zraka, str. 142,« ARSO, 2026. [Na spletu]. Dostopno: https://www.arso.gov.si/o%20agenciji/knji%C5%BEnica/mese%C4%8Dni%20bilten/Nase%20okolje%20-%20december%202025.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-zrak-december-2025.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/zrak-december-2025.pdf]].
+
+[28] »Povprečna mesečna raven delcev PM10 v letu 2026, januar–julij,« ARSO, 31. avgust 2026. [Na spletu]. Dostopno: https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PM10_jul26.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-zrak-podatki-28.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/zrak-podatki-28.pdf]].
+
+[29] »Preseganje delcev PM10 v letu 2026, januar–julij,« ARSO, b.d.. [Na spletu]. Dostopno: https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/preseganja_pm10.html. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-zrak-podatki-29.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/zrak-podatki-29.html]].
+
+[30] »Naše okolje, februar 2025: selitev postaje Črnomelj,« ARSO, 2025. [Na spletu]. Dostopno: https://www.arso.gov.si/o%20agenciji/knji%C5%BEnica/mese%C4%8Dni%20bilten/Nase%20okolje%20-%20februar%202025.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-zrak-februar-2025.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/zrak-februar-2025.pdf]].
+
+[31] »WHO global air quality guidelines,« WHO, 2021. [Na spletu]. Dostopno: https://www.who.int/news-room/questions-and-answers/item/who-global-air-quality-guidelines. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-who-smernice-zrak.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/who-smernice-zrak.html]].
+
+[32] »Povprečna mesečna raven delcev PM10 v letu 2025,« ARSO, 3. februar 2026. [Na spletu]. Dostopno: https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PM10_dec25.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-zrak-podatki-27.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/zrak-podatki-27.pdf]].
+
+[33] »Dnevne ravni policikličnih aromatskih ogljikovodikov v delcih PM10 na merilnem mestu Črnomelj v letu 2025,« ARSO, 15. maj 2026. [Na spletu]. Dostopno: https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PAH_D_PM10_%c4%8cRNOMELJ_2025.pdf. [Dostopano: 24. september 2026]. Lokalna kopija: [[../../../viri/splet/okolje-20260924-zrak-podatki-34.md]]. Izvirnik: [[../../../viri/okolje-2026-09-24/zrak-podatki-34.pdf]].
+

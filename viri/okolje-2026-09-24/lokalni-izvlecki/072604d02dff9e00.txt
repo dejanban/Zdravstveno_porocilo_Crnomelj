@@ -1,0 +1,52 @@
+
+Stran 1
+                                                                                                                         2026.03.19 12:56:10
+                                                                NEŽ KA LENARČ IČ
+                                                                    OMA NM
+
+                                                                                                               Preverjanje istovetnosti dokumenta
+                                                                                                                      http://www.nlzoh.si/istovetnost
+
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+Delno poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - Vrtina Damelj (pipa št. 26)
+Matriks:             Pitna voda
+Številka vzorca:    26/25346; Lab. št.: 26/2768
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+Naročilo:         Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+Mesto odvzema:   Vodovod Damelj - Sinji vrh - zajetje, Vrtina Damelj (pipa št. 26)
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila:  19.03.2026
+Datum in ura:   17.03.2026 10:00                   Datum in ura:   17.03.2026 13:15
+Odvzel:        Dario Rahija, NLZOH OPKV               Prevzel:        Nastja Hočevar
+
+Rezultati preskušanja
+
+                                                                                                                         Začetek / zaključekParameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+                                                                                                                     17.03.2026Escherichia coli                           ISO 9308-1:2014, NM                  ni najdeno            CFU/100 mL                                                                                                                     18.03.2026
+                                                                                                                     17.03.2026Koliformne bakterije                       ISO 9308-1:2014, NM             ocenjeno 1            CFU/100 mL                                                                                                                     19.03.2026
+                                      ISO 6222:1999, tehnikaŠtevilo kolonij pri 22 °C                                                           v delu              CFU/mL                                                  prelivanja, gojišče YEA, NM
+                                      ISO 6222:1999, tehnikaŠtevilo kolonij pri 36 °C                                                           v delu              CFU/mL                                                  prelivanja, gojišče YEA, NM
+
+                              Analitik:                                      Odgovorna oseba:
+       Nežka Lenarčič, univ. dipl. mikrobiologinja                mag. Matjaž Retelj, univ. dipl. mikrobiolog
+
+
+
+Rezultati se nanašajo na predmet vzorčenja. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1

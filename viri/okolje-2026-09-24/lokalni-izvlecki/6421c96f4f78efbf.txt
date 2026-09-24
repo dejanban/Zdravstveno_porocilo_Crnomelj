@@ -1,0 +1,290 @@
+
+Stran 1
+                                                                                                                         2026.05.11 14:26:44
+                                                          MATIC MOLAN
+                                                                          OPKV
+
+                                                                                                               Preverjanje istovetnosti dokumenta
+                                                                                                                      http://www.nlzoh.si/istovetnost
+
+
+
+
+
+                          Poročilo o izvedeni nalogi
+
+    Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+
+
+
+
+Evidenčna oznaka:     2300-25/19436-26/44516                                           01.06.32159
+
+
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O.
+               BELOKRANJSKA CESTA 24 A
+                  8340 Črnomelj
+
+
+Naročilo:           Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+
+Izvajalci:             Oddelek za pitne in kopalne vode
+                   Oddelek za mikrobiološke analize živil, vod in drugih vzorcev okolja Novo mesto
+
+Vodja naloge:         Anton Škrbec, dipl.san.inž.
+
+
+Skrbnik vzorca:        Dario Rahija, dipl.san.inž.
+
+
+
+Novo mesto,          11.05.2026
+
+
+
+                                                   Oddelek za pitne in kopalne vode
+                                                     Vodja naloge:
+
+                                                    Anton Škrbec, dipl.san.inž.
+
+                                                                        Čas certificiranega podpisa namestnika in podatki o certifikatu so razvidni na vrhu prve strani
+                                                                                 dokumenta.
+
+
+
+
+
+Poročilo se brez pisnega dovoljenja izvajalca ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+                                                                                                                       Stran 1/3
+
+Stran 2
+Podatki o vzorcu
+
+Vzorec:               Pitna voda - Vranoviči, št. 9
+
+Številka vzorca:      26/44516
+
+Namen:                Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24
+                     A, 8340 Črnomelj
+
+Vzorec odvzel:        Dario Rahija, NLZOH OPKV
+
+Čas odvzema:        05.05.2026 10:05
+
+Mesto odvzema:     Vodovod Črnomelj - omrežje, Vranoviči, št. 9
+
+Vzorec sprejel:        Dario Rahija
+
+Kraj in čas sprejema:  Novo mesto, 05.05.2026 13:43
+
+
+
+Ocena rezultatov
+
+Prikazani so vsi rezultati preskušanj iz prilog.
+
+                                                                  Izražen
+Parameter                                 Rezultat      Enota                              Kriterij            Skladnost
+                                                                      kot/na
+
+Terenske meritve
+
+Temperatura vode                                    15.1          °C                                                                                                 /
+
+Klor-prosti                                           0.09          mg/L     LOQ                                                                           /
+
+Mikrobiološki parametri
+
+Escherichia coli                                            ni najdeno    CFU/100 mL                                               skladen
+
+Koliformne bakterije                                       ni najdeno    CFU/100 mL                                               skladen
+
+Število kolonij pri 22 °C                                    CFU/mL                                                                                            /
+
+Število kolonij pri 36 °C                                    CFU/mL                                                 skladen
+
+
+
+
+
+Ocena rezultatov:
+
+
+
+
+
+                                                                                                                       Stran 2/3
+
+Stran 3
+Priloge poročila:
+Poročilo o preskušanju z evidenčno oznako 2300-25/19436-26/44516-T
+Poročilo o mikrobiološkem preskušanju z evidenčno oznako 4002-25/19436-26/44516-M
+
+
+
+
+
+                                                                                                                       Stran 3/3
+
+Stran 4
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+Poročilo o preskušanju
+
+Vzorec:              Pitna voda - Vranoviči, št. 9
+
+Matriks:             Pitna voda
+
+Številka vzorca:     26/44516
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+
+Naročnik:        JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                    Črnomelj
+
+Naročilo:          Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Predmet vzorčenja:  Trenutni vzorec pitne vode iz sistema za oskrbo s pitno vodo.
+
+Plan vzorčenja:    DN 251461, 05.05.2026
+
+Mesto odvzema:    Vodovod Črnomelj - omrežje, Vranoviči, št. 9
+
+Metoda vzorčenja:   SIST ISO 5667-5:2007 v povezavi z ISO 19458:2006
+
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila: 11.05.2026
+
+Datum in ura:   05.05.2026 10:05                   Datum in ura:   05.05.2026 13:43
+
+Odvzel:        Dario Rahija, NLZOH OPKV                Sprejel:        Dario Rahija
+Slika oz. shema mesta odvzema / vzorca:
+Vranoviči, št. 9
+
+
+
+
+
+                                                                                                                               Stran: 1/2
+
+Stran 5
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+
+Rezultati preskušanja
+
+
+                                                                                                                                Začetek /                                              Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                  zaključek
+                                 Opomba                               kot/na           Kraj izvedbe              analize
+
+Terenske meritve
+
+Temperatura vode                              15.1                     °C               SIST DIN 38404-4:2000, na     05.05.26
+                                                                                          mestu odvzema          05.05.26
+Klor-prosti                                     0.09                     mg/L    LOQ     SIST EN ISO 7393-2:2018,     05.05.26
+                                                                                       na mestu odvzema        05.05.26
+
+Podatke o merilni negotovosti posredujemo na zahtevo naročnika.
+
+
+                                                                          Vodja naloge:
+                                                                  Anton Škrbec, dipl.san.inž.
+
+
+                                                                                                      Elektronsko podpisal namestnik Matic Molan ob 11.05.2026 14:26
+
+
+Rezultati se nanašajo na predmet vzorčenja. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 2/2
+
+Stran 6
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - Vranoviči, št. 9
+
+Matriks:             Pitna voda
+
+Številka vzorca:    26/44516; Lab. št.: 26/4688
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:   Vodovod Črnomelj - omrežje, Vranoviči, št. 9
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila: 08.05.2026
+
+Datum in ura:   05.05.2026 10:05                   Datum in ura:   05.05.2026 13:51
+
+Odvzel:        Dario Rahija, NLZOH OPKV               Prevzel:       Nežka Lenarčič
+
+Rezultati preskušanja
+
+
+                                                                                                                         Začetek / zaključek
+Parameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+
+                                                                                                                     05.05.2026
+Escherichia coli                           ISO 9308-1:2014, NM                  ni najdeno            CFU/100 mL
+                                                                                                                     06.05.2026
+                                                                                                                     05.05.2026
+Koliformne bakterije                       ISO 9308-1:2014, NM                  ni najdeno            CFU/100 mL
+                                                                                                                     06.05.2026
+                                      ISO 6222:1999, tehnika                                                     05.05.2026
+Število kolonij pri 22 °C                                                    < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   08.05.2026
+                                      ISO 6222:1999, tehnika                                                     05.05.2026
+Število kolonij pri 36 °C                                                    < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   07.05.2026
+
+
+                              Analitik:                                       Odgovorna oseba:
+       Nežka Lenarčič, univ. dipl. mikrobiologinja                mag. Matjaž Retelj, univ. dipl. mikrobiolog
+
+                                                                                            Elektronsko podpisal mag. Matjaž Retelj, univ. dipl. mikrobiolog ob 08.05.2026 13:44:02
+
+
+Rezultati se nanašajo na predmet vzorčenja. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1

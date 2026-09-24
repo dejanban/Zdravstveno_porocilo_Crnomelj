@@ -1,0 +1,286 @@
+
+Stran 1
+                                                                                                                         2024.01.17 13:27:28
+                                                          MATIC MOLAN
+                                                                          OPKV
+
+                                                                                                               Preverjanje istovetnosti dokumenta
+                                                                                                                      http://www.nlzoh.si/istovetnost
+
+
+
+
+
+                          Poročilo o izvedeni nalogi
+ Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne
+                            vode
+
+
+
+Evidenčna oznaka:     2300-23/19436-24/1881                                            02.05.48477
+
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O.
+               BELOKRANJSKA CESTA 24 A
+                  8340 Črnomelj
+
+Naročilo:           Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+                  Pogodba za vzorčenje in analize odvzetih vzorcev pitne vode, 425-3/2022, z dne
+                    17.01.2022
+
+Izvajalci:            Oddelek za pitne in kopalne vode
+                   Oddelek za kemijske analize živil, vod in drugih vzorcev okolja Novo mesto
+                   Oddelek za mikrobiološke analize živil, vod in drugih vzorcev okolja Novo mesto
+
+Vodja naloge:         Anton Škrbec, dipl.san.inž.
+
+
+Maribor,             17.01.2024
+
+
+                                                   Oddelek za pitne in kopalne vode
+                                                     Vodja naloge:
+
+                                                    Anton Škrbec, dipl.san.inž.
+
+                                                                        Čas certificiranega podpisa namestnika in podatki o certifikatu so razvidni na vrhu prve strani
+                                                                                 dokumenta.
+
+
+
+
+
+Poročilo se brez pisnega dovoljenja izvajalca ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+                                                                                                                       Stran 1/3
+
+Stran 2
+Podatki o vzorcu
+Vzorec:               Pitna voda - Adlešiči, bife KZ
+Številka vzorca:      24/1881
+Namen:                Notranji nadzor sistema za oskrbo s pitno vodo
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24
+                     A, 8340 Črnomelj
+Vzorec odvzel:        Dario Rahija, NLZOH OPKV
+Čas odvzema:        11.01.2024 11:40
+Mesto odvzema:     Vodovod Črnomelj - omrežje, Adlešiči, bife KZ
+Vzorec sprejel:        Dario Rahija
+Kraj in čas sprejema:  Novo mesto, 11.01.2024 13:24
+
+
+Ocena rezultatov
+
+Prikazani so rezultati z določenimi kriteriji.
+
+                                                                  IzraženParameter                                 Rezultat      Enota                              Kriterij            Skladnost                                                                      kot/na
+Terenske meritve
+Temperatura vode                                      8.6          °C                                                                                                 /
+Klor-prosti                                           0.25          mg/L                                                                                               /
+pH                                                     7.7                                                                  skladen
+Električna prevodnost (20°C)                       372         µS/cm                                                 skladen
+Vonj                                           brez posebnosti                                                                                                                  /
+Okus                                          brez posebnosti                                                                                                                  /
+Motnost                                           NTU                                                  skladen
+Kovine
+Aluminij                                        24           µg/L                                                  skladen
+Mikrobiološki parametri
+Escherichia coli                                            ni najdeno    CFU/100 mL                                               skladen
+Koliformne bakterije                                       ni najdeno    CFU/100 mL                                               skladen
+Clostridium perfringens                                    ni najdeno    CFU/100 mL                                               skladen
+Enterokoki                                                  ni najdeno    CFU/100 mL                                               skladen
+Število kolonij pri 22 °C                                   CFU/mL                                                                                            /
+Število kolonij pri 36 °C                                   CFU/mL                                                 skladen
+Osnovni parametri
+Amonij                                                      mg/L                                                  skladen
+Barva (436 nm)                                                                                                                                                                                                     /
+
+
+
+
+                                                                                                                       Stran 2/3
+
+Stran 3
+Ocena skladnosti
+Vzorec je skladen z upoštevanimi kriteriji.
+
+Zdravstvena ocena
+Glede na rezultate opravljenih preskušanj ocenjujemo vzorec kot zdravstveno ustrezen.
+
+Priloge poročila:
+Poročilo o preskušanju z evidenčno oznako 2300-23/19436-24/1881-T
+Poročilo o kemijskem preskušanju z evidenčno oznako 1072-23/19436-24/1881-K
+Poročilo o mikrobiološkem preskušanju z evidenčno oznako 4002-23/19436-24/1881-M
+
+
+
+
+
+                                                                                                                       Stran 3/3
+
+Stran 4
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+Poročilo o preskušanju
+
+Vzorec:              Pitna voda - Adlešiči, bife KZ
+Matriks:             Pitna voda
+Številka vzorca:     24/1881
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+Vodja naloge:      Anton Škrbec, dipl.san.inž.
+Naročnik:        JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                    Črnomelj
+Naročilo:          Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+Predmet vzorčenja:  Trenutni vzorec pitne vode iz sistema za oskrbo s pitno vodo.
+Plan vzorčenja:    DN 205194, 11.01.2024
+Mesto odvzema:    Vodovod Črnomelj - omrežje, Adlešiči, bife KZ
+Metoda vzorčenja:   SIST ISO 5667-5: 2007
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+Odvzem vzorca                                   Sprejem vzorca           Datum poročila: 17.01.2024
+Datum in ura:   11.01.2024 11:40                   Datum in ura:   11.01.2024 13:24
+Odvzel:        Dario Rahija, NLZOH OPKV               Sprejel:        Dario Rahija
+
+
+Rezultati preskušanja
+
+                                              Rezultat       Vrednosti              Izražen           Metoda              Začetek /Parameter                                                        Enota                                                  zaključek                                 Opomba      pod LOQ               kot/na           Kraj izvedbe              analize
+Terenske meritve
+Temperatura vode                                8.6                     °C               SIST DIN 38404-4:2000, na     11.01.24
+                                                                                          mestu odvzema          11.01.24
+Klor-prosti                                     0.25                     mg/L              SIST EN ISO 7393-2:2018,     11.01.24
+                                                                                       na mestu odvzema        11.01.24
+pH                                              7.7                                        SIST EN ISO 10523: 2012,     11.01.24
+                                                                                       na mestu odvzema        11.01.24
+                                                         Meritev opravljena pri T = 8.6 °C
+Električna prevodnost (20°C)                  372                    µS/cm              SIST EN 27888: 1998, na      11.01.24
+                                                                                          mestu odvzema          11.01.24
+                                                         Meritev opravljena pri T = 8.6 °C
+Vonj                                     brez posebnosti                         ÖNORM M 6620: 2012, na     11.01.24
+                                                                                          mestu odvzema          11.01.24
+Okus                                    brez posebnosti                         ÖNORM M 6620: 2012, na     11.01.24
+                                                                                          mestu odvzema          11.01.24
+Motnost                                     <0.10           <0.03     NTU              SIST EN ISO 7027-1:2017,     11.01.24
+                                                                                       na mestu odvzema        11.01.24
+
+
+
+
+
+                                                                                                                               Stran: 1/2
+
+Stran 5
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+Opomba:
+
+Izmerjena vrednost motnosti v odvzetem vzorcu je znašala 0,01 NTU #.
+
+
+
+
+                                                                         Vodja naloge:
+                                                                  Anton Škrbec, dipl.san.inž.
+
+                                                                                                      Elektronsko podpisal namestnik Matic Molan ob 17.01.2024 13:27
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 2/2
+
+Stran 6
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+Poročilo o kemijskem preskušanju
+
+Vzorec:             Pitna voda - Adlešiči, bife KZ
+Matriks:             Pitna voda
+Številka vzorca:    24/1881
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+Vodja naloge:      Anton Škrbec, dipl.san.inž.
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+Naročilo:         Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+Mesto odvzema:   Vodovod Črnomelj - omrežje, Adlešiči, bife KZ
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+Odvzem vzorca                                   Sprejem vzorca           Datum poročila: 17.01.2024
+Datum in ura:   11.01.2024 11:40                   Datum in ura:   11.01.2024 13:24
+Odvzel:        Dario Rahija, NLZOH OPKV               Sprejel:        Dario Rahija
+Rezultati preskušanja
+                                             Rezultat                               Izražen           Metoda              Začetek /Parameter                                                        Enota                                                 zaključek                                Opomba                               kot/na           Kraj izvedbe              analize
+Kovine
+                                                                                                                            17.01.24Aluminij                                  24                        µg/L                ISO 17294-2:2016, NM                                                                                                                            17.01.24
+Osnovni parametri
+                                                                                ISO 11732:2005, poglavje 4,    12.01.24Amonij                                     <0.01                     mg/L                                                                  NM               12.01.24
+                                                                                    SIST EN ISO 7887:2012;      12.01.24Barva (436 nm)                               <0.2                                                                                        metoda B, NM          12.01.24
+Podatke o merilni negotovosti posredujemo na zahtevo naročnika.
+
+
+                                                                               Vodja oddelka:
+                                                                           Jernejka Franko, univ.dipl.inž.kem.inž.
+                                                                                        Elektronsko podpisal namestnik Maja Križan, univ.dipl.kemik ob 17.01.2024 13:04:51
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1
+
+Stran 7
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+Poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - Adlešiči, bife KZ
+Matriks:             Pitna voda
+Številka vzorca:    24/1881; Lab. št.: 24/212
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+Vodja naloge:      Anton Škrbec, dipl.san.inž.
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+Naročilo:         Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+Mesto odvzema:   Vodovod Črnomelj - omrežje, Adlešiči, bife KZ
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila: 15.01.2024
+Datum in ura:   11.01.2024 11:40                   Datum in ura:   11.01.2024 13:38
+Odvzel:        Dario Rahija, NLZOH OPKV               Prevzel:         Brigita Weiss
+
+Rezultati preskušanja
+
+                                                                                                                         Začetek / zaključekParameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+                                                                                                                     11.01.2024Escherichia coli                           ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL                                                                                                                     12.01.2024
+                                                                                                                     11.01.2024Koliformne bakterije                       ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL                                                                                                                     12.01.2024
+                                                                                                                     11.01.2024Clostridium perfringens                     ISO 14189:2013, NM                  ni najdeno            CFU/100 mL                                                                                                                     12.01.2024
+                                                                                                                     11.01.2024Enterokoki                              ISO 7899-2:2000, NM                 ni najdeno            CFU/100 mL                                                                                                                     15.01.2024
+                                      ISO 6222:1999, tehnika                                                     11.01.2024Število kolonij pri 22 °C                                                   < 10               CFU/mL                                                  prelivanja, gojišče YEA, NM                                                   15.01.2024
+                                      ISO 6222:1999, tehnika                                                     11.01.2024Število kolonij pri 36 °C                                                   < 10               CFU/mL                                                  prelivanja, gojišče YEA, NM                                                   15.01.2024
+
+                              Analitik:                                      Odgovorna oseba:
+           Barbara Hrastar, mag.mol.funk.biol.                  mag. Matjaž Retelj, univ. dipl. mikrobiolog
+                                                                                            Elektronsko podpisal mag. Matjaž Retelj, univ. dipl. mikrobiolog ob 15.01.2024 15:21:34
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1

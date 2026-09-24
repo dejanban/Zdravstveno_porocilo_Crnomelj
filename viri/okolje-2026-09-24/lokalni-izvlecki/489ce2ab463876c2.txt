@@ -1,0 +1,268 @@
+
+Stran 1
+                          Poročilo o izvedeni nalogi
+
+    Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+
+
+
+
+Evidenčna oznaka:     2300-25/19436-25/110041                                           21.10.2025
+
+
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O.
+               BELOKRANJSKA CESTA 24 A
+                  8340 Črnomelj
+
+
+Naročilo:           Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+
+Izvajalci:             Oddelek za pitne in kopalne vode
+                   Oddelek za mikrobiološke analize živil, vod in drugih vzorcev okolja Novo mesto
+
+Vodja naloge:         Anton Škrbec, dipl.san.inž.
+
+
+Skrbnik vzorca:        Matic Molan, dipl.san.inž.
+
+
+
+Novo mesto,          21.10.2025
+
+
+
+                                                   Oddelek za pitne in kopalne vode
+                                                     Vodja naloge:
+
+                                                    Anton Škrbec, dipl.san.inž.
+
+
+                                                                        Čas certificiranega podpisa in podatki o certifikatu so razvidni na vrhu prve strani dokumenta.
+
+
+
+
+
+Poročilo se brez pisnega dovoljenja izvajalca ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+                                                                                                                       Stran 1/3
+
+Stran 2
+Podatki o vzorcu
+
+Vzorec:               Pitna voda - VH Čudno Selo - iztok (pipa št. 3)
+
+Številka vzorca:      25/110041
+
+Namen:                Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24
+                     A, 8340 Črnomelj
+
+Predmet vzorčenja:    Trenutni vzorec pitne vode iz sistema za oskrbo s pitno vodo.
+
+Plan vzorčenja:     DN 240644, 16.10.2025
+
+Vzorec odvzel:        Matic Molan, NLZOH OPKV
+
+Čas odvzema:        16.10.2025 09:30
+
+Mesto odvzema:     Vodovod Črnomelj - VH in omr. upravlj., VH Čudno Selo - iztok (pipa št. 3)
+
+Metoda vzorčenja:    SIST ISO 5667-5:2007
+
+
+Vzorec sprejel:        Matic Molan
+
+Kraj in čas sprejema:  Novo mesto, 16.10.2025 12:07
+
+
+
+Ocena rezultatov
+
+Prikazani so rezultati z določenimi kriteriji.
+
+
+Parameter                                 Rezultat      Enota                              Kriterij            Skladnost
+
+Terenske meritve
+
+Temperatura vode                                    14.5          °C                                                                                                 /
+
+Klor-prosti                                           0.37          mg/L                                                                                               /
+
+Motnost                                           NTU                                                  skladen
+
+Mikrobiološki parametri
+
+Giardia - ciste                                    0           v 100 L                                                  skladen
+
+Cryptosporidium- oociste                           0           v 100 L                                                  skladen
+
+
+
+
+
+                                                                                                                       Stran 2/3
+
+Stran 3
+Ocena rezultatov:
+
+
+
+
+
+Priloge poročila:
+Poročilo o preskušanju z evidenčno oznako 2300-25/19436-25/110041-T
+Poročilo o mikrobiološkem preskušanju z evidenčno oznako 4002-25/19436-25/110041-M
+
+
+
+
+
+                                                                                                                       Stran 3/3
+
+Stran 4
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+Poročilo o preskušanju
+
+Vzorec:              Pitna voda - VH Čudno Selo - iztok (pipa št. 3)
+
+Matriks:             Pitna voda
+
+Številka vzorca:     25/110041
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:     Matic Molan, dipl.san.inž.
+
+Naročnik:        JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                    Črnomelj
+
+Naročilo:          Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:    Vodovod Črnomelj - VH in omr. upravlj., VH Čudno Selo - iztok (pipa št. 3)
+
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila: 21.10.2025
+
+Datum in ura:   16.10.2025 09:30                   Datum in ura:   16.10.2025 12:07
+
+Odvzel:         Matic Molan, NLZOH OPKV                Sprejel:        Matic Molan
+
+Podatki odvzemnika navedeni na poročilu o preskušanju so naslednji: podatki o vzorcu (vpisano pod Vzorec: in
+Matriks:), podatki o odvzemu vzorca (mesto odvzema, datum in ura odvzema, vzorčevalec).
+
+Rezultati preskušanja
+
+
+                                                                                                                                Začetek /                                              Rezultat       Vrednosti              Izražen           Metoda
+Parameter                                                        Enota                                                  zaključek
+                                 Opomba      pod LOQ               kot/na           Kraj izvedbe              analize
+
+Terenske meritve
+
+Temperatura vode                              14.5                     °C               SIST DIN 38404-4:2000, na     16.10.25
+                                                                                          mestu odvzema          16.10.25
+Klor-prosti                                     0.37                     mg/L              SIST EN ISO 7393-2:2018,     16.10.25
+                                                                                       na mestu odvzema        16.10.25
+Motnost                                     <0.10           <0.03     NTU              SIST EN ISO 7027-1:2017,     16.10.25
+                                                                                       na mestu odvzema        16.10.25
+
+
+
+
+
+                                                                          Vodja naloge:
+                                                                  Anton Škrbec, dipl.san.inž.
+
+
+                                                                                                     Elektronsko podpisal Anton Škrbec, dipl.san.inž. ob 21.10.2025 13:06
+
+
+Rezultati se nanašajo izključno na preskušani vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1
+
+Stran 5
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - VH Čudno Selo - iztok (pipa št. 3)
+
+Matriks:             Pitna voda
+
+Številka vzorca:    25/110041; Lab. št.: 25/11231
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:     Matic Molan, dipl.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:   Vodovod Črnomelj - VH in omr. upravlj., VH Čudno Selo - iztok (pipa št. 3)
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila: 21.10.2025
+
+Datum in ura:   16.10.2025 09:30                   Datum in ura:   16.10.2025 12:59
+
+Odvzel:         Matic Molan, NLZOH OPKV               Prevzel:       Nežka Lenarčič
+
+Podatki odvzemnika navedeni na poročilu o preskušanju so naslednji: podatki o vzorcu (vpisano pod Vzorec: in
+Matriks:), podatki o odvzemu vzorca (mesto odvzema, datum in ura odvzema, vzorčevalec).
+
+Rezultati preskušanja
+
+
+                                                                                                                         Začetek / zaključek
+Parameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+
+                                                                                                                     16.10.2025
+Giardia - ciste                            ISO 15553:2006, NM                0                    v 100 L
+                                                                                                                     21.10.2025
+                                                                                                                     16.10.2025
+Cryptosporidium- oociste                    ISO 15553:2006, NM                0                    v 100 L
+                                                                                                                     21.10.2025
+
+
+                              Analitik:                                       Odgovorna oseba:
+       Nežka Lenarčič, univ. dipl. mikrobiologinja                              Brigita Weiss, dipl. san. inž.
+
+                                                                                                   Elektronsko podpisal Brigita Weiss, dipl. san. inž. ob 21.10.2025 10:46:26
+
+
+Rezultati se nanašajo izključno na preskušani vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času od sprejema vzorca do začetka analiz ustrezno hranjen. Rezultati se nanašajo na prejeti vzorec.
+Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1

@@ -1,0 +1,647 @@
+[
+  {
+    "url": "https://www.komunala-crnomelj.si/novica/kakovost-pitne-vode",
+    "path": "viri/okolje-2026-09-24/komunala-kakovost.html",
+    "sha256": "fb3b42e72f6a1ca3dd2b01aca6ed5e5e18ff6e90cd8628a27f07cbd91f986b5e"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne%20vode_v_letu_2011.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2011-1.pdf",
+    "sha256": "bb05ac697783023fc8ae0db40ea7bad239e27074b078c8c8af4afb416e5f87cc"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2012.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2012-2.pdf",
+    "sha256": "68a160cf13a562f1afbc967b65971de2059e82405cfb8de0fad7d75eb3933336"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2013.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2013-3.pdf",
+    "sha256": "8af1bf9f602d37540b7b1b4434cf31d6951e989a7530fc844eef1f3f2c468e1e"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2014.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2014-4.pdf",
+    "sha256": "fdd58de35c07097da850656da8784c1b209831145fc6891300172e00c1c8c8fe"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2015.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2015-5.pdf",
+    "sha256": "4e81a3b33c292adda4a927f821c4c8032784911da2412aa3118dc925e80746b0"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2016.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2016-6.pdf",
+    "sha256": "1a26be3ea34aee1218c952cc35c33e694478826b814859070b2c0aaab0ae3a2d"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2017.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2017-7.pdf",
+    "sha256": "fda84c1286925c122991c224402fe1fe0e9e98fc83d66fb53ec063a6fdde6e92"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Kakovost_pitne_vode_v_letu_2018.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2018-8.pdf",
+    "sha256": "5b5224f6cae085461357dd06f7cb8a4978093e202ef4cdc05cfcbc909229098c"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/Kakovost_pitne_vode_v_letu_2019.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2019-9.pdf",
+    "sha256": "8d747810b14c14a8ff94f4e604f1c94c44c05b33aacb7e09f774cc7082b0d8e8"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/Kakovost_pitne_vode_v_letu_2020.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2020-10.pdf",
+    "sha256": "97cf0f5e55388c389d705ad126c90995f8195c0dceb7bf833dedee27805add83"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/PV-Crnomelj-2021.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2021-11.pdf",
+    "sha256": "47126cf80a513e78d197264dba67e0fe93874372e18de4bf8f123f9b9ae98927"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dejavnosti/vodovod/KAKOVOST%20PITNE%20VODE/PV-Crnomelj-2022.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2022-12.pdf",
+    "sha256": "65806d597236a8ce0fc9f04172092687fe8d9ca3c25c6fb8ac9a34c1af84c483"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/_prehod/dokumenti/Komunala%20%C4%8Crnomelj_poro%C4%8Dilo%20za%20leto%202023.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2023-13.pdf",
+    "sha256": "647e82361a6012497566480e6cf5b3bf5fa6f9aa7487c392b9d2cac0ec53a313"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Letno%20poro%C4%8Dilo%20za%20vodo/Komunala%20%C4%8Crnomelj_%20poro%C4%8Dilo%20za%20leto%202024_compressed.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2024-14.pdf",
+    "sha256": "3a789bf340f9261302de856ad69bce6b24bcb0f842fd8c7e1a2cdb4f10a4a0c4"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Letno%20poro%C4%8Dilo%20za%20vodo/Komunala%20%C4%8Crnomelj%20poro%C4%8Dilo%202025_compressed.pdf",
+    "path": "viri/okolje-2026-09-24/voda-2025-15.pdf",
+    "sha256": "1594da26d39bd58451563e77ed3ff29fe52495bc70f78bf50406ec7f896de731"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/poro%C4%8Dila%20in%20publikacije/kakovost_letna.html",
+    "path": "viri/okolje-2026-09-24/arso-letna-kazalo.html",
+    "sha256": "ffe0b508ec75301e4767764c9338891f99e491c5c07db327ceb703c5f74e9618"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/poro%c4%8dila%20in%20publikacije/Letno_porocilo_2024_za_splet.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-2024.pdf",
+    "sha256": "74a8b6c6bc42574234e25abaab64d297017c7548b5fbc869604b54f7bf567a97"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/poro%c4%8dila%20in%20publikacije/porocilo_2023-FINAL.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-2023.pdf",
+    "sha256": "59093bc00ab381adbdf61885476cc8d592eebbc2f7cbe34c1ac43ac3496353eb"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/poro%c4%8dila%20in%20publikacije/porocilo_2022_Merged.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-2022.pdf",
+    "sha256": "b582daee3e6f076b4c306c1e0fd0397bd8bb282a75db6400f8819682cbb4f9a8"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/",
+    "path": "viri/okolje-2026-09-24/arso-podatki.html",
+    "sha256": "ddc6542c6627acfcd272cf16529265f4d545e5d79dcd314c2072b6ed3bbe3eae"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/arhiv.html",
+    "path": "viri/okolje-2026-09-24/arso-arhiv.html",
+    "sha256": "a12f901247e069902b7de54733e50bb7ccb097b58ac92c0416a92308a654a74a"
+  },
+  {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health",
+    "path": "viri/okolje-2026-09-24/who-determinante.html",
+    "sha256": "0f275a0320b10660ad0cbfafc8818a89b5b7a46f703ce475e23c8b246fba2ed1"
+  },
+  {
+    "url": "https://www.who.int/news-room/questions-and-answers/item/stress",
+    "path": "viri/okolje-2026-09-24/who-stres.html",
+    "sha256": "fadd29119aa1a64718d99339549dc02f81abfc9afe0499087e1ddbe8583ffe0d"
+  },
+  {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "path": "viri/okolje-2026-09-24/who-prehrana.html",
+    "sha256": "fe81e951e7672a2da533a5c7144afca21860f8a2f4451b19b7a3b280a85222b2"
+  },
+  {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "path": "viri/okolje-2026-09-24/who-zrak.html",
+    "sha256": "5c259ca315a1acad92869f48da2c14dea4be2981f33c4dbf2fb523224f204f74"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9936951/",
+    "path": "viri/okolje-2026-09-24/vrtovi-rct.html",
+    "sha256": "2cc0525d17be71307a07750982cad6a7981ef9861abaddbf8debfc76ba963b30"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PM10_dec25.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-27.pdf",
+    "sha256": "c2acb8f837863d069c21cbbbc361f30c61b332b4716cb075eee6b5cecb028912"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PM10_jul26.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-28.pdf",
+    "sha256": "33cee7c4f7c48ab244016c040488529318863a3baa8cfb4398efedbfc87c7584"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/preseganja_pm10.html",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-29.html",
+    "sha256": "5542827d9e5bf5cb9802f23f03f689793bfa466a1aeddb6b3e3746f35ab34e0b"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PM10preseganja_25_slo.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-30.pdf",
+    "sha256": "e72e8346b3f4dc4e4ca16e0cba26e7c8238ba03bff7a64891c04f2cea70f17fa"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PM2.5_dec25.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-31.pdf",
+    "sha256": "966762f76bf49e1bb4cc449d0dfd46407fecd059be549b4034cb846bd775485e"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PM2.5_jul26.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-32.pdf",
+    "sha256": "f0a439f80e9674ea2af09e9519828703a6c4bb7dd0ccf108f89a0a2ea73f117c"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/KovineD_PM10_%c4%8cRNOMELJ_2025.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-33.pdf",
+    "sha256": "ca9c4c470fd65c271fb63d01647ccae0da8411b17fd879508028fcfce94f4508"
+  },
+  {
+    "url": "https://www.arso.gov.si/zrak/kakovost%20zraka/podatki/PAH_D_PM10_%c4%8cRNOMELJ_2025.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-podatki-34.pdf",
+    "sha256": "cd7aa48188adab84de5d8a37c26f8013c9569e95f43c32aaf4b692e84922a64e"
+  },
+  {
+    "url": "https://www.arso.gov.si/o%20agenciji/knji%C5%BEnica/mese%C4%8Dni%20bilten/Nase%20okolje%20-%20februar%202025.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-februar-2025.pdf",
+    "sha256": "d30e618fb11d2ccd45b825d184db76f104456c94a416098b8d1e6649f460f4a7"
+  },
+  {
+    "url": "https://www.arso.gov.si/o%20agenciji/knji%C5%BEnica/mese%C4%8Dni%20bilten/Nase%20okolje%20-%20december%202025.pdf",
+    "path": "viri/okolje-2026-09-24/zrak-december-2025.pdf",
+    "sha256": "db990d793e23ce9229124a11618ec952dc1842da3de816ccea19ab18e69689ff"
+  },
+  {
+    "url": "https://www.stat.si/obcine/sl/Municip/GroupedAll/24",
+    "path": "viri/okolje-2026-09-24/surs-crnomelj-2024.html",
+    "sha256": "bc09e510c2d71499f94c04f6cf865244b29dd365173a4797b285126ccf008132"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/novica/rezultati-vzorcenj-vs-crnomelj",
+    "path": "viri/okolje-2026-09-24/komunala-vzorci-crnomelj.html",
+    "sha256": "ad58b316f5febea541cf0b6a7948f73e7680cdcf8ef723005955acb073e50d6a"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-89747_Pitna-voda---Griblje-OS.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-1.pdf",
+    "sha256": "9355a734f26e494457144b574e786d17e1c0dbff655f548127ba0a8b2dd16b5d"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-89745_Pitna-voda---Crnomelj-VVO-Loka.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-2.pdf",
+    "sha256": "2683cdac99b69f0f3b5adc3b4617ea8691f9ca3586f8bb8564c891002da039c6"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-89744_Pitna-voda---VH-Doblicka-Gora-pipa-st-4.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-3.pdf",
+    "sha256": "056663d01b71820bde5290eaaed1266545baabd63cb5370743b0beb81af9e938"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-89743_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-4.pdf",
+    "sha256": "506da4e882db4fd53083524a2e666885bb5d8072ff921d4f558da24f55032fba"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88804_Pitna-voda---HP-Vrhovci.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-5.pdf",
+    "sha256": "03f0e088343ce52a333ad5aba85612e8448e8eef96485bf09ab0c3a698aa5926"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88803_Pitna-voda---VH-Gric---iztok-pipa-st-6.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-6.pdf",
+    "sha256": "1e88ee41cafb434f558966e33ec93430d870e624a0efb536122857b85bec8cc1"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88802_Pitna-voda---Lokve-Policijska-postaja-Crnomelj.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-7.pdf",
+    "sha256": "d521878dae6f45db60cfb48c791cc6a7fcb3a9edb57ab4ad6ea71dfafe452226"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88801_Pitna-voda---Adlesici-bife-KZ.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-8.pdf",
+    "sha256": "d14295ed3c25867510c1610edc14616a128931fcb4f764a2600af86c2efeb088"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88800_Pitna-voda---Crnomelj-TPC-bar-Emonec-kafe.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-9.pdf",
+    "sha256": "e406a5729ec7838c5715a2bc1b5a580e5ef20f716654a81a24e4bf811690d0ac"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88799_Pitna-voda---VH-Cudno-Selo---iztok-pipa-st-3.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-10.pdf",
+    "sha256": "9d8fba6a287e663f82a40b9dbbfa15d80f1e64195ed078ad5ab95864cb9e85c0"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88798_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-11.pdf",
+    "sha256": "288ca36a5fcd6052edcf97cf498c5440759fd5fdd1b081196003885b7bbb22cb"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/15.09.2026/26-88797_Pitna-voda---VH-Bedenj.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-12.pdf",
+    "sha256": "c09324ef3c701f31557390debff6fc68fe9ff89a770e32853d3a9ea61cfc3e9e"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-85480_Pitna-voda---HP-Perudina--pipa-st-12.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-13.pdf",
+    "sha256": "40a90d151aebf8ec8a3053d7aa7663d38b7954419bfce981080851170340c06d"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-85479_Pitna-voda---Dragatus-OS---kuhinja.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-14.pdf",
+    "sha256": "fda9736adc9ca2ad7c484e06e6501ddcdedaf0ec14b321d9ebe5b94bb2dd2297"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-85478_Pitna-voda---Cardak-VVO.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-15.pdf",
+    "sha256": "d0e2d56175bcbe088c00808eba9852d8b4fc78f3f60737b194d5e0ae97e3ceed"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-85477_Pitna-voda---VH-Gric---iztok-pipa-st-6.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-16.pdf",
+    "sha256": "54510666592d132447c87126b0a8c0f983d8a20cce189e4d53261f99e180f665"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-80784_Pitna-voda---VH-Gric---iztok-pipa-st-6.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-17.pdf",
+    "sha256": "dff21423291252485c456307d738986421a2ef16659e7ed99316ceda3ff1369c"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-80780_Pitna-voda---Lokve-Policijska-postaja-Crnomelj.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-18.pdf",
+    "sha256": "43ed1f11db5888ff8f853f4412243fbddd74c6136b35bdc2ba1430a92bebb8c2"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-80779_Pitna-voda---Adlesici-bife-KZ.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-19.pdf",
+    "sha256": "f7d0c09a1269edd0fc181ebd4fa878551997ed213fd87ea91ccb6198354c3cd2"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-80778_Pitna-voda---Crnomelj-TPC-bar-Emonec-kafe.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-20.pdf",
+    "sha256": "30db1b4e0294ee73a67f100d68aed47b4c6c8657255bf72944e8e1b1a6c27d89"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-80777_Pitna-voda---VH-Cudno-Selo---iztok-pipa-st-3.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-21.pdf",
+    "sha256": "a622ec407a571318043a23456e473106d820021e5fb4c1163d85b221440264fa"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/27.08.2026/26-80776_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-22.pdf",
+    "sha256": "f054b84075c061365af12c786b62eb96a57dd9d3a022884ee814588fbd4e9341"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-75900_Pitna-voda---Vinica-OS-Vinica---kuhinja.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-23.pdf",
+    "sha256": "3157cd93d4f753614ced719690c87e2a9c21cbc126c532807abb4a47c62c68ee"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-75899_Pitna-voda---VH-Bojanci---iztok-pipa-st-11.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-24.pdf",
+    "sha256": "db9430af0ffacb06adebc5c1c64a488411b87aa4f3b6589027e9de0a59fdcf35"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-75898_Pitna-voda---VH-Cirnik---iztok-pipa-st-8.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-25.pdf",
+    "sha256": "2d66c628f71dcf0d60e411002d703d4f42156e37bd2d240a0e7bea63c060a638"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-75897_Pitna-voda---hidrant-Zilje-13-pri-Zilje-19.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-26.pdf",
+    "sha256": "03c2d9f43f2b69461879aa299804ed1a42ef03b6e549ee0b6e4665cc7f6c61a4"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-75896_Pitna-voda---Crnomelj-Odeon-caffe-Na-utrdbah-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-27.pdf",
+    "sha256": "f2398b2fe1d2771451467945fbb71673bb259d854c028f9388bf57adb55bf7f0"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-71012_Pitna-voda---Vranovici-st-9.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-28.pdf",
+    "sha256": "6894205bdaa148099934c22ac772d46b20ab975b5c5668d1b50438269bf78919"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-71011_Pitna-voda---VH-Rodine-pipa-st-5.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-29.pdf",
+    "sha256": "27d577d7d6f5d7f56e90b4904e45b6484c6797962805fcc5232cdb6199fc3a65"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-71010_Pitna-voda---Crnomelj-VVO-Loka.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-30.pdf",
+    "sha256": "c4e3af455982b34bd4d38a33596cacbd6193b817e3e5aea7017726068cbb6091"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-71009_Pitna-voda---VH-Cudno-Selo---iztok-pipa-st-3.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-31.pdf",
+    "sha256": "9d0d8af22949f93a9e4b958dc12b1b46141e9f61ea4c5294bc2d9e245265c247"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/31.7.2026/26-71008_Pitna-voda---zajetje-Doblice-pipa-st-1.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-32.pdf",
+    "sha256": "e75fcc48d9d2f0e97991d93cb3cf2cb7bee06b34a0b6e0e381061a37202d4688"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.6.2026/Poro%C4%8Dilo%20o%20izvedeni%20nalogi%202300-25-19436-26-64930.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-33.pdf",
+    "sha256": "e087400708b7b7fa14b8f449d8b669b013bf0e934444edb9828b440c6ce723f9"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.6.2026/Poro%C4%8Dilo%20o%20izvedeni%20nalogi%202300-25-19436-26-64929.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-34.pdf",
+    "sha256": "3d3c9b960a3d1ec1a6b3b16dbab2abc7c5cd7b34fe8fbd4765a672e1fd8696cb"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.6.2026/Poro%C4%8Dilo%20o%20izvedeni%20nalogi%202300-25-19436-26-64928.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-35.pdf",
+    "sha256": "4e002a97185622c52093cb63534080e4e59c4fac6ac04587e99c473a99a430d9"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.6.2026/Poro%C4%8Dilo%20o%20izvedeni%20nalogi%202300-25-19436-26-64927.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-36.pdf",
+    "sha256": "826f1f0f8f7b4bdf09f312f21e62eef0401fa4108d5d31ba198b4a4bc2146a25"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/17.6.2026/26-58534_Pitna-voda---hidrant-Adlesici-5-GD-Adlesici.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-37.pdf",
+    "sha256": "156b1ef559c1b69717e71767b3b38af528d0d7f70f94577359b3649ff9abd714"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/17.6.2026/26-58533_Pitna-voda---hidrant-Crnomelj-128-GD-Crnomelj.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-38.pdf",
+    "sha256": "510eb90c0ebc474ba86ac8095a5b66e7750bd252e155c0fd7ee009ee0897a51b"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/17.6.2026/26-58532_Pitna-voda---Lokve-Policijska-postaja-Crnomelj.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-39.pdf",
+    "sha256": "777e8cdbeb42fdf0642cd2b166dfbf43f3e5ce347fbb44bb9874b50252b80c5d"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/17.6.2026/26-58531_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-40.pdf",
+    "sha256": "617ccf5fe58f4583dcafcda2f34f87505d5bc8e175dc7819cd4814daeaae0d7a"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/17.6.2026/26-52296_Pitna-voda---zajetje-Adlesici---Vumole.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-41.pdf",
+    "sha256": "b25385c901c1a273d0719fb94f7a72e35b2d64fb034df148daf6f1943e6a2358"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/17.6.2026/26-52292_Pitna-voda---Crnomelj-Odeon-caffe-Na-utrdbah-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-42.pdf",
+    "sha256": "7c719d07e1a929e4c34e99d259de555bc68d178d0e0680a1698f5c10850e8e78"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/28.05.2026/26-52296_Pitna-voda---zajetje-Adlesici---Vumole.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-43.pdf",
+    "sha256": "860a85295df12262c48fc440de78b740058e8adf7f7f398367b8b1458e0b1a96"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/28.05.2026/26-52295_Pitna-voda---Vinica-OS-Vinica---kuhinja.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-44.pdf",
+    "sha256": "72714ff6d7a30a40414f87f4ef2e7cf66d02f4f85aa68fe963d33b8c4468f7ed"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/28.05.2026/26-52294_Pitna-voda---Dragatus-OS---kuhinja.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-45.pdf",
+    "sha256": "24ee9d66cedc01b1bc7ce2ddf0c2169c4b41f8d707c1628915fe41941dd3cbff"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/28.05.2026/26-52293_Pitna-voda---HP-Vrhovci.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-46.pdf",
+    "sha256": "36042ca00b12fe7221a9f7484d8a577faafebb43d8e59a854931ceb84ff7fc96"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/28.05.2026/26-52292_Pitna-voda---Crnomelj-Odeon-caffe-Na-utrdbah-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-47.pdf",
+    "sha256": "c680d120538d69707c3c444d164bccbf50f07a4eb2157c1e66639b5006c9472d"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/13.05.2026/26-44516_Pitna-voda---Vranovici-st-9.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-48.pdf",
+    "sha256": "6421c96f4f78efbf3a3827abce75352885f8fe5387673cb7d8f0226408bb6dd0"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/13.05.2026/26-44515_Pitna-voda---Crnomelj-VVO-Loka.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-49.pdf",
+    "sha256": "04644095ab7eed0d2db82e580556294692fc81bea1963e4cada9962078f5bcd9"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/13.05.2026/26-44514_Pitna-voda---VH-Doblicka-Gora-pipa-st-4.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-50.pdf",
+    "sha256": "7337b261ec5b6835b986098e63f5c942b1528605d4b5f4471b45634571373a4b"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/13.05.2026/26-44513_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-51.pdf",
+    "sha256": "2073138a334e66ce0dad58a7685263a19b7820fd7e931ea3454c7e8ab63cdef3"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/13.05.2026/26-32995_Pitna-voda---Adlesici-POS.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-52.pdf",
+    "sha256": "9eb338f33406a965dfdff52f6c41504250f7bc44a4ffa5eb1b59f302b2830045"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-39833_Pitna-voda---HP-Perudina--pipa-st-12.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-53.pdf",
+    "sha256": "4faa5a3545c274367d185b4e01cb01ace52a5b1ce39fea70ef1bd0b2c7d499b8"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-39832_Pitna-voda---VH-Vinica---iztok-pipa-st-10.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-54.pdf",
+    "sha256": "ea0ee4056c43ddb885b1082e0b96087a90a0cd95e91b438a92f10ce2ddf0c0f4"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-39831_Pitna-voda---VH-Gric---iztok-pipa-st-6.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-55.pdf",
+    "sha256": "5128935362fb7912d0170d9dec7bd492a80c29a5699e56c85af40d7181ad6170"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-32998_Pitna-voda---Kanizarica-Bar-Cavallino.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-56.pdf",
+    "sha256": "ac18e432469e07c21fbc2cbf56e572ec0f9ea5ed73937184079e9a737fb4a507"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-32997_Pitna-voda---Cardak-VVO.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-57.pdf",
+    "sha256": "c745488a53ffad7f945199c1cd7d6d24915dcef629e35b65804afb18d8b80971"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-32996_Pitna-voda---Lokve-PP-Crnomelj.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-58.pdf",
+    "sha256": "2c8e9b21c893d56511ee74e4466466556b36ae04863ed02dd2a2ee2e1d2fb9ef"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-32994_Pitna-voda---HP-Sadez-Crnomelj-pipa-st-31.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-59.pdf",
+    "sha256": "34ea016d70a9c3ff0a36d5b19e8d7aabfe2e23e8136b27f68d38ad0b52bf0bd6"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/5.5.2026/26-32993_Pitna-voda---VH-Cudno-Selo---iztok-pipa-st-3.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-60.pdf",
+    "sha256": "516987cc6e39d11442df4cc32dfbb095c70e9ea9292becb6d8222a4b002e69e8"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/23.03.2026/26-26651_Pitna-voda---Vinica-OS-Vinica---kuhinja.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-61.pdf",
+    "sha256": "2d43f79d8dcda8290d055b534c7423b421ca269d4572a419aac69d0f9f79d962"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/23.03.2026/26-26650_Pitna-voda---VH-Zapudje---iztok-pipa-st-9.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-62.pdf",
+    "sha256": "6321178c8f80ce65dd6c4af0e46390e3deb629024b12536bec8dcd09d7d79d36"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/23.03.2026/26-26649_Pitna-voda---hidrant-Zilje-13-pri-Zilje-19.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-63.pdf",
+    "sha256": "011bd8dbadf75b128f0295c554239bcd8abbc66c509786c63f32c87818202649"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/23.03.2026/26-26648_Pitna-voda---Crnomelj-Odeon-caffe-Na-utrdbah-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-64.pdf",
+    "sha256": "1aedda54d3ac6295034d04f160678fe79ef810e4ad5f3c31a3c51c086cb734c5"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/23.03.2026/26-26647_Pitna-voda---VH-Gric---iztok-pipa-st-6.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-65.pdf",
+    "sha256": "0cdab71658422fba26e80b74be9fdcb1887a93181c4cd19e90a5b7962fc87916"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/23.03.2026/26-26646_Pitna-voda---zajetje-Doblice-pipa-st-1.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-66.pdf",
+    "sha256": "e2d755c6e2ae78b3a50b5891e46658a28e2afc3ecff57a3f1da75af3622992d6"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/19.03.2026/26-21153_Pitna-voda%20-%20-Crnomelj-VVO-Loka_compressed.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-67.pdf",
+    "sha256": "3c7a984502f9f2b16e6653e8ea4e094e72d19249e9a000e1010ac65838305098"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/11.03.2026/26-21154_Pitna-voda---Griblje-OS.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-68.pdf",
+    "sha256": "9dfb4856e430a4b3f4a2a516c69b8c404dae5fbe7fb059cce7a529b6e322ba9c"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/11.03.2026/26-21152_Pitna-voda---VH-Doblicka-Gora-pipa-st-4.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-69.pdf",
+    "sha256": "c98cb313ab1a0a08f0c0f884bb4ecd40a62b4100a29672f7141ea68db4112b34"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/11.03.2026/26-21151_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-70.pdf",
+    "sha256": "2976042c9e138e256b30d9653996213beb27a5c4c3f19a45781f540899cc54a6"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/11.03.2026/26-14999_Pitna-voda---VH-Bojanci---iztok-pipa-st-11.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-71.pdf",
+    "sha256": "edc64035cbfc90a09bcaca549e7e6f955bff92be2358a4d75e6e08568a33bcb3"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/11.03.2026/26-14998_Pitna-voda---hidrant-Vinica--1-pri-mrliski-vezici.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-72.pdf",
+    "sha256": "dfc63ff535e628498d6f207d20a463deb6e6d3e74c40f762f6503151df910807"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/11.03.2026/26-14997_Pitna-voda---Cardak-VVO.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-73.pdf",
+    "sha256": "d3912c726766229c0f55029b11c1aa20bbfe3d4efab6fdf0120adba85aa35652"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/16.02.2026/26-11143_Pitna-voda---Kanizarica-Bar-Cavallino.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-74.pdf",
+    "sha256": "00fbe9ca9676c5fb1dd562d6f5ae1e0f5d107c6ae0ba86963dddac845ed76f58"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/16.02.2026/26-11142_Pitna-voda---hidrant-Crnomelj-128-GD-Crnomelj.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-75.pdf",
+    "sha256": "40160810148ae676176d722f12e8e50b39e3556f4596f2de594b2d5e588a444e"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/16.02.2026/26-11140_Pitna-voda---Crnomelj-VVO-Loka.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-76.pdf",
+    "sha256": "edce1156fe71fda0ccb5575a2e946e737a3a496731dd81974c75cc399e8957d6"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/16.02.2026/26-11139_Pitna-voda---VH-Cudno-Selo---iztok-pipa-st-3.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-77.pdf",
+    "sha256": "4ba01d8ff265e0c4c483806bac35afdc51682f2d0fd7e6314dc07e1e0480e2cc"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/16.02.2026/26-11138_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-78.pdf",
+    "sha256": "9351e9067a7b80841bb71a356c01368b36b926079e074601566d60052588d223"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.01.2026/26-5361_Pitna-voda---Vinica-OS-Vinica---kuhinja.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-79.pdf",
+    "sha256": "7963b924b9e8ebda8be4105821e1600250c7c5f376b5a23ba9d76b6ebb896697"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.01.2026/26-5360%20Dragatu%C5%A1%20O%C5%A1%20Kuhinja.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-80.pdf",
+    "sha256": "51535797a6269e83a6a6afbf46dd9e55d80d00af0c08a4d8033a86a1b806dfa0"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.01.2026/26-5359_Pitna-voda---Crnomelj-Odeon-caffe-Na-utrdbah-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-81.pdf",
+    "sha256": "b8fdfed3258904f8ae6fd5caaaf07ee06bf1e7e29af4340dea221242b2124aa3"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.01.2026/26-5358_Pitna-voda---hidrant-Jelsevnik-9-pri-Jelsevnik-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-82.pdf",
+    "sha256": "e8972e20a9dd9fdd64c43950857b8e31ac84224a83c4e302e64bafd3d6121090"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/30.01.2026/26-5357_Pitna-voda---hidrant-Adlesici-5-GD-Adlesici.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-83.pdf",
+    "sha256": "6a5c64e027b282bd55293fba40164b10e29c516624e97e5d6fe1d53ceac77b68"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/14.01.2026/26-434_Pitna-voda---Lokve-6-k-Pekarna-Presta.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-84.pdf",
+    "sha256": "48357e4f04f98f5e5623effa3e1a20058b2f4acf5313bcf06366db4bf93ad07f"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/14.01.2026/26-433_Pitna-voda---Adlesici-bife-KZ.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-85.pdf",
+    "sha256": "d22d0ca20d4e458862c7795f5d944a22154bed6c9942dd9d1447d7396325e40f"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/14.01.2026/26-432_Pitna-voda---Crnomelj-VVO-Loka.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-86.pdf",
+    "sha256": "216c5999039a3054dff350a0eb04483ee31a9abf43d3b66c9b1eb3005beca109"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/14.01.2026/26-431_Pitna-voda---VH-Doblicka-Gora-pipa-st-4.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-87.pdf",
+    "sha256": "c021db8b2ed1d64ccad64c9573eb42736f33eed48c6639ef49f68fce7023df6a"
+  },
+  {
+    "url": "https://www.komunala-crnomelj.si/storage/app/media/dokumenti/Vodovod/Rezultati%20vzor%C4%8Denj%20po%20VS/VS%20%C4%8Crnomelj/14.01.2026/26-430_Pitna-voda---VH-Crnomelj---iztok-pipa-st-2.pdf",
+    "path": "viri/okolje-2026-09-24/vzorec-2026-88.pdf",
+    "sha256": "c433ccdabf610180a05a2a1881b073d9612e432e91e8e11296c4cccf12806ca5"
+  },
+  {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+    "path": "viri/okolje-2026-09-24/who-pitna-voda.html",
+    "sha256": "3abd3daba24a51f956d07c55d7f55d27f4c30903d424b4af32da263ef3fa5794"
+  },
+  {
+    "url": "https://www.who.int/news-room/questions-and-answers/item/who-global-air-quality-guidelines",
+    "path": "viri/okolje-2026-09-24/who-smernice-zrak.html",
+    "sha256": "2dffa8e5b33e177df57057a02ee7abacd2b7cc9264cd410087c073f6540b7ecb"
+  }
+]

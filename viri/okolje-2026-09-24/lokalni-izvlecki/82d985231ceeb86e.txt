@@ -1,0 +1,264 @@
+
+Stran 1
+                          Poročilo o izvedeni nalogi
+
+ Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne
+                            vode
+
+
+
+
+Evidenčna oznaka:     2300-23/19436-24/66432                                            26.06.2024
+
+
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O.
+               BELOKRANJSKA CESTA 24 A
+                  8340 Črnomelj
+
+
+Naročilo:           Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+
+Izvajalci:             Oddelek za pitne in kopalne vode
+                   Oddelek za mikrobiološke analize živil, vod in drugih vzorcev okolja Novo mesto
+
+Vodja naloge:         Anton Škrbec, dipl.san.inž.
+
+
+Skrbnik vzorca:        Dario Rahija, dipl.san.inž.
+
+
+
+Maribor,             26.06.2024
+
+
+
+                                                   Oddelek za pitne in kopalne vode
+                                                     Vodja naloge:
+
+                                                    Anton Škrbec, dipl.san.inž.
+
+
+                                                                        Čas certificiranega podpisa in podatki o certifikatu so razvidni na vrhu prve strani dokumenta.
+
+
+
+
+
+Poročilo se brez pisnega dovoljenja izvajalca ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+                                                                                                                       Stran 1/2
+
+Stran 2
+Podatki o vzorcu
+
+Vzorec:               Pitna voda - VH Vinica - iztok (pipa št. 10)
+
+Številka vzorca:      24/66432
+
+Namen:                Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24
+                     A, 8340 Črnomelj
+
+Vzorec odvzel:        Dario Rahija, NLZOH OPKV
+
+Čas odvzema:        20.06.2024 10:30
+
+Mesto odvzema:     Vodovod Črnomelj - VH in omr. upravlj., VH Vinica - iztok (pipa št. 10)
+
+Vzorec sprejel:        Dario Rahija
+
+Kraj in čas sprejema:  Novo mesto, 20.06.2024 12:51
+
+
+
+Ocena rezultatov
+
+Prikazani so rezultati z določenimi kriteriji.
+
+
+Parameter                                 Rezultat      Enota                              Kriterij            Skladnost
+
+Terenske meritve
+
+Temperatura vode                                    16.1          °C                                                                                                 /
+
+Klor-prosti                                           0.17          mg/L                                                                                               /
+
+Mikrobiološki parametri
+
+Escherichia coli                                            ni najdeno    CFU/100 mL                                               skladen
+
+Koliformne bakterije                                       ni najdeno    CFU/100 mL                                               skladen
+
+Število kolonij pri 22 °C                                    CFU/mL                                                                                            /
+
+Število kolonij pri 36 °C                                    CFU/mL                                                 skladen
+
+
+
+
+
+Ocena skladnosti
+Vzorec je skladen z upoštevanimi kriteriji.
+
+Zdravstvena ocena
+Glede na rezultate opravljenih preskušanj ocenjujemo vzorec kot zdravstveno ustrezen.
+
+Priloge poročila:
+Poročilo o preskušanju z evidenčno oznako 2300-23/19436-24/66432-T
+Poročilo o mikrobiološkem preskušanju z evidenčno oznako 4002-23/19436-24/66432-M
+
+
+
+
+
+                                                                                                                       Stran 2/2
+
+Stran 3
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+Poročilo o preskušanju
+
+Vzorec:              Pitna voda - VH Vinica - iztok (pipa št. 10)
+
+Matriks:             Pitna voda
+
+Številka vzorca:     24/66432
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+
+Naročnik:        JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                    Črnomelj
+
+Naročilo:          Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+Predmet vzorčenja:  Trenutni vzorec pitne vode iz sistema za oskrbo s pitno vodo.
+
+Plan vzorčenja:    DN 213635, 20.06.2024
+
+Mesto odvzema:    Vodovod Črnomelj - VH in omr. upravlj., VH Vinica - iztok (pipa št. 10)
+
+Metoda vzorčenja:   SIST ISO 5667-5:2007
+
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila: 26.06.2024
+
+Datum in ura:   20.06.2024 10:30                   Datum in ura:   20.06.2024 12:51
+
+Odvzel:        Dario Rahija, NLZOH OPKV                Sprejel:        Dario Rahija
+
+
+
+Rezultati preskušanja
+
+
+                                                                                                                                Začetek /                                              Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                  zaključek
+                                 Opomba                               kot/na           Kraj izvedbe              analize
+
+Terenske meritve
+
+Temperatura vode                              16.1                     °C               SIST DIN 38404-4:2000, na     20.06.24
+                                                                                          mestu odvzema          20.06.24
+Klor-prosti                                     0.17                     mg/L              SIST EN ISO 7393-2:2018,     20.06.24
+                                                                                       na mestu odvzema        20.06.24
+
+Podatke o merilni negotovosti posredujemo na zahtevo naročnika.
+
+
+                                                                          Vodja naloge:
+                                                                  Anton Škrbec, dipl.san.inž.
+
+
+                                                                                                     Elektronsko podpisal Anton Škrbec, dipl.san.inž. ob 26.06.2024 11:14
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1
+
+Stran 4
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - VH Vinica - iztok (pipa št. 10)
+
+Matriks:             Pitna voda
+
+Številka vzorca:    24/66432; Lab. št.: 24/6716
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+Mesto odvzema:   Vodovod Črnomelj - VH in omr. upravlj., VH Vinica - iztok (pipa št. 10)
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila: 26.06.2024
+
+Datum in ura:   20.06.2024 10:30                   Datum in ura:   20.06.2024 12:55
+
+Odvzel:        Dario Rahija, NLZOH OPKV               Prevzel:        Barbara Hrastar
+
+Rezultati preskušanja
+
+
+                                                                                                                         Začetek / zaključek
+Parameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+
+                                                                                                                     20.06.2024
+Escherichia coli                           ISO 9308-1:2014, NM                  ni najdeno            CFU/100 mL
+                                                                                                                     21.06.2024
+                                                                                                                     20.06.2024
+Koliformne bakterije                       ISO 9308-1:2014, NM                  ni najdeno            CFU/100 mL
+                                                                                                                     21.06.2024
+                                      ISO 6222:1999, tehnika                                                     20.06.2024
+Število kolonij pri 22 °C                                                    < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   24.06.2024
+                                      ISO 6222:1999, tehnika                                                     20.06.2024
+Število kolonij pri 36 °C                                                    < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   24.06.2024
+
+
+                              Analitik:                                       Odgovorna oseba:
+       mag. Matjaž Retelj, univ. dipl. mikrobiolog                mag. Matjaž Retelj, univ. dipl. mikrobiolog
+
+                                                                                            Elektronsko podpisal mag. Matjaž Retelj, univ. dipl. mikrobiolog ob 26.06.2024 09:31:36
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1

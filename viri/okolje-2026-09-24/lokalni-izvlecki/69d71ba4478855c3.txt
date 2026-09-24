@@ -1,0 +1,1521 @@
+
+Stran 1
+                          Poročilo o izvedeni nalogi
+
+ Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne
+                            vode
+
+
+
+
+Evidenčna oznaka:     2300-23/19436-24/45552                                            29.05.2024
+
+
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O.
+               BELOKRANJSKA CESTA 24 A
+                  8340 Črnomelj
+
+
+Naročilo:           Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+
+Izvajalci:             Oddelek za pitne in kopalne vode
+                   Oddelek za kemijske analize živil, vod in drugih vzorcev okolja Maribor
+                   Oddelek za kemijske analize živil, vod in drugih vzorcev okolja Novo mesto
+                   Oddelek za mikrobiološke analize živil, vod in drugih vzorcev okolja Novo mesto
+
+Vodja naloge:         Anton Škrbec, dipl.san.inž.
+
+
+Skrbnik vzorca:        Dario Rahija, dipl.san.inž.
+
+
+
+Maribor,             29.05.2024
+
+
+
+                                                   Oddelek za pitne in kopalne vode
+                                                     Vodja naloge:
+
+                                                    Anton Škrbec, dipl.san.inž.
+
+
+                                                                        Čas certificiranega podpisa in podatki o certifikatu so razvidni na vrhu prve strani dokumenta.
+
+
+
+
+
+Poročilo se brez pisnega dovoljenja izvajalca ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+                                                                                                                       Stran 1/6
+
+Stran 2
+Podatki o vzorcu
+
+Vzorec:               Pitna voda - PČP Draga (pipa št. 28)
+
+Številka vzorca:      24/45552
+
+Namen:                Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24
+                     A, 8340 Črnomelj
+
+Vzorec odvzel:        Dario Rahija, NLZOH OPKV
+
+Čas odvzema:        06.05.2024 11:05
+
+Mesto odvzema:     Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., PČP Draga (pipa št. 28)
+
+Vzorec sprejel:        Dario Rahija
+
+Kraj in čas sprejema:  Novo mesto, 06.05.2024 14:02
+
+
+
+Ocena rezultatov
+
+Prikazani so rezultati z določenimi kriteriji.
+
+                                                                  Izražen
+Parameter                                 Rezultat      Enota                              Kriterij            Skladnost
+                                                                      kot/na
+
+Terenske meritve
+
+Temperatura vode                                    16.1          °C                                                                                                 /
+
+Klor-prosti                                           0.20          mg/L                                                                                               /
+
+pH                                                     7.4                                                                  skladen
+
+Električna prevodnost (20°C)                       371         µS/cm                                                 skladen
+
+Vonj                                           brez posebnosti                                                                                                                  /
+
+Okus                                          brez posebnosti                                                                                                                  /
+
+Motnost                                           NTU                                                  skladen
+
+Kovine in metaloidi
+
+Aluminij                                        25           µg/L                                                  skladen
+
+Antimon                                                        µg/L                                                  skladen
+
+Arzen                                                          µg/L                                                  skladen
+
+Baker                                           0.00032        mg/L                                                  skladen
+
+Bor                                              0.0022         mg/L                                                  skladen
+
+Kadmij                                            0.036          µg/L                                                  skladen
+
+Krom                                               0.44           µg/L                                                  skladen
+
+Mangan                                                        µg/L                                                  skladen
+
+Nikelj                                                          µg/L                                                  skladen
+
+Selen                                                          µg/L                                                  skladen
+
+Svinec                                              0.16           µg/L                                                  skladen
+
+Uran                                                0.40           µg/L                                                  skladen
+
+Železo                                                         µg/L                                                  skladen
+
+Živo srebro                                                     µg/L      Hg                                        skladen
+
+
+                                                                                                                       Stran 2/6
+
+Stran 3
+Pesticidi - organoklorni
+
+Alaklor                                                         µg/L                                                  skladen
+
+Aldrin                                                          µg/L                                                  skladen
+
+alfa-endosulfan                                                  µg/L                                                  skladen
+
+alfa-HCH                                                       µg/L                                                  skladen
+
+beta-endosulfan                                                 µg/L                                                  skladen
+
+beta-HCH                                                      µg/L                                                  skladen
+
+delta-HCH                                                      µg/L                                                  skladen
+
+Dieldrin                                                        µg/L                                                  skladen
+
+Endosulfan sulfat                                                µg/L                                                  skladen
+
+Endrin                                                         µg/L                                                  skladen
+
+gama-HCH (Lindan)                                              µg/L                                                  skladen
+
+Heksaklorobenzen (HCB)                                         µg/L                                                  skladen
+
+Heptaklor                                                       µg/L                                                  skladen
+
+Izodrin                                                         µg/L                                                  skladen
+
+Klordan                                                        µg/L                                                  skladen
+
+Metolaklor                                                      µg/L                                                  skladen
+
+o,p-DDD                                                       µg/L                                                  skladen
+
+o,p-DDT                                                        µg/L                                                  skladen
+
+p,p-DDD                                                       µg/L                                                  skladen
+
+p,p-DDE                                                        µg/L                                                  skladen
+
+p,p-DDT                                                        µg/L                                                  skladen
+
+trans-Heptaklorepoksid                                           µg/L                                                  skladen
+
+Pesticidi - organofosforni in drugi
+
+2,6-Diklorobenzamid                                             µg/L                                                  skladen
+
+Azinfos-metil                                                    µg/L                                                  skladen
+
+Azoksistrobin                                                    µg/L                                                  skladen
+
+Bromopropilat                                                   µg/L                                                  skladen
+
+Diazinon                                                       µg/L                                                  skladen
+
+Diklobenil                                                       µg/L                                                  skladen
+
+Diklofluanid                                                     µg/L                                                  skladen
+
+Diklorfos                                                       µg/L                                                  skladen
+
+Dimetenamid                                                    µg/L                                                  skladen
+
+Dimetoat                                                       µg/L                                                  skladen
+
+Fenitrotion                                                      µg/L                                                  skladen
+
+Fention                                                         µg/L                                                  skladen
+
+Folpet                                                          µg/L                                                  skladen
+
+Kaptan                                                         µg/L                                                  skladen
+
+Klorfenvinfos                                                    µg/L                                                  skladen
+
+Klorpirifos-etil                                                   µg/L                                                  skladen
+
+Klorpirifos-metil                                                  µg/L                                                  skladen
+
+Malation                                                        µg/L                                                  skladen
+
+Metalaksil                                                      µg/L                                                  skladen
+
+Mevinfos                                                       µg/L                                                  skladen
+
+                                                                                                                       Stran 3/6
+
+Stran 4
+Pesticidi - organofosforni in drugi
+
+o,p-Metoksiklor                                                  µg/L                                                  skladen
+
+Ometoat                                                        µg/L                                                  skladen
+
+p,p-Metoksiklor                                                  µg/L                                                  skladen
+
+Paration-metil                                                   µg/L                                                  skladen
+
+Pendimetalin                                                    µg/L                                                  skladen
+
+Permetrin                                                       µg/L                                                  skladen
+
+Pirimifos-metil                                                   µg/L                                                  skladen
+
+Pirimikarb                                                      µg/L                                                  skladen
+
+Propikonazol                                                    µg/L                                                  skladen
+
+Prosimidon                                                     µg/L                                                  skladen
+
+Tetradifon                                                      µg/L                                                  skladen
+
+Triadimefon                                                     µg/L                                                  skladen
+
+Trifluralin                                                       µg/L                                                  skladen
+
+Vinklozolin                                                      µg/L                                                  skladen
+
+Pirimifos-metil                                                   µg/L                                                  skladen
+
+Pesticidi - fenoksialkanojski
+
+2,4 - DB                                                        µg/L                                                  skladen
+
+2,4,5-T                                                         µg/L                                                  skladen
+
+2,4-D                                                          µg/L                                                  skladen
+
+2,4-DP                                                         µg/L                                                  skladen
+
+Bentazon                                                       µg/L                                                  skladen
+
+Bromoksinil                                                     µg/L                                                  skladen
+
+Dikamba                                                       µg/L                                                  skladen
+
+Joksinil                                                         µg/L                                                  skladen
+
+MCPA                                                         µg/L                                                  skladen
+
+MCPB                                                         µg/L                                                  skladen
+
+MCPP                                                         µg/L                                                  skladen
+
+Silvex                                                          µg/L                                                  skladen
+
+Pesticidi - uronski
+
+Buturon                                                        µg/L                                                  skladen
+
+Diuron                                                         µg/L                                                  skladen
+
+Fenuron                                                        µg/L                                                  skladen
+
+Fluometuron                                                    µg/L                                                  skladen
+
+Izoproturon                                                     µg/L                                                  skladen
+
+Klorbromuron                                                   µg/L                                                  skladen
+
+Klorotoluron                                                     µg/L                                                  skladen
+
+Linuron                                                         µg/L                                                  skladen
+
+Metobromuron                                                  µg/L                                                  skladen
+
+Metoksuron                                                     µg/L                                                  skladen
+
+Monolinuron                                                    µg/L                                                  skladen
+
+Monuron                                                       µg/L                                                  skladen
+
+Neburon                                                        µg/L                                                  skladen
+
+
+                                                                                                                       Stran 4/6
+
+Stran 5
+Anorganski parametri
+
+Bromat                                                         µg/L                                                  skladen
+
+Epiklorhidrin
+
+Epiklorohidrin                                                   µg/L                                                  skladen
+
+Lahkohlapni aromatski ogljikovodiki
+
+Benzen                                                        µg/L                                                  skladen
+
+Lahkohlapni halogenirani ogljikovodiki
+
+Tetrakloroeten+trikloroeten                                        µg/L                                                  skladen
+
+Trihalometani (vsota)                                   4.5           µg/L                                                  skladen
+
+Trikloroeten (trikloroetilen)                                         µg/L                                                  skladen
+
+Tetrakloroeten (tetrakloroetilen)                                    µg/L                                                  skladen
+
+Mikrobiološki parametri
+
+Escherichia coli                                            ni najdeno    CFU/100 mL                                               skladen
+
+Koliformne bakterije                                       ni najdeno    CFU/100 mL                                               skladen
+
+Clostridium perfringens                                    ni najdeno    CFU/100 mL                                               skladen
+
+Enterokoki                                                  ni najdeno    CFU/100 mL                                               skladen
+
+Število kolonij pri 22 °C                                   CFU/mL                                                                                            /
+
+Število kolonij pri 36 °C                                   CFU/mL                                                 skladen
+
+Osnaževala
+
+Celotni cianid                                                    µg/L                                                  skladen
+
+Osnovni parametri
+
+Amonij                                                      mg/L                                                  skladen
+
+Barva (436 nm)                                                                                                                                                                                                     /
+
+Celotni organski ogljik - TOC                           0.33          mg/L      C                                                                             /
+
+Fluorid                                            0.051         mg/L       F                                        skladen
+
+Permanganatni indeks (oksidativnost)                             mg/L                                                  skladen
+
+Klorid                                               2.64          mg/L                                                  skladen
+
+Natrij                                                  1.5          mg/L                                                  skladen
+
+Nitrat                                               3.42          mg/L                                                  skladen
+
+Nitrit                                             0.0014         mg/L                                                  skladen
+
+Sulfat                                               2.54          mg/L                                                  skladen
+
+Pesticidi - triazinski in drugi
+
+Acetoklor                                                       µg/L                                                  skladen
+
+Ametrin                                                        µg/L                                                  skladen
+
+Atrazin                                                         µg/L                                                  skladen
+
+Atrazin, Desetil-                                                  µg/L                                                  skladen
+
+Atrazin, Desizopropil-                                             µg/L                                                  skladen
+
+Bromacil                                                       µg/L                                                  skladen
+
+Cianazin                                                       µg/L                                                  skladen
+
+Heksazinon                                                     µg/L                                                  skladen
+
+Metamitron                                                     µg/L                                                  skladen
+
+
+                                                                                                                       Stran 5/6
+
+Stran 6
+Pesticidi - triazinski in drugi
+
+Metazaklor                                                      µg/L                                                  skladen
+
+Metribuzin                                                      µg/L                                                  skladen
+
+Napropamid                                                     µg/L                                                  skladen
+
+Prometon                                                       µg/L                                                  skladen
+
+Prometrin                                                       µg/L                                                  skladen
+
+Propazin                                                       µg/L                                                  skladen
+
+Sebutilazin                                                      µg/L                                                  skladen
+
+Sekbumeton                                                    µg/L                                                  skladen
+
+Simazin                                                        µg/L                                                  skladen
+
+Simetrin                                                        µg/L                                                  skladen
+
+Terbumeton                                                     µg/L                                                  skladen
+
+Terbutilazin                                                     µg/L                                                  skladen
+
+Terbutilazin-desetil                                               µg/L                                                  skladen
+
+Terbutrin                                                       µg/L                                                  skladen
+
+Pesticidi in metaboliti
+
+Pesticidi (vsota)                                                  µg/L                                                  skladen
+
+S-Metolaklor                                                    µg/L                                                  skladen
+
+Metolaklor-ESA                                                  µg/L                                                  skladen
+
+Metolaklor-OXA                                                 µg/L                                                  skladen
+
+Poliaromatski ogljikovodiki
+
+Benzo(a)piren                                                   µg/L                                                  skladen
+
+Policiklični aromatski ogljikovodiki (vsota)                            µg/L                                                  skladen
+
+Procesna onesnaževala
+
+Akrilamid                                                       µg/L                                                  skladen
+
+
+
+
+
+Ocena skladnosti
+Vzorec je skladen z upoštevanimi kriteriji.
+
+Zdravstvena ocena
+Glede na rezultate opravljenih preskušanj ocenjujemo vzorec kot zdravstveno ustrezen.
+
+Priloge poročila:
+Poročilo o preskušanju z evidenčno oznako 2300-23/19436-24/45552-T
+Poročilo o kemijskem preskušanju z evidenčno oznako 1072-23/19436-24/45552-K
+Poročilo o mikrobiološkem preskušanju z evidenčno oznako 4002-23/19436-24/45552-M
+
+
+
+
+
+                                                                                                                       Stran 6/6
+
+Stran 7
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+Poročilo o preskušanju
+
+Vzorec:              Pitna voda - PČP Draga (pipa št. 28)
+
+Matriks:             Pitna voda
+
+Številka vzorca:     24/45552
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+
+Naročnik:        JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                    Črnomelj
+
+Naročilo:          Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+Predmet vzorčenja:  Trenutni vzorec pitne vode iz sistema za oskrbo s pitno vodo.
+
+Plan vzorčenja:    DN 210853, 06.05.2024
+
+Mesto odvzema:    Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., PČP Draga (pipa št. 28)
+
+Metoda vzorčenja:   SIST ISO 5667-5:2007
+
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila: 29.05.2024
+
+Datum in ura:   06.05.2024 11:05                   Datum in ura:   06.05.2024 14:02
+
+Odvzel:        Dario Rahija, NLZOH OPKV               Sprejel:        Dario Rahija
+
+
+
+Rezultati preskušanja
+
+
+                                                                                                                                Začetek /                                              Rezultat       Vrednosti              Izražen           Metoda
+Parameter                                                        Enota                                                  zaključek
+                                 Opomba      pod LOQ               kot/na           Kraj izvedbe             analize
+
+Terenske meritve
+
+Temperatura vode                              16.1                     °C               SIST DIN 38404-4:2000, na     06.05.24
+                                                                                          mestu odvzema          06.05.24
+Klor-prosti                                     0.20                     mg/L              SIST EN ISO 7393-2:2018,     06.05.24
+                                                                                       na mestu odvzema        06.05.24
+pH                                              7.4                                        SIST EN ISO 10523: 2012,     06.05.24
+                                                                                       na mestu odvzema        06.05.24
+                                                         Meritev opravljena pri T = 16.1 °C
+Električna prevodnost (20°C)                  371                    µS/cm              SIST EN 27888: 1998, na      06.05.24
+                                                                                          mestu odvzema          06.05.24
+                                                         Meritev opravljena pri T = 16.1 °C
+Vonj                                     brez posebnosti                         ÖNORM M 6620: 2012, na     06.05.24
+                                                                                          mestu odvzema          06.05.24
+Okus                                    brez posebnosti                         ÖNORM M 6620: 2012, na     06.05.24
+                                                                                          mestu odvzema          06.05.24
+Motnost                                     <0.10           <0.03     NTU              SIST EN ISO 7027-1:2017,     06.05.24
+                                                                                       na mestu odvzema        06.05.24
+
+Pesticidi in metaboliti
+
+Pesticidi (vsota)                                              <0.03       µg/L                         Izračun, MB           06.05.24
+                                                                                                                            06.05.24
+
+
+
+
+                                                                                                                               Stran: 1/2
+
+Stran 8
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+
+
+
+Opomba:
+
+
+Izmerjena vrednost motnosti v odvzetem vzorcu je znašala 0,01 NTU #.
+
+
+
+
+
+                                                                          Vodja naloge:
+                                                                  Anton Škrbec, dipl.san.inž.
+
+
+                                                                                                     Elektronsko podpisal Anton Škrbec, dipl.san.inž. ob 29.05.2024 09:02
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 2/2
+
+Stran 9
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o kemijskem preskušanju
+
+Vzorec:             Pitna voda - PČP Draga (pipa št. 28)
+
+Matriks:             Pitna voda
+Številka vzorca:    24/45552
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+
+Skrbnik vzorca     Dario Rahija, dipl.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+Mesto odvzema:   Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., PČP Draga (pipa št. 28)
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila: 27.05.2024
+
+Datum in ura:   06.05.2024 11:05                   Datum in ura:   06.05.2024 14:02
+
+Odvzel:        Dario Rahija, NLZOH OPKV               Sprejel:        Dario Rahija
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+Kovine in metaloidi
+
+                                                                                                                            08.05.24
+Aluminij                                  25                        µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Antimon                                    <0.05                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Arzen                                       <0.1                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Baker                                    0.00032                    mg/L               ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Bor                                       0.0022     #*               mg/L               ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Kadmij                                      0.036                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                    SIST EN ISO 23913: 2009,     10.05.24
+Krom (VI)                                <10                       µg/L
+                                                                  NM               10.05.24
+                                                                                                                            08.05.24
+Krom                                         0.44                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Mangan                                     <0.1                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Nikelj                                        <0.1                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Selen                                        <0.1                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Svinec                                       0.16                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Uran                                         0.40                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            08.05.24
+Železo                                  <40                       µg/L                ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+
+                                                                                                                              Stran: 1/10
+
+Stran 10
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                                    SIST EN ISO 12846:2012,     10.05.24
+Živo srebro                                 <0.01                       µg/L      Hg
+                                                                                                   brez poglavja 7, NM        13.05.24
+
+Pesticidi - organoklorni
+
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Alaklor                                    <0.007                      µg/L
+                                                                  NM               17.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Aldrin                                    <0.0012                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+alfa-endosulfan                            <0.0011                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+alfa-HCH                                 <0.0013                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+beta-endosulfan                           <0.0011                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+beta-HCH                                <0.0012                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+delta-HCH                                <0.0018                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Dieldrin                                  <0.0015                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Endosulfan sulfat                          <0.0014                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Endrin                                   <0.0016                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+gama-HCH (Lindan)                        <0.0012                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Heksaklorobenzen (HCB)                   <0.0010                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Heksaklorobutadien (HCBD)                 <0.0009                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Heptaklor                                 <0.0027                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Izodrin                                   <0.0010                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+Klordan                                  <0.0014    #                µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Metolaklor                                 <0.011                      µg/L
+                                                                  NM               17.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+o,p-DDD                                 <0.0014                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+o,p-DDT                                  <0.0011                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+p,p-DDD                                 <0.0011                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+p,p-DDE                                 <0.0009                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+p,p-DDT                                  <0.0027                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+trans-Heptaklorepoksid                     <0.0011                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+
+Pesticidi - organofosforni in drugi
+
+
+
+                                                                                                                              Stran: 2/10
+
+Stran 11
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+2,6-Diklorobenzamid                        <0.006                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Azinfos-metil                               <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Azoksistrobin                              <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Bromofos-etil                              <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Bromopropilat                               <0.01                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Demeton-S-metil                            <0.03     #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Diazinon                                  <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Diklobenil                                   <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Diklofluanid                                 <0.02     #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Diklorfos                                  <0.003                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Dimetenamid                              <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Dimetoat                                  <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Disulfoton                                  <0.03     #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Etion                                       <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Fenitrotion                                 <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Fention                                   <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Folpet                                      <0.03     #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Forat                                       <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Fosalon                                   <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Fosfamidon                                 <0.03     #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Fosmet                                     <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Kaptan                                     <0.03     #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Klorbenzilat                                 <0.01                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Klorfenvinfos                               <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Klorpirifos-etil                              <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Klorpirifos-metil                            <0.003                      µg/L
+                                                                  NM               14.05.24
+
+                                                                                                                              Stran: 3/10
+
+Stran 12
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Malation                                   <0.006                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Metalaksil                                 <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Metidation                                  <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Mevinfos                                  <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Monokrotofos                              <0.010    #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+o,p-Metoksiklor                              <0.03     #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Ometoat                                    <0.05     #                µg/L
+                                                                  NM               14.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+p,p-Metoksiklor                            <0.0014                      µg/L
+                                                                                                         1998-modif., NM         24.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Paration                                   <0.008                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Paration-metil                              <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Pendimetalin                               <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Permetrin                                   <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Pirimifos-metil                               <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Pirimikarb                                 <0.009                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Propikonazol                               <0.002                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Prosimidon                                <0.007                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Tetradifon                                  <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Triadimefon                                <0.003                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Triazofos                                  <0.001                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Trifluralin                                  <0.009                      µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Triklorfon                                  <0.010    #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-016, izdaja 10,    13.05.24
+Vamidotion                                <0.010    #                µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Vinklozolin                                  <0.03                       µg/L
+                                                                  NM               14.05.24
+                                                                              ND-OKANM-091, izdaja 4,     13.05.24
+Pirimifos-metil                               <0.03                       µg/L
+                                                                  NM               14.05.24
+
+Pesticidi - fenoksialkanojski
+
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+2,4 - DB                                   <0.016                      µg/L
+                                                                  NM               13.05.24
+
+
+                                                                                                                              Stran: 4/10
+
+Stran 13
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+2,4,5-T                                    <0.010                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+2,4-D                                     <0.015                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+2,4-DP                                    <0.020                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+Bentazon                                  <0.012                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+Bromoksinil                                <0.021                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+Dikamba                                   <0.05     #                µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+Joksinil                                   <0.009                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+MCPA                                    <0.013                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+MCPB                                    <0.022                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+MCPP                                    <0.013                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+Silvex                                     <0.008                      µg/L
+                                                                  NM               13.05.24
+
+Pesticidi - uronski
+
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Buturon                                   <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Diuron                                    <0.007                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Fenuron                                   <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Fluometuron                               <0.010                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Izoproturon                                <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Klorbromuron                              <0.011                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Klorotoluron                               <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Linuron                                   <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Metobromuron                             <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Metoksuron                                <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Monolinuron                               <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Monuron                                  <0.010                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Neburon                                  <0.011                      µg/L
+                                                                  NM               17.05.24
+
+Anorganski parametri
+
+
+
+                                                                                                                              Stran: 5/10
+
+Stran 14
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                                    SIST EN ISO 15061:2001,     08.05.24
+Bromat                                  <3                        µg/L
+                                                                  NM               08.05.24
+
+Epiklorhidrin
+
+                                                                                    SIST EN ISO 15680: 2004,     13.05.24
+Epiklorohidrin                                 <0.1     #                µg/L
+                                                                  NM               14.05.24
+
+Hormonski motilci
+
+                                                                                   SIST EN ISO 18857-2:2012,
+                                                                                                                            08.05.24
+Bisfenol A                                  <0.01                       µg/L                  modificirana v točkah 8.1.2,
+                                                                                                                            15.05.24
+                                                                                                              8.1.3 in 8.2, NM
+
+Lahkohlapni aromatski ogljikovodiki
+
+                                                                                    SIST EN ISO 15680: 2004,     07.05.24
+Benzen                                      <0.3                       µg/L
+                                                                  NM               10.05.24
+
+Lahkohlapni halogenirani ogljikovodiki
+
+                                                                                    SIST EN ISO 15680: 2004,     07.05.24
+1,2-Dikloroetan                               <0.4                       µg/L
+                                                                  NM               10.05.24
+                                                                                                                            07.05.24
+Bromodiklorometan                              1.2                        µg/L
+                                                                                                                            10.05.24
+                                                                                                                            07.05.24
+Dibromoklorometan                            0.50                       µg/L
+                                                                                                                            10.05.24
+                                                                                    SIST EN ISO 15680: 2004,     07.05.24
+Tetrakloroeten+trikloroeten                     <0.5                       µg/L
+                                                                  NM               10.05.24
+                                                                                                                            07.05.24
+Trihalometani (vsota)                            4.5                        µg/L
+                                                                                                                            10.05.24
+                                                                                    SIST EN ISO 15680: 2004,     07.05.24
+Vinilklorid                                    <0.3                       µg/L
+                                                                  NM               10.05.24
+                                                                                    SIST EN ISO 15680: 2004,     07.05.24
+Trikloroeten (trikloroetilen)                     <0.5                       µg/L
+                                                                  NM               10.05.24
+                                                                                                                            07.05.24
+Tetrakloroeten (tetrakloroetilen)                 <0.5     #                µg/L
+                                                                                                                            10.05.24
+                                                                                                                            07.05.24
+Tribromometan (bromoform)                   <0.5                       µg/L
+                                                                                                                            10.05.24
+                                                                                                                            07.05.24
+Triklorometan (kloroform)                        2.8                        µg/L
+                                                                                                                            10.05.24
+
+Organska onesnaževala
+
+                                                                                     SIST ISO 25101:2010,       09.05.24
+Perfluorooktanojska kislina                  <0.0005                      µg/L
+                                                                                                                     modif., MB            10.05.24
+                                                                                     SIST ISO 25101:2010,       09.05.24
+Perfluorooktansulfonska kislina              <0.0005                      µg/L
+                                                                                                                     modif., MB            10.05.24
+
+Osnaževala
+
+                                                                                   SIST EN ISO 14403-2:2013,    08.05.24
+Celotni cianid                             <1                        µg/L
+                                                                  NM               08.05.24
+                                                                                   SIST EN ISO 14403-2:2013,    08.05.24
+Cianid - prosti                                 <0.5                       µg/L
+                                                                  NM               08.05.24
+                                                                                       SIST EN ISO 6468:        20.05.24
+PCB - vsota                               <0.0015    #                µg/L
+                                                                                                         1998-modif., NM         24.05.24
+
+Osnovni parametri
+
+
+
+                                                                                                                              Stran: 6/10
+
+Stran 15
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                                ISO 11732:2005, poglavje 4,    08.05.24
+Amonij                                     <0.01                     mg/L
+                                                                  NM               08.05.24
+                                                                                    SIST EN ISO 7887:2012;      07.05.24
+Barva (436 nm)                               <0.2
+                                                                                        metoda B, NM          07.05.24
+                                                                                                                            09.05.24
+Celotni organski ogljik - TOC                    0.33                      mg/L      C      SIST ISO 8245: 2000, NM
+                                                                                                                            09.05.24
+                                                                                                                            07.05.24
+Fluorid                                      0.051                     mg/L
+                                                                                                                            07.05.24
+                                                                                    SIST EN ISO 8467: 1998,      07.05.24
+Permanganatni indeks (oksidativnost)           <0.5                      mg/L
+                                                                  NM               07.05.24
+                                                                                                                            07.05.24
+Klorid                                        2.64                      mg/L
+                                                                                                                            07.05.24
+                                                                                   SIST EN ISO 9963-1: 1998,     13.05.24
+m-Alkaliteta                                     4.5                      mekv/L
+                                                                  NM               13.05.24
+                                                                                                                            08.05.24
+Natrij                                           1.5                      mg/L               ISO 17294-2:2023, NM
+                                                                                                                            08.05.24
+                                                                                                                            07.05.24
+Nitrat                                         3.42                      mg/L
+                                                                                                                            07.05.24
+                                                                                                                            08.05.24
+Nitrit                                      0.0014                     mg/L                ISO 13395:1996, NM
+                                                                                                                            08.05.24
+                                                                                                                            07.05.24
+Sulfat                                        2.54                      mg/L
+                                                                                                                            07.05.24
+
+Pesticidi - triazinski in drugi
+
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Acetoklor                                  <0.007                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Ametrin                                   <0.010                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Atrazin                                    <0.007                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Atrazin, Desetil-                            <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Atrazin, Desizopropil-                        <0.003                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Bromacil                                  <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Cianazin                                  <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Heksazinon                                <0.013                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Metamitron                                <0.005                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Metazaklor                                <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Metribuzin                                 <0.010                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Napropamid                               <0.010                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Prometon                                 <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Prometrin                                 <0.010                      µg/L
+                                                                  NM               17.05.24
+
+
+                                                                                                                              Stran: 7/10
+
+Stran 16
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Propazin                                  <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Sebutilazin                                <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Sekbumeton                               <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Simazin                                   <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Simetrin                                   <0.008                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Terbumeton                               <0.009                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Terbutilazin                                <0.015                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Terbutilazin-desetil                          <0.004                      µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+Terbutrin                                  <0.013                      µg/L
+                                                                  NM               17.05.24
+
+Pesticidi in metaboliti
+
+                                                                              ND-OKANM-015, izdaja 10,    13.05.24
+S-Metolaklor                                <0.03     #                µg/L
+                                                                  NM               17.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+Metolaklor-ESA                            <0.017                      µg/L
+                                                                  NM               13.05.24
+                                                                              ND-OKANM-020, izdaja 6,     09.05.24
+Metolaklor-OXA                            <0.015    #                µg/L
+                                                                  NM               13.05.24
+
+Poliaromatski ogljikovodiki
+
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Acenaften                                 <0.005                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                              ND-OKANM-131, izdaja 3,     13.05.24
+Acenaftilen                                <0.005    #                µg/L
+                                                                  NM               14.05.24
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Antracen                                  <0.005                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Benzo(a)antracen                          <0.004                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Benzo(a)piren                              <0.004                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Benzo(b)fluoranten                         <0.005                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Benzo(ghi)perilen                           <0.004                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Benzo(k)fluoranten                         <0.004                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+
+
+
+
+                                                                                                                              Stran: 8/10
+
+Stran 17
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Dibenzo(a,h)antracen                       <0.003                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                              ND-OKANM-131, izdaja 3,     13.05.24
+Fenantren                                 <0.005    #                µg/L
+                                                                  NM               14.05.24
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Fluoranten                                 <0.003                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Fluoren                                   <0.006                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Indeno(1,2,3-c,d)piren                       <0.004                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Krizen                                    <0.004                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                              ND-OKANM-131, izdaja 3,     13.05.24
+Naftalen                                   <0.005    #                µg/L
+                                                                  NM               14.05.24
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Piren                                     <0.004                      µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+                                                                                    SIST EN ISO 17993: 2004,
+                                                                                                                            07.05.24
+Policiklični aromatski ogljikovodiki (vsota)       <0.005    #                µg/L                  modifikacija v tocki 7 in 8.1,
+                                                                                                                            15.05.24
+                                                                  NM
+
+Splošni fizikalno-kemijski parametri
+
+                                                                                   SIST EN ISO 10304-4:2022,    08.05.24
+Klorat                                        0.11                      mg/L
+                                                                  NM               08.05.24
+                                                                                   SIST EN ISO 10304-4:2022,    08.05.24
+Klorit                                       <0.05                     mg/L
+                                                                  NM               08.05.24
+
+Procesna onesnaževala
+
+                                                                                 DIN 38413-6:2015 modif.,     22.05.24
+Akrilamid                                   <0.03     #                µg/L
+                                                                  NM               23.05.24
+
+
+
+                                                                                                                            13.05.24
+Dibromoocetna kislina                         <5.0     #                µg/L             EPA 552.2:1:1995, NM
+                                                                                                                            14.05.24
+                                                                                                                            13.05.24
+Dikloroocetna kislina                          <5.0     #                µg/L             EPA 552.2:1:1995, NM
+                                                                                                                            14.05.24
+                                                                                                                            13.05.24
+Monobromoocetna kislina                      <5.0     #                µg/L             EPA 552.2:1:1995, NM
+                                                                                                                            14.05.24
+                                                                                                                            13.05.24
+Monokloroocetna kislina                       <5.0     #                µg/L             EPA 552.2:1:1995, NM
+                                                                                                                            14.05.24
+                                                                                                                            13.05.24
+Trikloroocetna kislina                          <5.0     #                µg/L             EPA 552.2:1:1995, NM
+                                                                                                                            14.05.24
+[1] Konzerviranje vzorcev z Na2S2O3 in KHSO4.
+[2] Analizirano iz zamrznjenega vzorca.
+Kraj izvedbe preiskav:
+NM - OKA Novo mesto, Dalmatinova ulica 3, Novo mesto
+MB - OKA Maribor, Prvomajska ulica 1, Maribor
+
+Podatke o merilni negotovosti posredujemo na zahtevo naročnika.
+*Rezultat je označen kot neakreditiran, ker je izven območja akreditacije.
+
+                                                                                                                              Stran: 9/10
+
+Stran 18
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+
+
+Elektronsko potrdili:                                                              Vodja oddelka:
+dr. Boštjan Križanec, univ. dipl. inž. kem. tehnol.                              Jernejka Franko, univ.dipl.inž.kem.inž.
+OKA Maribor
+                                                                                        Elektronsko podpisal Jernejka Franko, univ.dipl.inž.kem.inž. ob 27.05.2024 11:17:48
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                             Stran: 10/10
+
+Stran 19
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - PČP Draga (pipa št. 28)
+
+Matriks:             Pitna voda
+
+Številka vzorca:    24/45552; Lab. št.: 24/4494
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+Mesto odvzema:   Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., PČP Draga (pipa št. 28)
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila: 09.05.2024
+
+Datum in ura:   06.05.2024 11:05                   Datum in ura:   06.05.2024 14:05
+
+Odvzel:        Dario Rahija, NLZOH OPKV               Prevzel:        Barbara Hrastar
+
+Rezultati preskušanja
+
+
+                                                                                                                         Začetek / zaključek
+Parameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+
+                                                                                                                     06.05.2024
+Escherichia coli                           ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL
+                                                                                                                     07.05.2024
+                                                                                                                     06.05.2024
+Koliformne bakterije                       ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL
+                                                                                                                     07.05.2024
+                                                                                                                     06.05.2024
+Clostridium perfringens                     ISO 14189:2013, NM                  ni najdeno            CFU/100 mL
+                                                                                                                     07.05.2024
+                                                                                                                     06.05.2024
+Enterokoki                              ISO 7899-2:2000, NM                 ni najdeno            CFU/100 mL
+                                                                                                                     09.05.2024
+                                      ISO 6222:1999, tehnika                                                     06.05.2024
+Število kolonij pri 22 °C                                                   < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   09.05.2024
+                                      ISO 6222:1999, tehnika                                                     06.05.2024
+Število kolonij pri 36 °C                                                   < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   09.05.2024
+
+
+                              Analitik:                                       Odgovorna oseba:
+       Nežka Lenarčič, univ. dipl. mikrobiologinja                mag. Matjaž Retelj, univ. dipl. mikrobiolog
+
+                                                                                            Elektronsko podpisal mag. Matjaž Retelj, univ. dipl. mikrobiolog ob 09.05.2024 13:58:09
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1

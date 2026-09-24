@@ -1,0 +1,735 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description=" content="
+    Statistični kazalniki za občino Črnomelj.
+">
+    <link href="/obcine/slo_grb.ico" rel="shortcut icon" type="image/x-icon" />
+    <title>Črnomelj - Slovenske regije in občine v številkah</title>
+    <link href="/obcine/Content/CssBundle.css" type="text/css" rel="stylesheet" />
+    
+    <script ssrc="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+    <script src="/obcine/Scripts/modernizr-2.6.2.min.js"></script>
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 2385111, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+</head>
+<body>
+
+    
+﻿<div id="overlay" style="display: block;" class="surs-cookies-wrapper" style="display: block;">
+    <div class="surs-cookie-container">
+        <div class="surs-cookies-text surs-cookie-text">
+            Spletno mesto Statističnega urada RS uporablja piškotke za analizo obiska ter za zagotavljanje spletne storitve in funkcionalnosti, saj teh brez piškotkov ne bi moglo nuditi. Ali se strinjate z namestitvijo piškotkov?
+            
+            <a href="/obcine/sl/Cookie/Cookie" class="text-white" style="text-decoration: underline;">Več o piškotkih</a>
+        </div>
+        <br />
+        <div class="surs-cookies-button surs-cookie-text">
+            <a href="/obcine/sl/Cookie/CookieNo" class="cookie-btn-no">Ne strinjam se</a>
+            <a href="/obcine/sl/Cookie/CookieYes" class="cookie-btn-yes">Strinjam se</a>
+            
+        </div>
+    </div>
+</div>
+
+
+    <!-- Main menu at the top of the screen  -->
+    <div id="header" class="page-row">
+        <!-- inner class because of responsive sticky footer ->
+            apply your styles to me -->
+        <div class="header-inner">
+            <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <!-- Brand -->
+            <a href="http://www.stat.si/StatWeb/" class="navbar-brand brand-surs">
+    <div class="brand-wrapper">
+        <div class="brand-icon">
+            <img class="img-responsive surs-logo" src="/obcine/Images/icons/slo_grb.svg" width="50" height="50" />
+        </div>
+        <div class="brand-text-normal hidden-xs hidden-sm text-uppercase">
+            <div class="brand-text-normal-top">
+                Republika Slovenija
+            </div>
+            <div class="brand-text-normal-bottom">
+                Statistični Urad
+            </div>
+        </div>
+        <div class="brand-text-responsive hidden-md hidden-lg text-uppercase">
+            SURS
+        </div>
+    </div>
+</a>
+
+            
+            
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse text-uppercase" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li>
+    <a href="/obcine/sl" class="dropdown-toggle custom-moreapps"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
+</li>
+
+                <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+       aria-haspopup="true" aria-expanded="false">
+        Regije
+        <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+            <li>
+                <a href="/obcine/sl/Region/Index/9">gorenjska</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/11">goriška</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/7">jugovzhodna Slovenija</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/3">koroška</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/12">Obalno-kraška</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/8">osrednjeslovenska</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/2">podravska</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/1">pomurska</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/6">posavska</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/10">Primorsko-notranjska</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/4">savinjska</a>
+            </li>
+            <li>
+                <a href="/obcine/sl/Region/Index/5">zasavska</a>
+            </li>
+ <!-- foreach -->
+    </ul>
+</li>
+
+
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+       aria-haspopup="true" aria-expanded="false">
+        Tematski članki
+        <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        
+            <li>
+<a href="/obcine/sl/Theme/Index/PrebivalstvoSplosno">Prebivalstvo</a>            </li>
+            <li>
+<a href="/obcine/sl/Theme/Index/IzobrazevanjeSplosno">Izobraževanje</a>            </li>
+            <li>
+<a href="/obcine/sl/Theme/Index/TrgDelaSplosno">Trg dela</a>            </li>
+            <li>
+<a href="/obcine/sl/Theme/Index/StanovanjaSplosno">Stanovanja</a>            </li>
+ <!-- foreach -->
+    </ul>
+</li>
+
+
+
+                <form action="/obcine/sl/Search" class="navbar-form navbar-left hidden-form" method="get" role="search" style="max-width: 100%">    <div class="input-group custom-input-group">
+        <div class="search-wrapper">
+            <input name="id" type="text" class="form-control custom-search-input" data-autocomplete=all
+                   placeholder="Išči regijo / občino">
+            <span class="input-group-btn">
+                <button class="btn btn-default custom-search-button" type="submit">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </button>
+            </span>
+        </div>
+    </div>
+</form><li class="dropdown hidden-dropdown">
+    <a href="#" class="dropdown-toggle custom-moreapps" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
+    <ul class="dropdown-menu dropdown-menu-right">
+        <li>
+<form action="/obcine/sl/Search" class="navbar-form navbar-left" method="get" role="search">                <div class="input-group custom-input-group-dropdown">
+                    <div class="search-wrapper">
+                        <input name="id" type="text" class="form-control custom-search-input" data-autocomplete=all
+                               placeholder="Išči regijo / občino">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default custom-search-button" type="submit">
+                                <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                            </button>
+                        </span>
+                    </div>
+                </div>
+</form>        </li>
+    </ul>
+</li>
+
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                
+                
+                <li>
+                    <a href="/obcine/en/Municip/GroupedAll/24">EN</a>
+                </li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+        </div>
+    </div>
+    <!-- Placeholder for the content of the page -->
+    <!-- inner class because of responsive sticky footer ->
+        apply your styles to me -->
+    <div class="wrapper page-row page-row-expanded">
+        <div class="wrapper-inner">
+            
+
+
+
+<style>
+    .table-fixed {
+        width: 100%;
+    }
+
+        .table-fixed > tbody {
+            height: 750px;
+            overflow-y: auto;
+            width: 100%;
+            border-top: solid 2px #ddd;
+        }
+
+        .table-fixed > thead, tbody, tr, td, th {
+            display: block;
+        }
+
+        .table-fixed > tbody > td {
+            float: left;
+        }
+
+        .table-fixed > thead > tr > td {
+            float: left;
+        }
+
+        .table-fixed > thead > tr > th {
+            border-bottom: none;
+        }
+
+    table td[class*=col-], table th[class*=col-] {
+        float: left;
+    }
+
+    .btn-sm {
+        padding: 0;
+        border: none;
+        background: none;
+    }
+
+    .popover-content {
+        font-size: 12px;
+        text-align: center;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 back-region-icon">
+            <a href="/obcine/sl/Municip/Index/24">
+                <span class="glyphicon glyphicon-circle-arrow-left glyphicon-back" aria-hidden="true"></span>
+                <span class="glyphicon-back-text text-center">Občina Črnomelj</span>
+            </a>
+        </div>
+
+        <div class="col-xs-12">
+            <div class="text-justify">
+                <!--<table class="table table-striped table-responsive table-data table-data-all">-->
+                <table class="table table-fixed table-striped table-responsive table-data table-data-all">
+                    <thead style="padding-right: 20px;">
+                        <tr class="text-uppercase">
+                            <th class="td-data td-data-text col-xs-8">PODATKI ZA LETO 2024</th>
+                            <th class="td-data td-data-num col-xs-2">OBČINA</th>
+                            <th class="td-data td-data-num col-xs-2">SLOVENIJA</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="td-data td-data-text col-xs-8">Površina km<sup>2</sup> - 1. januar</td>
+                            <td class="td-data td-data-num col-xs-2">340</td>
+                            <td class="td-data td-data-num col-xs-2">20.271</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število prebivalcev - 1. julij</td>
+                            <td class="td-data td-data-num  col-xs-2">14.262</td>
+                            <td class="td-data td-data-num  col-xs-2">2.126.324</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število moških - 1. julij</td>
+                            <td class="td-data td-data-num  col-xs-2">7.290</td>
+                            <td class="td-data td-data-num  col-xs-2">1.069.930</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število žensk - 1. julij</td>
+                            <td class="td-data td-data-num  col-xs-2">6.972</td>
+                            <td class="td-data td-data-num  col-xs-2">1.056.394</td>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Gostota naseljenosti - 1. januar</td>
+                                <td class="td-data td-data-num  col-xs-2">42</td>
+                                <td class="td-data td-data-num  col-xs-2">105</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Naravni prirast</td>
+                            <td class="td-data td-data-num  col-xs-2">-51</td>
+                            <td class="td-data td-data-num  col-xs-2">-4.631</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Skupni prirast</td>
+                            <td class="td-data td-data-num  col-xs-2">-17</td>
+                            <td class="td-data td-data-num  col-xs-2">6.901</td>
+
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Živorojeni (na 1.000 prebivalcev)</td>
+                            <td class="td-data td-data-num  col-xs-2">7,8</td>
+                            <td class="td-data td-data-num  col-xs-2">7,9</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Umrli (na 1.000 prebivalcev)</td>
+                            <td class="td-data td-data-num  col-xs-2">11,4</td>  
+                            <td class="td-data td-data-num  col-xs-2">10,1</td>  
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Naravni prirast (na 1.000 prebivalcev)</td>
+                            <td class="td-data td-data-num  col-xs-2">-3,6</td>
+                            <td class="td-data td-data-num  col-xs-2">-2,2</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Skupni selitveni prirast (na 1.000 prebivalcev)</td>
+                            <td class="td-data td-data-num  col-xs-2">2,4</td>
+                            <td class="td-data td-data-num  col-xs-2">5,4</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Skupni prirast (na 1.000 prebivalcev)</td>
+                            <td class="td-data td-data-num  col-xs-2">-1,2</td>
+                            <td class="td-data td-data-num  col-xs-2">3,2</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Povprečna starost prebivalcev - 1. julij</td>
+                            <td class="td-data td-data-num  col-xs-2">45,3</td>
+                            <td class="td-data td-data-num  col-xs-2">44,3</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Indeks staranja - 1. julij</td>
+                            <td class="td-data td-data-num  col-xs-2">163,9</td>
+                            <td class="td-data td-data-num  col-xs-2">150,4</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Indeks staranja za moške - 1. julij</td>
+                            <td class="td-data td-data-num  col-xs-2">144,5</td>
+                            <td class="td-data td-data-num  col-xs-2">128,0</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Indeks staranja za ženske - 1. julij</td>
+                            <td class="td-data td-data-num  col-xs-2">185,0</td>
+                            <td class="td-data td-data-num  col-xs-2">174,4</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Število vrtcev
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2024 se nanašajo na šolsko leto 2024/2025.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                                    <td class="td-data td-data-num  col-xs-2">5</td>
+                                <td class="td-data td-data-num  col-xs-2">986</td>
+
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Število otrok v vrtcih (po izvajalcu predšolske vzgoje)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2024 se nanašajo na šolsko leto 2024/2025.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                                    <td class="td-data td-data-num  col-xs-2">483</td>
+                                    <td class="td-data td-data-num  col-xs-2">82.412</td>
+
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Vključenost otrok v vrtce (% med vsemi otroki, starimi 1-5 let)
+                            <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2024 se nanašajo na šolsko leto 2024/2025.">
+                                <span class="glyphicon glyphicon-info-sign"></span>
+                            </a>
+                        </td>         
+                        <td class="td-data td-data-num  col-xs-2">74</td>
+                        <td class="td-data td-data-num  col-xs-2">83</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število učencev v osnovnih šolah
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2024 se nanašajo na šolsko leto 2024/2025.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">1.311</td>
+                            <td class="td-data td-data-num  col-xs-2">195.704</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število dijakov (po prebivališču)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2024 se nanašajo na šolsko leto 2024/2025.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                                
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">512</td>
+                            <td class="td-data td-data-num  col-xs-2">83.839</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število študentov (po prebivališču)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2024 se nanašajo na šolsko leto 2024/2025.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                                
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">420</td>
+                            <td class="td-data td-data-num  col-xs-2">82.388</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število študentov (na 1.000 prebivalcev)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2024 se nanašajo na šolsko leto 2024/2025.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">30</td>
+                            <td class="td-data td-data-num  col-xs-2">39</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število diplomantov (na 1.000 prebivalcev)</td>
+                                    <td class="td-data td-data-num  col-xs-2">7</td>
+
+
+                            <td class="td-data td-data-num  col-xs-2">8</td>
+                        </tr>
+
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število delovno aktivnih prebivalcev (po prebivališču)</td>
+                            <td class="td-data td-data-num  col-xs-2">6.113</td>
+                            <td class="td-data td-data-num  col-xs-2">944.008</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število delovno aktivnih prebivalcev (po delovnem mestu)</td>
+                            <td class="td-data td-data-num  col-xs-2">4.600</td>
+                            <td class="td-data td-data-num  col-xs-2">944.008</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število zaposlenih oseb (po delovnem mestu)</td>
+                            <td class="td-data td-data-num  col-xs-2">4.019</td>
+                            <td class="td-data td-data-num  col-xs-2">841.278</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število samozaposlenih oseb (po delovnem mestu)</td>
+                            <td class="td-data td-data-num  col-xs-2">581</td>
+                            <td class="td-data td-data-num  col-xs-2">102.730</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Stopnja delovne aktivnosti (%)</td>
+                            <td class="td-data td-data-num  col-xs-2">70,7</td>
+                            <td class="td-data td-data-num  col-xs-2">70,0</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Povprečna mesečna bruto plača na zaposleno osebo (EUR)
+                                                        <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="V 2024 smo prešli na uporabo novega administrativnega podatkovnega vira - obrazec REK-O. Ti podatki niso neposredno primerljivi s predhodnimi podatki.">
+                                                            <span class="glyphicon glyphicon-info-sign"></span>
+                                                        </a>
+                                                    </td>
+                                    <td class="td-data td-data-num  col-xs-2">2.016,60</td>
+
+
+                            <td class="td-data td-data-num  col-xs-2">2.394,92</td>
+                            
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Povprečna mesečna neto plača na zaposleno osebo (EUR)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="V 2024 smo prešli na uporabo novega administrativnega podatkovnega vira - obrazec REK-O. Ti podatki niso neposredno primerljivi s predhodnimi podatki.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                                    <td class="td-data td-data-num  col-xs-2">1.306,78</td>
+
+                            <td class="td-data td-data-num  col-xs-2">1.526,02</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Povprečna mesečna bruto plača (indeks, SI=100)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="V 2024 smo prešli na uporabo novega administrativnega podatkovnega vira - obrazec REK-O. Ti podatki niso neposredno primerljivi s predhodnimi podatki.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                                    <td class="td-data td-data-num  col-xs-2">84,2</td>
+
+                            
+                            <td class="td-data td-data-num  col-xs-2">100,0</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Povprečna mesečna neto plača (indeks, SI=100)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="V 2024 smo prešli na uporabo novega administrativnega podatkovnega vira - obrazec REK-O. Ti podatki niso neposredno primerljivi s predhodnimi podatki.">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                                    <td class="td-data td-data-num  col-xs-2">85,6</td>
+
+                            <td class="td-data td-data-num  col-xs-2">100,0</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število podjetij</td>
+                            <td class="td-data td-data-num  col-xs-2">1.157</td>
+                            <td class="td-data td-data-num  col-xs-2">234.446</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Prihodek podjetij (1.000 EUR)</td>
+                            <td class="td-data td-data-num  col-xs-2">371.087</td>
+                            <td class="td-data td-data-num  col-xs-2">166.401.581</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število stanovanj - 1. januar
+                            <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2021">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                                    <td class="td-data td-data-num  col-xs-2">5.950</td>
+                                    <td class="td-data td-data-num  col-xs-2">864.323</td>
+
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Število stanovanj (na 1.000 prebivalcev)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2021">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>                      
+                                                    </td>
+                                    <td class="td-data td-data-num  col-xs-2">416</td>
+                                    <td class="td-data td-data-num  col-xs-2">410</td>
+
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Tri- ali večsobna stanovanja (% med vsemi stanovanji)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2021">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                                                    </td>
+                                    <td class="td-data td-data-num  col-xs-2">61</td>
+                                    <td class="td-data td-data-num  col-xs-2">62</td>
+
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Povprečna uporabna površina stanovanj (m<sup>2</sup>)
+                                <a tabindex="0" class="btn btn-sm" role="button" data-toggle="popover" data-content="Podatki za leto 2021">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </td>
+                        <td class="td-data td-data-num  col-xs-2">85,8</td>
+                        <td class="td-data td-data-num  col-xs-2"> 83,3</td>
+
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Število osebnih avtomobilov - 31. december
+                            
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">8.535</td>
+                            <td class="td-data td-data-num  col-xs-2">1.250.508</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">Število osebnih avtomobilov (na 1.000 prebivalcev) - 31. december
+                                
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">601</td>
+                            <td class="td-data td-data-num  col-xs-2">587</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Povprečna starost osebnih avtomobilov (leta) - 31. december
+                               
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">12,5</td>
+                            <td class="td-data td-data-num  col-xs-2">11,3</td>
+                        </tr>
+
+
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Komunalni odpadki, zbrani z javnim odvozom (tone)
+                              
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">4.021</td>
+                            <td class="td-data td-data-num  col-xs-2">798.720</td>
+                        </tr>
+
+                        <tr>
+                            <td class="td-data td-data-text  col-xs-8">
+                                Komunalni odpadki zbrani z javnim odvozom (kg/preb.)
+                               
+                            </td>
+                            <td class="td-data td-data-num  col-xs-2">282</td>
+                            <td class="td-data td-data-num  col-xs-2">376</td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="col-xs-12">
+                    <p class="text-justify">
+                        Več podatkov najdete v podatkovni bazi
+                        <a href="https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2640010S.px" target="_blank">SiStat</a>
+                    </p>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </div>
+    <div class="footer page-row">
+        <!-- inner class because of responsive sticky footer ->
+            apply your styles to me -->
+        <div class="footer-inner">
+            <div class="container">
+                <p class="text-muted">
+                    <ul class="footer-list">
+                        <li>
+                            <div class="text-center"><a href="http://www.stat.si/StatWeb/StaticPages/Index/Copyright">&#169; Statistični urad Republike Slovenije</a></div>
+                            
+                        </li>
+                        
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    
+  
+    
+    
+
+
+
+    <script src="/obcine/Scripts/JQuery.js"></script>
+    <script src="/obcine/Scripts/BootstrapBundle.js"></script>
+    <script type="text/javascript">
+        var virtualDirectory = "/obcine";
+    </script>
+    <script src="/obcine/Scripts/Custom/Obcine.js"></script>
+    
+    
+    
+    
+
+    
+    <script>
+        $(function () {
+            $('[data-toggle="popover"]').popover()
+        })
+    </script>
+
+    <script>
+        $('[data-toggle="popover"]').popover({
+            trigger: 'hover'
+        })
+    </script>
+
+
+    
+
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.10.0/css/alertify.min.css" />
+    <!-- Default theme -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.10.0/css/themes/default.min.css" />
+    <!-- Semantic UI theme -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.10.0/css/themes/semantic.min.css" />
+    <!-- Bootstrap theme -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.10.0/css/themes/bootstrap.min.css" />
+
+    
+
+    
+    <link rel="stylesheet" href="/obcine/Content/cookie.css" />
+    <script src="//cdn.jsdelivr.net/alertifyjs/1.10.0/alertify.min.js"></script>
+
+
+
+    
+</body>
+</html>

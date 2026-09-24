@@ -1,0 +1,385 @@
+
+Stran 1
+                          Poročilo o izvedeni nalogi
+
+    Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+
+
+
+
+Evidenčna oznaka:     2300-25/19436-25/82555                                           16.06.34979
+
+
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O.
+               BELOKRANJSKA CESTA 24 A
+                  8340 Črnomelj
+
+
+Naročilo:           Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+
+Izvajalci:             Oddelek za pitne in kopalne vode
+                   Oddelek za kemijske analize živil, vod in drugih vzorcev okolja Novo mesto
+                   Oddelek za mikrobiološke analize živil, vod in drugih vzorcev okolja Novo mesto
+
+Vodja naloge:         Anton Škrbec, dipl.san.inž.
+
+
+Skrbnik vzorca:        Dario Rahija, dipl.san.inž.
+
+
+
+Novo mesto,          12.08.2025
+
+
+
+                                                   Oddelek za pitne in kopalne vode
+                                                     Vodja naloge:
+
+                                                    Anton Škrbec, dipl.san.inž.
+
+                                                                        Čas certificiranega podpisa namestnika in podatki o certifikatu so razvidni na vrhu prve strani
+                                                                                 dokumenta.
+
+
+
+
+
+Poročilo se brez pisnega dovoljenja izvajalca ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+                                                                                                                       Stran 1/3
+
+Stran 2
+Podatki o vzorcu
+
+Vzorec:               Pitna voda - Črnomelj, TPC, bar Emonec kafe
+
+Številka vzorca:      25/82555
+
+Namen:                Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24
+                     A, 8340 Črnomelj
+
+Vzorec odvzel:        Dario Rahija, NLZOH OPKV
+
+Čas odvzema:        07.08.2025 09:45
+
+Mesto odvzema:     Vodovod Črnomelj - omrežje, Črnomelj, TPC, bar Emonec kafe
+
+Vzorec sprejel:        Dario Rahija
+
+Kraj in čas sprejema:  Novo mesto, 07.08.2025 13:46
+
+
+
+Ocena rezultatov
+
+Prikazani so rezultati z določenimi kriteriji.
+
+                                                                   Izražen
+Parameter                                  Rezultat      Enota                              Kriterij            Skladnost
+                                                                     kot/na
+
+Terenske meritve
+
+Temperatura vode                                    18.9          °C                                                                                                 /
+
+Klor dioksid                                          0.10          mg/L                                                                                               /
+
+pH                                                     7.7                                                                  skladen
+
+Električna prevodnost (20°C)                       351         µS/cm                                                 skladen
+
+Vonj                                           brez posebnosti                                                                                                                  /
+
+Okus                                          brez posebnosti                                                                                                                  /
+
+Motnost                                           NTU                                                  skladen
+
+Mikrobiološki parametri
+
+Escherichia coli                                            ni najdeno    CFU/100 mL                                               skladen
+
+Koliformne bakterije                                       ni najdeno    CFU/100 mL                                               skladen
+
+Število kolonij pri 22 °C                                   CFU/mL                                                                                            /
+
+Število kolonij pri 36 °C                                   CFU/mL                                                 skladen
+
+Osnovni parametri
+
+Amonij                                                      mg/L                                                  skladen
+
+Barva (436 nm)                                                                                                                                                                                                     /
+
+
+
+
+
+                                                                                                                       Stran 2/3
+
+Stran 3
+Ocena rezultatov:
+
+
+
+
+
+Priloge poročila:
+Poročilo o preskušanju z evidenčno oznako 2300-25/19436-25/82555-T
+Poročilo o kemijskem preskušanju z evidenčno oznako 1072-25/19436-25/82555-K
+Poročilo o mikrobiološkem preskušanju z evidenčno oznako 4002-25/19436-25/82555-M
+
+
+
+
+
+                                                                                                                       Stran 3/3
+
+Stran 4
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+Poročilo o preskušanju
+
+Vzorec:              Pitna voda - Črnomelj, TPC, bar Emonec kafe
+
+Matriks:             Pitna voda
+
+Številka vzorca:     25/82555
+
+Namen:               Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:     Dario Rahija, dipl.san.inž.
+
+Naročnik:        JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                    Črnomelj
+
+Naročilo:          Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Predmet vzorčenja: Trenutni vzorec pitne vode iz sistema za oskrbo s pitno vodo.
+
+Plan vzorčenja:    DN 236240, 07.08.2025
+
+Mesto odvzema:    Vodovod Črnomelj - omrežje, Črnomelj, TPC, bar Emonec kafe
+
+Metoda vzorčenja:   SIST ISO 5667-5:2007
+
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila:  12.08.2025
+
+Datum in ura:  07.08.2025 09:45                   Datum in ura:  07.08.2025 13:46
+
+Odvzel:         Dario Rahija, NLZOH OPKV                Sprejel:         Dario Rahija
+
+
+
+Rezultati preskušanja
+
+
+                                                                                                                                Začetek /                                              Rezultat       Vrednosti              Izražen           Metoda
+Parameter                                                        Enota                                                  zaključek
+                                 Opomba      pod LOQ               kot/na           Kraj izvedbe              analize
+
+Terenske meritve
+
+Temperatura vode                              18.9                     °C               SIST DIN 38404-4:2000, na     07.08.25
+                                                                                          mestu odvzema          07.08.25
+Klor dioksid                                    0.10                     mg/L               Standardne metode, 4500     07.08.25
+                                                                                          ClO2-D: DPD metoda, 20.     07.08.25
+                                                                                                                 izdaja, na mestu odvzema
+pH                                              7.7                                        SIST EN ISO 10523: 2012,     07.08.25
+                                                                                       na mestu odvzema        07.08.25
+                                                         Meritev opravljena pri T = 18.9 °C
+Električna prevodnost (20°C)                  351                    µS/cm              SIST EN 27888: 1998, na      07.08.25
+                                                                                          mestu odvzema          07.08.25
+                                                         Meritev opravljena pri T = 18.9 °C
+Vonj                                     brez posebnosti                         ÖNORM M 6620: 2012, na     07.08.25
+                                                                                          mestu odvzema          07.08.25
+Okus                                    brez posebnosti                         ÖNORM M 6620: 2012, na     07.08.25
+                                                                                          mestu odvzema          07.08.25
+Motnost                                     <0.10           <0.03     NTU              SIST EN ISO 7027-1:2017,     07.08.25
+                                                                                       na mestu odvzema        07.08.25
+
+
+
+
+
+                                                                                                                                Stran: 1/2
+
+Stran 5
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+
+
+Opomba:
+
+
+Izmerjena vrednost motnosti v odvzetem vzorcu je znašala 0,01 NTU #.
+
+
+
+
+
+                                                                          Vodja naloge:
+                                                                  Anton Škrbec, dipl.san.inž.
+
+
+                                                                                                      Elektronsko podpisal namestnik Matic Molan ob 12.08.2025 14:45
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                                Stran: 2/2
+
+Stran 6
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o kemijskem preskušanju
+
+Vzorec:             Pitna voda - Črnomelj, TPC, bar Emonec kafe
+
+Matriks:             Pitna voda
+Številka vzorca:    25/82555
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca     Dario Rahija, dipl.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:   Vodovod Črnomelj - omrežje, Črnomelj, TPC, bar Emonec kafe
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila:  11.08.2025
+
+Datum in ura:  07.08.2025 09:45                   Datum in ura:  07.08.2025 13:46
+
+Odvzel:         Dario Rahija, NLZOH OPKV                Sprejel:         Dario Rahija
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe              analize
+
+Osnovni parametri
+
+                                                                                ISO 11732:2005, poglavje 4,    08.08.25
+Amonij                                     <0.01                     mg/L
+                                                                  NM               08.08.25
+                                                                                    SIST EN ISO 7887:2012;      08.08.25
+Barva (436 nm)                               <0.2
+                                                                                        metoda B, NM          08.08.25
+
+
+
+
+
+                                                                               Vodja oddelka:
+                                                                           Jernejka Franko, univ.dipl.inž.kem.inž.
+
+                                                                                        Elektronsko podpisal namestnik Maja Križan, univ.dipl.kemik ob 11.08.2025 11:29:19
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                                Stran: 1/1
+
+Stran 7
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - Črnomelj, TPC, bar Emonec kafe
+
+Matriks:             Pitna voda
+
+Številka vzorca:    25/82555; Lab. št.: 25/8365
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:    Dario Rahija, dipl.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:   Vodovod Črnomelj - omrežje, Črnomelj, TPC, bar Emonec kafe
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila:  11.08.2025
+
+Datum in ura:  07.08.2025 09:45                   Datum in ura:  07.08.2025 13:47
+
+Odvzel:         Dario Rahija, NLZOH OPKV               Prevzel:       Nežka Lenarčič
+
+Rezultati preskušanja
+
+
+                                                                                                                         Začetek / zaključek
+Parameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+
+                                                                                                                     07.08.2025
+Escherichia coli                           ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL
+                                                                                                                     08.08.2025
+                                                                                                                     07.08.2025
+Koliformne bakterije                       ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL
+                                                                                                                     08.08.2025
+                                      ISO 6222:1999, tehnika                                                     07.08.2025
+Število kolonij pri 22 °C                                                   < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   11.08.2025
+                                      ISO 6222:1999, tehnika                                                     07.08.2025
+Število kolonij pri 36 °C                                                   < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   11.08.2025
+
+
+                              Analitik:                                       Odgovorna oseba:
+      mag. Petra Vovko, univ. dipl. mikrobiologinja               mag. Matjaž Retelj, univ. dipl. mikrobiolog
+
+                                                                                            Elektronsko podpisal mag. Matjaž Retelj, univ. dipl. mikrobiolog ob 11.08.2025 13:54:45
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                                Stran: 1/1

@@ -1,0 +1,408 @@
+
+Stran 1
+                          Poročilo o izvedeni nalogi
+
+    Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+
+
+
+
+Evidenčna oznaka:     2300-25/19436-26/8632                                            29.09.18387
+
+
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O.
+               BELOKRANJSKA CESTA 24 A
+                  8340 Črnomelj
+
+
+Naročilo:           Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+
+Izvajalci:             Oddelek za pitne in kopalne vode
+                   Oddelek za kemijske analize živil, vod in drugih vzorcev okolja Novo mesto
+                   Oddelek za mikrobiološke analize živil, vod in drugih vzorcev okolja Novo mesto
+
+Vodja naloge:         Anton Škrbec, dipl.san.inž.
+
+
+Skrbnik vzorca:        Andrej Povše, mag.san.inž.
+
+
+
+Novo mesto,          06.02.2026
+
+
+
+                                                   Oddelek za pitne in kopalne vode
+                                                     Vodja naloge:
+
+                                                    Anton Škrbec, dipl.san.inž.
+
+                                                                        Čas certificiranega podpisa namestnika in podatki o certifikatu so razvidni na vrhu prve strani
+                                                                                 dokumenta.
+
+
+
+
+
+Poročilo se brez pisnega dovoljenja izvajalca ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+                                                                                                                       Stran 1/3
+
+Stran 2
+Podatki o vzorcu
+
+Vzorec:               Pitna voda - VH Gorica
+
+Številka vzorca:      26/8632
+
+Namen:                Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naročnik:         JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24
+                     A, 8340 Črnomelj
+
+Predmet vzorčenja:    Trenutni vzorec pitne vode iz sistema za oskrbo s pitno vodo.
+
+Plan vzorčenja:     DN 246172, 02.02.2026
+
+Vzorec odvzel:        Andrej Povše, NLZOH OPKV
+
+Čas odvzema:        02.02.2026 09:25
+
+Mesto odvzema:     Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., VH Gorica
+
+Metoda vzorčenja:    SIST ISO 5667-5:2007
+
+
+Vzorec sprejel:        Andrej Povše
+
+Kraj in čas sprejema:  Novo mesto, 02.02.2026 12:26
+
+
+
+Ocena rezultatov
+
+Prikazani so rezultati z določenimi kriteriji.
+
+                                                                  Izražen
+Parameter                                 Rezultat      Enota                              Kriterij            Skladnost
+                                                                      kot/na
+
+Terenske meritve
+
+Temperatura vode                                      7.6          °C                                                                                                 /
+
+Klor-prosti                                           0.22          mg/L                                                                                               /
+
+pH                                                     8.2                                                                  skladen
+
+Električna prevodnost (20°C)                       385         µS/cm                                                 skladen
+
+Vonj                                           brez posebnosti                                                             skladen
+
+Okus                                          brez posebnosti                                                             skladen
+
+Motnost                                             0.05        NTU                                                                                               /
+
+Kovine
+
+Aluminij                                        33           µg/L                                                  skladen
+
+Mikrobiološki parametri
+
+Escherichia coli                                            ni najdeno    CFU/100 mL                                               skladen
+
+Koliformne bakterije                                       ni najdeno    CFU/100 mL                                               skladen
+
+Število kolonij pri 22 °C                                   CFU/mL                                                                                            /
+
+Število kolonij pri 36 °C                                   CFU/mL                                                 skladen
+
+Giardia - ciste                                    0           v 100 L                                                 skladen
+
+Cryptosporidium- oociste                           0           v 100 L                                                 skladen
+
+
+                                                                                                                       Stran 2/3
+
+Stran 3
+Osnovni parametri
+
+Amonij                                                      mg/L                                                  skladen
+
+Barva (436 nm)                                                                                                                                                                                                     /
+
+
+
+
+
+Ocena rezultatov:
+
+
+
+
+
+Priloge poročila:
+Poročilo o preskušanju z evidenčno oznako 2300-25/19436-26/8632-T
+Poročilo o kemijskem preskušanju z evidenčno oznako 1072-25/19436-26/8632-K
+Poročilo o mikrobiološkem preskušanju z evidenčno oznako 4002-25/19436-26/8632-M
+
+
+
+
+
+                                                                                                                       Stran 3/3
+
+Stran 4
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+Poročilo o preskušanju
+
+Vzorec:              Pitna voda - VH Gorica
+
+Matriks:             Pitna voda
+
+Številka vzorca:     26/8632
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:     Andrej Povše, mag.san.inž.
+
+Naročnik:        JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                    Črnomelj
+
+Naročilo:          Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:    Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., VH Gorica
+
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila: 06.02.2026
+
+Datum in ura:   02.02.2026 09:25                   Datum in ura:   02.02.2026 12:26
+
+Odvzel:        Andrej Povše, NLZOH OPKV               Sprejel:        Andrej Povše
+
+Podatki odvzemnika navedeni na poročilu o preskušanju so naslednji: podatki o vzorcu (vpisano pod Vzorec: in
+Matriks:), podatki o odvzemu vzorca (mesto odvzema, datum in ura odvzema, vzorčevalec).
+
+Rezultati preskušanja
+
+
+                                                                                                                                Začetek /                                              Rezultat       Vrednosti              Izražen           Metoda
+Parameter                                                        Enota                                                  zaključek
+                                 Opomba      pod LOQ               kot/na           Kraj izvedbe             analize
+
+Terenske meritve
+
+Temperatura vode                                7.6                     °C               SIST DIN 38404-4:2000, na     02.02.26
+                                                                                          mestu odvzema          02.02.26
+Klor-prosti                                     0.22                     mg/L              SIST EN ISO 7393-2:2018,     02.02.26
+                                                                                       na mestu odvzema        02.02.26
+pH                                              8.2                                        SIST EN ISO 10523: 2012,     02.02.26
+                                                                                       na mestu odvzema        02.02.26
+                                                         Meritev opravljena pri T = 7.7 °C
+Električna prevodnost (20°C)                  385                    µS/cm              SIST EN 27888: 1998, na      02.02.26
+                                                                                          mestu odvzema          02.02.26
+                                                  Popravek rezultata z upoštevanjem temperaturne kompenzacije aparata
+                                                         Meritev opravljena pri T = 7.6 °C
+Vonj                                     brez posebnosti                         ÖNORM M 6620: 2012, na     02.02.26
+                                                                                          mestu odvzema          02.02.26
+Okus                                    brez posebnosti                         ÖNORM M 6620: 2012, na     02.02.26
+                                                                                          mestu odvzema          02.02.26
+Motnost                                     <0.10            0.05      NTU              SIST EN ISO 7027-1:2017,     02.02.26
+                                                                                       na mestu odvzema        02.02.26
+
+
+
+
+
+                                                                                                                               Stran: 1/2
+
+Stran 5
+         CENTER ZA OKOLJE IN ZDRAVJE
+
+
+
+
+                                                                          Vodja naloge:
+                                                                  Anton Škrbec, dipl.san.inž.
+
+
+                                                                                                      Elektronsko podpisal namestnik Matic Molan ob 06.02.2026 14:06
+
+
+Rezultati se nanašajo izključno na preskušani vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 2/2
+
+Stran 6
+         CENTER ZA KEMIJSKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o kemijskem preskušanju
+
+Vzorec:             Pitna voda - VH Gorica
+
+Matriks:             Pitna voda
+Številka vzorca:    26/8632
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca     Andrej Povše, mag.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:   Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., VH Gorica
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                    Sprejem vzorca           Datum poročila: 06.02.2026
+
+Datum in ura:   02.02.2026 09:25                   Datum in ura:   02.02.2026 12:26
+
+Odvzel:        Andrej Povše, NLZOH OPKV               Sprejel:        Andrej Povše
+
+Podatki odvzemnika navedeni na poročilu o preskušanju so naslednji: podatki o vzorcu (vpisano pod Vzorec: in
+Matriks:), podatki o odvzemu vzorca (mesto odvzema, datum in ura odvzema, vzorčevalec).
+
+Rezultati preskušanja
+
+                                                                                                                                Začetek /                                             Rezultat                               Izražen           Metoda
+Parameter                                                        Enota                                                 zaključek
+                                Opomba                               kot/na           Kraj izvedbe             analize
+
+Kovine
+
+                                                                                   SIST EN ISO 17294-2:2024,    05.02.26
+Aluminij                                  33                        µg/L
+                                                                  NM               05.02.26
+
+Osnovni parametri
+
+                                                                                                                            04.02.26
+Amonij                                     <0.01                     mg/L
+                                                                                                                            04.02.26
+                                                                                    SIST EN ISO 7887:2012;      03.02.26
+Barva (436 nm)                               <0.2
+                                                                                        metoda B, NM          03.02.26
+[1] CFA analizator
+
+Podatke o merilni negotovosti posredujemo na zahtevo naročnika.
+
+
+
+                                                                               Vodja oddelka:
+                                                                           Jernejka Franko, univ.dipl.inž.kem.inž.
+
+                                                                                        Elektronsko podpisal Jernejka Franko, univ.dipl.inž.kem.inž. ob 06.02.2026 07:57:25
+
+
+Rezultati se nanašajo izključno na preskušani vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času od sprejema vzorca do začetka analiz ustrezno hranjen. Rezultati se nanašajo na prejeti vzorec.
+Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1
+
+Stran 7
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - VH Gorica
+
+Matriks:             Pitna voda
+
+Številka vzorca:    26/8632; Lab. št.: 26/879
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje kakovosti pitne vode
+
+Skrbnik vzorca:     Andrej Povše, mag.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba (sklop 5) št. , PJN-I00020/2024, z dne 01.01.2025
+
+Mesto odvzema:   Vodovod Damelj - Sinji Vrh - VH in omr. upravlj., VH Gorica
+
+Stanje vzorca:     Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila: 05.02.2026
+
+Datum in ura:   02.02.2026 09:25                   Datum in ura:   02.02.2026 12:29
+
+Odvzel:        Andrej Povše, NLZOH OPKV              Prevzel:        Nastja Hočevar
+
+Podatki odvzemnika navedeni na poročilu o preskušanju so naslednji: podatki o vzorcu (vpisano pod Vzorec: in
+Matriks:), podatki o odvzemu vzorca (mesto odvzema, datum in ura odvzema, vzorčevalec).
+
+Rezultati preskušanja
+
+
+                                                                                                                         Začetek / zaključek
+Parameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+
+                                                                                                                     02.02.2026
+Escherichia coli                           ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL
+                                                                                                                     03.02.2026
+                                                                                                                     02.02.2026
+Koliformne bakterije                       ISO 9308-1:2014, NM                 ni najdeno            CFU/100 mL
+                                                                                                                     03.02.2026
+                                      ISO 6222:1999, tehnika                                                     02.02.2026
+Število kolonij pri 22 °C                                                   < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   05.02.2026
+                                      ISO 6222:1999, tehnika                                                     02.02.2026
+Število kolonij pri 36 °C                                                   < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   04.02.2026
+                                                                                                                     02.02.2026
+Giardia - ciste                            ISO 15553:2006, NM                0            #     v 100 L
+                                                                                                                     05.02.2026
+                                                                                                                     02.02.2026
+Cryptosporidium- oociste                    ISO 15553:2006, NM                0            #     v 100 L
+                                                                                                                     05.02.2026
+
+
+                              Analitik:                                       Odgovorna oseba:
+       Nežka Lenarčič, univ. dipl. mikrobiologinja                              Brigita Weiss, dipl. san. inž.
+
+                                                                                                   Elektronsko podpisal Brigita Weiss, dipl. san. inž. ob 05.02.2026 14:11:01
+
+
+Rezultati se nanašajo izključno na preskušani vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času od sprejema vzorca do začetka analiz ustrezno hranjen. Rezultati se nanašajo na prejeti vzorec.
+Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1

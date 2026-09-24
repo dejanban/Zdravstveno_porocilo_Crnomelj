@@ -1,0 +1,70 @@
+
+Stran 1
+         CENTER ZA MIKROBIOLOŠKE ANALIZE ŽIVIL, VOD IN
+          DRUGIH VZORCEV OKOLJA
+
+
+Delno poročilo o mikrobiološkem preskušanju
+
+Vzorec:             Pitna voda - Vrtina Damelj (pipa št. 26)
+
+Matriks:             Pitna voda
+
+Številka vzorca:    24/32343; Lab. št.: 24/3154
+
+Namen:              Notranji nadzor sistema za oskrbo s pitno vodo
+
+Naloga:           Komunala Črnomelj, d.o.o. - spremljanje zdravstvene ustreznosti pitne vode 425-7/2021
+
+Skrbnik vzorca:     Andrej Povše, mag.san.inž.
+
+Naročnik:       JAVNO PODJETJE KOMUNALA ČRNOMELJ D.O.O., BELOKRANJSKA CESTA 24 A, 8340
+                   Črnomelj
+
+Naročilo:         Pogodba št. , PG-2300-21/19436-23, 631-5/2023, z dne 19.01.2023
+
+Mesto odvzema:   Vodovod Damelj - Sinji vrh - zajetje, Vrtina Damelj (pipa št. 26)
+
+Stanje vzorca:      Vzorec ustreza kriterijem za sprejem
+
+Odvzem vzorca                                  Prevzem vzorca           Datum poročila:  02.04.2024
+
+Datum in ura:   29.03.2024 09:45                   Datum in ura:   29.03.2024 12:46
+
+Odvzel:        Andrej Povše, NLZOH OPKV              Prevzel:        Petra Vovko
+
+Rezultati preskušanja
+
+
+                                                                                                                         Začetek / zaključek
+Parameter                                Metoda, Kraj izvedbe                Rezultat              Enota                                                                                                                                             analize
+
+                                                                                                                     29.03.2024
+Escherichia coli                           ISO 9308-1:2014, NM             ocenjeno 3            CFU/100 mL
+                                                                                                                     02.04.2024
+                                                                                                                     29.03.2024
+Koliformne bakterije                       ISO 9308-1:2014, NM                42               CFU/100 mL
+                                                                                                                     02.04.2024
+                                      ISO 6222:1999, tehnika                                                     29.03.2024
+Število kolonij pri 22 °C                                                       14               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   02.04.2024
+                                      ISO 6222:1999, tehnika                                                     29.03.2024
+Število kolonij pri 36 °C                                                    < 10               CFU/mL
+                                                  prelivanja, gojišče YEA, NM                                                   02.04.2024
+
+
+                              Analitik:                                       Odgovorna oseba:
+           Barbara Hrastar, mag.mol.funk.biol.                  mag. Matjaž Retelj, univ. dipl. mikrobiolog
+
+
+
+
+Rezultati se nanašajo na vzorčeni vzorec. Poročilo se brez pisnega dovoljenja oddelka ne sme reproducirati, razen v celoti. Ne sme se uporabljati v reklamne namene.
+Vzorec je bil v času do začetka analiz ustrezno hranjen. Vse dodatne informacije o opravljenem preskušanju so dostopne na oddelku.
+Preverjanje istovetnosti dokumenta: http://www.nlzoh.si/istovetnost.
+
+
+
+
+
+                                                                                                                               Stran: 1/1
