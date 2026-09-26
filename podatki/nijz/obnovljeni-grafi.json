@@ -1,0 +1,772 @@
+{
+  "K1.1": {
+    "title": "K1.1 Razvitost občine",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          0.9,
+          0.9,
+          0.9,
+          0.87,
+          0.9,
+          0.9,
+          0.9,
+          0.9,
+          0.9,
+          0.91,
+          0.9
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K1.1_2026.xlsx"
+  },
+  "K1.5": {
+    "title": "K1.5 Stopnja delovne aktivnosti",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          55.7,
+          54.5,
+          57.7,
+          62.2,
+          66.8,
+          66.3,
+          64,
+          67.2,
+          68.94,
+          68.68,
+          69.3
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          59.2,
+          59.7,
+          61.3,
+          64.25,
+          67.2,
+          68.5,
+          67.1,
+          68.5,
+          69.65,
+          70.31,
+          70
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          57.2,
+          57.9,
+          59.5,
+          61.64,
+          64.4,
+          65.8,
+          64.6,
+          66.1,
+          67.84,
+          68.85,
+          68.58
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K1.5_2026.xlsx"
+  },
+  "K2.2": {
+    "title": "K2.2 Prekomerna prehranjenost otrok",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          31.1,
+          30.9,
+          28.8,
+          30.08,
+          30,
+          31.7,
+          30.4,
+          33.1,
+          32.3,
+          29.9,
+          28.3
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          26.8,
+          27,
+          27.7,
+          26.27,
+          26.7,
+          27,
+          null,
+          null,
+          27.04,
+          26.45,
+          26.65
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          24.6,
+          23.9,
+          24.8,
+          24.3,
+          24.5,
+          24.1,
+          27.8,
+          28.7,
+          24.95,
+          23.39,
+          24.18
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K2.2_2026.xlsx"
+  },
+  "K2.6": {
+    "title": "K2.6 Prometne nezgode z alkoholiziranimi povzročitelji",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          18.9,
+          17,
+          15.6,
+          14.29,
+          13.3,
+          11.8,
+          11.4,
+          12,
+          13.16,
+          12.98,
+          12.94
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          10.3,
+          10.1,
+          10.2,
+          9.99,
+          9.6,
+          9.4,
+          9.7,
+          9.6,
+          9.57,
+          9.63,
+          9.46
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          8.7,
+          8.7,
+          9,
+          9.05,
+          9.1,
+          8.8,
+          8.9,
+          8.5,
+          8.48,
+          8.37,
+          8.22
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K2.6_2026.xlsx"
+  },
+  "K3.4": {
+    "title": "K3.4 Presejanost v Programu DORA",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          null,
+          null,
+          null,
+          null,
+          64.4,
+          78.7,
+          79.1,
+          81.4,
+          82.88,
+          82.25,
+          82.08
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          null,
+          null,
+          null,
+          null,
+          73.9,
+          79.1,
+          79.2,
+          80.1,
+          80.74,
+          80.68,
+          80.16
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          null,
+          null,
+          null,
+          null,
+          76.2,
+          77.5,
+          76.7,
+          78,
+          77.79,
+          77.9,
+          77.93
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K3.4_2026.xlsx"
+  },
+  "K4.6": {
+    "title": "K4.6 Prejemniki zdravil zaradi poviš. krvnega tlaka",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          26.5,
+          26.2,
+          26.1,
+          25.79,
+          25.3,
+          25.3,
+          25,
+          24.8,
+          24.92,
+          25.24,
+          25.38
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          25.9,
+          25.8,
+          25.7,
+          25.51,
+          25.3,
+          25.1,
+          24.7,
+          24.5,
+          24.62,
+          24.76,
+          24.8
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          23.7,
+          23.5,
+          23.4,
+          23.18,
+          23,
+          22.9,
+          22.5,
+          22.4,
+          22.45,
+          22.47,
+          22.51
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K4.6_2026.xlsx"
+  },
+  "K4.8": {
+    "title": "K4.8 Srčna kap (35-74 let)",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          2.1,
+          2.2,
+          2.2,
+          2.4,
+          2.9,
+          2.5,
+          2.4,
+          2.4,
+          1.98,
+          1.7,
+          1.66
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          1.8,
+          1.9,
+          2,
+          1.95,
+          2,
+          2,
+          1.9,
+          1.9,
+          1.92,
+          1.97,
+          1.9
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          1.9,
+          2,
+          2.1,
+          2.09,
+          2.1,
+          2.1,
+          2.1,
+          2,
+          1.96,
+          1.91,
+          1.86
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K4.8_2026.xlsx"
+  },
+  "K4.9": {
+    "title": "K4.9 Možganska kap (35-84 let)",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          2.9,
+          2.8,
+          3,
+          3.04,
+          2.8,
+          2.6,
+          2.7,
+          2.4,
+          2.28,
+          2.17,
+          2.26
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          2.3,
+          2.4,
+          2.5,
+          2.52,
+          2.5,
+          2.6,
+          2.5,
+          2.5,
+          2.34,
+          2.28,
+          2.15
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          2.6,
+          2.6,
+          2.6,
+          2.57,
+          2.6,
+          2.5,
+          2.5,
+          2.4,
+          2.3,
+          2.26,
+          2.21
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K4.9_2026.xlsx"
+  },
+  "K4.4": {
+    "title": "K4.4 Bolezni, neposredno pripisljive alkoholu (15 let in več)",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          1.7,
+          1.6,
+          1.5,
+          1.75,
+          1.9,
+          1.9,
+          2,
+          1.7,
+          1.59,
+          1.43,
+          1.21
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          2.3,
+          2.1,
+          2.1,
+          2.02,
+          1.9,
+          1.8,
+          1.7,
+          1.5,
+          1.44,
+          1.4,
+          1.36
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          2,
+          1.9,
+          2,
+          1.98,
+          1.9,
+          1.9,
+          1.8,
+          1.7,
+          1.64,
+          1.64,
+          1.61
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K4.4_2026.xlsx"
+  },
+  "K5.1": {
+    "title": "K5.1 Umrljivost po stalnem bivališču",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          1041.5,
+          1064.1,
+          1061.9,
+          1045.51,
+          1059.7,
+          1041,
+          1049.5,
+          1037.9,
+          1000.33,
+          964.77,
+          949.38
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          1042.2,
+          1026,
+          1008.3,
+          969.87,
+          967.8,
+          959.2,
+          967.3,
+          976.3,
+          967.02,
+          951.2,
+          938.17
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          979.9,
+          958.9,
+          943,
+          929.8,
+          916.2,
+          909,
+          921.5,
+          932.5,
+          930.41,
+          922.3,
+          913.09
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K5.1_2026.xlsx"
+  },
+  "K5.7": {
+    "title": "K5.7 Umrljivost zaradi samomora",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "series": [
+      {
+        "label": "Črnomelj",
+        "color": "#146859",
+        "values": [
+          17.1,
+          16.8,
+          11,
+          10.95,
+          12.4,
+          10.8,
+          9.9,
+          16.2,
+          16.88,
+          17.01,
+          17.1
+        ]
+      },
+      {
+        "label": "JV Slovenija",
+        "color": "#9d6925",
+        "values": [
+          21.3,
+          19.4,
+          16.8,
+          17.15,
+          16.9,
+          17.2,
+          17.3,
+          19.2,
+          19.43,
+          19.18,
+          18.96
+        ]
+      },
+      {
+        "label": "Slovenija",
+        "color": "#4468a5",
+        "values": [
+          21.7,
+          20.9,
+          20.1,
+          19.73,
+          18.7,
+          18.6,
+          17.9,
+          18.3,
+          18.1,
+          18.03,
+          17.63
+        ]
+      }
+    ],
+    "source": "viri/nijz/NIJZ Obcine - Trendi_Crnomelj_K5.7_2026.xlsx"
+  }
+}

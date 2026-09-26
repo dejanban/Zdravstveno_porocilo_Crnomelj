@@ -54,4 +54,6 @@ def main():
     results['rendered_pages']=relevant
     (ROOT/'preverjanje/okolje-porocilo.json').write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps(results,ensure_ascii=False,indent=2))
-if __name__=='__main__':main()
+if __name__=='__main__':
+    from preveri_prenovo import main as preveri_prenovo
+    preveri_prenovo()

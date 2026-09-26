@@ -1,9 +1,11 @@
 """Zagon: python zazeni.py [zgradi|preveri|vse|postrezi]."""
 from pathlib import Path
-import argparse,subprocess,sys
+import argparse,subprocess,sys,os
 
 P=Path(__file__).resolve().parent
-def run(name):subprocess.run([sys.executable,'-X','utf8',str(P/'orodja'/name)],cwd=P,check=True)
+def run(name):
+    env=os.environ.copy();env['PYTHONPATH']=str(P/'tmp/okolje-runtime')+os.pathsep+env.get('PYTHONPATH','')
+    subprocess.run([sys.executable,'-X','utf8',str(P/'orodja'/name)],cwd=P,check=True,env=env)
 def main():
     parser=argparse.ArgumentParser(description='Samostojno zdravstveno poročilo Črnomelj')
     parser.add_argument('ukaz',choices=['zgradi','preveri','vse','postrezi'],nargs='?',default='zgradi')
@@ -16,7 +18,7 @@ def main():
     if args.ukaz in ['zgradi','vse']:
         if (P/'vsebina/obnovljena-osnova-20260924.html').exists():
             if args.preracunaj_poti:
-                raise SystemExit('Preračun poti ni obnovljen: izvirni generator je prazen.')
+                raise SystemExit('Preračun poti ni povezan z gradnjo iz ohranjene izdaje. Izvirni generator orodja/analiziraj_poti.py je obnovljen; izvirni izračun je v arhiv/izvirnik-0dc0bd4/podatki/poti/.')
             run('zgradi_okolje_porocilo.py')
             if args.ukaz=='vse':
                 run('preveri_okoljske_vire.py')

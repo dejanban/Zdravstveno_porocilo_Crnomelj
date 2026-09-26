@@ -1,0 +1,73 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "tabs": 12,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 1024,
+      "tabs": 12,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 768,
+      "tabs": 12,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 390,
+      "tabs": 12,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 360,
+      "tabs": 12,
+      "horizontal_overflow": false
+    }
+  ],
+  "errors": [],
+  "external_requests": [],
+  "checks": [
+    "Enolična sidra in veljavne lokalne povezave",
+    "Ohranjena vsa stara poglavja",
+    "Klik, tipkovnica, neposredna povezava in zgodovina Nazaj",
+    "Iskanje v skritih zavihkih in stara sidra",
+    "Drsnik ohranjenih grafov NIJZ",
+    "Iskanje in filter športnih dejavnosti",
+    "Peš/kolesarski pogled, sloj AED, prehod na lokacijo in filter AED",
+    "Približevanje zemljevida in podrobnosti poti",
+    "Ohranjen register objav CKZ",
+    "Celotna vsebina dostopna brez JavaScripta",
+    "PDF vključuje vse zavihke in razširjene podrobnosti"
+  ],
+  "missing_legacy_files": 1,
+  "pdf_pages": 155,
+  "rendered_pdf_pages": [
+    1,
+    5,
+    15,
+    17,
+    20,
+    36,
+    37,
+    39,
+    42,
+    44,
+    53,
+    55,
+    64,
+    66,
+    73,
+    82,
+    84,
+    94,
+    98,
+    102,
+    106,
+    116,
+    119,
+    136
+  ],
+  "references": 196
+}

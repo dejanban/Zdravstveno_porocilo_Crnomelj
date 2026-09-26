@@ -1,0 +1,38 @@
+[
+  {
+    "path": "viri/okolje-2026-09-24/arso-arhiv.html",
+    "expected_sha256": "a12f901247e069902b7de54733e50bb7ccb097b58ac92c0416a92308a654a74a",
+    "observed_sha256": "a2561805d4762bab646f2c9570dd048afd6a6c43a392c7860a622b01ada84924",
+    "status": "podedovano neskladje; ni potrjen izvirnik"
+  },
+  {
+    "path": "viri/okolje-2026-09-24/arso-letna-kazalo.html",
+    "expected_sha256": "ffe0b508ec75301e4767764c9338891f99e491c5c07db327ceb703c5f74e9618",
+    "observed_sha256": "ef5435889b8e147d24ae97d3ed7c1c3d837074840aa33b82e09d49cdf5293f35",
+    "status": "podedovano neskladje; ni potrjen izvirnik"
+  },
+  {
+    "path": "viri/okolje-2026-09-24/arso-podatki.html",
+    "expected_sha256": "ddc6542c6627acfcd272cf16529265f4d545e5d79dcd314c2072b6ed3bbe3eae",
+    "observed_sha256": "015b1f9c8b03f0c1e9f5e3d8b98ba6eab386fff9e525383fda10b57715d0bbc1",
+    "status": "podedovano neskladje; ni potrjen izvirnik"
+  },
+  {
+    "path": "viri/okolje-2026-09-24/komunala-kakovost.html",
+    "expected_sha256": "fb3b42e72f6a1ca3dd2b01aca6ed5e5e18ff6e90cd8628a27f07cbd91f986b5e",
+    "observed_sha256": "0aa2d64ebbd28878fdb87bfed5c417c42b0719a9eca1548db71ece185122becf",
+    "status": "podedovano neskladje; ni potrjen izvirnik"
+  },
+  {
+    "path": "viri/okolje-2026-09-24/komunala-vzorci-crnomelj.html",
+    "expected_sha256": "ad58b316f5febea541cf0b6a7948f73e7680cdcf8ef723005955acb073e50d6a",
+    "observed_sha256": "a7198b2e46648eb4e92ff05cdb19a15c61d0921361a4fe5811261c382d0a9e6f",
+    "status": "podedovano neskladje; ni potrjen izvirnik"
+  },
+  {
+    "path": "viri/okolje-2026-09-24/zrak-podatki-29.html",
+    "expected_sha256": "5542827d9e5bf5cb9802f23f03f689793bfa466a1aeddb6b3e3746f35ab34e0b",
+    "observed_sha256": "e80f28bf6da8d9e82f2e77c2132cc658b2b74867be4831f58928bd9cb6aeed04",
+    "status": "podedovano neskladje; ni potrjen izvirnik"
+  }
+]

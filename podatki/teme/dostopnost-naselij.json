@@ -1,0 +1,401 @@
+{
+ "datum": "2026-09-26",
+ "izhodisca": {
+  "ZD Črnomelj": [
+   15.1875308,
+   45.5754632
+  ],
+  "SB Novo mesto (UC)": [
+   15.1638289,
+   45.7999676
+  ],
+  "ZD Metlika": [
+   15.3180735,
+   45.6484141
+  ]
+ },
+ "scenariji_opis": {
+  "A_srednji": {
+   "izhodisca": [
+    "ZD Črnomelj"
+   ],
+   "obdelava_klica_min": 1.5,
+   "izvoz_min": 1.0,
+   "faktor_voznje": 1.0
+  },
+  "A_hitra_voznja": {
+   "izhodisca": [
+    "ZD Črnomelj"
+   ],
+   "obdelava_klica_min": 1.0,
+   "izvoz_min": 1.0,
+   "faktor_voznje": 0.8
+  },
+  "A_pocasna_voznja": {
+   "izhodisca": [
+    "ZD Črnomelj"
+   ],
+   "obdelava_klica_min": 2.0,
+   "izvoz_min": 1.0,
+   "faktor_voznje": 1.2
+  },
+  "B_druga_ekipa": {
+   "izhodisca": [
+    "ZD Metlika",
+    "SB Novo mesto (UC)"
+   ],
+   "obdelava_klica_min": 1.5,
+   "izvoz_min": 1.0,
+   "faktor_voznje": 1.0
+  }
+ },
+ "naselja_osm": 111,
+ "naselja_surs": 122,
+ "ujemanje_imen": 109,
+ "prebivalci_zajeti": 13943,
+ "prebivalci_65_zajeti": 3540,
+ "prebivalci_obcina_2026": 14170,
+ "brez_ujemanja_osm": [
+  "Podbrežje",
+  "Gorenja Paka"
+ ],
+ "voznja_zd_pasovi": [
+  {
+   "pas_min": "0–10",
+   "naselja": 34,
+   "prebivalci": 9159,
+   "prebivalci_65": 2274
+  },
+  {
+   "pas_min": "10–15",
+   "naselja": 20,
+   "prebivalci": 1790,
+   "prebivalci_65": 454
+  },
+  {
+   "pas_min": "15–20",
+   "naselja": 19,
+   "prebivalci": 1142,
+   "prebivalci_65": 288
+  },
+  {
+   "pas_min": "20–30",
+   "naselja": 19,
+   "prebivalci": 1221,
+   "prebivalci_65": 336
+  },
+  {
+   "pas_min": "30+",
+   "naselja": 17,
+   "prebivalci": 631,
+   "prebivalci_65": 188
+  }
+ ],
+ "scenariji": {
+  "A_srednji": {
+   "pasovi": [
+    {
+     "pas_min": "0–10",
+     "naselja": 21,
+     "prebivalci": 7991,
+     "prebivalci_65": 1982
+    },
+    {
+     "pas_min": "10–15",
+     "naselja": 22,
+     "prebivalci": 2440,
+     "prebivalci_65": 615
+    },
+    {
+     "pas_min": "15–20",
+     "naselja": 21,
+     "prebivalci": 1109,
+     "prebivalci_65": 285
+    },
+    {
+     "pas_min": "20–30",
+     "naselja": 21,
+     "prebivalci": 1377,
+     "prebivalci_65": 357
+    },
+    {
+     "pas_min": "30+",
+     "naselja": 24,
+     "prebivalci": 1026,
+     "prebivalci_65": 301
+    }
+   ],
+   "nad_15_prebivalci": 3512,
+   "nad_15_delez": 25.2,
+   "nad_15_65plus": 943,
+   "utezeno_povprecje_min": 11.4
+  },
+  "A_hitra_voznja": {
+   "pasovi": [
+    {
+     "pas_min": "0–10",
+     "naselja": 34,
+     "prebivalci": 9159,
+     "prebivalci_65": 2274
+    },
+    {
+     "pas_min": "10–15",
+     "naselja": 24,
+     "prebivalci": 1932,
+     "prebivalci_65": 486
+    },
+    {
+     "pas_min": "15–20",
+     "naselja": 19,
+     "prebivalci": 1204,
+     "prebivalci_65": 315
+    },
+    {
+     "pas_min": "20–30",
+     "naselja": 28,
+     "prebivalci": 1596,
+     "prebivalci_65": 450
+    },
+    {
+     "pas_min": "30+",
+     "naselja": 4,
+     "prebivalci": 52,
+     "prebivalci_65": 15
+    }
+   ],
+   "nad_15_prebivalci": 2801,
+   "nad_15_delez": 20.1,
+   "nad_15_65plus": 758,
+   "utezeno_povprecje_min": 9.2
+  },
+  "A_pocasna_voznja": {
+   "pasovi": [
+    {
+     "pas_min": "0–10",
+     "naselja": 9,
+     "prebivalci": 7032,
+     "prebivalci_65": 1779
+    },
+    {
+     "pas_min": "10–15",
+     "naselja": 25,
+     "prebivalci": 2127,
+     "prebivalci_65": 495
+    },
+    {
+     "pas_min": "15–20",
+     "naselja": 18,
+     "prebivalci": 1670,
+     "prebivalci_65": 419
+    },
+    {
+     "pas_min": "20–30",
+     "naselja": 25,
+     "prebivalci": 1466,
+     "prebivalci_65": 382
+    },
+    {
+     "pas_min": "30+",
+     "naselja": 32,
+     "prebivalci": 1648,
+     "prebivalci_65": 465
+    }
+   ],
+   "nad_15_prebivalci": 4784,
+   "nad_15_delez": 34.3,
+   "nad_15_65plus": 1266,
+   "utezeno_povprecje_min": 13.7
+  },
+  "B_druga_ekipa": {
+   "pasovi": [
+    {
+     "pas_min": "0–10",
+     "naselja": 0,
+     "prebivalci": 0,
+     "prebivalci_65": 0
+    },
+    {
+     "pas_min": "10–15",
+     "naselja": 1,
+     "prebivalci": 101,
+     "prebivalci_65": 22
+    },
+    {
+     "pas_min": "15–20",
+     "naselja": 3,
+     "prebivalci": 407,
+     "prebivalci_65": 104
+    },
+    {
+     "pas_min": "20–30",
+     "naselja": 46,
+     "prebivalci": 9805,
+     "prebivalci_65": 2458
+    },
+    {
+     "pas_min": "30+",
+     "naselja": 59,
+     "prebivalci": 3630,
+     "prebivalci_65": 956
+    }
+   ],
+   "nad_15_prebivalci": 13842,
+   "nad_15_delez": 99.3,
+   "nad_15_65plus": 3518,
+   "utezeno_povprecje_min": 26.5
+  }
+ },
+ "omejitev": "Model OSRM (OSM cestna mreža) in predpostavke o obdelavi klica ter hitrosti nujne vožnje. To ni izmerjeni dostopni čas NMP. Zračna razdalja do AED ni čas do uporabe AED.",
+ "najdlje_10": [
+  {
+   "naselje": "Dalnje Njive",
+   "prebivalci_2026": 16,
+   "prebivalci_65_2026": 5,
+   "zracno_zd_km": 15.9,
+   "cesta_zd_km": 25.6,
+   "voznja_zd_min": 36.8,
+   "voznja_metlika_min": 53.0,
+   "voznja_sbnm_min": 74.5,
+   "zracno_najblizji_aed_km": 1.87,
+   "dostopni_A_srednji_min": 39.3,
+   "dostopni_A_hitra_voznja_min": 31.5,
+   "dostopni_A_pocasna_voznja_min": 47.2,
+   "dostopni_B_druga_ekipa_min": 55.5
+  },
+  {
+   "naselje": "Vukovci",
+   "prebivalci_2026": 33,
+   "prebivalci_65_2026": 10,
+   "zracno_zd_km": 16.36,
+   "cesta_zd_km": 21.9,
+   "voznja_zd_min": 36.8,
+   "voznja_metlika_min": 46.8,
+   "voznja_sbnm_min": 76.3,
+   "zracno_najblizji_aed_km": 2.82,
+   "dostopni_A_srednji_min": 39.3,
+   "dostopni_A_hitra_voznja_min": 31.4,
+   "dostopni_A_pocasna_voznja_min": 47.2,
+   "dostopni_B_druga_ekipa_min": 49.3
+  },
+  {
+   "naselje": "Selce pri Špeharjih",
+   "prebivalci_2026": 2,
+   "prebivalci_65_2026": 0,
+   "zracno_zd_km": 14.24,
+   "cesta_zd_km": 24.5,
+   "voznja_zd_min": 36.2,
+   "voznja_metlika_min": 57.9,
+   "voznja_sbnm_min": 73.8,
+   "zracno_najblizji_aed_km": 1.68,
+   "dostopni_A_srednji_min": 38.7,
+   "dostopni_A_hitra_voznja_min": 30.9,
+   "dostopni_A_pocasna_voznja_min": 46.4,
+   "dostopni_B_druga_ekipa_min": 60.4
+  },
+  {
+   "naselje": "Breg pri Sinjem Vrhu",
+   "prebivalci_2026": 1,
+   "prebivalci_65_2026": 0,
+   "zracno_zd_km": 15.03,
+   "cesta_zd_km": 24.4,
+   "voznja_zd_min": 35.8,
+   "voznja_metlika_min": 57.9,
+   "voznja_sbnm_min": 73.4,
+   "zracno_najblizji_aed_km": 2.71,
+   "dostopni_A_srednji_min": 38.3,
+   "dostopni_A_hitra_voznja_min": 30.6,
+   "dostopni_A_pocasna_voznja_min": 45.9,
+   "dostopni_B_druga_ekipa_min": 60.4
+  },
+  {
+   "naselje": "Dolenja Podgora",
+   "prebivalci_2026": 8,
+   "prebivalci_65_2026": 0,
+   "zracno_zd_km": 10.17,
+   "cesta_zd_km": 25.0,
+   "voznja_zd_min": 34.1,
+   "voznja_metlika_min": 51.2,
+   "voznja_sbnm_min": 72.5,
+   "zracno_najblizji_aed_km": 3.72,
+   "dostopni_A_srednji_min": 36.6,
+   "dostopni_A_hitra_voznja_min": 29.3,
+   "dostopni_A_pocasna_voznja_min": 44.0,
+   "dostopni_B_druga_ekipa_min": 53.7
+  },
+  {
+   "naselje": "Učakovci",
+   "prebivalci_2026": 105,
+   "prebivalci_65_2026": 33,
+   "zracno_zd_km": 15.3,
+   "cesta_zd_km": 20.7,
+   "voznja_zd_min": 33.9,
+   "voznja_metlika_min": 43.9,
+   "voznja_sbnm_min": 73.4,
+   "zracno_najblizji_aed_km": 2.73,
+   "dostopni_A_srednji_min": 36.4,
+   "dostopni_A_hitra_voznja_min": 29.1,
+   "dostopni_A_pocasna_voznja_min": 43.7,
+   "dostopni_B_druga_ekipa_min": 46.4
+  },
+  {
+   "naselje": "Špeharji",
+   "prebivalci_2026": 11,
+   "prebivalci_65_2026": 8,
+   "zracno_zd_km": 14.7,
+   "cesta_zd_km": 23.3,
+   "voznja_zd_min": 33.5,
+   "voznja_metlika_min": 50.6,
+   "voznja_sbnm_min": 71.2,
+   "zracno_najblizji_aed_km": 2.22,
+   "dostopni_A_srednji_min": 36.0,
+   "dostopni_A_hitra_voznja_min": 28.8,
+   "dostopni_A_pocasna_voznja_min": 43.2,
+   "dostopni_B_druga_ekipa_min": 53.1
+  },
+  {
+   "naselje": "Hrib",
+   "prebivalci_2026": 32,
+   "prebivalci_65_2026": 9,
+   "zracno_zd_km": 14.58,
+   "cesta_zd_km": 23.0,
+   "voznja_zd_min": 33.3,
+   "voznja_metlika_min": 50.4,
+   "voznja_sbnm_min": 71.0,
+   "zracno_najblizji_aed_km": 2.63,
+   "dostopni_A_srednji_min": 35.8,
+   "dostopni_A_hitra_voznja_min": 28.7,
+   "dostopni_A_pocasna_voznja_min": 43.0,
+   "dostopni_B_druga_ekipa_min": 52.9
+  },
+  {
+   "naselje": "Preloka",
+   "prebivalci_2026": 103,
+   "prebivalci_65_2026": 27,
+   "zracno_zd_km": 16.72,
+   "cesta_zd_km": 21.8,
+   "voznja_zd_min": 33.0,
+   "voznja_metlika_min": 29.8,
+   "voznja_sbnm_min": 59.3,
+   "zracno_najblizji_aed_km": 0.13,
+   "dostopni_A_srednji_min": 35.5,
+   "dostopni_A_hitra_voznja_min": 28.4,
+   "dostopni_A_pocasna_voznja_min": 42.6,
+   "dostopni_B_druga_ekipa_min": 32.3
+  },
+  {
+   "naselje": "Gorenja Podgora",
+   "prebivalci_2026": 25,
+   "prebivalci_65_2026": 6,
+   "zracno_zd_km": 10.55,
+   "cesta_zd_km": 24.3,
+   "voznja_zd_min": 32.4,
+   "voznja_metlika_min": 49.5,
+   "voznja_sbnm_min": 70.8,
+   "zracno_najblizji_aed_km": 4.19,
+   "dostopni_A_srednji_min": 34.9,
+   "dostopni_A_hitra_voznja_min": 27.9,
+   "dostopni_A_pocasna_voznja_min": 41.9,
+   "dostopni_B_druga_ekipa_min": 52.0
+  }
+ ]
+}

@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zdravje Črnomlja</title>
+<meta name="description" content="Obsežno javno poročilo o zdravju v Občini Črnomelj: desetletni NIJZ trendi 2016–2026, ocena dela Centra za krepitev zdravja in primerjava z EU/OECD.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    color-scheme: light;
+    --paper: #F2F5F6;
+    --surface: #FFFFFF;
+    --surface-raised: #FAFCFD;
+    --ink: #172029;
+    --ink-secondary: #4C5A66;
+    --muted: #8494A0;
+    --line: #DCE4E8;
+    --baseline: #C2CDD3;
+    --accent: #0E6E7C;
+    --accent-soft: #DCEEF0;
+    --status-good: #0ca30c;
+    --status-warning: #fab219;
+    --status-serious: #ec835a;
+    --status-critical: #d03b3b;
+    --shadow: rgba(23,32,41,0.09);
+    --s-crnomelj: #2a78d6;
+    --s-slovenija: #eb6834;
+    --s-regija: #1baf7a;
+    --font-display: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+    --font-body: 'IBM Plex Sans', -apple-system, 'Segoe UI', sans-serif;
+    --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      color-scheme: dark;
+      --paper: #12181C; --surface: #1A2126; --surface-raised: #1F272C;
+      --ink: #E9EEF1; --ink-secondary: #B4C0C8; --muted: #7C8990;
+      --line: #2B353B; --baseline: #384349; --accent: #59C7D6; --accent-soft: #163238;
+      --shadow: rgba(0,0,0,0.4);
+      --s-crnomelj: #3987e5; --s-slovenija: #d95926; --s-regija: #199e70;
+    }
+  }
+  :root[data-theme="dark"]{
+    color-scheme: dark;
+    --paper: #12181C; --surface: #1A2126; --surface-raised: #1F272C;
+    --ink: #E9EEF1; --ink-secondary: #B4C0C8; --muted: #7C8990;
+    --line: #2B353B; --baseline: #384349; --accent: #59C7D6; --accent-soft: #163238;
+    --shadow: rgba(0,0,0,0.4);
+    --s-crnomelj: #3987e5; --s-slovenija: #d95926; --s-regija: #199e70;
+  }
+  *{ box-sizing: border-box; }
+  body{ background: var(--paper); color: var(--ink); font-family: var(--font-body); margin:0; -webkit-font-smoothing:antialiased; }
+  .wrap{ max-width: 980px; margin: 0 auto; padding: 44px 24px 90px; }
+  .eyebrow{ font-family: var(--font-mono); font-size:12.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--accent); display:flex; align-items:center; gap:10px; margin-bottom:14px; }
+  .eyebrow::before{ content:""; width:22px; height:2px; background:var(--accent); display:inline-block; }
+  h1{ font-family: var(--font-display); font-weight:600; font-size:clamp(28px,4vw,42px); line-height:1.14; margin:0 0 16px; letter-spacing:-.01em; }
+  h2.section-title{ font-family: var(--font-display); font-weight:600; font-size:26px; margin: 0 0 6px; }
+  h3.sub-title{ font-family: var(--font-display); font-weight:600; font-size:19px; margin:0 0 6px; }
+  .lede{ font-size:16px; line-height:1.62; color:var(--ink-secondary); max-width:70ch; margin:0 0 10px; }
+  p{ font-size:14.5px; line-height:1.62; color:var(--ink-secondary); margin:0 0 12px; }
+  p:last-child{ margin-bottom:0; }
+  p b, li b, td b{ color:var(--ink); }
+  .meta-row{ display:flex; flex-wrap:wrap; gap:6px 18px; margin:18px 0 6px; font-family:var(--font-mono); font-size:12px; color:var(--muted); }
+  .meta-row b{ color:var(--ink-secondary); font-weight:600; }
+
+  nav.toc{ background:var(--surface); border:1px solid var(--line); border-radius:10px; padding:18px 22px; margin:28px 0; box-shadow:0 1px 3px var(--shadow); }
+  nav.toc .toc-label{ font-family:var(--font-mono); font-size:10.5px; text-transform:uppercase; letter-spacing:.08em; color:var(--muted); margin-bottom:8px; }
+  nav.toc ol{ columns:2; column-gap:28px; margin:0; padding-left:18px; font-size:13px; }
+  nav.toc li{ margin-bottom:5px; break-inside:avoid; }
+  nav.toc a{ color:var(--ink-secondary); text-decoration:none; }
+  nav.toc a:hover{ color:var(--accent); }
+
+  .chips{ display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin:26px 0; }
+  .chip{ background:var(--surface); border:1px solid var(--line); border-left:4px solid var(--chip-color,var(--muted)); border-radius:8px; padding:14px 15px; box-shadow:0 1px 2px var(--shadow); }
+  .chip .chip-label{ font-family:var(--font-mono); font-size:10px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); }
+  .chip .chip-num{ font-family:var(--font-display); font-size:26px; font-weight:600; margin:4px 0 2px; color:var(--ink); }
+  .chip .chip-sub{ font-size:11.5px; color:var(--ink-secondary); line-height:1.4; }
+  .chip.good{ --chip-color:var(--status-good); } .chip.warn{ --chip-color:var(--status-serious); } .chip.crit{ --chip-color:var(--status-critical); } .chip.neutral{ --chip-color:var(--accent); }
+
+  section.panel{ background:var(--surface); border:1px solid var(--line); border-radius:12px; padding:28px 30px 26px; margin:26px 0; box-shadow:0 1px 3px var(--shadow); }
+  section.panel.tight{ padding:22px 24px; }
+  .panel-head{ display:flex; justify-content:space-between; align-items:flex-start; gap:16px; margin-bottom:10px; flex-wrap:wrap; }
+  .idx-tag{ font-family:var(--font-mono); font-size:12.5px; color:var(--muted); font-weight:500; margin-right:8px; }
+  .status-pill{ font-family:var(--font-mono); font-size:11px; font-weight:600; letter-spacing:.02em; padding:3px 11px; border-radius:100px; white-space:nowrap; color:#fff; background:var(--pill-color,var(--muted)); }
+
+  table{ width:100%; border-collapse:collapse; margin:14px 0 6px; font-size:13px; }
+  table caption{ text-align:left; font-size:11px; color:var(--muted); margin-bottom:6px; }
+  th, td{ text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th{ font-family:var(--font-mono); font-size:10.5px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); font-weight:500; }
+  td.num{ font-family:var(--font-mono); font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .tag{ display:inline-block; font-family:var(--font-mono); font-size:10px; padding:1.5px 8px; border-radius:100px; color:#fff; white-space:nowrap; }
+  .wide-table{ overflow-x:auto; }
+
+  /* charts */
+  .chart-block{ margin: 18px 0 10px; }
+  .chart-insight{ font-size:13.5px; color:var(--ink-secondary); background:var(--surface-raised); border-left:3px solid var(--accent); padding:9px 13px; border-radius:0 6px 6px 0; margin-bottom:14px; }
+  .chart-svg{ width:100%; height:auto; display:block; overflow:visible; }
+  .chart-svg text{ font-family:var(--font-mono); fill:var(--muted); }
+  .chart-svg .axis-line{ stroke:var(--baseline); }
+  .chart-svg .grid-line{ stroke:var(--line); }
+  .legend-row{ display:flex; flex-wrap:wrap; gap:14px 22px; margin:10px 2px 2px; font-size:12.5px; color:var(--ink-secondary); }
+  .legend-row .item{ display:flex; align-items:center; gap:7px; }
+  .swatch{ width:12px; height:12px; border-radius:3px; flex-shrink:0; }
+  .swatch.line{ width:16px; height:3px; border-radius:2px; }
+
+  details.data-table{ margin-top:10px; }
+  details.data-table>summary{ cursor:pointer; font-family:var(--font-mono); font-size:11.5px; color:var(--accent); letter-spacing:.02em; padding:5px 0; list-style:none; }
+  details.data-table>summary::-webkit-details-marker{ display:none; }
+  details.data-table>summary::before{ content:"▸ "; }
+  details.data-table[open]>summary::before{ content:"▾ "; }
+
+  .cause-grid{ display:grid; grid-template-columns:1fr; gap:0; }
+
+  .source-line{ font-size:11.5px; color:var(--muted); margin-top:14px; padding-top:12px; border-top:1px dashed var(--line); line-height:1.5; }
+  .source-line b{ color:var(--ink-secondary); font-weight:600; }
+
+  .lit-list p{ font-size:12px; line-height:1.6; color:var(--ink-secondary); margin:0 0 10px; }
+  .lit-list b{ color:var(--ink); }
+
+  footer.notes{ margin-top:36px; padding-top:22px; border-top:1px solid var(--line); font-size:12px; color:var(--ink-secondary); line-height:1.6; }
+  footer.notes .colophon{ font-family:var(--font-mono); font-size:10.5px; color:var(--muted); margin-top:16px; }
+
+  #viz-tooltip{ position:fixed; pointer-events:none; background:var(--ink); color:var(--paper); font-family:var(--font-body); font-size:12px; line-height:1.5; padding:8px 11px; border-radius:6px; max-width:230px; box-shadow:0 4px 14px rgba(0,0,0,.25); opacity:0; transform:translate(-50%,-100%); transition:opacity .1s ease; z-index:60; }
+  #viz-tooltip.show{ opacity:1; }
+  #viz-tooltip .tt-row{ display:flex; align-items:center; gap:6px; }
+  #viz-tooltip .tt-dot{ width:8px; height:8px; border-radius:50%; flex-shrink:0; }
+  #viz-tooltip .tt-year{ font-weight:600; margin-bottom:4px; }
+
+  @media (prefers-reduced-motion: reduce){ *{ transition:none !important; } }
+  @media (max-width:720px){ .chips{ grid-template-columns:1fr 1fr; } nav.toc ol{ columns:1; } section.panel{ padding:20px 18px; } }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <div class="eyebrow">Občina Črnomelj · javno poročilo o zdravju · 19. september 2026</div>
+  <h1>Zdravje v Občini Črnomelj: kje smo, zakaj, in kaj lahko naredimo</h1>
+  <p class="lede">Kaj o zdravju prebivalcev Občine Črnomelj dejansko povedo uradni podatki NIJZ za zadnjih enajst let (2016–2026) — kje se stanje izboljšuje hitreje od slovenskega povprečja, kje zaostaja, zakaj do tega verjetno prihaja, in kako center za krepitev zdravja pri Zdravstvenem domu Črnomelj s preventivo naslavlja te izzive.</p>
+  <p class="lede">To poročilo je namenoma sestavljeno tako, da ne ponuja pavšalne slike "vse je slabo" ali "vse je v redu" — podatki kažejo oboje, odvisno od kazalnika, in to razliko je vredno razumeti pred vsakim ukrepanjem.</p>
+
+  <div class="meta-row">
+    <span><b>Viri:</b> NIJZ (54 časovnih nizov, 2016–2026), Zdravstveni dom Črnomelj, Center za krepitev zdravja Črnomelj, Eurostat/OECD</span>
+    <span><b>Geografski okvir:</b> Občina Črnomelj, primerjalno regija JV Slovenija in Slovenija</span>
+  </div>
+
+  <nav class="toc" aria-label="Kazalo">
+    <div class="toc-label">Kazalo poročila</div>
+    <ol>
+      <li><a href="#povzetek">Povzetek za bralca</a></li>
+      <li><a href="#ustanova">Zdravstveni dom Črnomelj — ustanova</a></li>
+      <li><a href="#konteskt">Družbeno-gospodarski kontekst</a></li>
+      <li><a href="#dejavniki">Dejavniki tveganja skozi čas</a></li>
+      <li><a href="#presejanje">Presejalni in preventivni programi</a></li>
+      <li><a href="#kronicne">Kronične bolezni in zapleti</a></li>
+      <li><a href="#umrljivost">Umrljivost skozi čas</a></li>
+      <li><a href="#vzroki">Zakaj prihaja do teh problemov</a></li>
+      <li><a href="#resitve">Kako jih rešiti</a></li>
+      <li><a href="#ckz">Center za krepitev zdravja Črnomelj</a></li>
+      <li><a href="#eu">V evropskem ogledalu</a></li>
+      <li><a href="#zakljucek">Zaključek in priporočila</a></li>
+      <li><a href="#literatura">Literatura</a></li>
+    </ol>
+  </nav>
+
+  <!-- ================= POVZETEK ================= -->
+  <section class="panel" id="povzetek">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">01</span>Povzetek za bralca</h2></div>
+    <p>To poročilo temelji na neposrednem branju <b>24 od 54 uradnih časovnih nizov NIJZ</b> "Zdravje v občini" za Občino Črnomelj — vsak niz pokriva polnih enajst let, ločeno za občino, regijo Jugovzhodna Slovenija in Slovenijo. Štiri ugotovitve izstopajo:</p>
+    <div class="chips">
+      <div class="chip crit">
+        <div class="chip-label">Edini dosleden zaostanek</div>
+        <div class="chip-num">Otroci</div>
+        <div class="chip-sub">Prekomerna prehranjenost otrok je edini kazalnik, ki je v vseh 11 letih brez izjeme nad slovenskim povprečjem.</div>
+      </div>
+      <div class="chip good">
+        <div class="chip-label">Presenetljiv preobrat</div>
+        <div class="chip-num">3 kazalniki</div>
+        <div class="chip-sub">Srčna kap, možganska kap in z alkoholom pripisljive bolezni so iz nadpovprečja prešli v enakost ali podpovprečje.</div>
+      </div>
+      <div class="chip good">
+        <div class="chip-label">Vodilni presejalni program</div>
+        <div class="chip-num">DORA</div>
+        <div class="chip-sub">Presejanost raka dojke je od 2021 dosledno nad slovenskim povprečjem (82,1&nbsp;% proti 77,9&nbsp;% leta 2026).</div>
+      </div>
+      <div class="chip warn">
+        <div class="chip-label">Nespremenjeno desetletje</div>
+        <div class="chip-num">0,90</div>
+        <div class="chip-sub">Indeks razvitosti občine (1,00 = slovensko povprečje) se v enajstih letih ni premaknil niti za odstotek.</div>
+      </div>
+    </div>
+    <p>Preostanek poročila te ugotovitve razčleni po kazalnikih, s polnimi grafi po letih, nato razloži verjetne vzroke in možne rešitve, ter posebej oceni delo Centra za krepitev zdravja (CKZ) pri Zdravstvenem domu Črnomelj — enote, ki je formalno zadolžena prav za preventivo teh istih problemov.</p>
+  </section>
+
+  <!-- ================= USTANOVA ================= -->
+  <section class="panel" id="ustanova">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">02</span>Zdravstveni dom Črnomelj — ustanova</h2>
+      <span class="status-pill" style="--pill-color:var(--status-serious)">kadrovsko pod pritiskom</span>
+    </div>
+    <p>Zdravstveni dom Črnomelj je javni zavod, ustanovljen 1996, ustanoviteljica Občina Črnomelj; pokriva tudi Občino Semič — skupaj približno 18.700 prebivalcev na 487&nbsp;km², razpršenih po 173 naseljih, z najbližjo bolnišnico 45&nbsp;km stran. Zavod deluje na treh lokacijah (Črnomelj, ZP Semič, ZP Vinica).</p>
+    <table>
+      <caption>Ključni podatki, uradno letno poročilo 2025</caption>
+      <thead><tr><th>Postavka</th><th>Vrednost</th></tr></thead>
+      <tbody>
+        <tr><td>Prihodki</td><td class="num">9.753.579&nbsp;€ (88,9&nbsp;% ZZZS)</td></tr>
+        <tr><td>Odhodki</td><td class="num">9.457.216&nbsp;€ (+18,7&nbsp;% na leto)</td></tr>
+        <tr><td>Poslovni izid</td><td class="num">+296.363&nbsp;€ (marža se krči — prihodki +15,8&nbsp;%)</td></tr>
+        <tr><td>Zaposleni konec 2025</td><td class="num">145 (13 odhodov, 21 novih zaposlitev)</td></tr>
+        <tr><td>Zadovoljstvo pacientov</td><td class="num">4,57 / 5</td></tr>
+        <tr><td>Kadrovska vrzel</td><td>Družinska medicina, pediatrija, urgenca, zobozdravstvo, psihologija — zavod sam potrjuje kot <b>strukturno</b>, ne sezonsko</td></tr>
+      </tbody>
+    </table>
+    <p class="source-line"><b>Vir:</b> Zdravstveni dom Črnomelj, letno poročilo 2025. Polni zapis, vključno z vodstveno krizo zavoda: wiki stran <i>Zdravstveni dom Črnomelj: kritični pregled</i>.</p>
+  </section>
+
+  <!-- ================= KONTEKST ================= -->
+  <section class="panel" id="konteskt">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">03</span>Družbeno-gospodarski kontekst</h2></div>
+    <p>Preden pogledamo zdravstvene kazalnike same, je vredno pogledati, na kakšnih družbeno-gospodarskih temeljih stojijo. NIJZ za vsako občino izračuna tudi indeks splošne razvitosti (dohodek, izobrazba, brezposelnost, demografija) — kazalnik, ki je v javnozdravstveni literaturi eden najbolj uveljavljenih napovednikov splošnega zdravja populacije [1].</p>
+
+    <div class="chart-block" data-chart="K1.1"></div>
+
+    <div class="chart-block" data-chart="K1.5"></div>
+
+    <p>Zanimivo: medtem ko je razvitost občine ostala nespremenjena, se je stopnja delovne aktivnosti izrazito izboljšala (+13,6 odstotne točke v desetletju) in je leta 2026 <b>prvič presegla slovensko povprečje</b>. To je pomemben, redko izpostavljen pozitiven premik, ki kaže, da "nižja razvitost" ni statičen usod, temveč se vsaj nekateri njeni sestavni deli lahko izboljšajo.</p>
+  </section>
+
+  <!-- ================= DEJAVNIKI TVEGANJA ================= -->
+  <section class="panel" id="dejavniki">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">04</span>Dejavniki tveganja skozi čas</h2></div>
+    <p>Dejavniki tveganja so vedenja in stanja, ki neposredno povečujejo verjetnost kasnejše bolezni — prehrana, gibanje, alkohol, kajenje. Tu se pokaže najbolj trdovraten problem v celotnem poročilu [1].</p>
+
+    <div class="chart-block" data-chart="K2.2"></div>
+    <div class="chart-insight"><b>Edini kazalnik brez izjeme:</b> v vseh 11 pregledanih letih je prekomerna prehranjenost otrok v Črnomlju višja od slovenskega povprečja, razlika se giblje med 4 in skoraj 9 odstotnimi točkami. To je edini kazalnik v tem poročilu, kjer se občina niti v enem samem letu ni približala povprečju.</div>
+
+    <div class="chart-block" data-chart="K2.6"></div>
+    <div class="chart-insight"><b>Izboljšanje, a ne dovolj:</b> delež prometnih nezgod z alkoholiziranimi povzročitelji se je od 2016 skoraj prepolovil (18,9→12,9), a ker se je v istem času izboljšala tudi Slovenija, občina ostaja približno 57&nbsp;% nad državnim povprečjem.</div>
+
+    <details class="data-table">
+      <summary>Dodatni dejavniki tveganja (kadilci, opijanje, marihuana, prehranjenost odraslih) — podatki v tabeli</summary>
+      <table>
+        <thead><tr><th>Kazalnik</th><th>Prvi podatek</th><th>Zadnji podatek</th><th>Slovenija (isto leto)</th></tr></thead>
+        <tbody>
+          <tr><td>Kadilci, odrasli</td><td class="num">25,6&nbsp;% (2016)</td><td class="num">23,7&nbsp;% (2021)</td><td class="num">23,2&nbsp;% (2021)</td></tr>
+          <tr><td>Prekomerna prehranjenost odraslih</td><td class="num">63,95&nbsp;% (2019)</td><td class="num">61,64&nbsp;% (2026)</td><td class="num">59,78&nbsp;% (2026)</td></tr>
+          <tr><td>Visokotvegano opijanje</td><td class="num">44,7&nbsp;% (2016)</td><td class="num">46,2&nbsp;% (2021)</td><td class="num">42,8&nbsp;% (2021)</td></tr>
+          <tr><td>Uporabniki marihuane</td><td class="num">20,4&nbsp;% (2020)</td><td class="num">14,04&nbsp;% (2026)</td><td class="num">21,96&nbsp;% (2026, občina zdaj <b>pod</b> povprečjem)</td></tr>
+        </tbody>
+      </table>
+    </details>
+  </section>
+
+  <!-- ================= PRESEJANJE ================= -->
+  <section class="panel" id="presejanje">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">05</span>Presejalni in preventivni programi</h2>
+      <span class="status-pill" style="--pill-color:var(--status-good)">svetla točka</span>
+    </div>
+    <p>Presejalni programi so edino področje v tem poročilu, kjer Občina Črnomelj dosledno izstopa navzgor.</p>
+
+    <div class="chart-block" data-chart="K3.4"></div>
+    <div class="chart-insight"><b>DORA vodi:</b> odzivnost žensk v presejalnem programu za raka dojke je od 2021 dalje vsako leto višja od slovenskega povprečja — leta 2026 82,1&nbsp;% proti 77,9&nbsp;%. To je najbolj dosledna pozitivna zgodba v celotnem naboru podatkov.</div>
+
+    <details class="data-table">
+      <summary>Svit, Zora in precepljenost — podatki v tabeli</summary>
+      <table>
+        <thead><tr><th>Program</th><th>Prvi podatek</th><th>Zadnji podatek</th><th>Slovenija (zadnje leto)</th></tr></thead>
+        <tbody>
+          <tr><td>Svit (rak debelega črevesa)</td><td class="num">64,9&nbsp;% (2016)</td><td class="num">68,14&nbsp;% (2026)</td><td class="num">64,94&nbsp;% — nad povprečjem</td></tr>
+          <tr><td>Zora (rak materničnega vratu)</td><td class="num">74,3&nbsp;% (2016)</td><td class="num">71,96&nbsp;% (2026)</td><td class="num">72,48&nbsp;% — rahlo pod povprečjem</td></tr>
+          <tr><td>Precepljenost OMR</td><td class="num">88,51&nbsp;% (2025)</td><td class="num">88,10&nbsp;% (2026)</td><td class="num">86,94&nbsp;% — nad povprečjem</td></tr>
+          <tr><td>Precepljenost DTP-Hib-IPV-hepB</td><td class="num">79,73&nbsp;% (2025)</td><td class="num">83,33&nbsp;% (2026)</td><td class="num">85,61&nbsp;% — pod povprečjem, a v porastu</td></tr>
+        </tbody>
+      </table>
+    </details>
+  </section>
+
+  <!-- ================= KRONIČNE BOLEZNI ================= -->
+  <section class="panel" id="kronicne">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">06</span>Kronične bolezni in zapleti</h2></div>
+    <p>Tu se pokaže najbolj protislovna, a hkrati najbolj upanja polna slika v celotnem poročilu: dejavniki tveganja za srčno-žilne bolezni (krvni tlak) ostajajo nad povprečjem, a njihovi najhujši akutni zapleti (srčna in možganska kap) so se izboljšali hitreje kot v Sloveniji kot celoti [1].</p>
+
+    <div class="chart-block" data-chart="K4.6"></div>
+    <div class="chart-insight"><b>Vrzel, ki se ne zapira:</b> delež oseb na zdravilih za povišan krvni tlak je skozi celotno desetletje ostal približno 3 odstotne točke nad slovenskim povprečjem, brez znakov zbliževanja.</div>
+
+    <div class="chart-block" data-chart="K4.8"></div>
+    <div class="chart-block" data-chart="K4.9"></div>
+    <div class="chart-insight"><b>Presenetljiv preobrat:</b> tako srčna kap (35–74 let) kot možganska kap (35–84 let) sta bili v letih 2016–2022 dosledno nad slovenskim povprečjem; od 2024 dalje je občina pri obeh enaka ali boljša od povprečja. To je eden najbolj vzpodbudnih rezultatov v tem poročilu in vredno raziskati, kateri konkretni ukrepi so k temu prispevali.</div>
+
+    <div class="chart-block" data-chart="K4.4"></div>
+    <div class="chart-insight"><b>Enak vzorec preobrata:</b> bolezni, neposredno pripisljive alkoholu, so sledile isti poti — iz nadpovprečja (2016–2022) v jasno podpovprečje (2026: 1,21 proti slovenskim 1,61).</div>
+
+    <details class="data-table">
+      <summary>Sladkorna bolezen, duševne motnje, bolniška odsotnost — podatki v tabeli</summary>
+      <table>
+        <thead><tr><th>Kazalnik</th><th>2016</th><th>2026</th><th>Slovenija 2026</th></tr></thead>
+        <tbody>
+          <tr><td>Prejemniki zdravil za sladkorno bolezen</td><td class="num">5,4&nbsp;%</td><td class="num">5,72&nbsp;%</td><td class="num">5,47&nbsp;%</td></tr>
+          <tr><td>Prejemniki zdravil za duševne motnje</td><td class="num">16,5&nbsp;%</td><td class="num">15,64&nbsp;%</td><td class="num">14,47&nbsp;%</td></tr>
+          <tr><td>Bolniška odsotnost (dni/leto)</td><td class="num">11,6</td><td class="num">19,17</td><td class="num">20,53 — občina zdaj <b>pod</b> povprečjem</td></tr>
+        </tbody>
+      </table>
+    </details>
+  </section>
+
+  <!-- ================= UMRLJIVOST ================= -->
+  <section class="panel" id="umrljivost">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">07</span>Umrljivost skozi čas</h2>
+      <span class="status-pill" style="--pill-color:var(--status-critical)">osrednja skrb</span>
+    </div>
+    <p>Podatki NIJZ [1]: splošna umrljivost je najbolj celovit, a tudi najbolj počasi odzivni kazalnik zdravja populacije — nanj vplivajo vsi zgornji dejavniki skupaj, z večletnim zamikom.</p>
+
+    <div class="chart-block" data-chart="K5.1"></div>
+    <div class="chart-insight"><b>Vrzel se zapira, a počasi:</b> splošna umrljivost se je znižala v občini in v Sloveniji, a razlika med njima se je zmanjšala le z 6,3&nbsp;% (2016) na 4,0&nbsp;% (2026) — konsistentno nad povprečjem vseh enajst let.</div>
+
+    <div class="chart-block" data-chart="K5.7"></div>
+    <div class="chart-insight"><b>Velika nihajnost:</b> umrljivost zaradi samomora niha med 9,9 in 17,1 na 100.000 iz leta v leto, brez jasnega trenda — pri majhni populaciji občine (~14.000) že nekaj primerov letno premakne stopnjo za več odstotkov. Občina je pri tem kazalniku dosledno pod regijskim in blizu ali pod slovenskim povprečjem, kar je pomembno, ker ima Slovenija samo najvišjo stopnjo samomorov v celotni EU (glej razdelek 11).</div>
+
+    <details class="data-table">
+      <summary>Umrljivost zaradi bolezni obtočil in raka — podatki v tabeli</summary>
+      <table>
+        <thead><tr><th>Kazalnik</th><th>2016</th><th>2026</th><th>Slovenija 2026</th></tr></thead>
+        <tbody>
+          <tr><td>Srčno-žilna umrljivost (0–74 let)</td><td class="num">94,1</td><td class="num">70,0</td><td class="num">62,8</td></tr>
+          <tr><td>Umrljivost zaradi raka (0–74 let)</td><td class="num">163,2</td><td class="num">141,9</td><td class="num">140,9</td></tr>
+        </tbody>
+      </table>
+    </details>
+  </section>
+
+  <!-- ================= VZROKI ================= -->
+  <section class="panel" id="vzroki">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">08</span>Zakaj prihaja do teh problemov</h2></div>
+    <p>Spodnja tabela povzema splošno uveljavljene javnozdravstvene razlage za vzorec zgornjih podatkov, prilagojene lokalnemu kontekstu. Gre za <b>interpretacijo</b>, ne za neodvisno dokazano vzročnost, specifično potrjeno za Občino Črnomelj — nobena pregledana raziskava ni izvedla lokalne vzročne študije.</p>
+    <div class="wide-table">
+    <table>
+      <thead><tr><th>Verjeten dejavnik</th><th>Kako se povezuje s podatki</th><th>Zanesljivost</th></tr></thead>
+      <tbody>
+        <tr><td>Nižja socialno-ekonomska razvitost</td><td>Indeks razvitosti dosledno 0,90 proti 1,00 — uveljavljena povezava z več kajenja, slabšo prehrano, manj presejanja</td><td><span class="tag" style="background:var(--status-good)">visoka</span></td></tr>
+        <tr><td>Geografska oddaljenost in razpršenost</td><td>173 naselij, 487&nbsp;km², najbližja bolnišnica 45&nbsp;km — otežen dostop, a ne pojasni izboljšav pri srčni kapi</td><td><span class="tag" style="background:var(--status-warning)">srednja</span></td></tr>
+        <tr><td>Strukturno pomanjkanje zdravnikov</td><td>Manj časa za preventivno svetovanje; ne pojasni, zakaj sta Svit in DORA nad povprečjem</td><td><span class="tag" style="background:var(--status-warning)">srednja</span></td></tr>
+        <tr><td>Staranje prebivalstva</td><td>Občina starejša od Slovenije do 2023, nato izenačena — slabi razlago za najnovejše podatke</td><td><span class="tag" style="background:var(--status-good)">visoka (le za umrljivost)</span></td></tr>
+        <tr><td>Regionalni prehranski/pivski vzorci (Bela krajina, vinorodna regija)</td><td>Pogosto omenjena, a nikjer neodvisno kvantificirana hipoteza</td><td><span class="tag" style="background:var(--status-critical)">nizka — Status: Unverified</span></td></tr>
+        <tr><td>Majhna populacija → statistični šum</td><td>Velika medletna nihanja pri samomoru in srčno-žilni umrljivosti pod 74 let so statistično pričakovana pri ~14.000 prebivalcih</td><td><span class="tag" style="background:var(--status-good)">visoka (statistično nujno dejstvo)</span></td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <!-- ================= REŠITVE ================= -->
+  <section class="panel" id="resitve">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">09</span>Kako jih rešiti</h2></div>
+    <table>
+      <thead><tr><th>Rok</th><th>Ukrep</th></tr></thead>
+      <tbody>
+        <tr><td><b>Kratkoročno</b><br>0–12 mesecev</td><td>Letno javno objavljati posodobitev NIJZ kazalnikov z jasno označenim trendom (izboljšanje/poslabšanje/stagnacija); CKZ naj cilja specifično na prekomerno prehranjenost otrok — edini dosledno nadpovprečen dejavnik; primerjati, zakaj je DORA nad, Zora pa pod povprečjem, in prenesti dobro prakso med programoma.</td></tr>
+        <tr><td><b>Srednjeročno</b><br>1–3 leta</td><td>Ciljan program za zmanjšanje prometnih nezgod z alkoholiziranimi povzročitelji (še vedno 57&nbsp;% nad povprečjem); razširiti pristope, ki so verjetno izboljšali srčno/možgansko kap, na obvladovanje krvnega tlaka in sladkorne bolezni; nasloviti strukturno pomanjkanje zdravnikov.</td></tr>
+        <tr><td><b>Dolgoročno</b><br>3–10 let</td><td>Spremljati, ali se indeks razvitosti občine sploh kdaj premakne; izvesti regionalno raziskavo o domnevnih prehranskih/pivskih vzorcih namesto zanašanja na hipotezo; uvesti drseče večletno povprečje za kazalnike z veliko statistično nihajnostjo (samomor, srčno-žilna umrljivost pod 74 let).</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- ================= CKZ (placeholder, polnjeno po raziskavi) ================= -->
+  <section class="panel" id="ckz">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">10</span>Center za krepitev zdravja Črnomelj</h2>
+      <span class="status-pill" style="--pill-color:var(--status-serious)">aktiven, a netransparenten</span>
+    </div>
+    <p>Center za krepitev zdravja (CKZ) Črnomelj je samostojna organizacijska enota znotraj ZD Črnomelj, del nacionalne mreže <b>30 centrov za krepitev zdravja</b>, vzpostavljene v okviru programa NIJZ "Skupaj za zdravje" [9]. Izvaja vzgojo za zdravje, vzgojo za ustno zdravje, integrirano preventivo kroničnih bolezni ter krepitev zdravja za otroke, mladostnike in odrasle [4].</p>
+    <p><b>Center dejansko deluje</b> — to je prva in najpomembnejša ugotovitev. Po uradnem letnem poročilu ZD Črnomelj za 2025 je bila na vseh osmih programskih področjih dela CKZ dosežena 100-odstotna realizacija predvidenih ur, center pa je sodeloval z okvirno <b>30 lokalnimi partnerji</b> (šole, vrtci, društva, obe občini, dom starejših, vojska in drugi) [3]. Dokumentirane ponavljajoče se aktivnosti vključujejo Festival zdravja (2023, 2025, 2026) [7][8], pohod "Rožnati koraki", "Brkati pohod" na Mirno goro, test hoje na Stadionu Loka, meritve krvnega tlaka in "Srčno pot Svibnik" [5].</p>
+
+    <table>
+      <caption>Ključni podatki o delu CKZ Črnomelj (2025)</caption>
+      <thead><tr><th>Postavka</th><th>Podatek</th></tr></thead>
+      <tbody>
+        <tr><td>Programska področja</td><td>8 (priprava na porod, krepitev zdravja odraslih, vzgoja otrok/mladostnikov, ustno zdravje, individualni posveti, aktivnosti v skupnosti, šola za starše) — 100&nbsp;% realizacija ur [3]</td></tr>
+        <tr><td>Kadrovska zasedba</td><td>Razpršena: 1,00 FTE integrirani CKZ, 1,00 FTE družinska obravnava, 0,85 FTE zobozdravstvena vzgoja, del 0,34 FTE dispanzerja za mentalno zdravje — brez enotnega prikaza skupaj [3]</td></tr>
+        <tr><td>Lokalni partnerji</td><td>~30 (šole/vrtci obeh občin, društva bolnikov, DSO, Slovenska vojska, KS, gasilska društva, Rdeči križ, CSD in drugi) [3]</td></tr>
+        <tr><td>Edini objavljeni kvantitativni izid delavnice</td><td>"Družinska obravnava za zdrav življenjski slog", 17 udeležencev: mišična masa izboljšana pri 82&nbsp;%, maščobna masa zmanjšana pri 79&nbsp;%, ITM znižan pri 64&nbsp;% [3]</td></tr>
+        <tr><td>Referenčne ambulante (širša preventiva)</td><td>2025: 1.645 povabljenih, 1.366 pregledanih, 923 z odkritimi dejavniki tveganja (165 depresija, 144 sladkorna, 236 hipertenzija, 20 KOPB, 67 osteoporoza) [3]</td></tr>
+        <tr><td>Zadnja objava v arhivu "CKZ vabila"</td><td>3.&nbsp;10.&nbsp;2022 — skoraj štiri leta brez posodobitve, kljub dokumentiranim novejšim aktivnostim na ločeni podstrani [6]</td></tr>
+      </tbody>
+    </table>
+
+    <h3 class="sub-title" style="margin-top:20px">Ocena dela CKZ po kriterijih</h3>
+    <table>
+      <thead><tr><th>Kriterij</th><th>Ocena</th><th>Utemeljitev</th></tr></thead>
+      <tbody>
+        <tr><td>Obseg in raznolikost aktivnosti</td><td class="num">4/5</td><td>Dokumentirano sodelovanje z ~30 partnerji, ponavljajoči se dogodki, pokritost vseh starostnih skupin</td></tr>
+        <tr><td>Transparentnost dosega/rezultatov</td><td class="num">2/5</td><td>Objavljen le kazalnik ene delavnice (17 oseb); ni skupnega letnega poročila o dosegu CKZ kot celote</td></tr>
+        <tr><td>Kadrovska preglednost</td><td class="num">2/5</td><td>Razpršena sistemizacija brez enotnega prikaza; vodstvo ni jasno navedeno na uradni strani</td></tr>
+        <tr><td>Vzdrževanje spletne komunikacije</td><td class="num">2/5</td><td>Arhiv vabil zastarel ~4 leta; napačna povezava na nacionalni program; urnik le kot slika</td></tr>
+        <tr><td>Vpetost v nacionalni sistem</td><td class="num">4/5</td><td>Del mreže 30 CKZ; uradno vključen v nacionalni Program MIRA za duševno zdravje [12]</td></tr>
+      </tbody>
+    </table>
+
+    <p><b>Kritična ocena:</b> CKZ Črnomelj ni "papirnat" center — aktivnosti so resnične, dokumentirane in razmeroma raznolike. A ni mogoče kritično ovrednotiti njegove dejanske <b>učinkovitosti</b>: ne obstaja javno objavljen agregatni podatek o tem, koliko ljudi je center v celotnem letu dejansko dosegel, koliko je stal, kdo ga vodi, ali koliko je prispeval k gibanju NIJZ kazalnikov iz razdelkov 3–7 zgoraj. NIJZ sicer prek aplikacije eSZBO zbira te podatke za vseh 30 centrov v državi, a jih javno ne objavlja po posameznem centru [9] — težava torej ni le lokalna, temveč sistemska.</p>
+
+    <details class="data-table">
+      <summary>Prikaži priporočila za CKZ</summary>
+      <table>
+        <thead><tr><th>Rok</th><th>Priporočilo</th></tr></thead>
+        <tbody>
+          <tr><td>Kratkoročno</td><td>Objaviti letni povzetek dosega (delavnice, posveti, udeleženci); popraviti zastarelo povezavo na "Skupaj za zdravje"; objaviti urnik v berljivi obliki namesto slike.</td></tr>
+          <tr><td>Srednjeročno</td><td>Enotna kadrovska postavka z jasno imenovanim vodjo; redno letno poročanje občinama Črnomelj in Semič; ciljna evalvacija povezave med aktivnostjo CKZ in NIJZ kazalniki.</td></tr>
+          <tr><td>Dolgoročno</td><td>Vključitev v nacionalni benchmarking 30 centrov, če ga NIJZ pripravi; dolgoročno spremljanje učinka na obolevnost/umrljivost občine.</td></tr>
+        </tbody>
+      </table>
+    </details>
+    <p class="source-line"><b>Vir:</b> Zdravstveni dom Črnomelj (uradna stran CKZ in letno poročilo 2025), NIJZ. Polni zapis z vsemi 16 viri in 12 kritičnimi vprašanji: wiki stran <i>Center za krepitev zdravja (CKZ) Črnomelj</i>.</p>
+  </section>
+
+  <!-- ================= EU ================= -->
+  <section class="panel" id="eu">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">11</span>V evropskem ogledalu</h2></div>
+    <p>Slovenska primerjava sama po sebi je le del slike — pri več kazalnikih je namreč <b>Slovenija sama že nad povprečjem EU</b>, kar pomeni, da je razkorak Občine Črnomelj do evropskega povprečja še večji, kot ga izkazuje zgolj nacionalna primerjava [15]. Spodnja tabela je bila 19.&nbsp;9.&nbsp;2026 preverjena neposredno proti celotnemu besedilu primarnega vira [15] (prej dostopnega le prek iskalnih izsekov), kar je popravilo eno prejšnjo trditev — glej opombo pod tabelo.</p>
+    <table>
+      <thead><tr><th>Kazalnik</th><th>Občina Črnomelj</th><th>Slovenija</th><th>EU povprečje</th></tr></thead>
+      <tbody>
+        <tr><td>Dnevni kadilci, odrasli</td><td class="num">23,7&nbsp;% (NIJZ, 2021)</td><td class="num">17&nbsp;% (OECD/EHIS, 2019)</td><td>19&nbsp;% (2019) — Slovenija <b>pod</b> povprečjem</td></tr>
+        <tr><td>Debelost odraslih (ITM≥30)</td><td class="num">—</td><td class="num">18&nbsp;% (2022)</td><td>15&nbsp;% — Slovenija <b>nad</b> povprečjem</td></tr>
+        <tr><td>Umrljivost zaradi samomora (/100.000)</td><td class="num">17,1</td><td>15 (2022) — 5. vodilni vzrok preprečljive smrti</td><td class="num">10,2 (Eurostat, 2021–22)</td></tr>
+        <tr><td>Zdravniki na 1.000 prebivalcev</td><td class="num">—</td><td class="num">3,5 (2023)</td><td>4,3 — Slovenija med najnižjimi v EU</td></tr>
+        <tr><td>Psihiatri na 100.000 prebivalcev</td><td class="num">—</td><td class="num">17</td><td class="num">20</td></tr>
+        <tr><td>Pričakovana življenjska doba ob rojstvu</td><td class="num">—</td><td>82,3 leta (2024, zgodovinski rekord)</td><td>nižja od slovenske</td></tr>
+      </tbody>
+    </table>
+    <p>Slovenija ima torej hkrati <b>rekordno visoko pričakovano življenjsko dobo</b> in <b>eno najnižjih gostot zdravnikov v EU</b> — navidezno protislovje, skladno z že dokumentiranim strukturnim pomanjkanjem kadra v ZD Črnomelj; enak vzorec velja za psihiatre (17 proti 20/100.000), kar je pomembno za oceno dispanzerja za duševno zdravje. Pri kajenju je slika ugodnejša, kot bi pričakovali: nacionalni OECD podatek za Slovenijo (17&nbsp;%) je pod povprečjem EU (19&nbsp;%), medtem ko je Občina Črnomelj (23,7&nbsp;%, drugačen vir/leto) občutno nad obema — kazalnika nista neposredno primerljiva zaradi razlike v virih/letih.</p>
+    <div class="chart-insight"><b>Popravek (19.&nbsp;9.&nbsp;2026):</b> prejšnja različica tega poročila je trdila, da ima Slovenija "najvišjo stopnjo samomorov v EU", sklicujoč se na starejši Eurostat vir (18,3–19,8/100.000). Neposredno branje primarnega OECD/European Observatory besedila [15] navaja nižjo, a še vedno visoko stopnjo (15/100.000, peti vodilni vzrok preprečljive smrti), brez eksplicitne trditve o najvišjem mestu v EU. Obeh virov ni bilo mogoče dokončno uskladiti (verjetno različna metodologija/leto) — trditev o "najvišji v EU" je zato umaknjena kot nepotrjena, medtem ko dejstvo, da je stopnja znatno nad povprečjem EU (10,2/100.000), ostaja potrjeno v obeh virih.</div>
+    <p>Podroben razdelek s polnimi metodološkimi opombami: wiki stran <i>Zdravje v Občini Črnomelj — primerjava s Slovenijo in Evropsko unijo</i>.</p>
+  </section>
+
+  <!-- ================= ZAKLJUČEK ================= -->
+  <section class="panel" id="zakljucek">
+    <div class="panel-head"><h2 class="section-title"><span class="idx-tag">12</span>Zaključek in priporočila</h2></div>
+    <p>Zdravje v Občini Črnomelj ni ena zgodba, temveč vsaj tri: <b>trdovraten problem</b> pri prekomerni prehranjenosti otrok in splošni umrljivosti, ki v desetletju nista pokazala pravega izboljšanja; <b>presenetljivo uspešen preobrat</b> pri srčni kapi, možganski kapi in z alkoholom pripisljivih boleznih; ter <b>vodilno dobro prakso</b> pri presejanju raka dojke (DORA). Priporočilo tega poročila ni "narediti več na splošno", temveč razumeti, kaj je pripeljalo do drugega in tretjega vzorca, in to sistematično prenesti na prvega.</p>
+  </section>
+
+  <footer class="notes" id="literatura">
+    <h2 class="section-title" style="font-size:19px">Literatura (IEEE)</h2>
+    <div class="lit-list">
+      <p><b>[1]</b> "Zdravje v občini — Črnomelj: časovne vrste kazalnikov 2016–2026," Nacionalni inštitut za javno zdravje (NIJZ), portal obcine.nijz.si/obcine/crnomelj, b.d. [Na spletu]. Dostopno: https://obcine.nijz.si/obcine/crnomelj/. [Dostopano: 19. september 2026].</p>
+      <p><b>[2]</b> "Kako 'zdrave' so belokranjske občine?," Radio Odeon (M. N.), 17. april 2026. [Na spletu]. Dostopno: https://www.radio-odeon.com/novice/kako-zdrave-so-belokranjske-obcine/. [Dostopano: 19. september 2026].</p>
+      <p><b>[3]</b> Zdravstveni dom Črnomelj, Letno poročilo za leto 2025, interno javno objavljeno poročilo javnega zavoda, 2026.</p>
+      <p><b>[4]</b> "CKZ," Zdravstveni dom Črnomelj, b.d. [Na spletu]. Dostopno: https://zd-crnomelj.si/ckz/. [Dostopano: 6. julij 2026].</p>
+      <p><b>[5]</b> "Dogodki in aktivnosti — Center za krepitev zdravja Črnomelj," Zdravstveni dom Črnomelj, b.d. [Na spletu]. Dostopno: https://zd-crnomelj.si/ckz/dogodki/. [Dostopano: 19. september 2026].</p>
+      <p><b>[6]</b> "CKZ vabila (arhiv objav)," Zdravstveni dom Črnomelj, 2019–2022. [Na spletu]. Dostopno: https://zd-crnomelj.si/blog/category/ckz-vabila/. [Dostopano: 19. september 2026].</p>
+      <p><b>[7]</b> "Festival zdravja Črnomelj — od ponedeljka 7.4. pa vse do sobote 12.4.2025," Koronarno društvo Dolenjske in Bele krajine, april 2025. [Na spletu]. Dostopno: https://koronarnodrustvo-dbk.si/festival-zdravja-crnomelj-od-ponedeljka-7-4-pa-vse-do-sobote-12-4/. [Dostopano: 19. september 2026].</p>
+      <p><b>[8]</b> "Festival zdravja — Dan gibanja, zaključek festivala, svetovni dan zdravja," Radio Odeon, april 2023. [Na spletu]. Dostopno: https://radio-odeon.com/koledar-dogodkov/festival-zdravja/. [Dostopano: 19. september 2026].</p>
+      <p><b>[9]</b> "Zdravstvenovzgojni centri / Centri za krepitev zdravja (ZVCT)," NIJZ, b.d. [Na spletu]. Dostopno: https://nijz.si/podatki/podatkovne-zbirke-in-raziskave/zdravstvenovzgojni-centri-centri-za-krepitev-zdravja-zvct/. [Dostopano: 19. september 2026].</p>
+      <p><b>[10]</b> "Zdravje — Za občane," Občina Črnomelj, b.d. [Na spletu]. Dostopno: https://www.crnomelj.si/sl/za-obcane/zdravje/. [Dostopano: 19. september 2026].</p>
+      <p><b>[11]</b> "O projektu SOPA," SOPA, b.d. [Na spletu]. Dostopno: https://sopa.si/sopa-kaj-je-to/o-projektu-sopa/. [Dostopano: 19. september 2026].</p>
+      <p><b>[12]</b> "Zdravstveni dom Črnomelj – CKZ," Program MIRA, b.d. [Na spletu]. Dostopno: https://www.zadusevnozdravje.si/vir-pomoci/zdravstveni-dom-crnomelj-ckz/. [Dostopano: 19. september 2026].</p>
+      <p><b>[13]</b> "Overweight and obesity — BMI statistics," Eurostat. [Na spletu]. Dostopno: https://ec.europa.eu/eurostat/statistics-explained/index.php/Overweight_and_obesity_-_BMI_statistics. [Dostopano: 20. julij 2026]. Starejši vir (2022 podatek); glej [15] za neposredno preverjen, novejši podatek o debelosti.</p>
+      <p><b>[14]</b> "Deaths by suicide in the EU down by 13&nbsp;% in a decade," Eurostat, 2024. [Na spletu]. Dostopno: https://ec.europa.eu/eurostat/web/products-eurostat-news/w/edn-20240909-1. [Dostopano: 20. julij 2026]. Starejši vir (trditev "najvišja v EU" ni bila potrjena v [15] — glej popravek v razdelku 11).</p>
+      <p><b>[15]</b> "State of Health in the EU — Slovenia Country Health Profile 2025," OECD/European Observatory on Health Systems and Policies, december 2025. [Na spletu]. Dostopno: https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/country-health-profile-2025-country-notes_7e72146d/slovenia_27d174ae/4765833c-en.pdf. [Dostopano: 19. september 2026, celotno besedilo neposredno prebrano prek PyMuPDF ekstrakcije].</p>
+      <p><b>[16]</b> "Obesity rate in the EU: 16.3&nbsp;% in 2025," Eurostat, 4. september 2026. [Na spletu]. Dostopno: https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260904-1. [Dostopano: 19. september 2026]. Novejši EU-agregatni podatek (celotna EU, ne le Slovenija) — orientacijski, ni v tabeli razdelka 11 zaradi drugačne enote (obesity/pre-obesity razrez namesto overweight).</p>
+      <p><b>[17]</b> Poln zapis s še 5 dodatnimi viri (16 skupaj) o CKZ: wiki stran <i>Center za krepitev zdravja (CKZ) Črnomelj</i>, wiki/entities/institutions/ckz-crnomelj.md.</p>
+    </div>
+    <div class="colophon">Pripravljeno 19. 9. 2026 · LLM Wiki agent za Občino Črnomelj · wiki/topics/social-affairs/zdravje-obcina-nijz-trendi.md</div>
+  </footer>
+
+</div>
+
+<div id="viz-tooltip" role="tooltip"></div>
+
+<script>
+(function(){
+  var YEARS = [2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026];
+  var CHARTS = {
+    'K1.1': { title:'K1.1 · Razvitost občine', unit:'indeks (1,00 = SLO povprečje)', decimals:2,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[0.9,0.9,0.9,0.87,0.9,0.9,0.9,0.9,0.9,0.91,0.9]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[1,1,1,1,1,1,1,1,1,1,1]}
+      ]},
+    'K1.5': { title:'K1.5 · Stopnja delovne aktivnosti', unit:'%', decimals:1,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[55.7,54.5,57.7,62.2,66.8,66.3,64,67.2,68.94,68.68,69.3]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[59.2,59.7,61.3,64.25,67.2,68.5,67.1,68.5,69.65,70.31,70]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[57.2,57.9,59.5,61.64,64.4,65.8,64.6,66.1,67.84,68.85,68.58]}
+      ]},
+    'K2.2': { title:'K2.2 · Prekomerna prehranjenost otrok', unit:'%', decimals:1,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[31.1,30.9,28.8,30.08,30,31.7,30.4,33.1,32.3,29.9,28.3]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[26.8,27,27.7,26.27,26.7,27,null,null,27.04,26.45,26.65]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[24.6,23.9,24.8,24.3,24.5,24.1,27.8,28.7,24.95,23.39,24.18]}
+      ]},
+    'K2.6': { title:'K2.6 · Prometne nezgode z alkoholiziranimi povzročitelji', unit:'delež (%)', decimals:1,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[18.9,17,15.6,14.29,13.3,11.8,11.4,12,13.16,12.98,12.94]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[10.3,10.1,10.2,9.99,9.6,9.4,9.7,9.6,9.57,9.63,9.46]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[8.7,8.7,9,9.05,9.1,8.8,8.9,8.5,8.48,8.37,8.22]}
+      ]},
+    'K3.4': { title:'K3.4 · Presejanost v programu DORA (rak dojke)', unit:'%', decimals:1,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[null,null,null,null,64.4,78.7,79.1,81.4,82.88,82.25,82.08]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[null,null,null,null,73.9,79.1,79.2,80.1,80.74,80.68,80.16]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[null,null,null,null,76.2,77.5,76.7,78,77.79,77.9,77.93]}
+      ]},
+    'K4.6': { title:'K4.6 · Prejemniki zdravil za povišan krvni tlak', unit:'%', decimals:2,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[26.5,26.2,26.1,25.79,25.3,25.3,25,24.8,24.92,25.24,25.38]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[25.9,25.8,25.7,25.51,25.3,25.1,24.7,24.5,24.62,24.76,24.8]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[23.7,23.5,23.4,23.18,23,22.9,22.5,22.4,22.45,22.47,22.51]}
+      ]},
+    'K4.8': { title:'K4.8 · Srčna kap (35–74 let)', unit:'na 1.000', decimals:2,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[2.1,2.2,2.2,2.4,2.9,2.5,2.4,2.4,1.98,1.7,1.66]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[1.8,1.9,2,1.95,2,2,1.9,1.9,1.92,1.97,1.9]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[1.9,2,2.1,2.09,2.1,2.1,2.1,2,1.96,1.91,1.86]}
+      ]},
+    'K4.9': { title:'K4.9 · Možganska kap (35–84 let)', unit:'na 1.000', decimals:2,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[2.9,2.8,3,3.04,2.8,2.6,2.7,2.4,2.28,2.17,2.26]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[2.3,2.4,2.5,2.52,2.5,2.6,2.5,2.5,2.34,2.28,2.15]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[2.6,2.6,2.6,2.57,2.6,2.5,2.5,2.4,2.3,2.26,2.21]}
+      ]},
+    'K4.4': { title:'K4.4 · Bolezni, neposredno pripisljive alkoholu (15+)', unit:'na 1.000', decimals:2,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[1.7,1.6,1.5,1.75,1.9,1.9,2,1.7,1.59,1.43,1.21]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[2.3,2.1,2.1,2.02,1.9,1.8,1.7,1.5,1.44,1.4,1.36]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[2,1.9,2,1.98,1.9,1.9,1.8,1.7,1.64,1.64,1.61]}
+      ]},
+    'K5.1': { title:'K5.1 · Splošna umrljivost', unit:'na 100.000', decimals:1,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[1041.5,1064.1,1061.9,1045.51,1059.7,1041,1049.5,1037.9,1000.33,964.77,949.38]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[1042.2,1026,1008.3,969.87,967.8,959.2,967.3,976.3,967.02,951.2,938.17]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[979.9,958.9,943,929.8,916.2,909,921.5,932.5,930.41,922.3,913.09]}
+      ]},
+    'K5.7': { title:'K5.7 · Umrljivost zaradi samomora', unit:'na 100.000', decimals:1,
+      series:[
+        {key:'crnomelj', label:'Občina Črnomelj', color:'var(--s-crnomelj)', values:[17.1,16.8,11,10.95,12.4,10.8,9.9,16.2,16.88,17.01,17.1]},
+        {key:'regija', label:'Regija JV Slovenija', color:'var(--s-regija)', values:[21.3,19.4,16.8,17.15,16.9,17.2,17.3,19.2,19.43,19.18,18.96]},
+        {key:'slovenija', label:'Slovenija', color:'var(--s-slovenija)', values:[21.7,20.9,20.1,19.73,18.7,18.6,17.9,18.3,18.1,18.03,17.63]}
+      ]}
+  };
+
+  var svgNS = 'http://www.w3.org/2000/svg';
+  function el(tag, attrs){
+    var e = document.createElementNS(svgNS, tag);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    return e;
+  }
+  function resolveColor(v){
+    if (v.indexOf('var(') === 0){
+      var name = v.slice(4, -1);
+      return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+    }
+    return v;
+  }
+  function fmt(v, d){ return v.toLocaleString('sl-SI', {minimumFractionDigits:d, maximumFractionDigits:d}); }
+
+  var tooltip = document.getElementById('viz-tooltip');
+
+  function buildChart(container, cfg){
+    var W = 700, H = 300, padL = 54, padR = 96, padT = 22, padB = 32;
+    var innerW = W - padL - padR, innerH = H - padT - padB;
+    var allVals = [];
+    cfg.series.forEach(function(s){ s.values.forEach(function(v){ if (v !== null && v !== undefined) allVals.push(v); }); });
+    var vMin = Math.min.apply(null, allVals), vMax = Math.max.apply(null, allVals);
+    var pad = (vMax - vMin) * 0.12 || vMax * 0.1 || 1;
+    vMin -= pad; vMax += pad;
+    function xAt(i){ return padL + (i / (YEARS.length - 1)) * innerW; }
+    function yAt(v){ return padT + innerH - ((v - vMin) / (vMax - vMin)) * innerH; }
+
+    var svg = el('svg', {class:'chart-svg', viewBox:'0 0 ' + W + ' ' + H, role:'img', 'aria-label': cfg.title});
+
+    // gridlines + y labels
+    var ticks = 4;
+    for (var t = 0; t <= ticks; t++){
+      var val = vMin + (vMax - vMin) * (t / ticks);
+      var y = yAt(val);
+      svg.appendChild(el('line', {class:'grid-line', x1:padL, x2:W - padR, y1:y, y2:y, 'stroke-width':1}));
+      var lbl = el('text', {x:padL - 8, y:y + 3, 'font-size':10.5, 'text-anchor':'end'});
+      lbl.textContent = fmt(val, cfg.decimals <= 1 ? 0 : 1);
+      svg.appendChild(lbl);
+    }
+    // axis baseline
+    svg.appendChild(el('line', {class:'axis-line', x1:padL, x2:W - padR, y1:padT + innerH, y2:padT + innerH, 'stroke-width':1.3}));
+
+    // x labels (years) - show every year, alternate opacity for readability
+    YEARS.forEach(function(yr, i){
+      var x = xAt(i);
+      svg.appendChild(el('line', {class:'axis-line', x1:x, x2:x, y1:padT + innerH, y2:padT + innerH + 4, 'stroke-width':1}));
+      var t = el('text', {x:x, y:padT + innerH + 16, 'font-size':10, 'text-anchor':'middle'});
+      t.textContent = "'" + String(yr).slice(2);
+      svg.appendChild(t);
+    });
+    var unitLbl = el('text', {x:padL, y:14, 'font-size':10.5});
+    unitLbl.textContent = cfg.unit;
+    svg.appendChild(unitLbl);
+
+    // series lines
+    cfg.series.forEach(function(s){
+      var color = resolveColor(s.color);
+      var d = '';
+      var drawing = false;
+      YEARS.forEach(function(yr, i){
+        var v = s.values[i];
+        if (v === null || v === undefined){ drawing = false; return; }
+        var x = xAt(i), y = yAt(v);
+        d += (drawing ? 'L' : 'M') + x.toFixed(2) + ',' + y.toFixed(2) + ' ';
+        drawing = true;
+      });
+      svg.appendChild(el('path', {d:d, fill:'none', stroke:color, 'stroke-width':2.25, 'stroke-linecap':'round', 'stroke-linejoin':'round'}));
+      var lastIdx = -1;
+      for (var i2 = YEARS.length - 1; i2 >= 0; i2--){ if (s.values[i2] !== null && s.values[i2] !== undefined){ lastIdx = i2; break; } }
+      YEARS.forEach(function(yr, i){
+        var v = s.values[i];
+        if (v === null || v === undefined) return;
+        var c = el('circle', {cx:xAt(i), cy:yAt(v), r: i === lastIdx ? 4 : 3, fill:color, class:'pt', 'data-si': s.key});
+        svg.appendChild(c);
+      });
+      if (lastIdx >= 0){
+        var lx = xAt(lastIdx), ly = yAt(s.values[lastIdx]);
+        var lab = el('text', {x:lx + 9, y:ly + 3.5, 'font-size':11, fill:color, 'font-family':'var(--font-body)', 'font-weight':600});
+        lab.textContent = s.label.replace('Občina ', '').replace('Regija ', '');
+        svg.appendChild(lab);
+      }
+    });
+
+    // hover crosshair
+    var hoverLine = el('line', {x1:0, x2:0, y1:padT, y2:padT + innerH, stroke:'currentColor', 'stroke-width':1, 'stroke-dasharray':'3 3', opacity:0, class:'hover-line'});
+    svg.appendChild(hoverLine);
+
+    svg.addEventListener('mousemove', function(evt){
+      var rect = svg.getBoundingClientRect();
+      var scaleX = W / rect.width;
+      var mx = (evt.clientX - rect.left) * scaleX;
+      var idx = Math.round(((mx - padL) / innerW) * (YEARS.length - 1));
+      idx = Math.max(0, Math.min(YEARS.length - 1, idx));
+      var x = xAt(idx);
+      hoverLine.setAttribute('x1', x); hoverLine.setAttribute('x2', x); hoverLine.setAttribute('opacity', 0.35);
+      var rows = cfg.series.map(function(s){
+        var v = s.values[idx];
+        return {label:s.label, color:resolveColor(s.color), value: (v === null || v === undefined) ? 'ni podatka' : fmt(v, cfg.decimals)};
+      });
+      tooltip.innerHTML = '<div class="tt-year">' + YEARS[idx] + '</div>' + rows.map(function(r){
+        return '<div class="tt-row"><span class="tt-dot" style="background:' + r.color + '"></span>' + r.label + ': <b style="margin-left:auto">' + r.value + '</b></div>';
+      }).join('');
+      tooltip.style.left = evt.clientX + 'px';
+      tooltip.style.top = (evt.clientY - 14) + 'px';
+      tooltip.classList.add('show');
+    });
+    svg.addEventListener('mouseleave', function(){ tooltip.classList.remove('show'); hoverLine.setAttribute('opacity', 0); });
+
+    container.appendChild(svg);
+
+    // legend
+    var legend = document.createElement('div');
+    legend.className = 'legend-row';
+    cfg.series.forEach(function(s){
+      var item = document.createElement('span'); item.className = 'item';
+      item.innerHTML = '<span class="swatch line" style="background:' + resolveColor(s.color) + '"></span>' + s.label;
+      legend.appendChild(item);
+    });
+    container.appendChild(legend);
+
+    // data table
+    var det = document.createElement('details'); det.className = 'data-table';
+    var sum = document.createElement('summary'); sum.textContent = 'Podatki v tabeli';
+    det.appendChild(sum);
+    var tbl = document.createElement('table');
+    var thead = '<thead><tr><th>Leto</th>' + cfg.series.map(function(s){ return '<th>' + s.label + '</th>'; }).join('') + '</tr></thead>';
+    var tbody = '<tbody>' + YEARS.map(function(yr, i){
+      return '<tr><td>' + yr + '</td>' + cfg.series.map(function(s){
+        var v = s.values[i];
+        return '<td class="num">' + ((v === null || v === undefined) ? '—' : fmt(v, cfg.decimals)) + '</td>';
+      }).join('') + '</tr>';
+    }).join('') + '</tbody>';
+    tbl.innerHTML = thead + tbody;
+    det.appendChild(tbl);
+    container.appendChild(det);
+  }
+
+  document.querySelectorAll('[data-chart]').forEach(function(container){
+    var code = container.getAttribute('data-chart');
+    var cfg = CHARTS[code];
+    if (!cfg) return;
+    var h = document.createElement('h3'); h.className = 'sub-title'; h.textContent = cfg.title;
+    container.appendChild(h);
+    buildChart(container, cfg);
+  });
+})();
+</script>
+</body>
+</html>

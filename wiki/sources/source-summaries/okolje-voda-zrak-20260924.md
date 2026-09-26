@@ -15,7 +15,7 @@ Dopolnitev povezuje 33 citiranih uradnih in raziskovalnih virov. Popolna bibliog
 
 ## Odprta vprašanja
 
-Izvorne tabele vode pred 2011, ekološko in kemijsko stanje reke Dobličice, dokumentirana odprava vzrokov dogodka Adlešiči in potrjena letna vrednost BaP 2025 ostajajo odprti. Stare prazne kopije drugih tem niso obnovljene.
+Izvorne tabele vode pred 2011, ekološko in kemijsko stanje reke Dobličice, dokumentirana odprava vzrokov dogodka Adlešiči in potrjena letna vrednost BaP 2025 ostajajo odprti. Stare prazne kopije drugih tem so bile 25. 9. 2026 obnovljene iz commita 0dc0bd4.
 
 ## Zadnja posodobitev
 

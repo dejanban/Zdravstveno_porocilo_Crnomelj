@@ -1,0 +1,677 @@
+{
+ "datum": "2026-09-26",
+ "vir": "Valhalla, javni strežnik valhalla1.openstreetmap.de, costing auto, podatki © sodelavci OSM (ODbL)",
+ "izhodisce": {
+  "ime": "ZD Črnomelj",
+  "lon": 15.1875308,
+  "lat": 45.5754632
+ },
+ "naselja": {
+  "Adlešiči": {
+   "zd_naselje_min": 24.55,
+   "zd_naselje_km": 13.01,
+   "naselje_zd_min": 24.61,
+   "naselje_zd_km": 13.01
+  },
+  "Balkovci": {
+   "zd_naselje_min": 36.61,
+   "zd_naselje_km": 24.15,
+   "naselje_zd_min": 37.22,
+   "naselje_zd_km": 25.0
+  },
+  "Bedenj": {
+   "zd_naselje_min": 17.31,
+   "zd_naselje_km": 9.08,
+   "naselje_zd_min": 17.4,
+   "naselje_zd_km": 9.08
+  },
+  "Belčji Vrh": {
+   "zd_naselje_min": 19.1,
+   "zd_naselje_km": 12.1,
+   "naselje_zd_min": 19.72,
+   "naselje_zd_km": 12.94
+  },
+  "Bistrica": {
+   "zd_naselje_min": 14.86,
+   "zd_naselje_km": 8.97,
+   "naselje_zd_min": 15.61,
+   "naselje_zd_km": 9.78
+  },
+  "Blatnik pri Črnomlju": {
+   "zd_naselje_min": 5.85,
+   "zd_naselje_km": 3.58,
+   "naselje_zd_min": 6.54,
+   "naselje_zd_km": 4.43
+  },
+  "Bojanci": {
+   "zd_naselje_min": 23.84,
+   "zd_naselje_km": 12.27,
+   "naselje_zd_min": 23.87,
+   "naselje_zd_km": 12.27
+  },
+  "Brdarci": {
+   "zd_naselje_min": 17.95,
+   "zd_naselje_km": 7.38,
+   "naselje_zd_min": 18.1,
+   "naselje_zd_km": 7.38
+  },
+  "Breg pri Sinjem Vrhu": {
+   "zd_naselje_min": 44.05,
+   "zd_naselje_km": 24.38,
+   "naselje_zd_min": 44.72,
+   "naselje_zd_km": 25.22
+  },
+  "Breznik": {
+   "zd_naselje_min": 13.03,
+   "zd_naselje_km": 7.72,
+   "naselje_zd_min": 13.76,
+   "naselje_zd_km": 8.56
+  },
+  "Butoraj": {
+   "zd_naselje_min": 10.43,
+   "zd_naselje_km": 4.39,
+   "naselje_zd_min": 10.56,
+   "naselje_zd_km": 4.39
+  },
+  "Cerkvišče": {
+   "zd_naselje_min": 20.76,
+   "zd_naselje_km": 8.72,
+   "naselje_zd_min": 20.87,
+   "naselje_zd_km": 8.72
+  },
+  "Dalnje Njive": {
+   "zd_naselje_min": 38.66,
+   "zd_naselje_km": 24.03,
+   "naselje_zd_min": 39.35,
+   "naselje_zd_km": 24.87
+  },
+  "Damelj": {
+   "zd_naselje_min": 32.55,
+   "zd_naselje_km": 20.27,
+   "naselje_zd_min": 33.26,
+   "naselje_zd_km": 21.12
+  },
+  "Desinec": {
+   "zd_naselje_min": 11.53,
+   "zd_naselje_km": 5.11,
+   "naselje_zd_min": 11.66,
+   "naselje_zd_km": 5.11
+  },
+  "Dobliče": {
+   "zd_naselje_min": 7.5,
+   "zd_naselje_km": 4.82,
+   "naselje_zd_min": 8.19,
+   "naselje_zd_km": 5.66
+  },
+  "Doblička Gora": {
+   "zd_naselje_min": 9.82,
+   "zd_naselje_km": 5.71,
+   "naselje_zd_min": 10.58,
+   "naselje_zd_km": 6.51
+  },
+  "Dolenja Podgora": {
+   "zd_naselje_min": 40.43,
+   "zd_naselje_km": 25.13,
+   "naselje_zd_min": 41.15,
+   "naselje_zd_km": 25.93
+  },
+  "Dolenja vas pri Črnomlju": {
+   "zd_naselje_min": 7.29,
+   "zd_naselje_km": 2.22,
+   "naselje_zd_min": 7.32,
+   "naselje_zd_km": 2.22
+  },
+  "Dolenjci": {
+   "zd_naselje_min": 20.5,
+   "zd_naselje_km": 10.86,
+   "naselje_zd_min": 20.57,
+   "naselje_zd_km": 10.86
+  },
+  "Dolenji Radenci": {
+   "zd_naselje_min": 36.52,
+   "zd_naselje_km": 19.91,
+   "naselje_zd_min": 37.17,
+   "naselje_zd_km": 20.76
+  },
+  "Dolenji Suhor pri Vinici": {
+   "zd_naselje_min": 16.06,
+   "zd_naselje_km": 11.21,
+   "naselje_zd_min": 16.68,
+   "naselje_zd_km": 12.05
+  },
+  "Dolnja Paka": {
+   "zd_naselje_min": 5.55,
+   "zd_naselje_km": 2.49,
+   "naselje_zd_min": 5.59,
+   "naselje_zd_km": 2.49
+  },
+  "Draga pri Sinjem Vrhu": {
+   "zd_naselje_min": 35.01,
+   "zd_naselje_km": 21.57,
+   "naselje_zd_min": 35.69,
+   "naselje_zd_km": 22.41
+  },
+  "Dragatuš": {
+   "zd_naselje_min": 13.65,
+   "zd_naselje_km": 8.48,
+   "naselje_zd_min": 14.19,
+   "naselje_zd_km": 9.33
+  },
+  "Dragovanja vas": {
+   "zd_naselje_min": 9.06,
+   "zd_naselje_km": 5.35,
+   "naselje_zd_min": 9.76,
+   "naselje_zd_km": 6.2
+  },
+  "Dragoši": {
+   "zd_naselje_min": 24.79,
+   "zd_naselje_km": 12.96,
+   "naselje_zd_min": 24.92,
+   "naselje_zd_km": 12.96
+  },
+  "Drenovec": {
+   "zd_naselje_min": 24.25,
+   "zd_naselje_km": 17.2,
+   "naselje_zd_min": 24.8,
+   "naselje_zd_km": 18.05
+  },
+  "Drežnik": {
+   "zd_naselje_min": 23.27,
+   "zd_naselje_km": 15.56,
+   "naselje_zd_min": 23.99,
+   "naselje_zd_km": 16.41
+  },
+  "Fučkovci": {
+   "zd_naselje_min": 22.1,
+   "zd_naselje_km": 11.73,
+   "naselje_zd_min": 22.21,
+   "naselje_zd_km": 11.73
+  },
+  "Golek": {
+   "zd_naselje_min": 14.15,
+   "zd_naselje_km": 8.01,
+   "naselje_zd_min": 14.69,
+   "naselje_zd_km": 8.86
+  },
+  "Golek pri Vinici": {
+   "zd_naselje_min": 28.67,
+   "zd_naselje_km": 18.84,
+   "naselje_zd_min": 29.45,
+   "naselje_zd_km": 19.81
+  },
+  "Gorenja Paka": {
+   "zd_naselje_min": 8.18,
+   "zd_naselje_km": 4.7,
+   "naselje_zd_min": 8.17,
+   "naselje_zd_km": 4.7
+  },
+  "Gorenja Podgora": {
+   "zd_naselje_min": 38.64,
+   "zd_naselje_km": 24.38,
+   "naselje_zd_min": 39.3,
+   "naselje_zd_km": 25.19
+  },
+  "Gorenjci pri Adlešičih": {
+   "zd_naselje_min": 26.62,
+   "zd_naselje_km": 14.01,
+   "naselje_zd_min": 26.64,
+   "naselje_zd_km": 14.01
+  },
+  "Gorica": {
+   "zd_naselje_min": 38.6,
+   "zd_naselje_km": 23.62,
+   "naselje_zd_min": 39.35,
+   "naselje_zd_km": 24.46
+  },
+  "Gornji Suhor pri Vinici": {
+   "zd_naselje_min": 18.1,
+   "zd_naselje_km": 11.86,
+   "naselje_zd_min": 18.75,
+   "naselje_zd_km": 12.7
+  },
+  "Griblje": {
+   "zd_naselje_min": 22.17,
+   "zd_naselje_km": 14.19,
+   "naselje_zd_min": 22.23,
+   "naselje_zd_km": 14.19
+  },
+  "Grič pri Dobličah": {
+   "zd_naselje_min": 10.62,
+   "zd_naselje_km": 5.89,
+   "naselje_zd_min": 11.38,
+   "naselje_zd_km": 6.73
+  },
+  "Hrast pri Vinici": {
+   "zd_naselje_min": 24.73,
+   "zd_naselje_km": 15.9,
+   "naselje_zd_min": 25.28,
+   "naselje_zd_km": 16.75
+  },
+  "Hrib": {
+   "zd_naselje_min": 41.44,
+   "zd_naselje_km": 22.96,
+   "naselje_zd_min": 41.99,
+   "naselje_zd_km": 23.8
+  },
+  "Jankoviči": {
+   "zd_naselje_min": 19.89,
+   "zd_naselje_km": 10.29,
+   "naselje_zd_min": 19.99,
+   "naselje_zd_km": 10.29
+  },
+  "Jelševnik": {
+   "zd_naselje_min": 8.77,
+   "zd_naselje_km": 4.1,
+   "naselje_zd_min": 8.74,
+   "naselje_zd_km": 4.1
+  },
+  "Jerneja vas": {
+   "zd_naselje_min": 8.18,
+   "zd_naselje_km": 4.6,
+   "naselje_zd_min": 8.86,
+   "naselje_zd_km": 5.44
+  },
+  "Kanižarica": {
+   "zd_naselje_min": 4.52,
+   "zd_naselje_km": 2.56,
+   "naselje_zd_min": 5.21,
+   "naselje_zd_km": 3.4
+  },
+  "Knežina": {
+   "zd_naselje_min": 21.33,
+   "zd_naselje_km": 12.89,
+   "naselje_zd_min": 21.91,
+   "naselje_zd_km": 13.71
+  },
+  "Kvasica": {
+   "zd_naselje_min": 7.78,
+   "zd_naselje_km": 5.01,
+   "naselje_zd_min": 8.41,
+   "naselje_zd_km": 5.85
+  },
+  "Lokve": {
+   "zd_naselje_min": 4.79,
+   "zd_naselje_km": 2.87,
+   "naselje_zd_min": 4.77,
+   "naselje_zd_km": 2.88
+  },
+  "Mala Lahinja": {
+   "zd_naselje_min": 18.19,
+   "zd_naselje_km": 11.7,
+   "naselje_zd_min": 18.79,
+   "naselje_zd_km": 12.54
+  },
+  "Mala sela": {
+   "zd_naselje_min": 29.0,
+   "zd_naselje_km": 14.36,
+   "naselje_zd_min": 29.17,
+   "naselje_zd_km": 14.36
+  },
+  "Mali Nerajec": {
+   "zd_naselje_min": 15.87,
+   "zd_naselje_km": 10.78,
+   "naselje_zd_min": 16.16,
+   "naselje_zd_km": 11.41
+  },
+  "Marindol": {
+   "zd_naselje_min": 29.12,
+   "zd_naselje_km": 15.32,
+   "naselje_zd_min": 29.23,
+   "naselje_zd_km": 15.32
+  },
+  "Mavrlen": {
+   "zd_naselje_min": 12.95,
+   "zd_naselje_km": 6.89,
+   "naselje_zd_min": 12.77,
+   "naselje_zd_km": 5.95
+  },
+  "Mihelja vas": {
+   "zd_naselje_min": 9.26,
+   "zd_naselje_km": 5.69,
+   "naselje_zd_min": 9.21,
+   "naselje_zd_km": 5.69
+  },
+  "Miklarji": {
+   "zd_naselje_min": 18.41,
+   "zd_naselje_km": 11.46,
+   "naselje_zd_min": 19.21,
+   "naselje_zd_km": 12.27
+  },
+  "Miliči": {
+   "zd_naselje_min": 34.59,
+   "zd_naselje_km": 18.46,
+   "naselje_zd_min": 34.7,
+   "naselje_zd_km": 18.46
+  },
+  "Naklo": {
+   "zd_naselje_min": 12.85,
+   "zd_naselje_km": 5.96,
+   "naselje_zd_min": 12.92,
+   "naselje_zd_km": 6.01
+  },
+  "Nova Lipa": {
+   "zd_naselje_min": 21.42,
+   "zd_naselje_km": 14.59,
+   "naselje_zd_min": 22.05,
+   "naselje_zd_km": 15.43
+  },
+  "Obrh pri Dragatušu": {
+   "zd_naselje_min": 13.93,
+   "zd_naselje_km": 8.69,
+   "naselje_zd_min": 14.61,
+   "naselje_zd_km": 9.54
+  },
+  "Ogulin": {
+   "zd_naselje_min": 25.13,
+   "zd_naselje_km": 17.75,
+   "naselje_zd_min": 25.71,
+   "naselje_zd_km": 18.59
+  },
+  "Otovec": {
+   "zd_naselje_min": 7.21,
+   "zd_naselje_km": 3.76,
+   "naselje_zd_min": 7.18,
+   "naselje_zd_km": 3.76
+  },
+  "Paunoviči": {
+   "zd_naselje_min": 38.35,
+   "zd_naselje_km": 20.37,
+   "naselje_zd_min": 38.41,
+   "naselje_zd_km": 20.37
+  },
+  "Pavičiči": {
+   "zd_naselje_min": 14.76,
+   "zd_naselje_km": 6.38,
+   "naselje_zd_min": 14.8,
+   "naselje_zd_km": 6.38
+  },
+  "Perudina": {
+   "zd_naselje_min": 28.23,
+   "zd_naselje_km": 16.91,
+   "naselje_zd_min": 28.9,
+   "naselje_zd_km": 17.75
+  },
+  "Petrova vas": {
+   "zd_naselje_min": 8.57,
+   "zd_naselje_km": 5.1,
+   "naselje_zd_min": 8.5,
+   "naselje_zd_km": 5.1
+  },
+  "Podbrežje": {
+   "zd_naselje_min": 24.66,
+   "zd_naselje_km": 12.86,
+   "naselje_zd_min": 24.72,
+   "naselje_zd_km": 12.86
+  },
+  "Podklanec": {
+   "zd_naselje_min": 28.79,
+   "zd_naselje_km": 19.71,
+   "naselje_zd_min": 29.35,
+   "naselje_zd_km": 20.55
+  },
+  "Podlog": {
+   "zd_naselje_min": 16.77,
+   "zd_naselje_km": 9.73,
+   "naselje_zd_min": 17.38,
+   "naselje_zd_km": 10.3
+  },
+  "Preloka": {
+   "zd_naselje_min": 40.56,
+   "zd_naselje_km": 19.82,
+   "naselje_zd_min": 40.73,
+   "naselje_zd_km": 19.82
+  },
+  "Pribinci": {
+   "zd_naselje_min": 19.33,
+   "zd_naselje_km": 9.82,
+   "naselje_zd_min": 19.4,
+   "naselje_zd_km": 9.82
+  },
+  "Purga": {
+   "zd_naselje_min": 22.82,
+   "zd_naselje_km": 12.12,
+   "naselje_zd_min": 22.87,
+   "naselje_zd_km": 12.12
+  },
+  "Pusti Gradec": {
+   "zd_naselje_min": 15.72,
+   "zd_naselje_km": 10.06,
+   "naselje_zd_min": 16.3,
+   "naselje_zd_km": 10.9
+  },
+  "Rodine": {
+   "zd_naselje_min": 13.94,
+   "zd_naselje_km": 6.07,
+   "naselje_zd_min": 13.95,
+   "naselje_zd_km": 6.07
+  },
+  "Rožanec": {
+   "zd_naselje_min": 7.99,
+   "zd_naselje_km": 4.75,
+   "naselje_zd_min": 7.93,
+   "naselje_zd_km": 4.75
+  },
+  "Rožič Vrh": {
+   "zd_naselje_min": 10.51,
+   "zd_naselje_km": 5.03,
+   "naselje_zd_min": 10.57,
+   "naselje_zd_km": 5.03
+  },
+  "Ručetna vas": {
+   "zd_naselje_min": 10.01,
+   "zd_naselje_km": 6.06,
+   "naselje_zd_min": 9.96,
+   "naselje_zd_km": 6.06
+  },
+  "Sela pri Dragatušu": {
+   "zd_naselje_min": 11.03,
+   "zd_naselje_km": 6.83,
+   "naselje_zd_min": 11.61,
+   "naselje_zd_km": 7.68
+  },
+  "Sela pri Otovcu": {
+   "zd_naselje_min": 7.44,
+   "zd_naselje_km": 3.87,
+   "naselje_zd_min": 7.42,
+   "naselje_zd_km": 3.87
+  },
+  "Selce pri Špeharjih": {
+   "zd_naselje_min": 44.45,
+   "zd_naselje_km": 24.53,
+   "naselje_zd_min": 45.03,
+   "naselje_zd_km": 25.38
+  },
+  "Sečje selo": {
+   "zd_naselje_min": 27.01,
+   "zd_naselje_km": 18.68,
+   "naselje_zd_min": 27.64,
+   "naselje_zd_km": 19.52
+  },
+  "Sinji Vrh": {
+   "zd_naselje_min": 35.19,
+   "zd_naselje_km": 21.94,
+   "naselje_zd_min": 35.9,
+   "naselje_zd_km": 22.78
+  },
+  "Sodevci": {
+   "zd_naselje_min": 39.51,
+   "zd_naselje_km": 22.03,
+   "naselje_zd_min": 40.15,
+   "naselje_zd_km": 22.87
+  },
+  "Stara Lipa": {
+   "zd_naselje_min": 18.78,
+   "zd_naselje_km": 13.05,
+   "naselje_zd_min": 19.35,
+   "naselje_zd_km": 13.89
+  },
+  "Stari trg ob Kolpi": {
+   "zd_naselje_min": 31.24,
+   "zd_naselje_km": 17.67,
+   "naselje_zd_min": 31.85,
+   "naselje_zd_km": 18.51
+  },
+  "Stražnji Vrh": {
+   "zd_naselje_min": 9.97,
+   "zd_naselje_km": 4.9,
+   "naselje_zd_min": 10.05,
+   "naselje_zd_km": 4.9
+  },
+  "Svibnik": {
+   "zd_naselje_min": 3.36,
+   "zd_naselje_km": 1.42,
+   "naselje_zd_min": 3.27,
+   "naselje_zd_km": 1.39
+  },
+  "Talčji Vrh": {
+   "zd_naselje_min": 9.17,
+   "zd_naselje_km": 4.49,
+   "naselje_zd_min": 9.07,
+   "naselje_zd_km": 4.5
+  },
+  "Tanča Gora": {
+   "zd_naselje_min": 11.51,
+   "zd_naselje_km": 6.02,
+   "naselje_zd_min": 12.14,
+   "naselje_zd_km": 6.86
+  },
+  "Tribuče": {
+   "zd_naselje_min": 13.3,
+   "zd_naselje_km": 6.84,
+   "naselje_zd_min": 13.44,
+   "naselje_zd_km": 6.84
+  },
+  "Tušev Dol": {
+   "zd_naselje_min": 8.39,
+   "zd_naselje_km": 3.89,
+   "naselje_zd_min": 8.42,
+   "naselje_zd_km": 3.89
+  },
+  "Učakovci": {
+   "zd_naselje_min": 32.61,
+   "zd_naselje_km": 21.31,
+   "naselje_zd_min": 33.21,
+   "naselje_zd_km": 22.15
+  },
+  "Velika Lahinja": {
+   "zd_naselje_min": 13.01,
+   "zd_naselje_km": 5.38,
+   "naselje_zd_min": 13.18,
+   "naselje_zd_km": 5.38
+  },
+  "Velika sela": {
+   "zd_naselje_min": 26.09,
+   "zd_naselje_km": 13.19,
+   "naselje_zd_min": 26.26,
+   "naselje_zd_km": 13.19
+  },
+  "Veliki Nerajec": {
+   "zd_naselje_min": 15.27,
+   "zd_naselje_km": 9.77,
+   "naselje_zd_min": 15.77,
+   "naselje_zd_km": 10.61
+  },
+  "Vinica": {
+   "zd_naselje_min": 25.71,
+   "zd_naselje_km": 18.13,
+   "naselje_zd_min": 26.35,
+   "naselje_zd_km": 18.97
+  },
+  "Vojna vas": {
+   "zd_naselje_min": 4.2,
+   "zd_naselje_km": 1.44,
+   "naselje_zd_min": 4.26,
+   "naselje_zd_km": 1.44
+  },
+  "Vranoviči": {
+   "zd_naselje_min": 7.48,
+   "zd_naselje_km": 5.12,
+   "naselje_zd_min": 7.43,
+   "naselje_zd_km": 5.12
+  },
+  "Vrhovci": {
+   "zd_naselje_min": 28.22,
+   "zd_naselje_km": 14.82,
+   "naselje_zd_min": 28.27,
+   "naselje_zd_km": 14.82
+  },
+  "Vukovci": {
+   "zd_naselje_min": 35.63,
+   "zd_naselje_km": 22.54,
+   "naselje_zd_min": 36.2,
+   "naselje_zd_km": 23.38
+  },
+  "Zagozdac": {
+   "zd_naselje_min": 36.46,
+   "zd_naselje_km": 23.65,
+   "naselje_zd_min": 37.19,
+   "naselje_zd_km": 24.46
+  },
+  "Zajčji Vrh": {
+   "zd_naselje_min": 6.0,
+   "zd_naselje_km": 2.81,
+   "naselje_zd_min": 6.01,
+   "naselje_zd_km": 2.81
+  },
+  "Zapudje": {
+   "zd_naselje_min": 19.11,
+   "zd_naselje_km": 11.17,
+   "naselje_zd_min": 19.76,
+   "naselje_zd_km": 12.01
+  },
+  "Zastava": {
+   "zd_naselje_min": 9.74,
+   "zd_naselje_km": 5.32,
+   "naselje_zd_min": 9.8,
+   "naselje_zd_km": 5.32
+  },
+  "Zilje": {
+   "zd_naselje_min": 32.87,
+   "zd_naselje_km": 22.03,
+   "naselje_zd_min": 33.48,
+   "naselje_zd_km": 22.88
+  },
+  "Zorenci": {
+   "zd_naselje_min": 13.12,
+   "zd_naselje_km": 5.23,
+   "naselje_zd_min": 13.25,
+   "naselje_zd_km": 5.23
+  },
+  "Črešnjevec pri Dragatušu": {
+   "zd_naselje_min": 20.78,
+   "zd_naselje_km": 12.72,
+   "naselje_zd_min": 21.34,
+   "naselje_zd_km": 13.56
+  },
+  "Črnomelj": {
+   "zd_naselje_min": 1.57,
+   "zd_naselje_km": 0.89,
+   "naselje_zd_min": 1.66,
+   "naselje_zd_km": 0.89
+  },
+  "Čudno selo": {
+   "zd_naselje_min": 9.03,
+   "zd_naselje_km": 4.15,
+   "naselje_zd_min": 9.09,
+   "naselje_zd_km": 4.15
+  },
+  "Šipek": {
+   "zd_naselje_min": 18.16,
+   "zd_naselje_km": 7.48,
+   "naselje_zd_min": 18.28,
+   "naselje_zd_km": 7.48
+  },
+  "Špeharji": {
+   "zd_naselje_min": 41.8,
+   "zd_naselje_km": 23.32,
+   "naselje_zd_min": 42.34,
+   "naselje_zd_km": 24.15
+  },
+  "Žuniči": {
+   "zd_naselje_min": 37.06,
+   "zd_naselje_km": 19.52,
+   "naselje_zd_min": 37.02,
+   "naselje_zd_km": 19.59
+  }
+ }
+}

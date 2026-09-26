@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+creator="OCAD 2020.5.5.3227" version="1.1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 
+http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <name>Učna pot Zdenc – Vidovec</name>
+    <desc>Bela krajina - Učna pot Zdenc – Vidovec</desc>
+    <time>2020-11-05T08:41:02</time>
+    <bounds maxlat="45.86687249" maxlon="15.60571704" minlat="45.32979540" minlon="14.93303760"/>
+  </metadata>
+
+  <rte>
+    <name>rte1</name>
+    <cmt>pohodne poti za izris profilov</cmt>
+    <rtept lat="45.64620138" lon="15.37385662" >
+      <name>rte1_0</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64626867" lon="15.37391480" >
+      <name>rte1_1</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64633597" lon="15.37397298" >
+      <name>rte1_2</name>
+      <ele>174.05</ele>
+    </rtept>
+    <rtept lat="45.64640327" lon="15.37403116" >
+      <name>rte1_3</name>
+      <ele>173.08</ele>
+    </rtept>
+    <rtept lat="45.64646156" lon="15.37408928" >
+      <name>rte1_4</name>
+      <ele>173.08</ele>
+    </rtept>
+    <rtept lat="45.64651986" lon="15.37414741" >
+      <name>rte1_5</name>
+      <ele>171.31</ele>
+    </rtept>
+    <rtept lat="45.64657818" lon="15.37419911" >
+      <name>rte1_6</name>
+      <ele>171.31</ele>
+    </rtept>
+    <rtept lat="45.64663650" lon="15.37425082" >
+      <name>rte1_7</name>
+      <ele>171.31</ele>
+    </rtept>
+    <rtept lat="45.64669484" lon="15.37429611" >
+      <name>rte1_8</name>
+      <ele>171.31</ele>
+    </rtept>
+    <rtept lat="45.64675318" lon="15.37434141" >
+      <name>rte1_9</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64681154" lon="15.37438029" >
+      <name>rte1_10</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64687442" lon="15.37441278" >
+      <name>rte1_11</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64693732" lon="15.37443886" >
+      <name>rte1_12</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64700475" lon="15.37445856" >
+      <name>rte1_13</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64707671" lon="15.37446545" >
+      <name>rte1_14</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64715317" lon="15.37447238" >
+      <name>rte1_15</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64723418" lon="15.37446651" >
+      <name>rte1_16</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64727921" lon="15.37445398" >
+      <name>rte1_17</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64732872" lon="15.37444790" >
+      <name>rte1_18</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64737823" lon="15.37444181" >
+      <name>rte1_19</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64742772" lon="15.37444214" >
+      <name>rte1_20</name>
+      <ele>159.40</ele>
+    </rtept>
+    <rtept lat="45.64747723" lon="15.37443606" >
+      <name>rte1_21</name>
+      <ele>159.40</ele>
+    </rtept>
+    <rtept lat="45.64752672" lon="15.37443639" >
+      <name>rte1_22</name>
+      <ele>159.40</ele>
+    </rtept>
+    <rtept lat="45.64757619" lon="15.37444314" >
+      <name>rte1_23</name>
+      <ele>159.40</ele>
+    </rtept>
+    <rtept lat="45.64762116" lon="15.37444985" >
+      <name>rte1_24</name>
+      <ele>159.40</ele>
+    </rtept>
+    <rtept lat="45.64770206" lon="15.37447606" >
+      <name>rte1_25</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64776935" lon="15.37453424" >
+      <name>rte1_26</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64781409" lon="15.37461152" >
+      <name>rte1_27</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64784068" lon="15.37473358" >
+      <name>rte1_28</name>
+      <ele>157.80</ele>
+    </rtept>
+    <rtept lat="45.64784032" lon="15.37484263" >
+      <name>rte1_29</name>
+      <ele>157.80</ele>
+    </rtept>
+    <rtept lat="45.64783992" lon="15.37496450" >
+      <name>rte1_30</name>
+      <ele>157.80</ele>
+    </rtept>
+    <rtept lat="45.64783052" lon="15.37508632" >
+      <name>rte1_31</name>
+      <ele>155.50</ele>
+    </rtept>
+    <rtept lat="45.64782581" lon="15.37515044" >
+      <name>rte1_32</name>
+      <ele>155.50</ele>
+    </rtept>
+    <rtept lat="45.64782108" lon="15.37522097" >
+      <name>rte1_33</name>
+      <ele>155.50</ele>
+    </rtept>
+    <rtept lat="45.64780274" lon="15.37532348" >
+      <name>rte1_34</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64778438" lon="15.37543241" >
+      <name>rte1_35</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64776605" lon="15.37553493" >
+      <name>rte1_36</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64774771" lon="15.37563744" >
+      <name>rte1_37</name>
+      <ele>152.05</ele>
+    </rtept>
+    <rtept lat="45.64772488" lon="15.37573992" >
+      <name>rte1_38</name>
+      <ele>152.05</ele>
+    </rtept>
+    <rtept lat="45.64770207" lon="15.37583599" >
+      <name>rte1_39</name>
+      <ele>152.05</ele>
+    </rtept>
+    <rtept lat="45.64767927" lon="15.37592565" >
+      <name>rte1_40</name>
+      <ele>152.05</ele>
+    </rtept>
+    <rtept lat="45.64765650" lon="15.37600888" >
+      <name>rte1_41</name>
+      <ele>154.58</ele>
+    </rtept>
+    <rtept lat="45.64762923" lon="15.37609209" >
+      <name>rte1_42</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64760196" lon="15.37617530" >
+      <name>rte1_43</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64757471" lon="15.37625210" >
+      <name>rte1_44</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64755199" lon="15.37632251" >
+      <name>rte1_45</name>
+      <ele>153.00</ele>
+    </rtept>
+    <rtept lat="45.64752926" lon="15.37639292" >
+      <name>rte1_46</name>
+      <ele>153.00</ele>
+    </rtept>
+    <rtept lat="45.64750205" lon="15.37645688" >
+      <name>rte1_47</name>
+      <ele>153.00</ele>
+    </rtept>
+    <rtept lat="45.64747934" lon="15.37652087" >
+      <name>rte1_48</name>
+      <ele>153.00</ele>
+    </rtept>
+    <rtept lat="45.64745666" lon="15.37657845" >
+      <name>rte1_49</name>
+      <ele>153.00</ele>
+    </rtept>
+    <rtept lat="45.64742947" lon="15.37663600" >
+      <name>rte1_50</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64740681" lon="15.37668717" >
+      <name>rte1_51</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64736145" lon="15.37679592" >
+      <name>rte1_52</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64731164" lon="15.37689180" >
+      <name>rte1_53</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64726634" lon="15.37698772" >
+      <name>rte1_54</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64722105" lon="15.37707722" >
+      <name>rte1_55</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64717122" lon="15.37717952" >
+      <name>rte1_56</name>
+      <ele>150.10</ele>
+    </rtept>
+    <rtept lat="45.64712139" lon="15.37728182" >
+      <name>rte1_57</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64709872" lon="15.37733298" >
+      <name>rte1_58</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64707154" lon="15.37739053" >
+      <name>rte1_59</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64704885" lon="15.37744811" >
+      <name>rte1_60</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64702166" lon="15.37750566" >
+      <name>rte1_61</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64699446" lon="15.37756962" >
+      <name>rte1_62</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64696723" lon="15.37764000" >
+      <name>rte1_63</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64694000" lon="15.37771038" >
+      <name>rte1_64</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64691275" lon="15.37778717" >
+      <name>rte1_65</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64688550" lon="15.37786396" >
+      <name>rte1_66</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64685821" lon="15.37795358" >
+      <name>rte1_67</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64680388" lon="15.37805585" >
+      <name>rte1_68</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64673166" lon="15.37812593" >
+      <name>rte1_69</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64665061" lon="15.37814462" >
+      <name>rte1_70</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64656975" lon="15.37810559" >
+      <name>rte1_71</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64650248" lon="15.37804099" >
+      <name>rte1_72</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64643971" lon="15.37797641" >
+      <name>rte1_73</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64637689" lon="15.37792467" >
+      <name>rte1_74</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64631406" lon="15.37787935" >
+      <name>rte1_75</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64625115" lon="15.37785326" >
+      <name>rte1_76</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64618821" lon="15.37784001" >
+      <name>rte1_77</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64612070" lon="15.37784597" >
+      <name>rte1_78</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64605309" lon="15.37788400" >
+      <name>rte1_79</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64597646" lon="15.37792838" >
+      <name>rte1_80</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64589987" lon="15.37795994" >
+      <name>rte1_81</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64582782" lon="15.37797869" >
+      <name>rte1_82</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64576031" lon="15.37798465" >
+      <name>rte1_83</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64568837" lon="15.37797134" >
+      <name>rte1_84</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64562097" lon="15.37794522" >
+      <name>rte1_85</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64555363" lon="15.37789987" >
+      <name>rte1_86</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64549086" lon="15.37783530" >
+      <name>rte1_87</name>
+      <ele>150.10</ele>
+    </rtept>
+    <rtept lat="45.64542808" lon="15.37777073" >
+      <name>rte1_88</name>
+      <ele>150.10</ele>
+    </rtept>
+    <rtept lat="45.64536529" lon="15.37771257" >
+      <name>rte1_89</name>
+      <ele>150.10</ele>
+    </rtept>
+    <rtept lat="45.64530245" lon="15.37766725" >
+      <name>rte1_90</name>
+      <ele>150.10</ele>
+    </rtept>
+    <rtept lat="45.64523505" lon="15.37764113" >
+      <name>rte1_91</name>
+      <ele>150.10</ele>
+    </rtept>
+    <rtept lat="45.64517209" lon="15.37763429" >
+      <name>rte1_92</name>
+      <ele>150.10</ele>
+    </rtept>
+    <rtept lat="45.64510906" lon="15.37764670" >
+      <name>rte1_93</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64505496" lon="15.37767840" >
+      <name>rte1_94</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64500524" lon="15.37774863" >
+      <name>rte1_95</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64496003" lon="15.37781247" >
+      <name>rte1_96</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64492381" lon="15.37788278" >
+      <name>rte1_97</name>
+      <ele>149.40</ele>
+    </rtept>
+    <rtept lat="45.64488310" lon="15.37794665" >
+      <name>rte1_98</name>
+      <ele>149.40</ele>
+    </rtept>
+    <rtept lat="45.64485142" lon="15.37800417" >
+      <name>rte1_99</name>
+      <ele>149.40</ele>
+    </rtept>
+    <rtept lat="45.64481523" lon="15.37806165" >
+      <name>rte1_100</name>
+      <ele>149.40</ele>
+    </rtept>
+    <rtept lat="45.64478355" lon="15.37811917" >
+      <name>rte1_101</name>
+      <ele>149.40</ele>
+    </rtept>
+    <rtept lat="45.64474736" lon="15.37817665" >
+      <name>rte1_102</name>
+      <ele>147.50</ele>
+    </rtept>
+    <rtept lat="45.64471570" lon="15.37822776" >
+      <name>rte1_103</name>
+      <ele>147.50</ele>
+    </rtept>
+    <rtept lat="45.64468403" lon="15.37827886" >
+      <name>rte1_104</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64464787" lon="15.37832993" >
+      <name>rte1_105</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64461171" lon="15.37838100" >
+      <name>rte1_106</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64457552" lon="15.37843848" >
+      <name>rte1_107</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64453486" lon="15.37848953" >
+      <name>rte1_108</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64448970" lon="15.37854054" >
+      <name>rte1_109</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64444452" lon="15.37859796" >
+      <name>rte1_110</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64439484" lon="15.37865535" >
+      <name>rte1_111</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64434972" lon="15.37869353" >
+      <name>rte1_112</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64430460" lon="15.37873171" >
+      <name>rte1_113</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64426400" lon="15.37876351" >
+      <name>rte1_114</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64422342" lon="15.37878889" >
+      <name>rte1_115</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64413783" lon="15.37882039" >
+      <name>rte1_116</name>
+      <ele>140.96</ele>
+    </rtept>
+    <rtept lat="45.64405229" lon="15.37883905" >
+      <name>rte1_117</name>
+      <ele>140.96</ele>
+    </rtept>
+    <rtept lat="45.64396231" lon="15.37883844" >
+      <name>rte1_118</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64391732" lon="15.37883814" >
+      <name>rte1_119</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64386783" lon="15.37883780" >
+      <name>rte1_120</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64382286" lon="15.37883108" >
+      <name>rte1_121</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64376887" lon="15.37883072" >
+      <name>rte1_122</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64371940" lon="15.37882397" >
+      <name>rte1_123</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64366541" lon="15.37882360" >
+      <name>rte1_124</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64359795" lon="15.37881673" >
+      <name>rte1_125</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64353948" lon="15.37880992" >
+      <name>rte1_126</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64347650" lon="15.37880949" >
+      <name>rte1_127</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64341803" lon="15.37880268" >
+      <name>rte1_128</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64336406" lon="15.37879590" >
+      <name>rte1_129</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64331010" lon="15.37878912" >
+      <name>rte1_130</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64325163" lon="15.37878231" >
+      <name>rte1_131</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64320216" lon="15.37877556" >
+      <name>rte1_132</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64314819" lon="15.37876878" >
+      <name>rte1_133</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64309875" lon="15.37875562" >
+      <name>rte1_134</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64304928" lon="15.37874887" >
+      <name>rte1_135</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64299983" lon="15.37873571" >
+      <name>rte1_136</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64295036" lon="15.37872896" >
+      <name>rte1_137</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64290092" lon="15.37871580" >
+      <name>rte1_138</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64285597" lon="15.37870266" >
+      <name>rte1_139</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64280652" lon="15.37868950" >
+      <name>rte1_140</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64275708" lon="15.37867634" >
+      <name>rte1_141</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64271215" lon="15.37865679" >
+      <name>rte1_142</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64266270" lon="15.37864363" >
+      <name>rte1_143</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64261778" lon="15.37862408" >
+      <name>rte1_144</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64256833" lon="15.37861092" >
+      <name>rte1_145</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64251890" lon="15.37859134" >
+      <name>rte1_146</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64246948" lon="15.37857176" >
+      <name>rte1_147</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64242005" lon="15.37855219" >
+      <name>rte1_148</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64236615" lon="15.37852616" >
+      <name>rte1_149</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64231672" lon="15.37850659" >
+      <name>rte1_150</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64226280" lon="15.37848698" >
+      <name>rte1_151</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64220890" lon="15.37846096" >
+      <name>rte1_152</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64215499" lon="15.37843494" >
+      <name>rte1_153</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64209659" lon="15.37840889" >
+      <name>rte1_154</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64203819" lon="15.37838283" >
+      <name>rte1_155</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64197979" lon="15.37835678" >
+      <name>rte1_156</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64192136" lon="15.37833714" >
+      <name>rte1_157</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64187189" lon="15.37833040" >
+      <name>rte1_158</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64182238" lon="15.37833647" >
+      <name>rte1_159</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64177733" lon="15.37835541" >
+      <name>rte1_160</name>
+      <ele>136.09</ele>
+    </rtept>
+    <rtept lat="45.64173225" lon="15.37838076" >
+      <name>rte1_161</name>
+      <ele>136.09</ele>
+    </rtept>
+    <rtept lat="45.64168266" lon="15.37841250" >
+      <name>rte1_162</name>
+      <ele>136.09</ele>
+    </rtept>
+    <rtept lat="45.64163306" lon="15.37844423" >
+      <name>rte1_163</name>
+      <ele>136.09</ele>
+    </rtept>
+    <rtept lat="45.64158344" lon="15.37848238" >
+      <name>rte1_164</name>
+      <ele>130.00</ele>
+    </rtept>
+    <rtept lat="45.64150244" lon="15.37848825" >
+      <name>rte1_165</name>
+      <ele>130.00</ele>
+    </rtept>
+    <rtept lat="45.64143510" lon="15.37844289" >
+      <name>rte1_166</name>
+      <ele>133.09</ele>
+    </rtept>
+    <rtept lat="45.64138141" lon="15.37835273" >
+      <name>rte1_167</name>
+      <ele>133.09</ele>
+    </rtept>
+    <rtept lat="45.64136828" lon="15.37824361" >
+      <name>rte1_168</name>
+      <ele>133.09</ele>
+    </rtept>
+    <rtept lat="45.64137310" lon="15.37814743" >
+      <name>rte1_169</name>
+      <ele>137.80</ele>
+    </rtept>
+    <rtept lat="45.64137790" lon="15.37805766" >
+      <name>rte1_170</name>
+      <ele>137.80</ele>
+    </rtept>
+    <rtept lat="45.64138269" lon="15.37796790" >
+      <name>rte1_171</name>
+      <ele>137.80</ele>
+    </rtept>
+    <rtept lat="45.64138747" lon="15.37788455" >
+      <name>rte1_172</name>
+      <ele>137.80</ele>
+    </rtept>
+    <rtept lat="45.64139225" lon="15.37780120" >
+      <name>rte1_173</name>
+      <ele>142.21</ele>
+    </rtept>
+    <rtept lat="45.64139702" lon="15.37771785" >
+      <name>rte1_174</name>
+      <ele>142.21</ele>
+    </rtept>
+    <rtept lat="45.64140180" lon="15.37763450" >
+      <name>rte1_175</name>
+      <ele>142.21</ele>
+    </rtept>
+    <rtept lat="45.64140655" lon="15.37755756" >
+      <name>rte1_176</name>
+      <ele>142.21</ele>
+    </rtept>
+    <rtept lat="45.64141131" lon="15.37748062" >
+      <name>rte1_177</name>
+      <ele>147.95</ele>
+    </rtept>
+    <rtept lat="45.64141604" lon="15.37741010" >
+      <name>rte1_178</name>
+      <ele>147.95</ele>
+    </rtept>
+    <rtept lat="45.64142079" lon="15.37733316" >
+      <name>rte1_179</name>
+      <ele>147.95</ele>
+    </rtept>
+    <rtept lat="45.64142555" lon="15.37725623" >
+      <name>rte1_180</name>
+      <ele>147.95</ele>
+    </rtept>
+    <rtept lat="45.64143028" lon="15.37718570" >
+      <name>rte1_181</name>
+      <ele>150.55</ele>
+    </rtept>
+    <rtept lat="45.64143502" lon="15.37711518" >
+      <name>rte1_182</name>
+      <ele>150.55</ele>
+    </rtept>
+    <rtept lat="45.64143975" lon="15.37704466" >
+      <name>rte1_183</name>
+      <ele>150.55</ele>
+    </rtept>
+    <rtept lat="45.64144448" lon="15.37697413" >
+      <name>rte1_184</name>
+      <ele>150.55</ele>
+    </rtept>
+    <rtept lat="45.64144474" lon="15.37689717" >
+      <name>rte1_185</name>
+      <ele>150.55</ele>
+    </rtept>
+    <rtept lat="45.64144947" lon="15.37682664" >
+      <name>rte1_186</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64145420" lon="15.37675612" >
+      <name>rte1_187</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64146343" lon="15.37668563" >
+      <name>rte1_188</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64146819" lon="15.37660869" >
+      <name>rte1_189</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64147292" lon="15.37653817" >
+      <name>rte1_190</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64147768" lon="15.37646123" >
+      <name>rte1_191</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64148243" lon="15.37638429" >
+      <name>rte1_192</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64149168" lon="15.37630739" >
+      <name>rte1_193</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64149644" lon="15.37623045" >
+      <name>rte1_194</name>
+      <ele>150.00</ele>
+    </rtept>
+    <rtept lat="45.64150571" lon="15.37614713" >
+      <name>rte1_195</name>
+      <ele>146.59</ele>
+    </rtept>
+    <rtept lat="45.64151048" lon="15.37606378" >
+      <name>rte1_196</name>
+      <ele>146.59</ele>
+    </rtept>
+    <rtept lat="45.64151976" lon="15.37598046" >
+      <name>rte1_197</name>
+      <ele>146.59</ele>
+    </rtept>
+    <rtept lat="45.64152905" lon="15.37589072" >
+      <name>rte1_198</name>
+      <ele>142.56</ele>
+    </rtept>
+    <rtept lat="45.64153385" lon="15.37580096" >
+      <name>rte1_199</name>
+      <ele>142.56</ele>
+    </rtept>
+    <rtept lat="45.64154764" lon="15.37571125" >
+      <name>rte1_200</name>
+      <ele>142.56</ele>
+    </rtept>
+    <rtept lat="45.64155238" lon="15.37564073" >
+      <name>rte1_201</name>
+      <ele>142.56</ele>
+    </rtept>
+    <rtept lat="45.64155709" lon="15.37557662" >
+      <name>rte1_202</name>
+      <ele>140.92</ele>
+    </rtept>
+    <rtept lat="45.64157099" lon="15.37545485" >
+      <name>rte1_203</name>
+      <ele>146.67</ele>
+    </rtept>
+    <rtept lat="45.64158039" lon="15.37533304" >
+      <name>rte1_204</name>
+      <ele>146.67</ele>
+    </rtept>
+    <rtept lat="45.64158977" lon="15.37521765" >
+      <name>rte1_205</name>
+      <ele>146.25</ele>
+    </rtept>
+    <rtept lat="45.64160362" lon="15.37510871" >
+      <name>rte1_206</name>
+      <ele>146.25</ele>
+    </rtept>
+    <rtept lat="45.64161298" lon="15.37499973" >
+      <name>rte1_207</name>
+      <ele>146.25</ele>
+    </rtept>
+    <rtept lat="45.64162682" lon="15.37489720" >
+      <name>rte1_208</name>
+      <ele>140.77</ele>
+    </rtept>
+    <rtept lat="45.64164515" lon="15.37479469" >
+      <name>rte1_209</name>
+      <ele>140.77</ele>
+    </rtept>
+    <rtept lat="45.64166349" lon="15.37469219" >
+      <name>rte1_210</name>
+      <ele>140.77</ele>
+    </rtept>
+    <rtept lat="45.64168630" lon="15.37459613" >
+      <name>rte1_211</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64171361" lon="15.37450010" >
+      <name>rte1_212</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64174544" lon="15.37439769" >
+      <name>rte1_213</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64178175" lon="15.37430172" >
+      <name>rte1_214</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64182258" lon="15.37419937" >
+      <name>rte1_215</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64187239" lon="15.37410349" >
+      <name>rte1_216</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64189955" lon="15.37405236" >
+      <name>rte1_217</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64193121" lon="15.37400126" >
+      <name>rte1_218</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64195839" lon="15.37394371" >
+      <name>rte1_219</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64198556" lon="15.37389258" >
+      <name>rte1_220</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64203988" lon="15.37379032" >
+      <name>rte1_221</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64208519" lon="15.37369441" >
+      <name>rte1_222</name>
+      <ele>140.00</ele>
+    </rtept>
+    <rtept lat="45.64213050" lon="15.37359850" >
+      <name>rte1_223</name>
+      <ele>137.99</ele>
+    </rtept>
+    <rtept lat="45.64217131" lon="15.37350256" >
+      <name>rte1_224</name>
+      <ele>137.99</ele>
+    </rtept>
+    <rtept lat="45.64221211" lon="15.37340662" >
+      <name>rte1_225</name>
+      <ele>137.99</ele>
+    </rtept>
+    <rtept lat="45.64224840" lon="15.37331706" >
+      <name>rte1_226</name>
+      <ele>139.32</ele>
+    </rtept>
+    <rtept lat="45.64228917" lon="15.37323395" >
+      <name>rte1_227</name>
+      <ele>139.32</ele>
+    </rtept>
+    <rtept lat="45.64232995" lon="15.37314442" >
+      <name>rte1_228</name>
+      <ele>139.32</ele>
+    </rtept>
+    <rtept lat="45.64237522" lon="15.37306134" >
+      <name>rte1_229</name>
+      <ele>139.32</ele>
+    </rtept>
+    <rtept lat="45.64242048" lon="15.37297826" >
+      <name>rte1_230</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64247022" lon="15.37290162" >
+      <name>rte1_231</name>
+      <ele>135.00</ele>
+    </rtept>
+    <rtept lat="45.64252896" lon="15.37282504" >
+      <name>rte1_232</name>
+      <ele>138.03</ele>
+    </rtept>
+    <rtept lat="45.64259218" lon="15.37275491" >
+      <name>rte1_233</name>
+      <ele>138.03</ele>
+    </rtept>
+    <rtept lat="45.64265990" lon="15.37268480" >
+      <name>rte1_234</name>
+      <ele>135.98</ele>
+    </rtept>
+    <rtept lat="45.64270049" lon="15.37265300" >
+      <name>rte1_235</name>
+      <ele>137.49</ele>
+    </rtept>
+    <rtept lat="45.64274109" lon="15.37262120" >
+      <name>rte1_236</name>
+      <ele>137.49</ele>
+    </rtept>
+    <rtept lat="45.64279523" lon="15.37257666" >
+      <name>rte1_237</name>
+      <ele>137.49</ele>
+    </rtept>
+    <rtept lat="45.64284934" lon="15.37253854" >
+      <name>rte1_238</name>
+      <ele>137.49</ele>
+    </rtept>
+    <rtept lat="45.64290793" lon="15.37250686" >
+      <name>rte1_239</name>
+      <ele>137.49</ele>
+    </rtept>
+    <rtept lat="45.64296201" lon="15.37248156" >
+      <name>rte1_240</name>
+      <ele>137.09</ele>
+    </rtept>
+    <rtept lat="45.64301606" lon="15.37246268" >
+      <name>rte1_241</name>
+      <ele>137.09</ele>
+    </rtept>
+    <rtept lat="45.64307459" lon="15.37245024" >
+      <name>rte1_242</name>
+      <ele>137.09</ele>
+    </rtept>
+    <rtept lat="45.64312862" lon="15.37243777" >
+      <name>rte1_243</name>
+      <ele>137.09</ele>
+    </rtept>
+    <rtept lat="45.64318261" lon="15.37243813" >
+      <name>rte1_244</name>
+      <ele>136.84</ele>
+    </rtept>
+    <rtept lat="45.64323657" lon="15.37244490" >
+      <name>rte1_245</name>
+      <ele>136.84</ele>
+    </rtept>
+    <rtept lat="45.64329052" lon="15.37245809" >
+      <name>rte1_246</name>
+      <ele>136.84</ele>
+    </rtept>
+    <rtept lat="45.64334447" lon="15.37247128" >
+      <name>rte1_247</name>
+      <ele>136.84</ele>
+    </rtept>
+    <rtept lat="45.64339837" lon="15.37249729" >
+      <name>rte1_248</name>
+      <ele>136.70</ele>
+    </rtept>
+    <rtept lat="45.64344776" lon="15.37252969" >
+      <name>rte1_249</name>
+      <ele>136.70</ele>
+    </rtept>
+    <rtept lat="45.64350162" lon="15.37256854" >
+      <name>rte1_250</name>
+      <ele>136.70</ele>
+    </rtept>
+    <rtept lat="45.64355546" lon="15.37261380" >
+      <name>rte1_251</name>
+      <ele>136.70</ele>
+    </rtept>
+    <rtept lat="45.64360926" lon="15.37267188" >
+      <name>rte1_252</name>
+      <ele>137.31</ele>
+    </rtept>
+    <rtept lat="45.64364960" lon="15.37271705" >
+      <name>rte1_253</name>
+      <ele>144.42</ele>
+    </rtept>
+    <rtept lat="45.64368545" lon="15.37276219" >
+      <name>rte1_254</name>
+      <ele>144.42</ele>
+    </rtept>
+    <rtept lat="45.64371677" lon="15.37281372" >
+      <name>rte1_255</name>
+      <ele>144.42</ele>
+    </rtept>
+    <rtept lat="45.64374360" lon="15.37286521" >
+      <name>rte1_256</name>
+      <ele>144.42</ele>
+    </rtept>
+    <rtept lat="45.64379275" lon="15.37296817" >
+      <name>rte1_257</name>
+      <ele>144.42</ele>
+    </rtept>
+    <rtept lat="45.64382839" lon="15.37307745" >
+      <name>rte1_258</name>
+      <ele>150.61</ele>
+    </rtept>
+    <rtept lat="45.64385498" lon="15.37319950" >
+      <name>rte1_259</name>
+      <ele>150.61</ele>
+    </rtept>
+    <rtept lat="45.64388158" lon="15.37332155" >
+      <name>rte1_260</name>
+      <ele>150.61</ele>
+    </rtept>
+    <rtept lat="45.64389486" lon="15.37338578" >
+      <name>rte1_261</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64390813" lon="15.37345643" >
+      <name>rte1_262</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64392139" lon="15.37352707" >
+      <name>rte1_263</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64393914" lon="15.37360416" >
+      <name>rte1_264</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64395240" lon="15.37367481" >
+      <name>rte1_265</name>
+      <ele>160.00</ele>
+    </rtept>
+    <rtept lat="45.64397467" lon="15.37374552" >
+      <name>rte1_266</name>
+      <ele>165.00</ele>
+    </rtept>
+    <rtept lat="45.64399695" lon="15.37380981" >
+      <name>rte1_267</name>
+      <ele>165.00</ele>
+    </rtept>
+    <rtept lat="45.64401923" lon="15.37387410" >
+      <name>rte1_268</name>
+      <ele>165.00</ele>
+    </rtept>
+    <rtept lat="45.64404602" lon="15.37393843" >
+      <name>rte1_269</name>
+      <ele>163.52</ele>
+    </rtept>
+    <rtept lat="45.64407282" lon="15.37399633" >
+      <name>rte1_270</name>
+      <ele>163.52</ele>
+    </rtept>
+    <rtept lat="45.64410415" lon="15.37404786" >
+      <name>rte1_271</name>
+      <ele>168.56</ele>
+    </rtept>
+    <rtept lat="45.64413999" lon="15.37409300" >
+      <name>rte1_272</name>
+      <ele>168.56</ele>
+    </rtept>
+    <rtept lat="45.64417584" lon="15.37413814" >
+      <name>rte1_273</name>
+      <ele>168.56</ele>
+    </rtept>
+    <rtept lat="45.64421170" lon="15.37417687" >
+      <name>rte1_274</name>
+      <ele>168.56</ele>
+    </rtept>
+    <rtept lat="45.64425659" lon="15.37420924" >
+      <name>rte1_275</name>
+      <ele>168.56</ele>
+    </rtept>
+    <rtept lat="45.64429699" lon="15.37423517" >
+      <name>rte1_276</name>
+      <ele>168.90</ele>
+    </rtept>
+    <rtept lat="45.64434192" lon="15.37425471" >
+      <name>rte1_277</name>
+      <ele>168.90</ele>
+    </rtept>
+    <rtept lat="45.64439137" lon="15.37426787" >
+      <name>rte1_278</name>
+      <ele>168.90</ele>
+    </rtept>
+    <rtept lat="45.64444534" lon="15.37427465" >
+      <name>rte1_279</name>
+      <ele>168.90</ele>
+    </rtept>
+    <rtept lat="45.64449932" lon="15.37427501" >
+      <name>rte1_280</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64456235" lon="15.37426260" >
+      <name>rte1_281</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64462086" lon="15.37425658" >
+      <name>rte1_282</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64467489" lon="15.37424411" >
+      <name>rte1_283</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64472892" lon="15.37423164" >
+      <name>rte1_284</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64477848" lon="15.37421273" >
+      <name>rte1_285</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64482803" lon="15.37419382" >
+      <name>rte1_286</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64487760" lon="15.37416849" >
+      <name>rte1_287</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64492266" lon="15.37414955" >
+      <name>rte1_288</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64496775" lon="15.37411778" >
+      <name>rte1_289</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64501285" lon="15.37408601" >
+      <name>rte1_290</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64506244" lon="15.37405427" >
+      <name>rte1_291</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64510756" lon="15.37401608" >
+      <name>rte1_292</name>
+      <ele>170.00</ele>
+    </rtept>
+    <rtept lat="45.64515270" lon="15.37397148" >
+      <name>rte1_293</name>
+      <ele>166.09</ele>
+    </rtept>
+    <rtept lat="45.64520234" lon="15.37392691" >
+      <name>rte1_294</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64525197" lon="15.37388234" >
+      <name>rte1_295</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64530613" lon="15.37383139" >
+      <name>rte1_296</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64535129" lon="15.37378038" >
+      <name>rte1_297</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64539641" lon="15.37374219" >
+      <name>rte1_298</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64544155" lon="15.37369759" >
+      <name>rte1_299</name>
+      <ele>175.00</ele>
+    </rtept>
+    <rtept lat="45.64548664" lon="15.37366582" >
+      <name>rte1_300</name>
+      <ele>171.41</ele>
+    </rtept>
+    <rtept lat="45.64553174" lon="15.37363405" >
+      <name>rte1_301</name>
+      <ele>171.41</ele>
+    </rtept>
+    <rtept lat="45.64558133" lon="15.37360231" >
+      <name>rte1_302</name>
+      <ele>171.41</ele>
+    </rtept>
+    <rtept lat="45.64562641" lon="15.37357695" >
+      <name>rte1_303</name>
+      <ele>173.40</ele>
+    </rtept>
+    <rtept lat="45.64567144" lon="15.37356442" >
+      <name>rte1_304</name>
+      <ele>173.40</ele>
+    </rtept>
+    <rtept lat="45.64572097" lon="15.37355192" >
+      <name>rte1_305</name>
+      <ele>173.40</ele>
+    </rtept>
+    <rtept lat="45.64576598" lon="15.37354581" >
+      <name>rte1_306</name>
+      <ele>173.40</ele>
+    </rtept>
+    <rtept lat="45.64581097" lon="15.37354611" >
+      <name>rte1_307</name>
+      <ele>173.40</ele>
+    </rtept>
+    <rtept lat="45.64586044" lon="15.37355285" >
+      <name>rte1_308</name>
+      <ele>172.90</ele>
+    </rtept>
+    <rtept lat="45.64590539" lon="15.37356598" >
+      <name>rte1_309</name>
+      <ele>172.90</ele>
+    </rtept>
+    <rtept lat="45.64595482" lon="15.37358556" >
+      <name>rte1_310</name>
+      <ele>172.90</ele>
+    </rtept>
+    <rtept lat="45.64599970" lon="15.37361793" >
+      <name>rte1_311</name>
+      <ele>172.90</ele>
+    </rtept>
+    <rtept lat="45.64604904" lon="15.37366316" >
+      <name>rte1_312</name>
+      <ele>172.90</ele>
+    </rtept>
+  </rte>
+</gpx>

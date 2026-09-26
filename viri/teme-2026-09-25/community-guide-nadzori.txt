@@ -1,0 +1,23 @@
+Vsebina strani, pridobljena 26. 9. 2026 z orodjem WebFetch (stran se izrisuje z JavaScriptom; shranjen HTML je v community-guide-nadzori.html).
+
+Publicized Sobriety Checkpoint Programs: Task Force Finding & Evidence Summary
+
+Task Force Finding & Date: "The Community Preventive Services Task Force (CPSTF) recommends publicized sobriety checkpoint programs based on strong evidence of effectiveness in reducing alcohol-impaired driving" (August 2012).
+
+Intervention Definition: "Publicized sobriety checkpoint programs are a form of high visibility enforcement where law enforcement officers stop drivers systematically to assess their degree of alcohol impairment. Media efforts to publicize the enforcement activity are an integral part of these programs." Two checkpoint types: Selective Breath Testing (SBT, U.S.) and Random Breath Testing (RBT, international).
+
+Summary of Results (14 U.S. studies and 1 New Zealand study):
+- Crash fatalities involving alcohol: median 8.9% relative decrease with SBT (interquartile interval 16.5% to 3.5%; 10 studies)
+- Alcohol-involved to non-alcohol-involved fatal crash ratio: 14% relative decrease (1 study)
+- Fatal and non-fatal alcohol crashes: 18.8% relative decrease (1 study)
+- Drivers exceeding legal BAC: 28% and 64% relative decreases (2 studies)
+- Serious/fatal nighttime crashes (RBT): 22.1% relative decrease (1 study)
+- Public awareness: 3.4% to 31.9% increase in exposure to checkpoint messaging (5 studies)
+
+Economic Evidence (16 studies, 2011 U.S. dollars): SBT benefit-to-cost ratios 6:1 and 23:1; RBT 2:1 to 57:1; cost per alcohol-crash averted $5,787; media/publicity costs $1-$82 per 100 persons.
+
+Applicability: results apply across settings, but may not apply to "implementations that consist of a small number of checkpoints conducted over a brief time period."
+
+Implementation considerations: staff shortages and resource limitations; overtime for evening/weekend operations; select locations with high impaired-driving crash incidence; publicity is an essential component.
+
+Evidence gaps: checkpoint configurations (staffing, scheduling), process measures, costs and technology.
