@@ -128,3 +128,9 @@ Starejša zgodovina dela (poročilo o zdravstvu, CKZ, starost, društva, kader i
 - Pages updated: `orodja/prenovi_porocilo.py`, `vsebina/prenova.css`, sinteza, kazalo, naslednji koraki.
 - Open questions: Izidi po preventivnih pregledih; podatki SLOfit po šolah; telefonska preverba kontaktov.
 - Follow-up tasks: Dodati izide po pregledu v zahtevo IJZ za ZD; pridobiti nacionalne podatke PZVO za primerjavo.
+
+## [2026-09-26] lint | Pregled skrivnosti pred pushom; .gitignore in .gitattributes
+
+- Action: Pred prvim pushom pregledani indeks in vsa zgodovina commitov za Google API ključe (vzorec AIza…), OAuth, servisne račune, AWS, GitHub, Slack, Stripe, OpenAI/Anthropic ključe in zasebne ključe. Zgodovina čista. V indeksu trije javni ključi tretjih oseb v shranjenih HTML-kopijah (Program MIRA: Google Maps; RTV SLO: Firebase). Odstranjeni z `orodja/odstrani_kljuce.py`; prvotna in nova SHA-256 zapisani v `viri/manifest.json` (razdelek »redakcije«), register virov dopolnjen; `orodja/zajemi_teme.py` ključe odstrani že ob zajemu. `.gitignore`: `tmp/okolje-runtime` odstranjen iz sledenja, dodana lokalna orodja in začasne datoteke. `.gitattributes`: `viri/**` in `arhiv/**` bajtno natančno (`-text`), koda LF, binarne datoteke, zgrajena poročila `-diff`. Preverjanje virov na svežem izvozu indeksa enako kot v delovni mapi. Vklopljen `core.longpaths` za repozitorij.
+- Open questions: /
+- Follow-up tasks: Pred vsakim pushom ponoviti iskanje skrivnosti (ukaz v tem vnosu: `git grep --cached -I -E "AIza[0-9A-Za-z_-]{35}"`).

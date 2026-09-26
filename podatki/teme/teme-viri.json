@@ -169,7 +169,7 @@
   "publisher": "Program MIRA (zadusevnozdravje.si)",
   "date": "b.d.",
   "reliability": "visoka za objavljene kontakte in območje",
-  "scope": "Celotna stran.",
+  "scope": "Celotna stran. Iz shranjenega HTML je odstranjen javni API ključ spletišča (redakcija 26. 9. 2026, glej viri/manifest.json).",
   "local": "viri/splet/teme-20260925-mira-cdzom-nm.md",
   "path": "viri/teme-2026-09-25/mira-cdzom-nm.html"
  },
@@ -235,7 +235,7 @@
   "publisher": "RTV SLO",
   "date": "18. september 2026",
   "reliability": "srednja (medij; povzema zakonodajni postopek)",
-  "scope": "Celoten članek.",
+  "scope": "Celoten članek. Iz shranjenega HTML je odstranjen javni API ključ spletišča (redakcija 26. 9. 2026, glej viri/manifest.json).",
   "local": "viri/splet/teme-20260925-rtv-interventni-do.md",
   "path": "viri/teme-2026-09-25/rtv-interventni-do.html"
  },

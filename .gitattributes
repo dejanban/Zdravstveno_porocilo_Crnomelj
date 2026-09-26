@@ -1,2 +1,42 @@
-* text=auto eol=lf
-*.css text eol=lf
+# Privzeto: git sam zazna besedilne datoteke in jih v repozitoriju hrani z LF.
+* text=auto
+
+# Koda, vhodi gradnje in wiki: vedno LF, na vseh sistemih enako.
+*.py    text eol=lf
+*.md    text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf
+*.json  text eol=lf
+*.csv   text eol=lf
+*.txt   text eol=lf
+*.svg   text eol=lf
+*.html  text eol=lf
+.gitignore      text eol=lf
+.gitattributes  text eol=lf
+
+# Viri in arhiv: bajt za bajtom brez pretvorb, ker jih preverjamo s SHA-256
+# (viri/manifest.json, orodja/preveri_okoljske_vire.py). Pravilo je za zgornjimi, zato jih preglasi.
+viri/**   -text
+arhiv/**  -text
+
+# Binarne datoteke
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.gif   binary
+*.xlsx  binary
+*.xls   binary
+*.docx  binary
+*.pptx  binary
+*.zip   binary
+*.exe   binary
+
+# Zgrajena poročila: velika, ustvarjena z orodji; razlike v gitu niso koristne.
+/porocilo.html            -diff linguist-generated
+/porocilo-print.html      -diff linguist-generated
+/register-dogodkov.html   -diff linguist-generated
+/index.html               -diff linguist-generated
+/viri/index.html          -diff linguist-generated
+/porocilo.pdf             binary linguist-generated

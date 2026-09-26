@@ -55,7 +55,10 @@ def main():
         src.parent.mkdir(parents=True, exist_ok=True)
         if '--osvezi' in sys.argv or not src.exists():
             url = r.get('download', r['url'])
-            src.write_bytes(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read())
+            data = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read()
+            # Javnih API ključev tretjih oseb ne shranjujemo (glej orodja/odstrani_kljuce.py).
+            data = re.sub(rb'AIza[0-9A-Za-z_-]{35}', b'ODSTRANJEN-JAVNI-KLJUC-TRETJE-OSEBE', data)
+            src.write_bytes(data)
         txt = besedilo(src)
         md = (f"---\nurl: {r['url']}\nnaslov: {r['title']}\nizdajatelj: {r['publisher']}\navtorji: {r['authors']}\n"
               f"datum objave: {r['date']}\ndostopano: {r.get('accessed', '2026-09-25')}\n"

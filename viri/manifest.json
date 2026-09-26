@@ -2116,11 +2116,11 @@
     },
     {
       "path": "viri/splet/teme-20260925-mira-cdzom-nm.md",
-      "sha256": "4c6b88c6cc838fb1d3742a2f4c44f605cf4d878c3124465ea60ffe903d6f1ec6"
+      "sha256": "fe55d20c1e6c3e2af8e5ce851727dfd7cd0f464e6c1028d2bb4ddd759e3f9a65"
     },
     {
       "path": "viri/teme-2026-09-25/mira-cdzom-nm.html",
-      "sha256": "66af03d844924ec180d17b05f8817edf789bcae1394f0f5563ff7fdf6c338a7d"
+      "sha256": "9c8a1bec7a9a7828f41f415d9e21bae18db27de9e0ad193cc0fc704380b7761f"
     },
     {
       "path": "viri/splet/teme-20260925-zd-dispanzer.md",
@@ -2156,11 +2156,11 @@
     },
     {
       "path": "viri/splet/teme-20260925-rtv-interventni-do.md",
-      "sha256": "cbb271fe4e7c2ee07d197ceb6ee7ba45f258e89986de99f303cbb1eef015393e"
+      "sha256": "ea33d7efb0576b181f2a0146d26974565206bf44e00968d8b9f2b158da820c50"
     },
     {
       "path": "viri/teme-2026-09-25/rtv-interventni-do.html",
-      "sha256": "ecd8c4272dfa1973df1057519d8b43532d3b1f7599ba3686f04cf56b2e1b31f2"
+      "sha256": "e56ccf464f3ba7bc40a8258db53c2ec5c5b70f42b7e69bd79a2321bc50db47cc"
     },
     {
       "path": "viri/splet/teme-20260925-bergen-2014.md",
@@ -8931,6 +8931,24 @@
     {
       "path": "viri/AEDs.xlsx",
       "status": "Neskladje obstaja že v commitu 0dc0bd4 (zabeleženo v pregledu 2026-09-23); izvor spremembe ni pojasnjen."
+    }
+  ],
+  "redakcije": [
+    {
+      "path": "viri/teme-2026-09-25/mira-cdzom-nm.html",
+      "sha256_pred_redakcijo": "66af03d844924ec180d17b05f8817edf789bcae1394f0f5563ff7fdf6c338a7d",
+      "sha256_po_redakciji": "9c8a1bec7a9a7828f41f415d9e21bae18db27de9e0ad193cc0fc704380b7761f",
+      "odstranjeno": "1 javni API ključ(i) tretje osebe (vzorec AIza…)",
+      "datum": "2026-09-26",
+      "razlog": "Ključ spletišča, viden vsakemu obiskovalcu; ne razširjamo ga naprej. Vsebina strani sicer nespremenjena."
+    },
+    {
+      "path": "viri/teme-2026-09-25/rtv-interventni-do.html",
+      "sha256_pred_redakcijo": "ecd8c4272dfa1973df1057519d8b43532d3b1f7599ba3686f04cf56b2e1b31f2",
+      "sha256_po_redakciji": "e56ccf464f3ba7bc40a8258db53c2ec5c5b70f42b7e69bd79a2321bc50db47cc",
+      "odstranjeno": "2 javni API ključ(i) tretje osebe (vzorec AIza…)",
+      "datum": "2026-09-26",
+      "razlog": "Ključ spletišča, viden vsakemu obiskovalcu; ne razširjamo ga naprej. Vsebina strani sicer nespremenjena."
     }
   ]
 }

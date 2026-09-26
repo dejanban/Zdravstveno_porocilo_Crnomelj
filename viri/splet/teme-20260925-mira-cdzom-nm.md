@@ -6,7 +6,7 @@ avtorji: NIJZ, Program MIRA
 datum objave: b.d.
 dostopano: 2026-09-25
 metoda zajema: prenos izvirnika (viri/teme-2026-09-25/mira-cdzom-nm.html), strojni izvleček besedila
-obseg branja: Celotna stran.
+obseg branja: Celotna stran. Iz shranjenega HTML je odstranjen javni API ključ spletišča (redakcija 26. 9. 2026, glej viri/manifest.json).
 zanesljivost: visoka za objavljene kontakte in območje
 ---
 

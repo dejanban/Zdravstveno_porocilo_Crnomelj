@@ -6,7 +6,7 @@ avtorji: RTV SLO
 datum objave: 18. september 2026
 dostopano: 2026-09-25
 metoda zajema: prenos izvirnika (viri/teme-2026-09-25/rtv-interventni-do.html), strojni izvleček besedila
-obseg branja: Celoten članek.
+obseg branja: Celoten članek. Iz shranjenega HTML je odstranjen javni API ključ spletišča (redakcija 26. 9. 2026, glej viri/manifest.json).
 zanesljivost: srednja (medij; povzema zakonodajni postopek)
 ---
 
