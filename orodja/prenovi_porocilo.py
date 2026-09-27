@@ -7,6 +7,7 @@ ROOT=Path(__file__).resolve().parents[1]
 
 GROUPS=[
  ('pregled','Pregled',['za-prebivalce','povzetek','kam-po-pomoc'],'Kako zdravi smo, kaj je na voljo in kaj lahko izboljšamo? Začnite s povzetkom ali izberite področje spodaj.'),
+ ('samopregled','Samopregledi in presejanje',['samopregled-vodnik','samopregled-tlak','samopregled-sladkor','samopregled-telo','samopregled-presejanje','samopregled-nujno','samopregled-ukrepi'],'Kaj lahko preverite sami, na katere preglede vas vabijo in ob katerih znakih ne smete čakati. Povzetek uradnih navodil in dokazov; ne nadomešča posveta z zdravnikom.'),
  ('stevilke','Zdravje v številkah',['starost','dejavniki','debelost-otroci','promet-alkohol','kronicne','eu'],'Kazalniki in demografski kontekst. Letnica na drsniku NIJZ je leto izdaje; referenčna obdobja so navedena ob grafih in v metodologiji.'),
  ('ckz','Delovanje CKZ',['ckz','ckz-spremljanje','dogodki'],'Programi, dokumentirane dejavnosti in predlogi spremljanja. Objave, udeležba in zdravstveni izidi so različne enote; trend občine ni dokaz učinka CKZ.'),
  ('spanje','Spanje in digitalne navade',['spanje-povzetek','spanje-raziskave','spanje-ukrepi'],'Kaj kažejo raziskave o večernih zaslonih, spanju in družbenih omrežjih? Mednarodne ugotovitve niso lokalna meritev Črnomlja.'),
@@ -20,14 +21,15 @@ GROUPS=[
  ('viri','Viri in metodologija',['metoda','vzroki','popravki','literatura'],'Kako beremo podatke, kaj je bilo popravljeno in na katerih dokazih temeljijo ugotovitve. Vsaka navedba vodi do bibliografskega zapisa in stanja lokalne kopije.'),
 ]
 RELATED={
- 'pregled':[('stevilke','Podatki za razumevanje potreb'),('ukrepi','Od ugotovitev do ukrepov')],
+ 'pregled':[('samopregled','Kaj lahko preverite sami'),('stevilke','Podatki za razumevanje potreb'),('ukrepi','Od ugotovitev do ukrepov')],
+ 'samopregled':[('podpora','Presejanje in referenčne ambulante'),('ckz','Delavnice CKZ'),('dostop','Dostop do oskrbe'),('aed','Lokacije AED-jev')],
  'stevilke':[('ckz','Programi, ki naslavljajo potrebe'),('podpora','Presejanje in storitve'),('viri','Definicije in obdobja')],
  'ckz':[('stevilke','Zdravstvene potrebe občine'),('spanje','Dokazi za nove vsebine'),('podpora','Društva in podporna mreža')],
  'spanje':[('ckz','Možnosti vključitve v preventivo'),('podpora','Podporne službe'),('sport','Možnosti dejavnega prostega časa'),('poti','Gibanje na prostem')],
  'poti':[('sport','Organizirane dejavnosti'),('aed','Lokacije AED-jev'),('okolje','Okolje za gibanje')],
  'sport':[('poti','Poti za samostojno gibanje'),('ckz','Vadba v okviru preventive'),('aed','Pregled lokacij AED-jev')],
  'aed':[('poti','Lokacije tudi na zemljevidu poti'),('dostop','Dostop do nujne pomoči'),('sport','Šport in rekreacija'),('ukrepi','Vrzel med lokacijo in dostopnostjo')],
- 'podpora':[('ckz','Preventivni programi'),('spanje','Spanje in digitalne navade'),('dostop','Dostop do oskrbe'),('stevilke','Kazalniki zdravstvenih potreb')],
+ 'podpora':[('samopregled','Samopregledi in presejanje'),('ckz','Preventivni programi'),('spanje','Spanje in digitalne navade'),('dostop','Dostop do oskrbe'),('stevilke','Kazalniki zdravstvenih potreb')],
  'dostop':[('aed','Lokacije AED-jev'),('podpora','Zdravniki in podporne službe'),('stevilke','Starost prebivalcev'),('ukrepi','Ukrepi in odprta vprašanja')],
  'okolje':[('stevilke','Zdravje in demografija'),('poti','Prostor za gibanje'),('ukrepi','Okoljski ukrepi in odgovornost')],
  'ukrepi':[('ckz','Spremljanje rezultatov'),('spanje','Vprašanja o digitalnih navadah'),('viri','Preverite podlago pred odločitvijo')],
@@ -114,7 +116,14 @@ TEME=[('nujna-pomoc','Dostop do nujne pomoči in prvi posredovalci','social-affa
  ('debelost-otroci','Debelost in gibanje otrok','social-affairs'),
  ('referencne-ambulante','Referenčne ambulante: kaj odkrijejo preventivni pregledi','social-affairs'),
  ('za-prebivalce','Na kratko za prebivalce',None),
- ('kam-po-pomoc','Kam po pomoč',None)]
+ ('kam-po-pomoc','Kam po pomoč',None),
+ ('samopregled-vodnik','Vodnik: kateri pregledi so za vas',None),
+ ('samopregled-tlak','Krvni tlak: kako ga pravilno izmeriti doma',None),
+ ('samopregled-sladkor','Sladkorna bolezen tipa 2 in obseg pasu: ocenite tveganje',None),
+ ('samopregled-telo','Dojke, moda in koža: poznajte svoje telo',None),
+ ('samopregled-presejanje','Presejalni programi Svit, Zora in Dora ter kaj prihaja',None),
+ ('samopregled-nujno','Znaki, ob katerih ne čakajte',None),
+ ('samopregled-ukrepi','Samopregledi in presejanje v Črnomlju: vrzeli, vprašanja in predlogi','social-affairs')]
 ZLOZENO=['Kritična vprašanja','Možne rešitve','Odprta vprašanja']
 
 def teme_content(soup,refs):
@@ -144,7 +153,7 @@ def teme_content(soup,refs):
   body=text.split('## Povzetek\n',1)[1].split('## Povezane strani')[0]
   body='## Povzetek\n'+re.sub(r'\[@([^\]]+)\]',cite,body)
   body=re.sub(r'^(#{2,3}) ',lambda m:'#'+m[1]+' ',body,flags=re.M)
-  sec=fragment(f'<section class="section tema" id="{slug}" data-title="{title}"><div class="section-head"><span class="section-no"></span><h2>{title}</h2></div><p class="subtle">Dopolnitev {"26" if slug in ("poti-dopolnitve","digitalno-zdravje","demenca","vprasalnik-pacienti","debelost-otroci","referencne-ambulante","za-prebivalce","kam-po-pomoc") else "25"}. septembra 2026 · referenčna obdobja so navedena pri podatkih</p>'+markdown.markdown(body,extensions=['tables'])+'</section>').section
+  sec=fragment(f'<section class="section tema" id="{slug}" data-title="{title}"><div class="section-head"><span class="section-no"></span><h2>{title}</h2></div><p class="subtle">Dopolnitev {"27" if slug.startswith("samopregled") else "26" if slug in ("poti-dopolnitve","digitalno-zdravje","demenca","vprasalnik-pacienti","debelost-otroci","referencne-ambulante","za-prebivalce","kam-po-pomoc") else "25"}. septembra 2026 · referenčna obdobja so navedena pri podatkih</p>'+markdown.markdown(body,extensions=['tables'])+'</section>').section
   for t in sec.find_all('table'):t.wrap(soup.new_tag('div',attrs={'class':'table-scroll'}))
   for heading in list(sec.find_all('h3',recursive=False)):
    if heading.get_text(strip=True) not in ZLOZENO:continue
@@ -159,6 +168,7 @@ def teme_content(soup,refs):
  st=soup.new_tag('style',id='zemljevid-nmp-css');st.string=zemljevid_nmp.CSS;soup.head.append(st)
  js=soup.new_tag('script',id='zemljevid-nmp-js');js.string=zemljevid_nmp.JS;soup.body.append(js)
  soup.select_one('.hero-meta').append(fragment('<span>Dostop do oskrbe, nove teme in povzetek za prebivalce: 25.–26. september 2026</span>'))
+ soup.select_one('.hero-meta').append(fragment('<span>Samopregledi in presejanje: 27. september 2026</span>'))
  soup.select_one('#povzetek tbody').append(fragment('<tr><td><b>Dostop do oskrbe je najšibkejši člen.</b> 3.142 ljudi je registriranih v ambulantah za neopredeljene, nove paciente sprejema 1 od 9 ambulant, v SB Novo mesto 47,3 % čakajočih na prvi pregled čaka dlje od dopustne dobe. V pomoč na domu je vključen 1,0 % starejših (Slovenija 1,8 %), delež prometnih nezgod z alkoholom je 12,9 % (Slovenija 8,2 %).</td><td>Objaviti dostopne čase NMP in obseg mreže prvih posredovalcev, pripraviti načrt ob vročini in pomoč pri vlogah za dolgotrajno oskrbo v Črnomlju. <a href="#neopredeljeni">Podrobnosti</a>.</td></tr>'))
  soup.select_one('#popravki tbody').append(fragment('<tr><td>Poročilo ni obravnavalo dostopa do nujne pomoči, neopredeljenih pacientov, vročine, duševnega zdravja mladih, dolgotrajne oskrbe ter prometa in alkohola.</td><td>25. 9. 2026: dodanih šest poglavij z 20 novimi lokalno shranjenimi viri. Modelski časi vožnje (OSRM) so označeni kot ocena, ne kot dostopni čas NMP. Popravek med pripravo: prvotni osnutek je trdil, da mreža prvih posredovalcev ni dokumentirana; letno poročilo ZD 2025 jo navaja kot vzpostavljeno, zato je trditev popravljena pred objavo.</td></tr>'))
  soup.select_one('#popravki tbody').append(fragment('<tr><td>Poročilo ni omenjalo trim steze Vražji kamen, Ribje in Učne poti pa ni povezalo s Srčno potjo koronarnih bolnikov.</td><td>26. 9. 2026: dodano poglavje v zavihku poti in oznaka na zemljevidu. GPX Ribje poti s strani Srčne poti je enak že analiziranemu (SHA-256). Trasa trim steze bo dodana, ko bo GPX na voljo.</td></tr>'))

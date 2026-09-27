@@ -25,9 +25,17 @@ function filterSport(){const q=norm(sportSearch.value);let count=0;sportRows.for
 [sportSearch,sportType].forEach(el=>el.addEventListener('input',filterSport));filterSport();
 // Dostopnost iz starega registra ne pomeni časovne dostopnosti.
 const aedPanel=$('#aed-panel');new MutationObserver(()=>{if(aedPanel.querySelector('.aed-caution'))return;const p=document.createElement('p');p.className='aed-caution subtle';p.textContent='Notranja/zunanja namestitev in časovna dostopnost nista preverjeni. Oznaka javne dostopnosti izvira iz starega registra; ne potrjuje dostopa 24 ur na dan.';aedPanel.append(p);}).observe(aedPanel,{childList:true});
+// Samopregledi: izbor pregledov po starosti in spolu; brez JavaScripta so vidni vsi.
+const spRows=$$('#samopregled-tabela tbody tr'),spAge=$('#samopregled-starost'),spSex=$('#samopregled-spol');
+function filterSamopregled(){if(!spAge)return;const age=parseInt(spAge.value,10),sex=spSex.value;let count=0;spRows.forEach(r=>{const d=r.dataset,ok=(!sex||d.spol==='vsi'||d.spol===sex)&&(isNaN(age)||(age>=+d.od&&age<=+d.do));r.hidden=!ok;if(ok)count++;});$('#samopregled-stevec').textContent=isNaN(age)&&!sex?`Prikazanih je vseh ${spRows.length} pregledov.`:`Za izbiro velja ${count} od ${spRows.length} pregledov. To je splošno pravilo; vaš zdravnik vam lahko svetuje drugače.`;}
+if(spAge){$('.samopregled-filter').hidden=false;[spAge,spSex].forEach(el=>el.addEventListener('input',filterSamopregled));$('#samopregled-pocisti').addEventListener('click',()=>{spAge.value='';spSex.value='';filterSamopregled();});filterSamopregled();}
+// Vprašalnik FINDRISK (NIJZ): seštevek točk samo v brskalniku, brez shranjevanja.
+const fr=$('#findrisk');
+function findrisk(){const vals=[...fr.querySelectorAll('select')].map(s=>s.value),out=$('#findrisk-rezultat');if(vals.some(v=>v==='')){out.textContent=`Odgovorite še na ${vals.filter(v=>v==='').length} od 8 vprašanj.`;return;}const n=vals.reduce((a,v)=>a+ +v,0);const [ocena,korak]=n<7?['nizko (približno 1 od 100 v 10 letih)','Vprašalnik posebnega ukrepa ne navaja.']:n<=11?['povečano (približno 1 od 25)','Zdrav način življenja lahko bolezen prepreči ali odloži.']:n<=14?['zmerno (približno 1 od 6)','Resno presodite gibanje, prehrano in telesno težo; vprašajte zdravnika ali medicinsko sestro.']:n<=20?['visoko (približno 1 od 3)','Obiščite osebnega zdravnika za laboratorijsko meritev krvnega sladkorja.']:['zelo visoko (približno 1 od 2)','Obiščite osebnega zdravnika za laboratorijsko meritev krvnega sladkorja.'];out.textContent=`Seštevek: ${n} točk. Tveganje je ${ocena}. ${korak} To je ocena tveganja, ne diagnoza.`;}
+if(fr){fr.hidden=false;fr.addEventListener('input',findrisk);}
 // Celoten dokument se tiska tudi po iskanju ali filtriranju.
 let printState=null;
 window.addEventListener('beforeprint',()=>{printState={details:$$('details').map(e=>[e,e.open]),hidden:$$('.report-panel [hidden]').map(e=>[e,e.hidden])};$$('details').forEach(e=>e.open=true);panels.forEach(e=>e.hidden=false);$$('.report-panel tr[hidden]').forEach(e=>e.hidden=false);});
-window.addEventListener('afterprint',()=>{if(printState){printState.details.forEach(([e,v])=>e.open=v);printState.hidden.forEach(([e,v])=>e.hidden=v);}reveal(location.hash,false);filterSport();});
+window.addEventListener('afterprint',()=>{if(printState){printState.details.forEach(([e,v])=>e.open=v);printState.hidden.forEach(([e,v])=>e.hidden=v);}reveal(location.hash,false);filterSport();filterSamopregled();});
 window.__reportReveal=hash=>reveal(hash,true);
 })();
