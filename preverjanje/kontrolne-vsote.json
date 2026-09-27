@@ -1,0 +1,22 @@
+{
+  "exact": 293,
+  "line_ending_equivalent": 313,
+  "inherited_unresolved": [
+    "viri/okolje-2026-09-24/arso-arhiv.html",
+    "viri/okolje-2026-09-24/arso-letna-kazalo.html",
+    "viri/okolje-2026-09-24/arso-podatki.html",
+    "viri/okolje-2026-09-24/komunala-kakovost.html",
+    "viri/okolje-2026-09-24/komunala-vzorci-crnomelj.html",
+    "viri/okolje-2026-09-24/zrak-podatki-29.html"
+  ],
+  "new_source_failures": [],
+  "izvorni_manifest": {
+    "skupaj": 1290,
+    "exact": 120,
+    "line_ending_equivalent": 1169,
+    "znana_neskladja": [
+      "viri/AEDs.xlsx"
+    ]
+  },
+  "status": "opozorilo: podedovana neskladja"
+}

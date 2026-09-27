@@ -1,0 +1,26 @@
+{
+  "surs-starost": {
+    "title": "Prebivalstvo po starosti, občine, Slovenija, polletno",
+    "publisher": "Statistični urad Republike Slovenije",
+    "date": "18. maj 2026",
+    "url": "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05C4003S.px",
+    "local": "raw/web/zdravstvo-20260919-surs-05c4003s.md",
+    "note": "Poizvedba: Slovenija in Črnomelj, H1 2008–2026, oba spola skupaj. Podrobni izvoz ob poročilu."
+  },
+  "surs-kazalniki": {
+    "title": "Prebivalstvo — izbrani kazalniki, občine, Slovenija, polletno",
+    "publisher": "Statistični urad Republike Slovenije",
+    "date": "18. maj 2026",
+    "url": "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05C4008S.px",
+    "local": "raw/web/zdravstvo-20260919-surs-05c4008s.md",
+    "note": "Poizvedba: Slovenija in Črnomelj, H1 2008–2026, oba spola skupaj. Podrobni izvoz ob poročilu."
+  },
+  "surs-metoda": {
+    "title": "Prebivalstvo — izbrani kazalniki: metodološka pojasnila",
+    "publisher": "Statistični urad Republike Slovenije",
+    "date": "18. maj 2026",
+    "url": "https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05C4008S.px",
+    "local": "raw/web/zdravstvo-20260919-surs-starost-metodologija.md",
+    "note": "Poizvedba: Slovenija in Črnomelj, H1 2008–2026, oba spola skupaj. Podrobni izvoz ob poročilu."
+  }
+}

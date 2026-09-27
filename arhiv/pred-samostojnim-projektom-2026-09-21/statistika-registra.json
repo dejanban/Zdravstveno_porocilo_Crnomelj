@@ -1,0 +1,18 @@
+{
+  "pregledane_objave": 1068,
+  "lokalne_datoteke": 4945,
+  "iskalne_strani": 70,
+  "napake": [],
+  "pripadnost": {
+    "Črnomelj": 396,
+    "Izločeno": 364,
+    "Drug center": 184,
+    "Nejasno": 124
+  },
+  "vrste_crnomelj": {
+    "Vabilo": 246,
+    "Informativna objava": 18,
+    "Poročilo / novica": 128,
+    "Odpoved / preklic": 4
+  }
+}

@@ -1,6 +1,6 @@
 {
   "base": "vsebina/obnovljena-osnova-20260924.html",
   "new_sources": 33,
-  "prior_empty_citations": 94,
-  "note": "Ohranjene stare vsebine; prazni izvorni podatki drugih tem niso rekonstruirani."
+  "prior_empty_citations": 1,
+  "note": "Ohranjene stare vsebine; izpraznjene datoteke obnovljene iz commita 0dc0bd4 (preverjanje/obnova-iz-gita.json)."
 }

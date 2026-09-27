@@ -1,0 +1,120 @@
+---
+url: https://isal.si/sl/skupine
+naslov: "Skupine in izvajalci"
+izdajatelj: ISAL
+dostopano: 2026-09-21
+metoda zajema: WebFetch (requests; izvirno besedilo)
+---
+
+Skupine - ISAL Inštitut za skupinsko analizo Ljubljana
+Skupine
+Prijava v skupino
+Skupinska analiza je uveljavljena metoda psihoterapije. Pomaga pri duševnih stiskah, ki se prepletajo s težavami v vsakdanjem življenju (na delovnem mestu, v družini, osamelost ipd.) in pogosto tudi s telesnimi problemi. V analitični skupini raziskujemo njihove vzroke in posledice, se pravi, najkrajše rečeno, sami sebe. Vključijo se lahko vsi, ki jih zanima tovrstno raziskovanje. Nobena osebna okoliščina ni ovira.
+Analitična skupina ima poleg vodje idealno od šest do osem članic in članov. Sestaja se tedensko za 90 minut.
+Če bi se radi vključili, se lahko prijavite pri kateri/katerem od vodij s spodnjega seznama ali nas pokličete na telefonsko številko
+069/889030
+, na kateri smo dosegljivi ob
+torkih, sredah in četrtkih od 10h do 14h
+ali nam pišete preko SMS sporočil.
+Po prijavi prejmete vabilo na razgovor. Vodja se posamič pogovori s prijavljenimi in presodi, ali je (ta) skupina v danem primeru najboljša izbira, ter po potrebi svetuje drugo skupino ali drugačno obravnavo. Upoštevajte, prosim, da je sprejem v skupino odvisen od prostih mest. Če je skupina, za katero ste se prijavili, polna, prejmete vabilo na razgovor od druge/ga vodje.
+Če premišljujete o strokovni napotitvi koga v analitično psihoterapevtsko skupino, se lahko prej posvetujete z vodjami.
+Ljubljana
+Jaro Bele, u. d. i.
+k.
+Analitična psihoterapija s.p., Kamniška 25, 1000 Ljubljana
+Telefon: 040 590 481
+E-naslov:
+analiticna.psihoterapija@gmail.com
+Mag. Barbara Čibej Žagar, univ. dipl. psihologinja, psihoterapevtka
+Center za psihološke storitve in psihoterapijo, Trg MDB 14, 1000 Ljubljana
+Telefon: 040 461 066, 059 949 329
+E-naslov:
+barbara.cibejzagar@gmail.com
+Spletna stran:
+www.cpsp.si
+Sebastijan Einsiedler, univ. dipl. psiholog
+Trg MDB 14, 1000 Ljubljan
+Telefon: 069 979 797
+E- naslov:
+seinsiedler@yahoo.com
+Kaja Pavlin, univ. dipl. psih., specialistka klinične psihologije, skupinska analitičarka
+Defuzija, center za psihološko svetovanje in izobraževanje,
+Medvedova cesta 28, 1000 Ljubljana
+E-naslov:
+kajapavlin.psih@gmail.com
+Bernarda Pečovnik, mag. farmacije
+Laetus, Šujica 43f, 1356 Dobrova
+Telefon :  041 621 528
+E-naslov:
+terapija@laetus.si
+Maja Perec, dr. med., specialistka psihiatrije, skupinska analitičarka
+E-naslov:
+perecmaja01@gmail.com
+Iztok Prosen, u. d. i. a.
+Maurerjeva 28
+tel.: 041 739 358
+email:
+iztok.prosen@siol.net
+Dr. Vid Vanja Vodušek, univ.dipl.psih., spec.klin.psih.
+CMZ, Grablovičeva 44a
+Telefon: 031 832 692
+E-naslov:
+vvvodusek@gmail.com
+Brigita Žugman, univ. dipl. psihologinja
+Obeti, psihološke storitve in psihoterapija, Trg MDB 14
+Telefon: 040 389 471
+E-naslov:
+brigitaz@t-2.si
+Maribor
+Aida Antunović, dipl. delovna terapevtka
+Ljubljanska ulica 58, 2000 Maribor
+Telefon: 041 908 689
+E-naslov:
+aida.antunovic@gmail.com
+Mateja Lajh, univ. dipl. soc. del.
+Mateja Lajh s.p., Strma ulica 11, 2000 Maribor
+Telefon: 051 489 498
+E- naslov:
+lajh.mateja@gmail.com
+Napovednik
+30.09.2026
+Razpis za vpis v uvodni študij
+30.09.2026
+Razpis za vpis v nadaljevalni študij
+30.09.2026
+Razpis za vpis v diplomski študij
+30.09.2026
+Razpis za vpis v Usposabljanje za delo s skupinami
+Arhiv
+Obvestila
+09.03.2026
+EGATIN Study days 2026
+31.01.2025
+EGATIN Study days 2025
+11.07.2024
+Nepričakovano nas je zapustil Predrag Jovanović
+Arhiv
+
+## Povezave iz vira
+
+- analiticna.psihoterapija@gmail.com: mailto:analiticna.psihoterapija@gmail.com
+- barbara.cibejzagar@gmail.com: mailto:barbara.cibejzagar@gmail.com
+- www.cpsp.si: http://www.cpsp.si/
+- seinsiedler@yahoo.com: mailto:seinsiedler@yahoo.com
+- kajapavlin.psih@gmail.com: mailto:kajapavlin.psih@gmail.com
+- terapija@laetus.si: mailto:terapija@laetus.si
+- perecmaja01@gmail.com: mailto:perecmaja01@gmail.com
+- iztok.prosen@siol.net: mailto:iztok.prosen@siol.net
+- vvvodusek@gmail.com: mailto:vvvodusek@gmail.com
+- brigitaz@t-2.si: mailto:brigitaz@t-2.si
+- aida.antunovic@gmail.com: mailto:bernarda.pecovnik@gmail.com
+- lajh.mateja@gmail.com: mailto:analiticna.psihoterapija@gmail.com
+- 30.09.2026 Razpis za vpis v uvodni študij: https://isal.si/sl/napovednik/Razpis%20za%20vpis%20v%20uvodni%20%C5%A1tudij
+- 30.09.2026 Razpis za vpis v nadaljevalni študij: https://isal.si/sl/napovednik/Razpis%20za%20vpis%20v%20nadaljevalni%20%C5%A1tudij
+- 30.09.2026 Razpis za vpis v diplomski študij: https://isal.si/sl/napovednik/Razpis%20za%20vpis%20v%20diplomski%20%C5%A1tudij
+- 30.09.2026 Razpis za vpis v Usposabljanje za delo s skupinami: https://isal.si/sl/napovednik/Razpis%20za%20vpis%20v%20Usposabljanje%20za%20delo%20s%20skupinami
+- Arhiv: https://isal.si/sl/napovednik
+- 09.03.2026 EGATIN Study days 2026: https://isal.si/sl/obvestila/Egatin%20Study%20days%202026
+- 31.01.2025 EGATIN Study days 2025: https://isal.si/sl/obvestila/EGATIN-Study-days-2025
+- 11.07.2024 Nepričakovano nas je zapustil Predrag Jovanović: https://isal.si/sl/obvestila/nepricakovano-nas-je-zapustil-Predrag-Jovanovi%C4%87
+- Arhiv: https://isal.si/sl/obvestila

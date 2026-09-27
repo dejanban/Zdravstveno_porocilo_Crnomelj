@@ -1,0 +1,64 @@
+---
+url: https://doi.org/10.1097/MEJ.0000000000000915
+naslov: Dispatching citizens as first responders to out-of-hospital cardiac arrests: a systematic review and meta-analysis
+izdajatelj: European Journal of Emergency Medicine, 29(3), str. 163–172
+avtorji: T. Scquizzato in sod.
+datum objave: 2022
+dostopano: 2026-09-25
+metoda zajema: prenos izvirnika (viri/teme-2026-09-25/scquizzato-2022.txt), strojni izvleček besedila
+obseg branja: Prebran povzetek. Celotno besedilo ni prosto dostopno (Europe PMC, Unpaywall 26. 9. 2026: zaprt dostop).
+zanesljivost: srednja (metaanaliza opazovalnih raziskav; prebran povzetek)
+---
+
+1. Eur J Emerg Med. 2022 Jun 1;29(3):163-172. doi: 10.1097/MEJ.0000000000000915. 
+Epub 2022 Mar 10.
+
+Dispatching citizens as first responders to out-of-hospital cardiac arrests: a 
+systematic review and meta-analysis.
+
+Scquizzato T(1), Belloni O(1), Semeraro F(2), Greif R(3)(4), Metelmann C(5), 
+Landoni G(1)(6), Zangrillo A(1)(6).
+
+Author information:
+(1)Department of Anesthesia and Intensive Care, IRCCS San Raffaele Scientific 
+Institute, Milan.
+(2)Department of Anaesthesia, Intensive Care and Emergency Medical Services, 
+Ospedale Maggiore, Bologna, Italy.
+(3)Department of Anaesthesiology and Pain Medicine, Bern University Hospital, 
+University of Bern, Bern, Switzerland.
+(4)School of Medicine, Sigmund Freud University Vienna, Vienna, Austria.
+(5)Department of Anaesthesiology, University Medicine Greifswald, Greifswald, 
+Germany.
+(6)Faculty of Medicine, Vita-Salute San Raffaele University, Milan, Italy.
+
+Mobile phone technologies to alert citizen first responders to out-of-hospital 
+cardiac arrests (OHCAs) were implemented in numerous countries. This systematic 
+review and meta-analysis aim to investigate whether activating citizen first 
+responders increases bystanders' interventions and improves outcomes. We 
+searched PubMed, EMBASE, and the Cochrane Central Register of Controlled Trials 
+from inception to 24 November 2021, for studies comparing citizen first 
+responders' activation versus standard emergency response in the case of OHCA. 
+The primary outcome was survival at hospital discharge or 30 days. Secondary 
+outcomes were discharge with favourable neurological outcome, 
+bystander-initiated cardiopulmonary resuscitation (CPR), and the use of 
+automated external defibrillators (AEDs) before ambulance arrival. Evidence 
+certainty was evaluated with GRADE. Our search strategy yielded 1215 articles. 
+After screening, we included 10 studies for a total of 23 351 patients. OHCAs 
+for which citizen first responders were activated had higher rates of survival 
+at hospital discharge or 30 days compared with standard emergency response [nine 
+studies; 903/9978 (9.1%) vs. 1104/13 247 (8.3%); odds ratio (OR), 1.45; 95% 
+confidence interval (CI), 1.21-1.74; P < 0.001], return of spontaneous 
+circulation [nine studies; 2575/9169 (28%) vs. 3445/12 607 (27%); OR, 1.40; 95% 
+CI, 1.07-1.81; P = 0.01], bystander-initiated CPR [eight studies; 5876/9074 
+(65%) vs. 6384/11 970 (53%); OR, 1.75; 95% CI, 1.43-2.15; P < 0.001], and AED 
+use [eight studies; 654/9132 (7.2%) vs. 624/14 848 (4.2%); OR, 1.82; 95% CI, 
+1.31-2.53; P < 0.001], but similar rates of neurological intact discharge [three 
+studies; 316/2685 (12%) vs. 276/2972 (9.3%); OR, 1.37; 95% CI, 0.81-2.33; P = 
+0.24]. Alerting citizen first responders to OHCA patients is associated with 
+higher rates of bystander-initiated CPR, use of AED before ambulance arrival, 
+and survival at hospital discharge or 30 days.
+
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MEJ.0000000000000915
+PMID: 35283448 [Indexed for MEDLINE]

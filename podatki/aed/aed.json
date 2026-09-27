@@ -1,0 +1,672 @@
+[
+  {
+    "i": 0,
+    "ime": "Gasilski dom Dobliče",
+    "naslov": "Dobliče 22",
+    "lat": 45.55881,
+    "lon": 15.14389,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 1,
+    "ime": "Planinski dom na Mirni gori",
+    "naslov": "Planina 6",
+    "lat": 45.62944,
+    "lon": 15.10311,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 2,
+    "ime": "Gasilski dom Črnomelj",
+    "naslov": "Belokranjska cesta 10 (intervencijsko vozilo)",
+    "lat": 45.57859,
+    "lon": 15.19351,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 3,
+    "ime": "Gasilski dom Dragatuš",
+    "naslov": "Dragatuš 19",
+    "lat": 45.520954,
+    "lon": 15.177785,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 4,
+    "ime": "Gradac 117",
+    "naslov": "",
+    "lat": 45.61373,
+    "lon": 15.24523,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 5,
+    "ime": "Iskra",
+    "naslov": "Vajdova ulica 71",
+    "lat": 45.65913,
+    "lon": 15.19242,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 6,
+    "ime": "Gasilski dom Sinji vrh",
+    "naslov": "Sinji vrh 1",
+    "lat": 45.449706,
+    "lon": 15.165474,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 7,
+    "ime": "UNIOR d.d. obrat Stari trg ob Kolpi",
+    "naslov": "Deskova vas 1A",
+    "lat": 45.49732,
+    "lon": 15.07584,
+    "in": true,
+    "v": "Druga lokacija",
+    "javno_dostopen": true
+  },
+  {
+    "i": 8,
+    "ime": "Gasilski dom Zilje",
+    "naslov": "Zilje 37",
+    "lat": 45.460715,
+    "lon": 15.309473,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 9,
+    "ime": "Gasilski dom Griblje",
+    "naslov": "Griblje 35 B",
+    "lat": 45.572227,
+    "lon": 15.292615,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 10,
+    "ime": "Gasilski dom Adlešiči",
+    "naslov": "Adlešiči 13 B",
+    "lat": 45.521829,
+    "lon": 15.312044,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 11,
+    "ime": "Gasilski dom Vinica",
+    "naslov": "Vinica 44",
+    "lat": 45.459857,
+    "lon": 15.251699,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 12,
+    "ime": "Gasilski dom Radenci",
+    "naslov": "Srednji Radenci 6",
+    "lat": 45.467386,
+    "lon": 15.091123,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 13,
+    "ime": "Damelj",
+    "naslov": "Damelj 30",
+    "lat": 45.433086,
+    "lon": 15.187784,
+    "in": true,
+    "v": "Druga lokacija",
+    "javno_dostopen": true
+  },
+  {
+    "i": 14,
+    "ime": "Gasilski dom Butoraj",
+    "naslov": "Butoraj 29",
+    "lat": 45.543308,
+    "lon": 15.205634,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 15,
+    "ime": "Gasilski dom Tanča Gora",
+    "naslov": "Tanča Gora 17 B",
+    "lat": 45.533496,
+    "lon": 15.156058,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 16,
+    "ime": "Gasilski dom Preloka",
+    "naslov": "Preloka 17",
+    "lat": 45.47064,
+    "lon": 15.341885,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 17,
+    "ime": "TGH Črnomelj",
+    "naslov": "Zadružna cesta 14a",
+    "lat": 45.57865,
+    "lon": 15.19643,
+    "in": true,
+    "v": "Druga lokacija",
+    "javno_dostopen": true
+  },
+  {
+    "i": 18,
+    "ime": "Unitplast D.O.O.",
+    "naslov": "Obrtna cona 16",
+    "lat": 45.6561,
+    "lon": 15.19465,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 19,
+    "ime": "Gasilski dom Rosalnice",
+    "naslov": "Rosalnice 45",
+    "lat": 45.64973,
+    "lon": 15.3381,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 20,
+    "ime": "Gasilski dom Lokvica",
+    "naslov": "Dolnja Lokvica 2A",
+    "lat": 45.67084,
+    "lon": 15.28343,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 21,
+    "ime": "Gasilski dom Radovica",
+    "naslov": "Radovica 24B",
+    "lat": 45.69085,
+    "lon": 15.35136,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 22,
+    "ime": "Gasilski dom Podzemelj",
+    "naslov": "Podzemelj 16B",
+    "lat": 45.60709,
+    "lon": 15.27397,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 23,
+    "ime": "Gasilsko vozilo PV1 – PGD Metlika",
+    "naslov": "Črnomaljska cesta 3",
+    "lat": 45.64649,
+    "lon": 15.31511,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 24,
+    "ime": "Prva dolenjska hranilnica",
+    "naslov": "TRG SVOBODE 7",
+    "lat": 45.65083,
+    "lon": 15.31682,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 25,
+    "ime": "Spar Metlika",
+    "naslov": "Cesta XV. brigade 27",
+    "lat": 45.64925,
+    "lon": 15.30876,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 26,
+    "ime": "TPC Gala SKB banka",
+    "naslov": "Naselje Borisa Kidriča 9",
+    "lat": 45.64554,
+    "lon": 15.31678,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 27,
+    "ime": "Tilija",
+    "naslov": "Naselje Borisa Kidriča 4",
+    "lat": 45.6458,
+    "lon": 15.31659,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 28,
+    "ime": "Gasilski dom Božakovo",
+    "naslov": "Božakovo 24",
+    "lat": 45.64588,
+    "lon": 15.37522,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 29,
+    "ime": "Gasilski dom Dobravice",
+    "naslov": "Krivoglavice 10",
+    "lat": 45.63276,
+    "lon": 15.28083,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 30,
+    "ime": "Gasilski dom Dragomlja vas",
+    "naslov": "Dragomlja vas 15a",
+    "lat": 45.67769,
+    "lon": 15.26524,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 31,
+    "ime": "Gasilski dom Drašiči",
+    "naslov": "Drašiči 35",
+    "lat": 45.666,
+    "lon": 15.37233,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 32,
+    "ime": "Gasilski dom Grabrovec",
+    "naslov": "Grabrovec 3B",
+    "lat": 45.67851,
+    "lon": 15.30493,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 33,
+    "ime": "Gasilski dom Jugorje",
+    "naslov": "Jugorje pri Metliki 5A",
+    "lat": 45.71037,
+    "lon": 15.23477,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 34,
+    "ime": "Gasilski dom Krasinec",
+    "naslov": "Krasinec 3B",
+    "lat": 45.58901,
+    "lon": 15.27774,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 35,
+    "ime": "Gasilski dom Križevska vas",
+    "naslov": "Križevska vas 2A",
+    "lat": 45.63703,
+    "lon": 15.31901,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 36,
+    "ime": "Gasilski dom Otok",
+    "naslov": "Otok 1A",
+    "lat": 45.61646,
+    "lon": 15.2934,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 37,
+    "ime": "Gasilski dom Primostek",
+    "naslov": "Primostek 1",
+    "lat": 45.62809,
+    "lon": 15.29394,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 38,
+    "ime": "Gasilski dom Slamna vas",
+    "naslov": "SLAMNA VAS 8A",
+    "lat": 45.67506,
+    "lon": 15.33499,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 39,
+    "ime": "Športna dvorana Osnovne šole Metlika",
+    "naslov": "V športni dvorani v omarici",
+    "lat": 45.65468,
+    "lon": 15.31403,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 40,
+    "ime": "TPV d.o.o.",
+    "naslov": "PE Suhor",
+    "lat": 45.68377,
+    "lon": 15.28109,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 41,
+    "ime": "Beti Metlika",
+    "naslov": "Tovarniška 2",
+    "lat": 45.64474,
+    "lon": 15.32282,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 42,
+    "ime": "Grič pri dobličah",
+    "naslov": "Na privat stavbi",
+    "lat": 45.55389,
+    "lon": 15.13723,
+    "in": true,
+    "v": "Druga lokacija",
+    "javno_dostopen": true
+  },
+  {
+    "i": 43,
+    "ime": "Jeklostil d.o.o.",
+    "naslov": "Krupa 7",
+    "lat": 45.63645,
+    "lon": 15.21837,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 44,
+    "ime": "Podružnična šola Suhor",
+    "naslov": "Šolska ulica 7",
+    "lat": 45.68844,
+    "lon": 15.27434,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 45,
+    "ime": "AVTO BUKOVEC avtokleparstvo in Avtoličarstvo d.o.o.",
+    "naslov": "Vavpča vas 48",
+    "lat": 45.64646,
+    "lon": 15.17891,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 46,
+    "ime": "Občina Črnomelj",
+    "naslov": "Trg svobode 3",
+    "lat": 45.57096,
+    "lon": 15.1929,
+    "in": true,
+    "v": "Druga lokacija",
+    "javno_dostopen": true
+  },
+  {
+    "i": 47,
+    "ime": "Gasilski dom Stranska vas",
+    "naslov": "Praprot 15",
+    "lat": 45.63563,
+    "lon": 15.21226,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 48,
+    "ime": "Lovski dom Predgrad",
+    "naslov": "Predgrad 29",
+    "lat": 45.50565,
+    "lon": 15.05495,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 49,
+    "ime": "Gasilskega doma Predgrad",
+    "naslov": "Predgrad 41",
+    "lat": 45.50679,
+    "lon": 15.05486,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 50,
+    "ime": "Turistična kmetija Majerle",
+    "naslov": "Dol 7",
+    "lat": 45.49572,
+    "lon": 15.05168,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 51,
+    "ime": "Turizem Malerič",
+    "naslov": "Podlog 3c",
+    "lat": 45.52525,
+    "lon": 15.18992,
+    "in": true,
+    "v": "Druga lokacija",
+    "javno_dostopen": true
+  },
+  {
+    "i": 52,
+    "ime": "Osnovna šola Loka telovadnica",
+    "naslov": "Kidričeva ulica 18a",
+    "lat": 45.565697,
+    "lon": 15.189327,
+    "in": true,
+    "v": "Druga lokacija",
+    "javno_dostopen": true
+  },
+  {
+    "i": 53,
+    "ime": "Gasilski dom Kot-Brezje",
+    "naslov": "Spodnje Gorenjce 32",
+    "lat": 45.64138,
+    "lon": 15.1649,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 54,
+    "ime": "Kulturni center Semič",
+    "naslov": "Prosvetna ulica 4",
+    "lat": 45.6509,
+    "lon": 15.18038,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 55,
+    "ime": "ZDRAVSTVENA POSTAJA SEMIČ",
+    "naslov": "Vajdova Ulica 9",
+    "lat": 45.65296,
+    "lon": 15.18354,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 56,
+    "ime": "Gasilski dom ROŽNI DOL",
+    "naslov": "ROŽNI DOL 5A",
+    "lat": 45.68138,
+    "lon": 15.14959,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 57,
+    "ime": "Gasilski dom Štrekljevec",
+    "naslov": "Štrekljevec 1c",
+    "lat": 45.67091,
+    "lon": 15.2133,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 58,
+    "ime": "Gasilski dom Gradnik",
+    "naslov": "Praproče 2",
+    "lat": 45.67486,
+    "lon": 15.23407,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 59,
+    "ime": "Gasilski dom Krvavčji vrh",
+    "naslov": "Krvavčji Vrh 11",
+    "lat": 45.65612,
+    "lon": 15.25732,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 60,
+    "ime": "CŠOD-dom Lipa",
+    "naslov": "Črmošnjice 27",
+    "lat": 45.67206,
+    "lon": 15.10146,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 61,
+    "ime": "Gasilski dom Koprivnik",
+    "naslov": "Koprivnik 31",
+    "lat": 45.60147,
+    "lon": 15.02895,
+    "in": false,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": null
+  },
+  {
+    "i": 62,
+    "ime": "Brezovica pri Predgradu 1",
+    "naslov": "Zunaj v omarici na privatni hiši",
+    "lat": 45.55051,
+    "lon": 15.04025,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 63,
+    "ime": "Spodnji Log 7",
+    "naslov": "Privat hiša",
+    "lat": 45.52376,
+    "lon": 15.01034,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 64,
+    "ime": "Gasilski dom Tribuče",
+    "naslov": "Tribuče 34a",
+    "lat": 45.546464,
+    "lon": 15.246543,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  },
+  {
+    "i": 65,
+    "ime": "Zdravstveni dom Metlika",
+    "naslov": "Cesta bratstva in enotnosti 71",
+    "lat": 45.6483847,
+    "lon": 15.3179677,
+    "in": false,
+    "v": "Druga lokacija",
+    "javno_dostopen": null
+  },
+  {
+    "i": 66,
+    "ime": "Gasilski dom Zapudje",
+    "naslov": "Zapudje 4",
+    "lat": 45.5018446,
+    "lon": 15.1629667,
+    "in": true,
+    "v": "Gasilski dom ali vozilo",
+    "javno_dostopen": true
+  }
+]

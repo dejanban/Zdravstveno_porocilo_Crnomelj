@@ -1,0 +1,15 @@
+{
+  "metoda": "Ujemanje ohranjenih OSM kontrolnih točk s projekcijo EPSG:32633 in afino pretvorbo SVG; preverjene vse kontrolne točke.",
+  "kontrolne_tocke": 111,
+  "x": [
+    0.019999983410454225,
+    -9740.46458119392,
+    0.005106956822032771
+  ],
+  "y": [
+    -0.01999995156317795,
+    101382.58263032073,
+    0.005669321581422082
+  ],
+  "opomba": "To je rekonstrukcija prikaza, ne terenska preverba lokacij."
+}

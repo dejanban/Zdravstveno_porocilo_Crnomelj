@@ -1,5 +1,7 @@
 """Obnovljiva dopolnitev poročila iz ohranjenega posnetka in novih virov."""
 from pathlib import Path
+import sys
+sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'tmp/okolje-runtime'))
 from bs4 import BeautifulSoup
 import markdown, re, json, hashlib, html, csv
 
@@ -95,6 +97,8 @@ def main():
     refs=dict(old_refs)
     for slug,r in records.items():
         refs[r['id']]=BeautifulSoup(f'<p id="{r["id"]}"><span class="refno">[vir]</span> »{html.escape(r["title"])},« {html.escape(r["publisher"])}, {r["date"]}. [Na spletu]. Dostopno: <a href="{html.escape(r["url"],quote=True)}">{html.escape(r["url"])}</a>. [Dostopano: 24. september 2026]. Lokalni vir: <a href="{r["path"]}">celotni izvirnik</a>; <a href="viri/splet/okolje-20260924-{slug}.md">shranjeni izvleček</a>.</p>','html.parser').p
+    from prenovi_porocilo import prepare, mark_missing_downloads
+    sleep_records=prepare(soup,refs)
     ordered=[]
     for a in soup.select('a.citation'):
         key=a.get('href','')[1:]
@@ -105,7 +109,7 @@ def main():
         key=a['href'][1:]
         if key in mapping:a['href']=f'#vir-{mapping[key]}';a.string=f'[{mapping[key]}]'
     lit=soup.select_one('#literatura');lit.clear()
-    lit.append(BeautifulSoup('<h2>Literatura (IEEE)</h2><p>Številčenje sledi prvemu pojavu v poročilu. Novi okoljski viri imajo preverjene lokalne izvirnike in kontrolne vsote. Del starejšega lokalnega arhiva je ob obnovi vseboval prazne datoteke; taki viri so spodaj označeni. Starejših ugotovitev ta dopolnitev ni ponovno v celoti preverila.</p>','html.parser'))
+    lit.append(BeautifulSoup('<h2>Literatura (IEEE)</h2><p>Številčenje sledi prvemu pojavu v poročilu. Novi viri o spanju imajo lokalne kopije in kontrolne vsote; obseg branja je naveden pri vsakem. Starejše lokalne kopije so bile 25. 9. 2026 obnovljene iz prve različice projekta in preverjene z izvirnim manifestom SHA-256 (1.289 od 1.290 ujemanj). Pri okoljskem arhivu ostaja šest neskladij HTML-kopij. Kontrolne vsote potrjujejo izvirnost kopij, ne aktualnosti starejših ugotovitev.</p>','html.parser'))
     all_ledger=[]
     for key in ordered:
         p=refs[key];p['id']=f'vir-{mapping[key]}';p.select_one('.refno').string=f'[{mapping[key]}]'
@@ -115,11 +119,12 @@ def main():
             if not re.match(r'^(https?:|#|mailto:)',href):
                 fp=ROOT/href.split('#')[0]
                 if not fp.is_file() or fp.stat().st_size==0:empty.append(href)
-        if empty:p.append(' Opomba obnove 24. 9. 2026: lokalna kopija je prazna ali manjka; potrebna je ponovna pridobitev izvirnika.')
+        if empty:p.append(' Opomba: lokalna kopija manjka ali je prazna in je ni bilo mogoče obnoviti iz zgodovine projekta; potrebna je ponovna pridobitev izvirnika.')
         lit.append(p)
         all_ledger.append({'number':mapping[key],'id':p['id'],'text':p.get_text(' ',strip=True),'links':[a['href'] for a in p.select('a[href]')],'missing_or_empty':empty})
     css='''\n/* Okoljska dopolnitev */\n.okolje td,.okolje th{overflow-wrap:anywhere}.okolje table{min-width:620px}.okolje p{max-width:84ch}.okolje h3{margin-top:30px}.literature a{overflow-wrap:anywhere}@media print{.okolje{break-before:page}.okolje table{min-width:0;table-layout:fixed;width:100%}.okolje table th,.okolje table td{overflow-wrap:anywhere;font-size:8pt}.okolje .table-scroll{overflow:visible}.okolje h3{margin-top:18px}.okolje p{max-width:none}.literature p{break-inside:avoid}}'''
     style=soup.new_tag('style');style.string=css;soup.head.append(style)
+    mark_missing_downloads(soup)
     built=str(soup)
     write('porocilo.html',built);write('porocilo-print.html',built)
     write('podatki/literatura/literatura.json',json.dumps(all_ledger,ensure_ascii=False,indent=2))
@@ -133,7 +138,7 @@ def main():
             if not re.match(r'^(https?:|#|mailto:)',a['href']):a['href']='../'+a['href']
         lib+=str(cp)
     write('viri/index.html',lib+'</html>')
-    write('podatki/okolje/stanje-obnove.json',json.dumps({'base':'vsebina/obnovljena-osnova-20260924.html','new_sources':len(records),'prior_empty_citations':sum(bool(x['missing_or_empty']) for x in all_ledger),'note':'Ohranjene stare vsebine; prazni izvorni podatki drugih tem niso rekonstruirani.'},ensure_ascii=False,indent=2))
+    write('podatki/okolje/stanje-obnove.json',json.dumps({'base':'vsebina/obnovljena-osnova-20260924.html','new_sources':len(records),'prior_empty_citations':sum(bool(x['missing_or_empty']) for x in all_ledger),'note':'Ohranjene stare vsebine; izpraznjene datoteke obnovljene iz commita 0dc0bd4 (preverjanje/obnova-iz-gita.json).'},ensure_ascii=False,indent=2))
     print('Poročilo zgrajeno;',len(records),'okoljskih virov;',len(all_ledger),'vseh referenc.')
 
 if __name__=='__main__':main()

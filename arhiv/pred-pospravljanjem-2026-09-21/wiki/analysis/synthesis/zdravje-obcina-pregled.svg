@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 1610" width="1180" height="1610" class="viz-root" role="img" aria-label="Zdravje v Občini Črnomelj — poglobljen pregled">
+<title>Zdravje v Občini Črnomelj — poglobljen pregled</title>
+
+<style>
+  .viz-root {
+    --surface: #fcfcfb; --page: #f9f9f7; --ink: #0b0b0b; --ink2: #52514e;
+    --muted: #898781; --grid: #e1e0d9; --critical: #d03b3b; --accent: #2a78d6;
+    --tile-bg: #f4f3f0; --panel-bg: #f4f3f0; --callout-bg: #fbeeee; --callout-border: #d03b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    .viz-root {
+      --surface: #1a1a19; --page: #0d0d0d; --ink: #ffffff; --ink2: #c3c2b7;
+      --muted: #898781; --grid: #2c2c2a; --critical: #e66767; --accent: #3987e5;
+      --tile-bg: #222221; --panel-bg: #1f1f1e; --callout-bg: #2a1d1d; --callout-border: #e66767;
+    }
+  }
+  .page-bg { fill: var(--page); }
+  .h-title { font: 700 26px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink); }
+  .h-subtitle { font: 400 14px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink2); }
+  .h-meta { font: 400 11px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); }
+  .rule { stroke: var(--grid); stroke-width: 1; }
+  .section-title { font: 700 16px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink); }
+  .section-note { font: 400 11.5px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink2); }
+  .tile-bg { fill: var(--tile-bg); }
+  .tile-accent { fill: var(--accent); }
+  .tile-label { font: 600 11px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink2); text-transform: uppercase; letter-spacing: .03em; }
+  .tile-value { font: 700 24px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink); }
+  .tile-sub { font: 400 11px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); }
+  .panel-bg { fill: var(--panel-bg); }
+  .bar-label { font: 600 12px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink); }
+  .bar-value { font: 700 12.5px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink); dominant-baseline: middle; }
+  .bar-value-ref { font: 400 11px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); }
+  .bar-footnote { font: 400 10px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); font-style: italic; }
+  .bar-track { fill: var(--grid); }
+  .ref-tick { stroke: var(--muted); stroke-width: 2; }
+  .grid-v { stroke: var(--grid); stroke-width: 1; }
+  .grid-h { stroke: var(--grid); stroke-width: 1; }
+  .axis-tick { font: 400 10px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); }
+  .trend-cr { stroke: var(--accent); stroke-width: 2.5; fill: none; }
+  .trend-slo { stroke: var(--muted); stroke-width: 2; fill: none; stroke-dasharray: 5 4; }
+  .trend-dot-cr { fill: var(--accent); stroke: var(--panel-bg); stroke-width: 2; }
+  .trend-dot-slo { fill: var(--muted); stroke: var(--panel-bg); stroke-width: 2; }
+  .trend-endlabel-cr { font: 700 12px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink); }
+  .trend-endlabel-slo { font: 400 11px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); }
+  .trend-startlabel-cr { font: 600 11px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink2); }
+  .trend-startlabel-slo { font: 400 10.5px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); }
+  .legend-label { font: 400 11px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink2); }
+  .callout-bg { fill: var(--callout-bg); stroke: var(--callout-border); stroke-width: 1.5; }
+  .callout-title { font: 700 14px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--critical); }
+  .callout-text { font: 400 12px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--ink); }
+  .footer-text { font: 400 10.5px system-ui,-apple-system,"Segoe UI",sans-serif; fill: var(--muted); }
+</style>
+
+<rect class="page-bg" x="0" y="0" width="1180" height="1610"/>
+
+<text class="h-title" x="48" y="54">Zdravje v Občini Črnomelj</text>
+<text class="h-subtitle" x="48" y="78">Poglobljen pregled: zdravstveno stanje prebivalstva (NIJZ) in delovanje Zdravstvenega doma Črnomelj</text>
+<text class="h-meta" x="48" y="100">Viri: NIJZ "Zdravje v občini" (obcine.nijz.si, kazalniki K1–K5, 2016–2026) · Letno poročilo ZD Črnomelj 2025 · Zapisniki Sveta zavoda ZD Črnomelj</text>
+<line class="rule" x1="48" y1="120" x2="1132" y2="120"/>
+
+<rect class="tile-bg" x="48.0" y="138" width="260.5" height="96" rx="10"/>
+<rect x="48.0" y="138" width="4" height="96" rx="2" style="fill:#2a78d6"/>
+<text class="tile-label" x="64.0" y="162">Pokrito prebivalstvo</text>
+<text class="tile-value" x="64.0" y="194">~18.700</text>
+<text class="tile-sub" x="64.0" y="214">Občina Črnomelj + Semič, 487 km², 173 naselij</text>
+
+<rect class="tile-bg" x="322.5" y="138" width="260.5" height="96" rx="10"/>
+<rect x="322.5" y="138" width="4" height="96" rx="2" style="fill:#2a78d6"/>
+<text class="tile-label" x="338.5" y="162">Lokacije</text>
+<text class="tile-value" x="338.5" y="194">3</text>
+<text class="tile-sub" x="338.5" y="214">Črnomelj (sedež) · ZP Semič · ZP Vinica</text>
+
+<rect class="tile-bg" x="597.0" y="138" width="260.5" height="96" rx="10"/>
+<rect x="597.0" y="138" width="4" height="96" rx="2" style="fill:#fab219"/>
+<text class="tile-label" x="613.0" y="162">Zaposleni (konec 2025)</text>
+<text class="tile-value" x="613.0" y="194">145</text>
+<text class="tile-sub" x="613.0" y="214">fluktuacija: −13 / +21 v enem letu</text>
+
+<rect class="tile-bg" x="871.5" y="138" width="260.5" height="96" rx="10"/>
+<rect x="871.5" y="138" width="4" height="96" rx="2" style="fill:#fab219"/>
+<text class="tile-label" x="887.5" y="162">Poslovni izid 2025</text>
+<text class="tile-value" x="887.5" y="194">+296.363 €</text>
+<text class="tile-sub" x="887.5" y="214">odhodki rastejo hitreje od prihodkov (+18,7 % vs +15,8 %)</text>
+<text class="section-title" x="48" y="280">Zdravje prebivalstva: Občina Črnomelj vs. slovensko povprečje</text><text class="section-note" x="48" y="292">NIJZ &quot;Zdravje v občini&quot;, 2026 (razen kjer navedeno drugače). Obarvana črta = Občina Črnomelj, siva pokončna črtica = slovensko povprečje. Zelena =</text><text class="section-note" x="48" y="307">občina je v boljšem položaju; oranžna/rdeča = občina zaostaja.</text><rect class="panel-bg" x="48" y="328" width="1084" height="398" rx="12"/><line class="grid-v" x1="308.0" y1="342" x2="308.0" y2="704"/><text class="axis-tick" x="308.0" y="718" text-anchor="middle">0%</text><line class="grid-v" x1="404.3" y1="342" x2="404.3" y2="704"/><line class="grid-v" x1="500.6" y1="342" x2="500.6" y2="704"/><text class="axis-tick" x="500.6" y="718" text-anchor="middle">20%</text><line class="grid-v" x1="596.9" y1="342" x2="596.9" y2="704"/><line class="grid-v" x1="693.1" y1="342" x2="693.1" y2="704"/><text class="axis-tick" x="693.1" y="718" text-anchor="middle">40%</text><line class="grid-v" x1="789.4" y1="342" x2="789.4" y2="704"/><line class="grid-v" x1="885.7" y1="342" x2="885.7" y2="704"/><text class="axis-tick" x="885.7" y="718" text-anchor="middle">60%</text><line class="grid-v" x1="982.0" y1="342" x2="982.0" y2="704"/><text class="bar-label" x="62" y="357">Zdravila za povišan krvni tlak</text><rect class="bar-track" x="308" y="352" width="674.0" height="14" rx="4"/><rect x="308" y="352" width="244.4" height="14" rx="4" style="fill:#ec835a"/><line class="ref-tick" x1="524.7" y1="348" x2="524.7" y2="370"/><text class="bar-value" x="996" y="364">25.38%<tspan class="bar-value-ref"> (SLO 22.51%)</tspan></text><text class="bar-footnote" x="62" y="384">Razlika ~3 o.t. brez izboljšanja skozi celotno desetletje 2016–2026 (K4.6).</text><text class="bar-label" x="62" y="403">Zdravila za sladkorno bolezen</text><rect class="bar-track" x="308" y="398" width="674.0" height="14" rx="4"/><rect x="308" y="398" width="55.1" height="14" rx="4" style="fill:#fab219"/><line class="ref-tick" x1="360.7" y1="394" x2="360.7" y2="416"/><text class="bar-value" x="996" y="410">5.72%<tspan class="bar-value-ref"> (SLO 5.47%)</tspan></text><text class="bar-label" x="62" y="449">Zdravila za duševne motnje</text><rect class="bar-track" x="308" y="444" width="674.0" height="14" rx="4"/><rect x="308" y="444" width="150.6" height="14" rx="4" style="fill:#fab219"/><line class="ref-tick" x1="447.3" y1="440" x2="447.3" y2="462"/><text class="bar-value" x="996" y="456">15.64%<tspan class="bar-value-ref"> (SLO 14.47%)</tspan></text><text class="bar-label" x="62" y="495">Prekomerna prehranjenost odraslih</text><rect class="bar-track" x="308" y="490" width="674.0" height="14" rx="4"/><rect x="308" y="490" width="593.5" height="14" rx="4" style="fill:#fab219"/><line class="ref-tick" x1="883.6" y1="486" x2="883.6" y2="508"/><text class="bar-value" x="996" y="502">61.64%<tspan class="bar-value-ref"> (SLO 59.78%)</tspan></text><text class="bar-label" x="62" y="541">Kadilci</text><rect class="bar-track" x="308" y="536" width="674.0" height="14" rx="4"/><rect x="308" y="536" width="228.2" height="14" rx="4" style="fill:#fab219"/><line class="ref-tick" x1="531.4" y1="532" x2="531.4" y2="554"/><text class="bar-value" x="996" y="548">23.7%<tspan class="bar-value-ref"> (SLO 23.2%)</tspan></text><text class="bar-footnote" x="62" y="568">Podatek za ČR je iz 2021 (zadnji razpoložljiv) — primerjava ni istoletna.</text><text class="bar-label" x="62" y="587">Uporabniki marihuane</text><rect class="bar-track" x="308" y="582" width="674.0" height="14" rx="4"/><rect x="308" y="582" width="135.2" height="14" rx="4" style="fill:#0ca30c"/><line class="ref-tick" x1="519.4" y1="578" x2="519.4" y2="600"/><text class="bar-value" x="996" y="594">14.04%<tspan class="bar-value-ref"> (SLO 21.96%)</tspan></text><text class="bar-footnote" x="62" y="614">V upadu z 20,4 % (2020) — edini kazalnik z jasnim izboljšanjem skozi čas.</text><text class="bar-label" x="62" y="627">Oviranost pri vsakodnevni skrbi</text><text class="bar-label" x="62" y="640">zase</text><rect class="bar-track" x="308" y="628" width="674.0" height="14" rx="4"/><rect x="308" y="628" width="25.0" height="14" rx="4" style="fill:#0ca30c"/><line class="ref-tick" x1="370.6" y1="624" x2="370.6" y2="646"/><text class="bar-value" x="996" y="640">2.6%<tspan class="bar-value-ref"> (SLO 6.5%)</tspan></text><text class="bar-footnote" x="62" y="660">Najboljši rezultat med vsemi pregledanimi kazalniki (K4.20, 2023).</text><text class="bar-label" x="62" y="673">Odzivnost v programu Svit (rak</text><text class="bar-label" x="62" y="686">debelega črevesa)</text><rect class="bar-track" x="308" y="674" width="674.0" height="14" rx="4"/><rect x="308" y="674" width="655.7" height="14" rx="4" style="fill:#0ca30c"/><line class="ref-tick" x1="932.9" y1="670" x2="932.9" y2="692"/><text class="bar-value" x="996" y="686">68.1%<tspan class="bar-value-ref"> (SLO 64.9%)</tspan></text><rect class="panel-bg" x="48" y="746" width="1084" height="240" rx="12"/><line class="grid-h" x1="178" y1="900.9" x2="992" y2="900.9"/><line class="grid-h" x1="178" y1="869.5" x2="992" y2="869.5"/><line class="grid-h" x1="178" y1="838.2" x2="992" y2="838.2"/><line class="grid-h" x1="178" y1="806.8" x2="992" y2="806.8"/><text class="axis-tick" x="178" y="946" text-anchor="middle">2016</text><text class="axis-tick" x="992" y="946" text-anchor="middle">2026</text><text class="section-note" x="62" y="762">Starostno standardizirana splošna umrljivost, na 100.000 prebivalcev (NIJZ K5.1)</text><line class="trend-slo" x1="178" y1="850.8" x2="992" y2="892.7"/><circle class="trend-dot-slo" cx="178" cy="850.8" r="4"/><circle class="trend-dot-slo" cx="992" cy="892.7" r="4"/><line class="trend-cr" x1="178" y1="812.1" x2="992" y2="869.9"/><circle class="trend-dot-cr" cx="178" cy="812.1" r="4"/><circle class="trend-dot-cr" cx="992" cy="869.9" r="4"/><text class="trend-endlabel-cr" x="1004" y="873.9">Črnomelj: 949.4</text><text class="trend-endlabel-slo" x="1004" y="896.7">Slovenija: 913.1</text><text class="trend-startlabel-cr" x="164" y="806.1" text-anchor="end">Črnomelj: 1041.5</text><text class="trend-startlabel-slo" x="164" y="868.8" text-anchor="end">Slovenija: 979.9</text><line class="trend-cr" x1="62" y1="970" x2="84" y2="970"/><text class="legend-label" x="90" y="974">Občina Črnomelj</text><line class="trend-slo" x1="212" y1="970" x2="234" y2="970"/><text class="legend-label" x="240" y="974">Slovenija (povprečje)</text><text class="section-title" x="48" y="1032">Zdravstveni dom Črnomelj — kadri in financiranje</text><rect class="panel-bg" x="48" y="1044" width="1084" height="130" rx="12"/><text class="section-note" x="62" y="1064">Poslovanje ZD Črnomelj 2025 (EUR)</text><text class="bar-label" x="62" y="1098">Prihodki</text><rect class="bar-track" x="178" y="1084" width="744.0" height="18" rx="4"/><rect x="178" y="1084" width="688.9" height="18" rx="4" style="fill:#1baf7a"/><text class="bar-value" x="932" y="1098">9.753.579 €<tspan class="bar-value-ref"> (+15,8 % vs. 2024)</tspan></text><text class="bar-label" x="62" y="1138">Odhodki</text><rect class="bar-track" x="178" y="1124" width="744.0" height="18" rx="4"/><rect x="178" y="1124" width="668.0" height="18" rx="4" style="fill:#eb6834"/><text class="bar-value" x="932" y="1138">9.457.216 €<tspan class="bar-value-ref"> (+18,7 % vs. 2024)</tspan></text><text class="tile-sub" x="62" y="1160">Poslovni izid (presežek): 296.363 € — za 1,27 % manjši kot leto prej (odhodki rastejo hitreje od prihodkov)</text><rect class="callout-bg" x="48" y="1202" width="1084" height="234" rx="12"/><text class="callout-title" x="66" y="1228">⚠ Odprta tveganja in nerešena vprašanja</text><circle cx="72" cy="1252" r="5" style="fill:var(--critical)"/><text class="callout-text" x="90" y="1256">Direktor Andrej Matkovič je od 2.4.2026 v postopku razrešitve (ne izpolnjuje pogojev izobrazbe) — vzporedno teče</text><text class="callout-text" x="90" y="1272">preiskava policije o sumu nepravilnosti pri imenovanju.</text><circle cx="72" cy="1302" r="5" style="fill:#ec835a"/><text class="callout-text" x="90" y="1306">Zavod sam eksplicitno potrjuje strukturno (ne sezonsko) pomanjkanje zdravnikov: družinska medicina, pediatrija,</text><text class="callout-text" x="90" y="1322">urgentna medicina, zobozdravstvo, psihologija — iskanje tujega kadra postaja vse manj učinkovito.</text><circle cx="72" cy="1352" r="5" style="fill:#ec835a"/><text class="callout-text" x="90" y="1356">Laboratoriji ZP Semič in ZP Vinica so bili poleti 2026 (julij–avgust) popolnoma zaprti — nadomestna ureditev za</text><text class="callout-text" x="90" y="1372">paciente teh enot ni znana.</text><circle cx="72" cy="1402" r="5" style="fill:#fab219"/><text class="callout-text" x="90" y="1406">Odhodki (+18,7 %) so v 2025 rasli hitreje od prihodkov (+15,8 %) drugo leto zapored, kar dolgoročno zožuje finančno</text><text class="callout-text" x="90" y="1422">maržo zavoda.</text><line class="rule" x1="48" y1="1464" x2="1132" y2="1464"/><text class="footer-text" x="48" y="1484">Metodološka opomba: NIJZ kazalniki so vzorec ~12 od 47 razpoložljivih (kategorije: prebivalci/skupnost, dejavniki tveganja, preventiva, zdravstveno</text><text class="footer-text" x="48" y="1500">stanje, umrljivost); &quot;kadilci&quot; primerja leti 2021 (ČR) in neznano (SLO) — obravnavaj previdno. Vsi ostali podatki so iz uradnega, revidiranega</text><text class="footer-text" x="48" y="1516">letnega poročila ZD Črnomelj 2025 in primarnih zapisnikov Sveta zavoda.</text><text class="footer-text" x="48" y="1536">Glej: wiki/topics/social-affairs/zd-crnomelj-pregled.md · wiki/sources/source-summaries/nijz-zdravje-v-obcini.md ·</text><text class="footer-text" x="48" y="1552">wiki/sources/source-summaries/zd-crnomelj-letno-porocilo-2025.md</text><text class="footer-text" x="48" y="1570">Zadnja posodobitev: 2026-07-16</text>
+</svg>

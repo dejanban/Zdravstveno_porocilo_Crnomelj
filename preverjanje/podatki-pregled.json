@@ -1,0 +1,60 @@
+{
+  "datum": "2026-09-23T07:37:18.225451+00:00",
+  "obseg": "Lokalna tehnična preverba, brez nove vsebinske ali spletne verifikacije; brez preračuna formul in vizualne preverbe.",
+  "stevci": {
+    "datoteke": 2555,
+    "json": 28,
+    "csv": 10,
+    "pdf": 20,
+    "xlsx": 57,
+    "svg": 6,
+    "gpx": 43,
+    "sha256_ujemanja": 1290,
+    "manifest": 1291,
+    "bibliografske_poti": 166,
+    "objave_registra": 1068,
+    "kazalniki_nijz": 54,
+    "poti": 43,
+    "aed_izvirnik": 67,
+    "aed_json": 67,
+    "html": 1182,
+    "lokalne_povezave": 6640,
+    "wiki_povezave": 326
+  },
+  "napake": [
+    {
+      "pot": "viri/AEDs.xlsx",
+      "opis": "SHA-256: pričakovano ecd38b7664c3d1df24c762b6341d2414b29b4ebc7b04524bf5a4c30fa923d7db; dejansko 279aa3fbd0f39bf106e6227415ee2e432f457a32e3c9599904fae026e9a3a150"
+    },
+    {
+      "pot": "podatki\\kader\\kader-sport-viri.json",
+      "opis": "Manjkajoča lokalna kopija: viri/splet/kader-sport-20260921-manualna.md"
+    },
+    {
+      "pot": "podatki\\kader\\kader-sport-viri.json",
+      "opis": "Manjkajoča lokalna kopija: viri/splet/kader-sport-20260921-ninjatrenerji.md"
+    },
+    {
+      "pot": "viri/AEDs.xlsx",
+      "opis": "Koordinate, imena ali naslovi izvirnika se ne ujemajo z aed.json."
+    },
+    {
+      "pot": "podatki/aed/aed.csv",
+      "opis": "Glava CSV ne ustreza generatorju: ['lon', 'lat', 'v_obcini_crnomelj']"
+    },
+    {
+      "pot": "podatki/aed/aed.csv",
+      "opis": "Neveljavne koordinate v vrsticah: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]"
+    }
+  ],
+  "opozorila": [
+    {
+      "pot": "viri/splet/zdravstvo-20260919-novice-ne-pozabite-prepoved-gibanja-med-deveto-uro-zvecer-in-sesto-uro-zjutraj-6edc1f616.md",
+      "opis": "Prazna datoteka."
+    },
+    {
+      "pot": "wiki\\entities\\associations\\zdravstvena-podporna-mreza.md",
+      "opis": "Nerazrešena wikipovezava: pregled-drustev"
+    }
+  ]
+}

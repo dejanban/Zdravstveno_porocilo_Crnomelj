@@ -1,0 +1,10 @@
+{
+  "datum": "2026-09-25",
+  "osnova": "vsebina/obnovljena-osnova-20260924.html",
+  "obseg": [
+    "AED podatki iz vgrajenega JSON",
+    "poti in kraji iz vgrajenega JSON",
+    "vrednosti ohranjenih grafov NIJZ"
+  ],
+  "omejitev": "Obnova prikaza ni ponovna preverba primarnih virov. Izvirni GPX, Exceli NIJZ ter izvirna podatkovna izvoza AED in poti (s celotno geometrijo) so bili 25. 9. 2026 obnovljeni iz commita 0dc0bd4: viri/gpx, viri/nijz, arhiv/izvirnik-0dc0bd4/podatki."
+}

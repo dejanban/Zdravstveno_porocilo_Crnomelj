@@ -11,6 +11,9 @@ __pycache__/
 .coverage
 htmlcov/
 /.tmp/
+
+# Lokalne odvisnosti gradnje (Playwright, BeautifulSoup, PyMuPDF …, ~200 MB).
+# Namestitev: python -m pip install --target tmp/okolje-runtime -r requirements.txt
 /tmp/
 
 # Lokalne skrivnosti (vzorci nastavitev ostanejo vključeni)
@@ -19,13 +22,20 @@ htmlcov/
 !.env.example
 !.env.sample
 
-# Začasne datoteke operacijskega sistema in urejevalnikov
+# Lokalne nastavitve urejevalnikov in orodij
+.vscode/
+.idea/
+.claude/settings.local.json
+
+# Začasne datoteke operacijskega sistema, urejevalnikov in pisarniških programov
 .DS_Store
 Thumbs.db
 desktop.ini
 ~$*
 *.swp
 *.swo
+*.tmp
+*.log
 
 # Viri, podatki, wiki, arhiv, preverjanje in zgrajena poročila
 # namenoma ostanejo vključeni zaradi sledljivosti in rabe brez omrežja.

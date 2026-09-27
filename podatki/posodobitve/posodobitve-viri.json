@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "zd-upravljanje",
+    "id": "upd-zd-upravljanje",
+    "title": "Upravljanje in vodenje",
+    "publisher": "Zdravstveni dom Črnomelj",
+    "date": "b.d.",
+    "url": "https://zd-crnomelj.si/upravljanje-in-vodenje/",
+    "local": "viri/splet/posodobitve-20260925-zd-upravljanje.md",
+    "path": "viri/posodobitve-2026-09-25/zd-upravljanje.html",
+    "reliability": "visoka (uradna stran zavoda; stanje na dan zajema)"
+  },
+  {
+    "slug": "zd-odsotnost",
+    "id": "upd-zd-odsotnost",
+    "title": "Odsotnost zdravnikov",
+    "publisher": "Zdravstveni dom Črnomelj",
+    "date": "b.d. (tekoče posodabljana; zajem 25. 9. 2026)",
+    "url": "https://zd-crnomelj.si/odsotnost-zdravnikov/",
+    "local": "viri/splet/posodobitve-20260925-zd-odsotnost.md",
+    "path": "viri/posodobitve-2026-09-25/zd-odsotnost.html",
+    "reliability": "visoka za objavljeni razpored; ne pove števila neopredeljenih oseb ali čakalnih dob"
+  },
+  {
+    "slug": "svet24-matkovic",
+    "id": "upd-svet24-matkovic",
+    "title": "Direktor Zdravstvenega doma Črnomelj Andrej Matkovič odhaja. Zakaj?",
+    "publisher": "Svet24 (M. Glavonjić)",
+    "date": "23. april 2026",
+    "url": "https://svet24.si/lokalno/dolenjska/novice/direktor-zdravstveni-dom-crnomelj-andrej-matkovic-razresitev-1894643",
+    "local": "viri/splet/posodobitve-20260925-svet24-matkovic.md",
+    "path": "viri/posodobitve-2026-09-25/svet24-matkovic.html",
+    "reliability": "nizka do srednja (medij; sekundarni vir)"
+  },
+  {
+    "slug": "mojadolenjska-direktor",
+    "id": "upd-mojadolenjska-direktor",
+    "title": "Neuradno: Novi direktor Zdravstvenega doma Črnomelj iz Medvod",
+    "publisher": "Moja Dolenjska (A. L.)",
+    "date": "23. september 2026",
+    "url": "https://moja-dolenjska.si/neuradno-novi-direktor-zdravstvenega-doma-crnomelj-iz-medvod/",
+    "local": "viri/splet/posodobitve-20260925-mojadolenjska-direktor.md",
+    "path": "viri/posodobitve-2026-09-25/mojadolenjska-direktor.html",
+    "reliability": "nizka (medij, »neuradno«, po lastnih virih; ni uradne objave ZD ali občine)"
+  }
+]
