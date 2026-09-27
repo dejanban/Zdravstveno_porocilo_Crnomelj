@@ -2835,7 +2835,7 @@ Standardisation
 Program 
 (NGSP), 
 prilagojeno 
-umeritveni metodi, uporabljeni v raziskavi DCCT {%} in 
+umeritveni metodi, uporabljeni v raziskavi DCCT {% raw %}{%}{% endraw %} in
 v enotah International Federation of Clinical Chemistry 
 (IFCC) {mmol HbA1c/mol ne-glikiranega hemoglobina}. 
 (E, I)
