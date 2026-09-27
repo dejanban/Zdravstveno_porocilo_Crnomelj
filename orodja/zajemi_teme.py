@@ -23,9 +23,16 @@ def besedilo(path):
         s = BeautifulSoup(path.read_text(encoding='utf-8', errors='replace'), 'html.parser')
         for t in s(['script', 'style', 'nav', 'header', 'footer', 'noscript', 'form', 'aside']):
             t.decompose()
+        for t in s.select('#cookie-law-info-bar, #cookie-law-info-again, .cli-modal'):  # obvestilo o piškotkih (WordPress)
+            t.decompose()
         main = s.find('article') or s.find('main') or s.body
         txt = re.sub(r'\n\s*\n+', '\n\n', main.get_text('\n', strip=True))
         if len(txt) < 300 and s.body:  # stran se izrisuje z JavaScriptom: vzemi celotno telo
+            txt = re.sub(r'\n\s*\n+', '\n\n', s.body.get_text('\n', strip=True))
+        if len(txt) < 300:  # vsebina je samo v meniju (npr. seznam delavnic CKZ): telo z menijem
+            s = BeautifulSoup(path.read_text(encoding='utf-8', errors='replace'), 'html.parser')
+            for t in s(['script', 'style', 'noscript']) + s.select('#cookie-law-info-bar, #cookie-law-info-again, .cli-modal'):
+                t.decompose()
             txt = re.sub(r'\n\s*\n+', '\n\n', s.body.get_text('\n', strip=True))
         return txt
     if ext == '.xlsx':

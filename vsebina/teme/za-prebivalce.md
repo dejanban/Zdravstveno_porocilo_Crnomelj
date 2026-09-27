@@ -32,6 +32,7 @@ To poročilo je dolgo, ker mora vsako trditev podpreti z viri. Tukaj je bistvo v
 | Kaj | Zakaj |
 |---|---|
 | Če ste stari 30 let ali več, se vsakih pet let naročite na preventivni pregled pri svojem zdravniku. | Zgodaj odkrit povišan krvni tlak, sladkorno bolezen ali depresijo je lažje zdraviti. [Več](#referencne-ambulante) |
+| Poglejte, kateri pregledi veljajo za vašo starost, in si pravilno izmerite krvni tlak doma. | Zvišan tlak in sladkorna bolezen dolgo ne bolita. [Vodnik po samopregledih](#samopregled-vodnik) |
 | Odzovite se vabilom na presejanje (Svit, Zora, Dora). | Presejanje odkrije raka, preden se pojavijo težave. [Več](#presejanje) |
 | Uredite si zVEM ali pooblastilo za svojca. Če ne znate, prosite za pomoč. | Lažje pridete do izvidov, receptov in terminov. [Več](#digitalno-zdravje) |
 | Naučite se oživljanja in poiščite najbližji AED. | Prve minute pri srčnem zastoju odločajo. [Več](#aed) |
@@ -48,4 +49,4 @@ Kam po pomoč.
 
 ## Zadnja posodobitev
 
-26. september 2026.
+27. september 2026.

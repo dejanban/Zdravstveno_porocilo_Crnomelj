@@ -2,7 +2,7 @@
 
 Glavni zemljevid wikija. Vsebuje vse strani, kratke povzetke in kategorije. Posodobi po vsakem vnosu vira (ingest), poizvedbi (query) ali večji spremembi. Konvencije: [AGENTS.md](../AGENTS.md).
 
-Zadnja posodobitev: 2026-09-25 — obnovljene izpraznjene strani in viri (commit 0dc0bd4); dodane teme okolje, spanje ter posnetek vodenja ZD. Poročilo ima enajst povezanih zavihkov.
+Zadnja posodobitev: 2026-09-27 — dodan zavihek »Samopregledi in presejanje« (13 zavihkov). Prej 2026-09-25 — obnovljene izpraznjene strani in viri (commit 0dc0bd4); dodane teme okolje, spanje ter posnetek vodenja ZD. Poročilo ima enajst povezanih zavihkov.
 
 ## Za hiter pregled
 
@@ -40,6 +40,7 @@ Zadnja posodobitev: 2026-09-25 — obnovljene izpraznjene strani in viri (commit
 | [[topics/social-affairs/demenca\|Demenca in demenci prijazna občina]] | Strategija 2030, NIJZ 2026, okvirno 290–380 oseb v občini, ni lokalne DPT; 2,43/5. |
 | [[topics/social-affairs/digitalno-zdravje\|Digitalno zdravje: eNaročanje, zVEM, e-posvet]] | eZdravje, uvajanje zVEM v ZD 9/2026, digitalna vključenost starejših (SURS 2025), digitočke; 2,86/5. |
 | [[topics/social-affairs/debelost-otroci\|Debelost in gibanje otrok]] | NIJZ 2016–2026, SLOfit 2025, Cochrane; 28,3 % proti 24,2 %; 3,14 → ❌. |
+| [[topics/social-affairs/samopregled-ukrepi\|Samopregledi in presejanje v Črnomlju]] | Nov zavihek poročila (27. 9. 2026): merjenje tlaka doma (ESH), FINDRISK in obseg pasu (NIJZ), dojke, moda in koža z dokazi (Cochrane, USPSTF), Svit, Zora (HPV od 2027), Dora, PRO-PETER, LUKA, GROM; vrzeli in ukrepi; 3,29 ⚠️. Javna poglavja: `vsebina/teme/samopregled-*.md`. |
 | [[topics/social-affairs/referencne-ambulante\|Referenčne ambulante]] | Rezultati 1.366 preventivnih pregledov ZD 2025, pokritost, Cochrane o splošnih pregledih; 3,29 ⚠️. |
 | [[topics/social-affairs/zdravje-obcina-nijz-trendi\|Zdravje v občini Črnomelj — pravilna razlaga trendov NIJZ]] | Prehranjenost otrok se je med izdajama 2016 in 2026 izboljšala, vendar ostaja nad slovenskim povprečjem. DORA in Svit sta ugodna. Pri razlagi umrljivosti je nujno upoštevati metodološki prelom. |
 

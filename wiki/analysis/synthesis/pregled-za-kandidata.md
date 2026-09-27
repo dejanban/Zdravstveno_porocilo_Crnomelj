@@ -74,12 +74,15 @@ Ocene so uredniška presoja sedmih enako uteženih meril, ne klinične učinkovi
 | ⚠️ Digitalno zdravje, 2,86/5 | E-naročanje in e-komunikacija delujeta, zVEM se uvaja v vseh ambulantah do konca 2026, telefon ostaja. | 56 % ljudi, starih 75–89 let, ni nikoli uporabilo interneta; v Črnomlju ni digitočke; ni podatkov o lokalni uporabi. | zVEM digitočka v Črnomlju, Vinici in Semiču; tečaji za starejše in pomoč pri pooblastilih. [[../../topics/social-affairs/digitalno-zdravje]] |
 | ❌ Debelost in gibanje otrok, 3,14/5 (prehod na ❌) | Kakovostno spremljanje SLOfit (~96 % šolarjev); CKZ ima družinsko obravnavo. | 28,3 % prekomerno prehranjenih (SLO 24,2 %, značilno slabše), nad povprečjem v vseh izdajah 2016–2026; lokalni programi niso ovrednoteni. | Gibalni odmori v 1. in 2. triletju, prehransko okolje v šolah, sofinanciran šport za otroke iz družin z nižjimi dohodki. [[../../topics/social-affairs/debelost-otroci]] |
 | ⚠️ Referenčne ambulante, 3,29/5 | 1.366 pregledov v 2025, odziv 83 %; odkritih 236 primerov hipertenzije, 165 depresije, 144 sladkorne bolezni. | Ni podatkov o zdravljenju po odkritju; obseg verjetno ne zadošča za petletni cikel; Cochrane: splošni pregledi sami ne zmanjšajo umrljivosti. | V letnem poročilu ZD objaviti izide po pregledu; jasna pot za odrasle z depresijo. [[../../topics/social-affairs/referencne-ambulante]] |
+| ⚠️ Samopregledi in presejanje, 3,29/5 | Odziv na Svit (68,14 %) in Doro (82,08 %) nad slovenskim povprečjem; CKZ ima delavnice o tlaku, sladkorju in opuščanju kajenja. | Lokalnega vodnika za samopreglede ni; meritve v lekarni niso navedene; Dora v Novem mestu (napovedana mobilna enota za Belo krajino ni navedena); ni podatkov o izidih po odkritju. | Lokalni vodnik ZD/CKZ, dnevi meritev tlaka in FINDRISK po KS, obveščanje o spremembah Zore 2027. [[../../topics/social-affairs/samopregled-ukrepi]] |
 
 Pri prometu srednja ocena bi dala ⚠️, a potrjeno in statistično značilno slabši kazalnik brez dokumentiranega lokalnega odziva ga spusti na ❌. Ocene so uredniška presoja dokumentiranosti in dostopa, ne kakovosti dela posameznih služb.
 
 ---
 
 ## Zadnja posodobitev
+
+2026-09-27 — dodan zavihek »Samopregledi in presejanje« (krvni tlak doma, FINDRISK in obseg pasu, dojke, moda in koža, presejalni programi in novosti Zore 2027, nujni znaki); ocena 3,29 ⚠️. Druge ocene nespremenjene.
 
 2026-09-26 — dodane teme demenca, digitalno zdravje, debelost otrok, referenčne ambulante; povzetek za prebivalce in imenik »Kam po pomoč«; zemljevid dostopnosti, trim steza in Srčna pot.
 

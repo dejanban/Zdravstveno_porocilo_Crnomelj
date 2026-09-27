@@ -41,3 +41,6 @@ th{background:#e7edf1;color:#233e56}tbody tr:hover{background:#f8f1e7}.table-scr
 
 /* Povzetek za prebivalce: povezave v zadnjem stolpcu se ne lomijo sredi besede. */
 #za-prebivalce td:last-child{min-width:9em;overflow-wrap:normal;word-break:normal;hyphens:none}
+/* Samopregledi: filter po starosti in izračun FINDRISK (27. 9. 2026). */
+.samopregled-filter{display:flex;gap:12px;flex-wrap:wrap;align-items:flex-end;margin:18px 0 6px}.samopregled-filter[hidden],.findrisk-calc[hidden]{display:none}.samopregled-filter label,.findrisk-grid label{display:grid;gap:5px;font-size:13px}.samopregled-filter input,.samopregled-filter select,.findrisk-grid select{padding:8px;border:1px solid #acb7bd;border-radius:5px;max-width:100%;background:#fff;font:inherit}.samopregled-filter input{width:8em}.samopregled-filter button{padding:8px 12px;border:1px solid #34688d;border-radius:5px;background:#fff;color:#19334b;cursor:pointer}
+.findrisk-calc{border:1px solid #c9d3d9;border-radius:8px;padding:14px 16px;margin:16px 0;background:#f4f7f9}.findrisk-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}.findrisk-grid select{width:100%}.findrisk-result{font-weight:600;margin:12px 0 0}

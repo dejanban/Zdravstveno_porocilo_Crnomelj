@@ -2208,7 +2208,7 @@
     },
     {
       "path": "viri/splet/teme-20260925-ckz-trim-steza.md",
-      "sha256": "6d42dcf0fdf2847a276c040154977d65afbfc261f8366ede60bd867811616d0a"
+      "sha256": "1c4961095530cd64d1f3570de640c5dc8003dbd4134ab51d3cf90061141e4c7b"
     },
     {
       "path": "viri/poti-2026-09-26/ckz-trim-steza.html",
@@ -2469,6 +2469,254 @@
     {
       "path": "viri/teme-2026-09-26/zd-kontakti.txt",
       "sha256": "c4391233f1b76611f9dbf982f37f09889a4f796805a5d788c6ddfd134b87e62f"
+    },
+    {
+      "path": "viri/splet/teme-20260925-hipertenzija-merjenje-doma.md",
+      "sha256": "8222b7f005afa52cc4c2cc63cab65c3c257180deaf1e012dc54f894e7f4f3f75"
+    },
+    {
+      "path": "viri/teme-2026-09-27/hipertenzija-merjenje-doma.html",
+      "sha256": "99311a2c32a478fee12d1979411b5bfdcb2e457f1a484005601b206b5becab56"
+    },
+    {
+      "path": "viri/splet/teme-20260925-esh-merjenje-doma-2021.md",
+      "sha256": "3c4c7d3fbbf30924ffec4f03e4897ef02753e54315dd97694d5e2578c37b5416"
+    },
+    {
+      "path": "viri/teme-2026-09-27/esh-merjenje-doma-2021.html",
+      "sha256": "1226eb67e9e86d178e651ebe5dec90217638a880c63c7e500a2727034dc86a42"
+    },
+    {
+      "path": "viri/splet/teme-20260925-esh-brez-manzete-2022.md",
+      "sha256": "f80c255aa9937aeea1d0045bf2bd8052f161e95807f43a8d23dfc6e40a8cbb7c"
+    },
+    {
+      "path": "viri/teme-2026-09-27/esh-brez-manzete-2022.json",
+      "sha256": "90e1b625254788544ff78cae67bdb7437049ec1c2e0b512bc94e8c6201dcaa8d"
+    },
+    {
+      "path": "viri/splet/teme-20260925-who-hipertenzija-2025.md",
+      "sha256": "1a8d69605f769286940fd3264c0686ae39bf20e488dbab9566f13061970c298a"
+    },
+    {
+      "path": "viri/teme-2026-09-27/who-hipertenzija-2025.html",
+      "sha256": "2779af89d3929cb2beeb8a0a6d70c01288049b777ada43a3de8568fab12cc6a2"
+    },
+    {
+      "path": "viri/splet/teme-20260925-nijz-findrisk-2026.md",
+      "sha256": "6755769fcc8ffad33cb757ef42d52a16daa9909f0b5caf8bbe63c1126a9a5f55"
+    },
+    {
+      "path": "viri/teme-2026-09-27/nijz-findrisk-2026.html",
+      "sha256": "4441aba9efcb958b73008c2c8a1acbd2027b910a8d47b3e9424131ca9b63ac51"
+    },
+    {
+      "path": "viri/splet/teme-20260925-nijz-findrisk-vprasalnik.md",
+      "sha256": "f0ab0463486a6a38ea10a74978f805a86d7f6aa0c8cf4a22995fae112b1b418d"
+    },
+    {
+      "path": "viri/teme-2026-09-27/nijz-findrisk.pdf",
+      "sha256": "f35bb1604a42ef07ad943e3f7e752f2e73d3d0047b5a833ec99340034f75f6df"
+    },
+    {
+      "path": "viri/splet/teme-20260925-smernice-sb2-2022.md",
+      "sha256": "af2a7f0a73981e13bd5fbf5d604a21b481cae50ccd9dfe4b4c01a0ce267ec287"
+    },
+    {
+      "path": "viri/teme-2026-09-27/smernice-sb2-2022.pdf",
+      "sha256": "bfceb38f3199db07135728f41fdcc664970a7aa6dc6dd9b867911c01f214bd71"
+    },
+    {
+      "path": "viri/splet/teme-20260925-nijz-obseg-pasu.md",
+      "sha256": "f73731538088ae9d38dcd6812526285bc761c064ec36fd925ccc2cbc90e1f1f0"
+    },
+    {
+      "path": "viri/teme-2026-09-27/nijz-obseg-pasu.pdf",
+      "sha256": "116afb23664f452911b4a86784358da76c829a3d1af6cdb29d372fff7ea65640"
+    },
+    {
+      "path": "viri/splet/teme-20260925-dora-vprasanja.md",
+      "sha256": "4e3f37edd08ebe1fbf31877319a3ac52d0faad13a6339adc1f0456fece9da230"
+    },
+    {
+      "path": "viri/teme-2026-09-27/dora-vprasanja.html",
+      "sha256": "aa57b6a43564b05278b02fbac45fe630057fbba7b86c5ec7f95dcfcd371751d7"
+    },
+    {
+      "path": "viri/splet/teme-20260925-dora-oe-novo-mesto.md",
+      "sha256": "db1800e9afe76281829d8d6b756b4ba01746207a3a6d894ab7dd490693368f9c"
+    },
+    {
+      "path": "viri/teme-2026-09-27/dora-oe-novo-mesto.html",
+      "sha256": "bfebef194b7db40d766f0a599fb52cd10e4d8038594d7655dacd18c453b40437"
+    },
+    {
+      "path": "viri/splet/teme-20260925-dora-raziskava-45-74.md",
+      "sha256": "3b7efec097ed237c09408d263ab6cf70a09bad11746cd183492903429c6e99e8"
+    },
+    {
+      "path": "viri/teme-2026-09-27/dora-raziskava-45-74.html",
+      "sha256": "1f5d15ee7d4af7ffedf71c2c2a042b15d27127ed7f93f935af3510ebcd12b53e"
+    },
+    {
+      "path": "viri/splet/teme-20260925-cochrane-samopregled-dojk.md",
+      "sha256": "6d45ad156ab7c76b2eb292044987822d3e5480b3dcc6d60841c8f685c0672ed4"
+    },
+    {
+      "path": "viri/teme-2026-09-27/cochrane-samopregled-dojk.html",
+      "sha256": "f43ad251a04de2913a9f2cf7b5aa104b37618d79e3c5bb6dfec70059d11bf2e3"
+    },
+    {
+      "path": "viri/splet/teme-20260925-dobs-samopregled-mod.md",
+      "sha256": "22a46a10c652b3ee1cbd5e372798ba92c5bec160444ea1fbf9b81437dea89817"
+    },
+    {
+      "path": "viri/teme-2026-09-27/dobs-samopregled-mod.pdf",
+      "sha256": "be2df8cdfc37d87f8a829c1e922b701b7cde9ea017d3a806f6f7bcbe92107fbd"
+    },
+    {
+      "path": "viri/splet/teme-20260925-oi-rak-mod.md",
+      "sha256": "c2545d31ac1fabeb3d0e96de26d9520873a9b0ec229e374b75dea082241c5c72"
+    },
+    {
+      "path": "viri/teme-2026-09-27/oi-rak-mod.html",
+      "sha256": "bf43095cd33dbbe70151059b96dda5348532fce1fd87f2306ceefb55b6b3cee9"
+    },
+    {
+      "path": "viri/splet/teme-20260925-uspstf-moda-2011.md",
+      "sha256": "3008d9682eeeac659cb78adce25c5ef10f47abee04f9b168452dcce81ef17c90"
+    },
+    {
+      "path": "viri/teme-2026-09-27/uspstf-moda-2011.html",
+      "sha256": "087c0553c39000bd581905007e25c1dd8f98aa9c6d5ab6d760b99b6e410418fe"
+    },
+    {
+      "path": "viri/splet/teme-20260925-dobs-melanom.md",
+      "sha256": "219e982eb2bebed07b95422725e7dd03661b459c0ce9435e6357d63a950ee955"
+    },
+    {
+      "path": "viri/teme-2026-09-27/dobs-melanom.html",
+      "sha256": "bfe153f265ef70cd3410d7e6bb81b4249a61659dbb4e67174daa1f0d2a9f91ee"
+    },
+    {
+      "path": "viri/splet/teme-20260925-uspstf-koza-2023.md",
+      "sha256": "8fd76ba2d2ddf85985d7f749017ded2133d42641706438b9c1e09d9b44757026"
+    },
+    {
+      "path": "viri/teme-2026-09-27/uspstf-koza-2023.html",
+      "sha256": "9ad56e2a9477fbba4ef059e52c5e5c1ff2dfb382238169283acb38a1e33b20ef"
+    },
+    {
+      "path": "viri/splet/teme-20260925-zora-nadgradnja-2026.md",
+      "sha256": "e2a897330f3bbe81d99721ccef42d716fdd82958310a4bf6230c616191ea7e96"
+    },
+    {
+      "path": "viri/teme-2026-09-27/zora-nadgradnja-2026.html",
+      "sha256": "4acb6fc495ae063c6f57c4567e1d8a9bc3312838f31c72fd36eafabd28777bc4"
+    },
+    {
+      "path": "viri/splet/teme-20260925-nijz-svit.md",
+      "sha256": "4e34b9065e73de90907c797e01f6d0c2ccd54783bbed6f069ffa50d634d4aab7"
+    },
+    {
+      "path": "viri/teme-2026-09-27/nijz-svit.html",
+      "sha256": "c300aa3623ce05d2fa5bce776d9949f1dc71579c6c3077488feda246ca24cc1b"
+    },
+    {
+      "path": "viri/splet/teme-20260925-oi-presejanje.md",
+      "sha256": "37769833a795f7bc9fc364b8ca860e772c9302b3052f7bff5886985bd6f69854"
+    },
+    {
+      "path": "viri/teme-2026-09-27/oi-presejanje.html",
+      "sha256": "c64c61d5986780b6d8bd5e36c699a33b415bc497789d7d584d687b277de937ad"
+    },
+    {
+      "path": "viri/splet/teme-20260925-oi-pro-peter.md",
+      "sha256": "6aa7964c171e77851225bc5c63bea2a8ab11402ae2c5b01e59d0b9b45a87818e"
+    },
+    {
+      "path": "viri/teme-2026-09-27/oi-pro-peter.html",
+      "sha256": "ed88df79e70377796a50865f253c3afdf6453ef4f358e73ffb46483bfdfb69a4"
+    },
+    {
+      "path": "viri/splet/teme-20260925-ecac5-presejanje-2026.md",
+      "sha256": "f26ac598d41a7dac0bab1b6d8e69c63ca0ad9d6a23e89cee7da3e74e91f5a454"
+    },
+    {
+      "path": "viri/teme-2026-09-27/ecac5-presejanje-2026.html",
+      "sha256": "b6398217b6e85773d62ab38ef94dfdc83d7f440487e0de25cfc09f20be5bd66c"
+    },
+    {
+      "path": "viri/splet/teme-20260925-grom.md",
+      "sha256": "416e3dfb5f25ad7a419aaf822f7a3696eea4db644ee304c9ba9fa9986448aa7f"
+    },
+    {
+      "path": "viri/teme-2026-09-27/grom.html",
+      "sha256": "d90c8431efa1ca657ebb1f908623a57771ec73ea361536c36dd43baca8d5ce59"
+    },
+    {
+      "path": "viri/splet/teme-20260925-noc-srcni-infarkt.md",
+      "sha256": "1a13245bf4a979854c459916518bf16ddd5997fb760102e04a1e11300f0c5f12"
+    },
+    {
+      "path": "viri/teme-2026-09-27/noc-srcni-infarkt.pdf",
+      "sha256": "83b3638f76c87a0bd990e4fba6d4a3562a9764f442b9f7baa03bb51c2c8f7d1c"
+    },
+    {
+      "path": "viri/splet/teme-20260925-zasrce-af.md",
+      "sha256": "a0e990c3c2f06a8374c6d8fe97f2c6bb1c707ead2f97d4cdf51d32d2e118cd7c"
+    },
+    {
+      "path": "viri/teme-2026-09-27/zasrce-af.html",
+      "sha256": "b0a30b92ff8d6c4cd0375e8f4735359f0ff2dea0a6d0cc799c172259c9270941"
+    },
+    {
+      "path": "viri/splet/teme-20260925-lekarna-crnomelj.md",
+      "sha256": "95907502b81bd83b63a037d2a48f858d37725ec4737d100c9597f41cdcaa1269"
+    },
+    {
+      "path": "viri/teme-2026-09-27/lekarna-crnomelj.html",
+      "sha256": "d4f0e6ab2fe86d4859eadfed4f64b4a188c30312bb37aee4e739b8947955cdcf"
+    },
+    {
+      "path": "viri/splet/teme-20260925-oi-sola-pljucnega-raka-2025.md",
+      "sha256": "c77308b9ad9dbc97de3d917ab07102d1cf405968d6bff2d99365a24e734c0208"
+    },
+    {
+      "path": "viri/teme-2026-09-27/oi-sola-pljucnega-raka-2025.pdf",
+      "sha256": "72d2103f4e02c1782ce56521f250fff98805289fb3223253733e965b8a1f6493"
+    },
+    {
+      "path": "viri/splet/teme-20260925-oi-priporocila-rak-dojk-2021.md",
+      "sha256": "6dae097a98105029facd2ec34f67cd0f8d187fff9b0fece0b14c9a40c6b70dfe"
+    },
+    {
+      "path": "viri/teme-2026-09-27/oi-priporocila-rak-dojk-2021.pdf",
+      "sha256": "7dab476141de460f18fc42624996df48e90989612002aa5b119542ce53850644"
+    },
+    {
+      "path": "viri/splet/teme-20260925-ckz-delavnice-odrasli.md",
+      "sha256": "953c49e51a32e668149fc3444655947c4ca5eb0e905b8238183446048645939f"
+    },
+    {
+      "path": "viri/teme-2026-09-27/ckz-delavnice-odrasli.html",
+      "sha256": "d135548599c09ae35653d3fd13c312e7bf87e667d1a5524a939a3995fc7037de"
+    },
+    {
+      "path": "viri/splet/teme-20260925-dora-novo-mesto-2016.md",
+      "sha256": "f4cb7dcfb2ce1e086f951ca9c78218b30b8c4157e72d8bd32667fd51e00f38af"
+    },
+    {
+      "path": "viri/teme-2026-09-27/dora-novo-mesto-2016.html",
+      "sha256": "bc8749be3695a403717272269c26c569be53cb1504f43220ac80f4f7916af649"
+    },
+    {
+      "path": "viri/splet/teme-20260925-europadonna-samopregled.md",
+      "sha256": "fc207a6791ea4fa11bd3dc4ab9d4cb084dc90a3cf48c87dbb57a275d194950a3"
+    },
+    {
+      "path": "viri/teme-2026-09-27/europadonna-samopregled.html",
+      "sha256": "f9a713346454bec3b5c882f14de920619ac316cbd975d49a4402afc45a670bda"
     }
   ],
   "novi_viri_spanje": "2026-09-25",
